@@ -1,16 +1,16 @@
 ---
-title: Journey Optimizer Tutorials - 개요
-description: 문서 개요입니다.
+title: Journey Optimizer 비디오 및 Tutorials
+description: 이 사용 안내서에는 Journey Optimizer Adobe의 기능 및 기능에 대한 비디오 및 자습서가 포함되어 있습니다.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: ebef937be65cfd99deea15f91534627a05e7a61e
+source-git-commit: 379f3781e8d594fe7be4d9fdfabd4bcbe5a132a9
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 36%
+source-wordcount: '77'
+ht-degree: 31%
 
 ---
 
 
-# Journey Optimizer Tutorials - 개요
+# Journey Optimizer 비디오 및 Tutorials
 
 ![](./assets/ajo-banner.png)
 
