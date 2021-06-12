@@ -1,17 +1,17 @@
 ---
-title: '[AJO] 개인화로 오퍼 추가'
+title: 오퍼를 개인화로 추가
 description: Journey Optimizer의 메시지에 offer decisioning 구성 요소를 추가하는 방법을 알아봅니다.
-KT: 8033
+kt: 8033
 thumbnail: 334086.jpg
 feature: 개인화
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 155488b1969cdd7ecea090daf77bac63a62de893
+source-git-commit: b2088add97c592d1d9d1f360217370630214cbfa
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 22%
+source-wordcount: '60'
+ht-degree: 23%
 
 ---
 
