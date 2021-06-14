@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: bad49acacba7c110fceecc4d21b8d2b2d2c9befd
+source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 23%
+source-wordcount: '71'
+ht-degree: 19%
 
 ---
 
@@ -26,3 +26,4 @@ Journey Optimizer의 메시지에 offer decisioning 구성 요소를 추가하�
 
 * [Offer Decisioning 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ko)
 * [의사 결정 관리 정보(설명서)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+* [개인화된 오퍼 추가(설명서)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
