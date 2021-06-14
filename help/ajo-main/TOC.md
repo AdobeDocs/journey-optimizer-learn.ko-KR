@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 학습 Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 Tutorials입니다.
-source-git-commit: 4089dacbf87aa7eca7900ecf50ec2389e8338fe2
+source-git-commit: 9a61f655d7cdf4f85a5368e20000a6c0ba7ed16a
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 15%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 15%
 + [개요](/help/overview.md)
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
 + 시작 {#get-started}
-   + 액세스 제어 {#access-set-up}
-      + [액세스 관리](/help/set-up-access/access-management.md)
+   + [액세스 관리](/help/set-up-access/access-management.md)
    + 데이터 소스 구성 {#data-source-configuration}
    + 채널 구성 {#channel-configuration}
    + 리소스 설정 {#resource-set-up}
