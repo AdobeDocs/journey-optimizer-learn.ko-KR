@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 7f8404d4bf526bf551d8db9ee6cbcd4a95063356
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 2%
 
 ---
 
@@ -21,3 +21,10 @@ ht-degree: 1%
 메시지에 프로필 기반 개인화를 추가하는 방법 및 세그먼트 멤버십을 개인화 블록에 사전 조건으로 사용하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12)
+
+## 추가 리소스
+
+* [Journey Optimizer에서 개인화 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
+* [사용 사례:푸시 알림에 개인화 추가](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
+* [개인화 구문 이해](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html)
+* [도우미 함수 사용](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
