@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: fd49b5aa72d3e23ebadedb67a19e1e16be7f390e
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 2%
+source-wordcount: '113'
+ht-degree: 6%
 
 ---
 
@@ -24,4 +24,6 @@ ht-degree: 2%
 
 ## 추가 리소스
 
-[이메일 콘텐츠(설명서)를 가져오거나 코딩합니다](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [이메일 콘텐츠(설명서)를 가져오거나 코딩합니다](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [Adobe Journey Optimizer에서 이메일 디자인 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
+* [이메일 디자이너 콘텐츠 구성 요소 사용](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
