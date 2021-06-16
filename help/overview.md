@@ -2,10 +2,10 @@
 title: Journey Optimizer 비디오 및 Tutorials
 description: 이 사용 안내서에는 Adobe Journey Optimizer의 기능 및 성능에 대한 비디오 및 자습서가 포함되어 있습니다.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4ccc9340e312db53c5414c15d37a637107afd333
+source-git-commit: ea9765d4cc39c5d5346c0a3f120c6d109f8d1052
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 32%
+source-wordcount: '148'
+ht-degree: 17%
 
 ---
 
@@ -19,5 +19,36 @@ Journey Optimizer은 회사가 고객에게 연결되고 상황에 맞는 개인
 이 사용 안내서에는 Adobe Journey Optimizer의 기능 및 성능에 대한 비디오 및 자습서가 포함되어 있습니다.
 
 ## 직원 추천
+<table>
+<tr>
+  <td>
+    <a href="./introduction/journey-optimizer-overview-part-1.md">
+      <img alt="Journey Optimizer 개요 1부 - 옴니채널 여정 전달(비디오)" src="./assets/334174.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-1.md">
+    <strong>Journey Optimizer 개요 1부  </strong>
+    </a>
+    </div>
+    <p>
+    <em>이 비디오에서는 브랜드가 Adobe 여정 최적화를 사용하여 소비자에게 개인화된 옴니채널 여정을 제공하는 방법을 보여줍니다.</em>
+    <p>
+  </td>
+    <td>
+    <a href="./introduction/journey-optimizer-overview-part-2.md">
+      <img alt="Journey Optimizer 개요 2부 - 옴니채널 여정 전달(비디오)" src="./assets/334175.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-2.md">
+    <strong>Journey Optimizer 개요 2부  </strong>
+    </a>
+    </div>
+    <p>
+    <em>이 비디오에서는 브랜드가 Adobe 여정 최적화의 offer decisioning, 실시간 세그먼트 자격 및 비즈니스 이벤트 관리를 사용하여 소비자 여정을 새로운 수준으로 끌어올리는 방법을 보여줍니다.</em>
+    <p>
+  </td>
+</table>
 
-준비 중
+
+
+
