@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
+source-git-commit: d4f4a71695c267e6a9ca32041fe3d0e19394941f
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 1%
+source-wordcount: '91'
+ht-degree: 3%
 
 ---
 
@@ -21,3 +21,9 @@ ht-degree: 1%
 라이브 보고서와 글로벌 보고서, 여정 및 메시지 관련 보고서에 액세스하고 분석하는 방법, 보고서 대시보드를 수정하는 방법 간의 차이점을 알아봅니다.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
+
+## 추가 리소스
+
+* [라이브 보고서 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html)
+* [글로벌 보고서 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html)
+
