@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 학습 Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 Tutorials입니다.
-source-git-commit: 9c9f842176a69e083b3c7d58006ad6d4b6e999e1
+source-git-commit: 07b06306507534f793b0950a586925c34c6a2062
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '108'
 ht-degree: 10%
 
 ---
@@ -36,5 +36,6 @@ ht-degree: 10%
 + 여정 만들기 {#create-journeys}
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
    + [사용 사례 - 세그먼트 읽기](/help/create-journeys/use-case-read-segment.md)
+   + [사용 사례 - 세그먼트 자격](/help/create-journeys/use-case-read-segment-qualification.md)
 + 보고서 및 모니터 {#report-and-monitor}
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
