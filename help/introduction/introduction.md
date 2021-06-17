@@ -4,11 +4,11 @@ description: Adobe Journey Optimizer이 무엇인지, 이 솔루션이 해결할
 kt: 7517
 thumbnail: 333745.jpg
 feature: 개요
-doc-type: value video
-team: Evangelism
+doc-type: feature video
+team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 40aa78d2f9bd20349ec2d729686f0c02964a0b84
+source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 2%
