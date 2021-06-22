@@ -8,9 +8,9 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 71fc3f87f0292f943b7c0b1db397848112b01223
+source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '96'
 ht-degree: 3%
 
 ---
@@ -25,4 +25,5 @@ ht-degree: 3%
 ## 추가 리소스
 
 * [Journey Optimizer에서 개인화 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
+* [템플릿 언어 및 도우미 함수](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
 * [사용 사례:메시지에서 여러 유형의 개인화 활용](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
