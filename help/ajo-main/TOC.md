@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 학습 Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 Tutorials입니다.
-source-git-commit: 5d6431eea3239fbdceaf9485d6a21edee92f6c3b
+source-git-commit: 71fc3f87f0292f943b7c0b1db397848112b01223
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 9%
    + [프로필 및 세그먼트 멤버십 기반의 개인화](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [오퍼를 개인화로 추가](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [개인화에 컨텍스트 기반 이벤트 정보 사용](/help/personalize-content/use-contextual-event-information-for-personalization.md)
+   + [개인화에 도우미 함수 사용](/help/personalize-content/use-helper-functions-for-personalization.md)
 + 여정 만들기 {#create-journeys}
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
    + [사용 사례 - 세그먼트 읽기](/help/create-journeys/use-case-read-segment.md)
