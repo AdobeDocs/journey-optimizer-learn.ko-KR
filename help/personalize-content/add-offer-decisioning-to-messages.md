@@ -8,13 +8,13 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
+source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '111'
 ht-degree: 13%
 
 ---
-
 
 # 오퍼를 개인화로 추가
 
@@ -29,4 +29,4 @@ Journey Optimizer의 메시지에 offer decisioning 구성 요소를 추가하�
 * 설명서:
    * [Adobe Journey Optimizer에서 의사 결정 관리 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
    * [이메일에 개인화된 오퍼 추가](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
-   * [사용 사례:이메일에서 사용할 수 있도록 개인화된 오퍼를 구성합니다](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/offers-e2e.html)
+   * [사용 사례:이메일에서 사용할 수 있도록 개인화된 오퍼를 구성합니다](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html)
