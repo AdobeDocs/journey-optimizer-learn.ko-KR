@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 학습 Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 Tutorials입니다.
-source-git-commit: 638d5d7727d0e653d8f31cefdf8a5c311f11eec9
+source-git-commit: 470f4d5e329dd2823d9498c66da2d8609f2a524c
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 9%
+source-wordcount: '146'
+ht-degree: 8%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 9%
    + [액세스 관리](/help/set-up-access/access-management.md)
    + [샌드박스 만들기 및 관리](/help/set-up-access/create-and-manage-sandboxes.md)
    + 데이터 구성 {#data-configuration}
+      + [스키마 만들기](/help/set-up-data/create-schema.md)
       + [데이터 세트 만들기 및 데이터 수집](/help/set-up-data/create-datasets-and-ingest-data.md)
    + 채널 구성 {#channel-configuration}
       + [이메일 채널 설정](/help/set-up-email-channel/set-up-email-channel.md)
