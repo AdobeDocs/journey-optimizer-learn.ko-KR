@@ -1,6 +1,6 @@
 ---
-title: 미리 보기, 증명 및 게시
-description: 받은 편지함에서 이메일 렌더링을 테스트하고, 테스트 프로필과 비교하여 개인화된 이메일을 미리 보고, 증명을 보내고, 이메일을 게시하는 방법을 알아봅니다.
+title: 미리 보기, 교정 및 게시
+description: 여러 받은 편지함에 걸쳐 이메일 렌더링을 테스트하고, 테스트 프로필에 따라 개인화 이메일을 미리 보고, 교정쇄를 보내고, 이메일을 게시하는 방법을 알아봅니다.
 kt: 7533
 thumbnail: 334239.jpg
 feature: 이메일 디자인, 받은 편지함 렌더링, 이메일 렌더링
@@ -8,16 +8,16 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 5d6431eea3239fbdceaf9485d6a21edee92f6c3b
-workflow-type: tm+mt
+exl-id: 01c15f13-a804-45c3-94b0-ecd46586cc4f
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 미리 보기, 교정 및 게시
 
-# 미리 보기, 증명 및 게시
-
-받은 편지함에서 이메일 렌더링을 테스트하고, 테스트 프로필과 비교하여 개인화된 이메일을 미리 보고, 증명을 보내고, 이메일을 게시하는 방법을 알아봅니다.
+여러 받은 편지함에 걸쳐 이메일 렌더링을 테스트하고, 테스트 프로필에 따라 개인화 이메일을 미리 보고, 교정쇄를 보내고, 이메일을 게시하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334239?quality=12)
