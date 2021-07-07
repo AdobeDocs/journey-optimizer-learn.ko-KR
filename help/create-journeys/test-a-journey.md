@@ -1,5 +1,5 @@
 ---
-title: 이벤트 및 테스트 프로필을 사용하여 여정 테스트
+title: 이벤트 및 테스트 프로필을 사용한 여정 테스트
 description: 테스트 모드가 무엇인지 이해합니다. 테스트 프로필을 만들고, 테스트 모드를 실행하고, 테스트 모드 로그를 읽는 방법을 알아봅니다.
 kt: 7529
 thumbnail: 334236.jpg
@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 736175814511c375198d216f7e8f79408d59c9d6
-workflow-type: tm+mt
+exl-id: b0725be6-2a3d-46cf-b78a-d53b6a88d112
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-
-# 이벤트 및 테스트 프로필을 사용하여 여정 테스트
+# 이벤트 및 테스트 프로필을 사용한 여정 테스트
 
 테스트 모드가 무엇인지 이해합니다. 테스트 프로필을 만들고, 테스트 모드를 실행하고, 테스트 모드 로그를 읽는 방법을 알아봅니다.
 
