@@ -2,10 +2,10 @@
 title: Journey Optimizer 비디오 및 튜토리얼
 description: 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 59a67f82a74618305ea1447f2be824173538b0e3
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: 2799f18144fc994e47f63368655006e8d1f09f79
+workflow-type: tm+mt
+source-wordcount: '177'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 개인화된 경험을 제공할 수 있도록 해줍니다. 고객 여정은 고객과 브랜드 간의 상호 작용을 위한 전체 프로세스로서, 연락 시작부터 고객이 떠난 시점까지 진행됩니다.
 
 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
+
+## 새로운 기능
+
+* **[사용 사례 - 버스트 메시지](/help/create-journeys/use-case-read-burst-message.md)**
+
+   *버스트 메시지에 적용할 수 있는 사용 사례를 이해합니다. 버스트 메시지에 대한 여정을 구성하는 방법 및 적용할 모범 사례를 알아봅니다.*
 
 ## 직원 추천
 
