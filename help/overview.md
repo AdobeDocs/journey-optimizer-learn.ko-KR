@@ -2,10 +2,10 @@
 title: Journey Optimizer 비디오 및 튜토리얼
 description: 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2799f18144fc994e47f63368655006e8d1f09f79
+source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 84%
+source-wordcount: '193'
+ht-degree: 77%
 
 ---
 
@@ -19,6 +19,10 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 
 ## 새로운 기능
+
+* **[여정 만들기 소개](/help/create-journeys/introduction-to-building-a-journey.md)**
+
+   *여정 캔버스에서 여정을 작성하는 기본 사항을 이해합니다.*
 
 * **[사용 사례 - 버스트 메시지](/help/create-journeys/use-case-read-burst-message.md)**
 
