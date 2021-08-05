@@ -2,10 +2,10 @@
 title: Journey Optimizer 비디오 및 튜토리얼
 description: 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 77%
+source-wordcount: '265'
+ht-degree: 57%
 
 ---
 
@@ -19,6 +19,18 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 
 ## 새로운 기능
+
+* **[데이터 설정 - 개요](/help/set-up-data/set-up-data-overview.md)**
+
+   *Journey Optimizer용 고객 프로필 데이터를 설정하는 데 필요한 실시간 고객 프로필 데이터와 단계에 대해 알아봅니다.*
+
+* **[ID 매핑](/help/set-up-data/map-identities.md)**
+
+   *스키마 필드를 ID로 레이블을 지정하는 방법 및 시기, 네임스페이스를 만드는 방법, ID 기본 속성을 만드는 시기, ID 데이터를 수집 및 확인하는 방법을 알아봅니다.*
+
+* **[데이터 소스 구성](/help/set-up-data/configure-data-sources.md)**
+
+   *소스 커넥터와 Journey Optimizer에서 구성하는 방법에 대해 알아봅니다*
 
 * **[여정 만들기 소개](/help/create-journeys/introduction-to-building-a-journey.md)**
 
