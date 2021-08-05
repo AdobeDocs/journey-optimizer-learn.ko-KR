@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: e920c13276400fbb69467818cf49c2dfa46f28ca
+source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 5%
+ht-degree: 38%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 5%
 
 ## 추가 리소스
 
-* [스키마, 데이터 세트 및 데이터를 수집하여 테스트 프로필 추가](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
+* [스키마, 데이터 세트를 만들고 데이터를 수집하여 테스트 프로필 추가](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html?lang=ko)
