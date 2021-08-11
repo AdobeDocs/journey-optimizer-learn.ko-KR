@@ -1,15 +1,15 @@
 ---
 cloud: Experience Cloud
 solution: Journey Optimizer
-product: adobe journey optimizer
+feature-set: Journey Optimizer
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/journey-optimizer-learn.ko-KR
 index: true
-source-git-commit: ce21cfcb580344bdd6e9280cc6a4e3bae5dc4c44
-workflow-type: ht
-source-wordcount: '65'
-ht-degree: 100%
+source-git-commit: a68e7eae1c38d7484e449de5cccb78ea8b892308
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
