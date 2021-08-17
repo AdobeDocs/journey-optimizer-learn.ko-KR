@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: a68e7eae1c38d7484e449de5cccb78ea8b892308
+source-git-commit: 4d8bf022ca43aa219719140f5b72bccf50c700d7
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 93%
+source-wordcount: '114'
+ht-degree: 92%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 93%
 
 ## 추가 리소스
 
-* [Journey Optimizer의 개인화 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html?lang=ko)
+* [Journey Optimizer의 개인화 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html?lang=ko)
 * [사용 사례: 푸시 알림에 개인화 추가](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html)
-* [개인화 구문 이해](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html?lang=ko)
-* [도우미 기능 사용](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html?lang=ko)
+* [개인화 구문 이해](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-syntax.html?lang=ko)
+* [도우미 기능 사용](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=ko)
