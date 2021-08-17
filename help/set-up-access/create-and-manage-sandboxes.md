@@ -8,14 +8,14 @@ doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: f40328e297bcbdff47074558bfd3dad6884b1f7f
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 8%
+source-wordcount: '52'
+ht-degree: 3%
 
 ---
 
-# 액세스 관리
+# 샌드박스 만들기 및 관리
 
 샌드박스의 의미와 개발 샌드박스와 프로덕션 샌드박스를 구분하는 방법을 이해합니다. 샌드박스를 만들고, 재설정하고, 삭제하는 방법을 알아봅니다.
 
