@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
 source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -27,6 +27,6 @@ Journey Optimizer의 메시지에 오퍼를 결정하는 구성 요소를 추가
 * [Offer Decisioning 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ko)
 * [의사 결정 관리 정보(설명서)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=ko)
 * 설명서:
-   * [Adobe Journey Optimizer에서 의사 결정 관리 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+   * [Adobe Journey Optimizer에서 의사 결정 관리 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=ko)
    * [이메일에 개인화된 오퍼 추가](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html?lang=ko)
    * [사용 사례: 이메일에서 사용할 수 있도록 개인화된 오퍼 구성](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html?lang=ko)
