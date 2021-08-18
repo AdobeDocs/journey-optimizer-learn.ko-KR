@@ -7,9 +7,9 @@ mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/journey-optimizer-learn.ko-KR
 index: true
 source-git-commit: a68e7eae1c38d7484e449de5cccb78ea8b892308
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '65'
+ht-degree: 100%
 
 ---
 
