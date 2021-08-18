@@ -12,7 +12,7 @@ exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
 source-git-commit: 4d8bf022ca43aa219719140f5b72bccf50c700d7
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 92%
 ## 추가 리소스
 
 * [Journey Optimizer의 개인화 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html?lang=ko)
-* [사용 사례: 푸시 알림에 개인화 추가](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html)
+* [사용 사례: 푸시 알림에 개인화 추가](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html?lang=ko)
 * [개인화 구문 이해](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-syntax.html?lang=ko)
 * [도우미 기능 사용](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=ko)
