@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
 source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 88%
    + [아키텍처](/help/introduction/architecture.md)
 + 시작 {#get-started}
    + [액세스 관리](/help/set-up-access/access-management.md)
-   + [샌드박스 만들기 및 관리](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [샌드박스를 만들고 관리하기](/help/set-up-access/create-and-manage-sandboxes.md)
    + 데이터 구성 {#data-configuration}
       + [개요](/help/set-up-data/set-up-data-overview.md)
       + [스키마 만들기](/help/set-up-data/create-schema.md)
@@ -45,7 +45,7 @@ ht-degree: 88%
    + [개인화에 컨텍스트 기반 이벤트 정보 사용](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [개인화에 도우미 기능 사용](/help/personalize-content/use-helper-functions-for-personalization.md)
 + 여정 만들기 {#create-journeys}
-   + [여정 만들기 소개](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
    + [사용 사례 - 세그먼트 읽기](/help/create-journeys/use-case-read-segment.md)
    + [사용 사례 - 비즈니스 이벤트](/help/create-journeys/use-case-business-event.md)
