@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 98%
@@ -19,22 +19,22 @@ ht-degree: 98%
    + [Journey Optimizer 개요 2부](/help/introduction/journey-optimizer-overview-part-2.md)
    + [주요 기능 및 사용자 인터페이스](/help/introduction/key-capabilities-and-user-interface.md)
    + [아키텍처](/help/introduction/architecture.md)
-+ 시작 {#get-started}
++ 액세스 제어 {#access-control}
    + [액세스 관리](/help/set-up-access/access-management.md)
    + [샌드박스를 만들고 관리하기](/help/set-up-access/create-and-manage-sandboxes.md)
-   + 데이터 구성 {#data-configuration}
-      + [개요](/help/set-up-data/set-up-data-overview.md)
-      + [스키마 만들기](/help/set-up-data/create-schema.md)
-      + [ID 매핑](/help/set-up-data/map-identities.md)
-      + [데이터 세트 만들기 및 데이터 수집](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [데이터 소스 구성](/help/set-up-data/configure-data-sources.md)
-   + 채널 구성 {#channel-configuration}
-      + [이메일 채널 설정](/help/set-up-email-channel/set-up-email-channel.md)
-   + 의사 결정 관리 구성 {#decision-management-configuration}
-   + 여정 구성{#journey-configuration}
-      + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
-      + [이벤트 만들기](/help/set-up-journeys/create-events.md)
-      + [작업 만들기](/help/set-up-journeys/create-actions.md)
++ 데이터 구성 {#data-configuration}
+   + [개요](/help/set-up-data/set-up-data-overview.md)
+   + [스키마 만들기](/help/set-up-data/create-schema.md)
+   + [ID 매핑](/help/set-up-data/map-identities.md)
+   + [데이터 세트 만들기 및 데이터 수집](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [데이터 소스 구성](/help/set-up-data/configure-data-sources.md)
++ 채널 구성 {#channel-configuration}
+   + [이메일 채널 설정](/help/set-up-email-channel/set-up-email-channel.md)
++ 의사 결정 관리 구성 {#decision-management-configuration}
++ 여정 구성{#journey-configuration}
+   + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
+   + [이벤트 만들기](/help/set-up-journeys/create-events.md)
+   + [작업 만들기](/help/set-up-journeys/create-actions.md)
 + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
 + 메시지 만들기 {#create-messages}
    + [메시지 편집기로 이메일 콘텐츠 만들기](/help/create-messages/create-email-content-with-the-message-editor.md)
