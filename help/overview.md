@@ -2,10 +2,10 @@
 title: Journey Optimizer 비디오 및 튜토리얼
 description: 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 21123c70cfc929dccb8dcf65e1939e2dd367a0ec
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '210'
+ht-degree: 91%
 
 ---
 
@@ -24,7 +24,7 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
    *이벤트를 구성하고, 스트리밍 종단점 및 이벤트에 대한 페이로드를 지정하는 방법을 알아봅니다.*
 
-* **[데이터 소스 구성](/help/set-up-data/configure-data-sources.md)**
+* **[데이터 소스 구성](/help/set-up-data/configure-source-connectors.md)**
 
    *소스 커넥터의 정의와 Journey Optimizer에서 소스 커넥터를 구성하는 방법에 대해 알아봅니다.*
 
