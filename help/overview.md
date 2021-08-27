@@ -2,7 +2,7 @@
 title: Journey Optimizer 비디오 및 튜토리얼
 description: 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -28,7 +28,7 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
    *소스 커넥터의 정의와 Journey Optimizer에서 소스 커넥터를 구성하는 방법에 대해 알아봅니다.*
 
-* **[사용 사례 - 버스트 메시지](/help/create-journeys/use-case-read-burst-message.md)**
+* **[사용 사례 - 버스트 메시지](/help/create-journeys/use-case-burst-message.md)**
 
    *버스트 메시지에 적용할 수 있는 사용 사례를 이해합니다. 버스트 메시지에 대한 여정을 구성하는 방법 및 적용할 모범 사례를 알아봅니다.*
 
