@@ -3,15 +3,15 @@ title: 개인화에 컨텍스트 기반 이벤트 정보 사용
 description: 여정에서 얻은 컨텍스트 기반 이벤트 정보를 사용하여 메시지를 개인화하는 방법을 알아봅니다.
 kt: 8032
 thumbnail: 334165.jpg
-feature: 개인화
+feature: Personalization
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: 45cb2057-fc8d-4c66-9da8-0ce7ab3a4033
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: 42d8c164d11e20527cb499645b2303870f503f2e
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
@@ -26,4 +26,3 @@ ht-degree: 100%
 
 * [Journey Optimizer의 개인화 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html?lang=ko)
 * [여정에서 이벤트를 만드는 방법 알아보기](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/configure-journeys/events-journeys/unitary-events/about-creating.html?lang=ko)
-* [사용 사례: 한 메시지에서 여러 유형의 개인화 활용](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html?lang=ko)
