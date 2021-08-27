@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: 117d45eabe14fdb736fb82d77c30467487b66816
+source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    + [이메일 채널 설정](/help/set-up-email-channel/set-up-email-channel.md)
 + 의사 결정 관리 구성 {#decision-management-configuration}
 + 여정 구성{#journey-configuration}
-   + [데이터 소스 구성](/help/set-up-journeys/configure-source-connectors.md)
+   + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
    + [이벤트 만들기](/help/set-up-journeys/create-events.md)
    + [작업 만들기](/help/set-up-journeys/create-actions.md)
 + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
