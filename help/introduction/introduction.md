@@ -1,24 +1,24 @@
 ---
 title: Adobe Journey Optimizer 소개
-description: Adobe Journey Optimizer가 무엇인지와 이 솔루션이 해결할 수 있는 비즈니스 과제 및 주요 사용 사례를 이해합니다.
+description: Adobe Journey Optimizer의 정의, 이 애플리케이션에서 해결할 수 있는 비즈니스 과제 및 주요 사용 사례를 이해합니다.
 kt: 7517
 thumbnail: 333745.jpg
-feature: 개요
+feature: Overview
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+source-git-commit: 74369d03b19125ebf26c708caf1cc4535cb09c38
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Adobe Journey Optimizer 소개
 
-Adobe Journey Optimizer가 무엇인지와 이 솔루션이 해결할 수 있는 비즈니스 과제 및 주요 사용 사례를 이해합니다.
+Adobe Journey Optimizer의 정의, 이 애플리케이션에서 해결할 수 있는 비즈니스 과제 및 주요 사용 사례를 이해합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12)
 
