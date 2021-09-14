@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
+exl-id: e2e9c2be-5c60-4f6f-ae62-8e07f008318d
+source-git-commit: bc298a397e468032f9cef76b2be1faca41366e5e
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-
-# 데이터 설정 - 개요
+# 개요
 
 실시간 고객 프로필 데이터의 정의와 Journey Optimizer에서 사용할 고객 프로필 데이터를 설정하기 위해 취해야 할 단계에 대해 알아봅니다.
 
