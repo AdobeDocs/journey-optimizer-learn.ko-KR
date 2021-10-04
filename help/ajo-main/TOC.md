@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: acbdb0e3fa0da0cf7af56b3fdecd9662010e5d9b
+source-git-commit: 7b51c728a8c73a05e89f18e9e7c908a9f835f818
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 95%
+source-wordcount: '190'
+ht-degree: 97%
 
 ---
 
@@ -31,7 +31,16 @@ ht-degree: 95%
 + 채널 구성 {#channel-configuration}
    + [이메일 채널 설정](/help/set-up-email-channel/set-up-email-channel.md)
 + 의사 결정 관리 구성 {#decision-management-configuration}
-   + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ko-KR)
+   + [ [!DNL Offer Decisioning] 소개](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+   + [ [!DNL Offer Decisioning] 데모 ](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [배치 만들기](/help/set-up-decision-management/create-placements.md)
+   + [규칙 만들기](/help/set-up-decision-management/create-rules.md)
+   + [태그 만들기](/help/set-up-decision-management/create-tags.md)
+   + [개인화된 오퍼 만들기](/help/set-up-decision-management/create-personalized-offers.md)
+   + [대체 오퍼 만들기](/help/set-up-decision-management/create-fallback-offers.md)
+   + [컬렉션 만들기](/help/set-up-decision-management/create-collections.md)
+   + [오퍼 활동 만들기](/help/set-up-decision-management/create-offer-activities.md)
+   + [Decisions API를 사용하여 오퍼 제공](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + 여정 구성{#journey-configuration}
    + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
    + [이벤트 만들기](/help/set-up-journeys/create-events.md)
