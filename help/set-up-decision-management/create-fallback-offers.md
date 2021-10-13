@@ -6,9 +6,9 @@ kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
 source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 11%
 
 >[!INFO]
 >
-> 이 비디오는 교육 과정의 일부이며, [마케터용 Offer decisioning 시작하기](https://experienceleague.adobe.com/?lang=ko-KR?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 교육 과정의 일부이며, [마케터용 Offer Decisioning 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
 
 
 ## 기타 리소스
 
-* [대체 오퍼 만들기(설명서)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html)
-* [API(설명서)를 사용하여 대체 오퍼 만들기](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html)
+* [대체 오퍼 만들기(설명서)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html?lang=ko)
+* [API를 사용하여 대체 오퍼 만들기(설명서)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=ko)
