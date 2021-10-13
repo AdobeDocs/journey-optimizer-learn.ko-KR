@@ -3,15 +3,15 @@ title: 개인화를 위한 프로필 및 세그먼트 멤버십 작업
 description: 메시지에 프로필 기반 개인화를 추가하는 방법과 세그먼트 멤버십을 개인화 블록의 사전 조건으로 사용하는 방법을 알아봅니다.
 kt: 8024
 thumbnail: 334078.jpg
-feature: 개인화
+feature: Personalization
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
 source-git-commit: 4d8bf022ca43aa219719140f5b72bccf50c700d7
-workflow-type: tm+mt
-source-wordcount: '114'
+workflow-type: ht
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
