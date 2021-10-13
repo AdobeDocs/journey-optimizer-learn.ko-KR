@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
 source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 91%
 * [UI에서 이메일 콘텐츠 디자인](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/create-email-content.html?lang=ko)
 * [이메일 디자이너 콘텐츠 구성 요소 사용](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/content-components.html?lang=ko)
 * [Journey Optimizer에서 AEM Assets Essentials 사용](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=ko)
-* [링크 추가 및 메시지 추적](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/message-tracking.html)
+* [링크 추가 및 메시지 추적](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/message-tracking.html?lang=ko)
