@@ -3,14 +3,15 @@ title: 샌드박스를 만들고 관리하기
 description: 샌드박스의 정의, 그리고 개발과 프로덕션 샌드박스를 구분하는 방법을 이해합니다. 샌드박스를 만들고, 재설정하고, 삭제하는 방법을 알아봅니다.
 kt: 7568
 thumbnail: 334355.jpg
-feature: 액세스 관리
+feature: Access Management
 doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: f40328e297bcbdff47074558bfd3dad6884b1f7f
-workflow-type: tm+mt
-source-wordcount: '52'
+exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: ht
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
