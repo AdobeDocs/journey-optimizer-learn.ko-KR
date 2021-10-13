@@ -6,9 +6,9 @@ kt: 6791
 thumbnail: 329606.jpg
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 54%
 
 >[!INFO]
 >
-> 이 비디오는 교육 과정의 일부이며, [마케터용 Offer decisioning 시작하기](https://experienceleague.adobe.com/?lang=ko-KR?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 교육 과정의 일부이며, [마케터용 Offer Decisioning 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
 
 
 ## 기타 리소스
 
-* [오퍼 활동 만들기(설명서)](https://experienceleague.adobe.com/docs/offer-decisioning/using/create-offer-activities.html)
-* [API(설명서)를 사용하여 오퍼 활동 만들기](https://experienceleague.adobe.com/docs/offer-decisioning/using/api-reference/activities-api/create.html)
+* [오퍼 활동 만들기(설명서)](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=ko)
+* [API를 사용하여 오퍼 활동 만들기(설명서)](https://experienceleague.adobe.com/docs/offer-decisioning/using/api-reference/activities-api/create.html?lang=ko)
