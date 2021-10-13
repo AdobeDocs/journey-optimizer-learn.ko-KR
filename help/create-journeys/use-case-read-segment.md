@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 7116a20e-f46a-4676-8b16-21699723828a
 source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ ht-degree: 91%
 
 ## 추가 리소스
 
-* [세그먼트 빌드](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/segments/creating-a-segment.html)
+* [세그먼트 빌드](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/segments/creating-a-segment.html?lang=ko)
 * [여정에서 세그먼트 사용](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-segment.html?lang=ko)
 * [여정을 디자인하는 방법 알아보기](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/using-the-journey-designer.html?lang=ko)
