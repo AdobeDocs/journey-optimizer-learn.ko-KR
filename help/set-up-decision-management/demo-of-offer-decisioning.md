@@ -26,4 +26,4 @@ ht-degree: 100%
 ## 기타 리소스
 
 * [ [!DNL Offer Decisioning]  소개(비디오)](introduction-to-offer-decisioning.md)
-* [[!UICONTROL 의사 결정 관리](설명서)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=ko)
+* [[!UICONTROL 의사 결정 관리] (설명서)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=ko)
