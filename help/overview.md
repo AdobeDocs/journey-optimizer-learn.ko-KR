@@ -3,7 +3,7 @@ title: Journey Optimizer 비디오 및 튜토리얼
 description: 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
 

@@ -3,18 +3,18 @@ title: ID 매핑
 description: 스키마 필드에 ID 레이블을 지정하는 방법과 적절한 시점, 네임스페이스를 만드는 방법을 알아봅니다. 특정 ID를 일차 ID로 만들어야 할 시점과 ID 데이터를 수집 및 확인하는 방법을 알아봅니다.
 kt: 7564
 thumbnail: 335918.jpg
-feature: ID, 데이터 수집
+feature: Identities, Data Ingestion
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
-workflow-type: ht
-source-wordcount: '71'
+exl-id: 05264e3e-7ed1-422e-8cde-f09c6d7e590b
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: tm+mt
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
-
 
 # ID 매핑
 

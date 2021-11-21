@@ -3,18 +3,18 @@ title: 작업 만들기
 description: 여정의 다양한 상태와 게시의 영향을 이해합니다.
 kt: 7536
 thumbnail: 334257.jpg
-feature: 여정, 데이터 소스
+feature: Journeys, Data Sources
 doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '34'
+exl-id: 45206e23-46bf-4aaf-8d45-012ea0e64e92
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: tm+mt
+source-wordcount: '31'
 ht-degree: 100%
 
 ---
-
 
 # 작업 만들기
 
