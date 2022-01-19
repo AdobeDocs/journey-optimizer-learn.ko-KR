@@ -8,14 +8,14 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
+source-git-commit: 7741e6698934749eadaf12dae800b08444c6ffd2
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 12%
+source-wordcount: '32'
+ht-degree: 0%
 
 ---
 
-# 이메일 채널 설정
+# CName 하위 도메인 위임
 
 CNAME을 사용하여 Adobe 관련 레코드를 가리키도록 하위 도메인을 만드는 방법을 알아봅니다.
 
