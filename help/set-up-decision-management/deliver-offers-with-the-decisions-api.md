@@ -6,16 +6,16 @@ feature: Offers, API
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 100%
 
 ---
 
 # Decisions API를 사용하여 오퍼 제공
 
-Decisions API를 사용하여 [!DNL Offer Decisioning] 오퍼를 제공하는 방법을 알아봅니다. [!DNL Postman]을 사용하면 컨테이너 ID를 검색하기 위한 API 호출이 수행됩니다. 다음으로, 샘플 Decisions API 호출이 맞춤형 오퍼를 검색하도록 활동 ID, 배치 ID, ID 네임스페이스 및 고객 ID로 사용자 지정됩니다. Decisions API를 사용하여 맞춤형 오퍼를 검색한 후에는 오퍼 컨텐츠를 마케팅 시스템과 통합할 수 있습니다.
+Decisions API를 사용하여 [!DNL Offer Decisioning][ 오퍼를 제공하는 방법을 알아봅니다](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=ko). [!DNL Postman]을 사용하면 컨테이너 ID를 검색하기 위한 API 호출이 수행됩니다. 다음으로, 샘플 Decisions API 호출이 맞춤형 오퍼를 검색하도록 활동 ID, 배치 ID, ID 네임스페이스 및 고객 ID로 사용자 지정됩니다. Decisions API를 사용하여 맞춤형 오퍼를 검색한 후에는 오퍼 컨텐츠를 마케팅 시스템과 통합할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 
@@ -25,8 +25,6 @@ Decisions API를 사용하여 [!DNL Offer Decisioning] 오퍼를 제공하는 �
 
 
 ## 기타 리소스
-
-* [Decisions API(설명서)를 사용하여 오퍼 게재](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=ko)
 * [Experience Platform API 인증 및 액세스(튜토리얼)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=ko)
 * [[!DNL Postman] 비프로덕션 인증을 위한 컬렉션](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims)
 * [[!DNL Postman]](https://www.postman.com/)

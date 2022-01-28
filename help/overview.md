@@ -1,8 +1,9 @@
 ---
 title: Journey Optimizer 비디오 및 튜토리얼
 description: 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
+recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 92%

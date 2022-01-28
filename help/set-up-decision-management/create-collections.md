@@ -1,14 +1,14 @@
 ---
 title: 컬렉션 만들기
 description: ' [!DNL Offer Decisioning]에서 컬렉션을 만드는 방법을 알아봅니다. 컬렉션에는 관련 고객에게만 표시되는 데 도움이 되는 관련 자격 규칙이 있습니다.'
-feature: Offers
+feature: Offers, Collections
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,3 @@ ht-degree: 100%
 >[!INFO]
 >
 > 이 비디오는 교육 과정의 일부이며, [마케터용 Offer Decisioning 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
-
-
-## 기타 리소스
-
-* [컬렉션 만들기(설명서)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-collections.html?lang=ko)
-* [API를 사용하여 컬렉션 만들기(설명서)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/collections/create.html?lang=ko)

@@ -3,13 +3,13 @@ title: 데이터 세트 만들기 및 데이터 수집
 description: 데이터 세트를 만들고 이를 스키마에 매핑하며, 세트에 데이터를 추가하고 데이터가 수집되었는지 확인하는 방법을 알아봅니다.
 kt: 7563
 thumbnail: 334293.jpg
-feature: Journeys, Data Sources
+feature: Data Sources
 doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 55161113-3a69-4ba1-89a4-48cbaeef13f7
-source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%

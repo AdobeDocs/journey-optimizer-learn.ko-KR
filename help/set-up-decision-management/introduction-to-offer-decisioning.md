@@ -5,9 +5,9 @@ feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -22,8 +22,3 @@ Adobe Experience Platform을 기반으로 구축된 애플리케이션 서비스
 >[!INFO]
 >
 > 이 비디오는 교육 과정의 일부이며, [마케터용 Offer Decisioning 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
-
-## 기타 리소스
-
-* [ [!DNL Offer Decisioning]  데모(비디오)](demo-of-offer-decisioning.md)
-* [[!DNL Offer Decisioning] (설명서)](https://experienceleague.adobe.com/docs/offer-decisioning/using/get-started/starting-offer-decisioning.html?lang=ko)

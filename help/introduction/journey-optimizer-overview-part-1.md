@@ -9,14 +9,14 @@ team: Evangelism
 role: User
 level: Beginner
 exl-id: 6977cc53-9dad-4dee-9cbf-90f7b11ea9c8
-source-git-commit: a8e4b4fe22a1fc9f10eae0ac33e2eef328f650f3
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
 
-# Journey Optimizer 1부 - 옴니채널 여정 게재
+# Journey Optimizer 개요 1부 - 옴니채널 여정 게재
 
 이 비디오에서는 브랜드가 Adobe Journey Optimizer를 활용하여 소비자에게 개인화된 옴니채널 여정을 제공하는 방법을 보여줍니다.
 
