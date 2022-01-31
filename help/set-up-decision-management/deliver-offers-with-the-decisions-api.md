@@ -6,7 +6,7 @@ feature: Offers, API
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 144d51c9041f4a101019915ae20e5abb6c636b2e
+source-git-commit: 31d7353f5b82b9024835a763bb41deb9722fbbf0
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
@@ -25,6 +25,7 @@ Decisions API를 사용하여 [!DNL Offer Decisioning][ 오퍼를 제공하는 �
 > 이 비디오는 교육 과정의 일부이며, [마케터용 Offer Decisioning 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
 
 ## 기타 리소스
+
 * [Experience Platform API 인증 및 액세스(튜토리얼)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=ko)
 * [[!DNL Postman] 비프로덕션 인증을 위한 컬렉션](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims)
 * [[!DNL Postman]](https://www.postman.com/)
