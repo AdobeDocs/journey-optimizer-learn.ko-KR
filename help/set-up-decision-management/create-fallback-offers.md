@@ -6,19 +6,19 @@ kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
 # 대체 오퍼 만들기
 
-만드는 방법 알아보기 [대체 오퍼] (https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html) in [!DNL Offer Decisioning]. 대체 오퍼는 개인화된 오퍼에 대한 자격이 없는 고객에게 표시되는 기본 오퍼입니다.
+[!DNL Offer Decisioning]에서 [대체 오퍼]를 만드는 방법에 대해 알아보십시오(https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html). 대체 오퍼는 개인화된 오퍼에 대한 자격이 없는 고객에게 표시되는 기본 오퍼입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on)
 
-API로 대체 오퍼를 만드는 방법에 대한 자세한 내용은 [제품 안내서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=ko)
+API로 대체 오퍼를 만드는 방법에 대한 자세한 내용은 [제품 안내서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=ko)를 참조하십시오.
 
 >[!INFO]
 >
