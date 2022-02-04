@@ -6,19 +6,19 @@ kt: 6791
 thumbnail: 329606.jpg
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 # 오퍼 활동 만들기
 
-만드는 방법 알아보기 [오퍼 활동](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html) in [!DNL Offer Decisioning]. 오퍼 활동은 배치와 컬렉션을 하나의 엔티티로 결합하므로 고객에게 가장 연관성 높은 오퍼를 전달하는 결정을 내릴 수 있습니다.
+[!DNL Offer Decisioning]에서 [오퍼 활동](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html?lang=ko)을 만드는 방법을 알아봅니다. 오퍼 활동은 배치와 컬렉션을 하나의 엔티티로 결합하므로 고객에게 가장 연관성 높은 오퍼를 전달하는 결정을 내릴 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on)
 
-API를 사용하여 오퍼 활동을 만드는 방법에 대한 자세한 내용은 [제품 안내서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html)
+API를 사용하여 오퍼 활동을 만드는 방법에 대한 자세한 내용은 [제품 안내서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html?lang=ko)를 참조하십시오.
 
 >[!INFO]
 >
