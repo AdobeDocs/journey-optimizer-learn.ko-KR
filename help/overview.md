@@ -3,10 +3,10 @@ title: Journey Optimizer 비디오 및 튜토리얼
 description: 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
+source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 86%
+source-wordcount: '210'
+ht-degree: 81%
 
 ---
 
@@ -21,6 +21,10 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 ## 새로운 기능
 
+* **[구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)**
+
+   *구독을 구성하고 랜딩 페이지를 만드는 방법을 알아봅니다.*
+
 * **[개인화 라이브러리에서 저장된 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
    *메시지에 저장된 개인화 라이브러리 항목을 사용하는 방법과 개인화 라이브러리 항목을 만들고 관리하는 방법을 알아봅니다.*
@@ -28,11 +32,6 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 * **[CName 하위 도메인 위임](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *CNAME을 사용하여 Adobe 관련 레코드를 가리키도록 하위 도메인을 만드는 방법을 알아봅니다.*
-
-* **[이벤트 만들기](/help/set-up-journeys/create-events.md)**
-
-   *이벤트를 구성하고, 스트리밍 종단점 및 이벤트에 대한 페이로드를 지정하는 방법을 알아봅니다.*
-
 
 ## 직원 추천
 
