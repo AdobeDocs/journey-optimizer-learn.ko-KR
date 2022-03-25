@@ -5,7 +5,7 @@ user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 95%
    + [오퍼를 개인화로 추가하기](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [개인화에 컨텍스트 기반 이벤트 정보 사용](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [개인화에 도우미 기능 사용](/help/personalize-content/use-helper-functions-for-personalization.md)
-   + [개인화 라이브러리에서 저장된 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
+   + [개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + 여정 만들기 {#create-journeys}
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)

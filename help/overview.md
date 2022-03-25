@@ -5,8 +5,8 @@ recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 81%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,9 +25,9 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
    *구독을 구성하고 랜딩 페이지를 만드는 방법을 알아봅니다.*
 
-* **[개인화 라이브러리에서 저장된 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+* **[개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *메시지에 저장된 개인화 라이브러리 항목을 사용하는 방법과 개인화 라이브러리 항목을 만들고 관리하는 방법을 알아봅니다.*
+   *저장한 개인화 라이브러리 항목을 메시지에 사용하는 방법과 개인화 라이브러리 항목을 만들고 관리하는 방법을 알아봅니다.*
 
 * **[CName 하위 도메인 위임](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
