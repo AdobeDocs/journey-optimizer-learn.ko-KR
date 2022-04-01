@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
+source-git-commit: 43d3e290d3e481fd8ae88813fedd48692a85f118
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 96%
 
 ---
 
@@ -47,7 +47,9 @@ ht-degree: 100%
    + [이벤트 만들기](/help/set-up-journeys/create-events.md)
    + [작업 만들기](/help/set-up-journeys/create-actions.md)
 + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
++ [Assets 기본 사항](/help/assets-essentials-overview.md)
 + 메시지 만들기 {#create-messages}
+   + [마사지 디자이너 개요](/help/create-messages/message-designer-overview.md)
    + [메시지 편집기로 이메일 콘텐츠 만들기](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/create-messages/import-and-author-html-email-content.md)
    + [미리 보기, 교정 및 게시](/help/create-messages/preview-proof-and-publish.md)
@@ -59,6 +61,7 @@ ht-degree: 100%
    + [개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + 여정 만들기 {#create-journeys}
+   + [여정 캔버스 개요](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
    + [사용 사례 - 세그먼트 읽기](/help/create-journeys/use-case-read-segment.md)
