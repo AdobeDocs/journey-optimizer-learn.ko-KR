@@ -1,20 +1,20 @@
 ---
-title: Offer Decisioning 데모
-description: 브랜드가 Adobe의 새 Offer Decisioning 서비스를 사용하여 오퍼를 정의 및 관리하고 실시간 고객 데이터를 활용하며 고객이 기대하는 최적의 경험을 전달하는 방법을 알아봅니다.
+title: 의사 결정 관리 기능 데모
+description: 브랜드가 의사 결정 관리 기능을 사용하여 오퍼를 정의 및 관리하고 실시간 고객 데이터를 적용하며 고객이 기대하는 최적의 경험을 전달하는 방법을 알아봅니다.
 feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: e8a34a26ce5794c8181537edaac592d8219c0dcd
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 27%
 
 ---
 
-# [!DNL Offer Decisioning] 데모 
+# 의사 결정 관리 기능 데모
 
-브랜드가 Adobe의 [!DNL Offer Decisioning] 서비스를 사용하여 오퍼를 정의 및 관리하고 실시간 고객 데이터를 활용하며 고객이 기대하는 최적의 경험을 전달하는 방법을 알아봅니다.
+브랜드가 의사 결정 관리 기능을 사용하여 오퍼를 정의 및 관리하고 실시간 고객 데이터를 적용하며 고객이 기대하는 최적의 경험을 전달하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on)
 
