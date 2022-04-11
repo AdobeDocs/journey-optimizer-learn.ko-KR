@@ -1,20 +1,20 @@
 ---
-title: 마케터를 위한 Mobile 기능
+title: 마케터를 위한 모바일 기능
 description: Adobe Journey Optimizer이 마케터에게 제공하는 모바일 기능을 이해합니다.
 feature: SMS, In App, Push
 role: Leader, User
 level: Beginner
 kt: 10169
 thumbnail: 342102.jpeg
-source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
-workflow-type: tm+mt
+exl-id: d5e04656-c99e-490e-872e-ea153a81dd98
+source-git-commit: ee8069e78c255e9efdad5dc6a8765aa385c07114
+workflow-type: ht
 source-wordcount: '26'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
-# 마케터를 위한 Mobile 기능
+# 마케터를 위한 모바일 기능
 
 Adobe Journey Optimizer이 마케터에게 제공하는 모바일 기능을 이해합니다.
 
