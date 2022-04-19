@@ -1,20 +1,20 @@
 ---
 title: 배치 만들기
-description: Offer Decisioning에서 배치를 만드는 방법을 알아봅니다. 배치는 오퍼의 필수 빌딩 블록 구성 요소 중 하나입니다.
+description: 의사 결정 관리를 위한 배치를 만드는 방법을 알아봅니다. 배치는 오퍼의 필수 빌딩 블록 구성 요소 중 하나입니다.
 feature: Offers
 kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+source-git-commit: 2b1b6690604e0ce31eb2028c3ad6ad39cc8e820e
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 86%
 
 ---
 
 # 배치 만들기
 
-[!DNL Offer Decisioning]에서 [배치](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=ko)를 만드는 방법을 알아봅니다. 배치는 오퍼의 빌딩 블록 구성 요소 중 하나입니다. 배치는 이메일의 이미지나 웹 사이트의 HTML 코드와 같은 컨텐츠 유형과 채널의 조합입니다.
+Learn how to create [placements](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=ko) for decision management. 배치는 오퍼의 빌딩 블록 구성 요소 중 하나입니다. 배치는 이메일의 이미지나 웹 사이트의 HTML 코드와 같은 컨텐츠 유형과 채널의 조합입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
