@@ -1,20 +1,20 @@
 ---
-title: Offer Decisioning 소개
-description: Adobe Experience Platform 위에 구축된 애플리케이션 서비스인 Offer Decisioning의 개요를 확인하세요.
+title: 의사 결정 관리 기능 소개
+description: Journey Optimizer의 의사 결정 관리 기능에 대한 개요를 살펴보십시오.
 feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+source-git-commit: 8762d5fa187e549df0a6ccda4e42192fda07ebf6
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 33%
 
 ---
 
-# [!DNL Offer Decisioning] 소개
+# 의사 결정 관리 기능 소개
 
-Adobe Experience Platform을 기반으로 구축된 애플리케이션 서비스인 [!DNL Offer Decisioning]의 개요를 확인하세요. 이 비디오에서는 [!DNL Offer Decisioning]이 해결하는 비즈니스 문제, 주요 기능, 기본 아키텍처, 주요 사용 사례를 다룹니다.
+Journey Optimizer의 의사 결정 관리 기능에 대한 개요를 살펴보십시오. 이 비디오에서는 이 해결할 수 있는 비즈니스 과제 결정 관리 기능, 주요 기능, 기본 아키텍처 및 주요 사용 사례를 다룹니다.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
