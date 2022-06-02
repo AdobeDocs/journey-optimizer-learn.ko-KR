@@ -1,15 +1,15 @@
 ---
 title: Decisions Hub API를 사용한 오퍼 게재
-description: 'Decisions API를 사용하여 Offer Decisioning 오퍼를 제공하는 방법을 알아봅니다. '
+description: '결정 API를 사용하여 의사 결정 관리 오퍼를 제공하는 방법을 알아봅니다. '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 이 비디오는 교육 과정의 일부이며, [마케터용 Offer Decisioning 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 물론 [마케터를 위한 의사 결정 관리 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning): Experience League에서 무료로 사용할 수 있습니다.
 
 ## 기타 리소스
 

@@ -5,10 +5,10 @@ feature: Offers
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 03f9ee020d9193e8c2f2b2d36873af91facdc792
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 100%
+ht-degree: 79%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 이 비디오는 교육 과정의 일부이며, [마케터용 Offer Decisioning 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 물론 [마케터를 위한 의사 결정 관리 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning): Experience League에서 무료로 사용할 수 있습니다.
