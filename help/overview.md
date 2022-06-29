@@ -3,10 +3,10 @@ title: Journey Optimizer 비디오 및 튜토리얼
 description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 자습서가 있습니다.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 65d95deead594b27008efa2cf1751b6371f204e6
+source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 74%
+source-wordcount: '406'
+ht-degree: 70%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 ### 튜토리얼
 
+* **[메시지 빈도 규칙 구성](help/administration/configure-frequency-rules.md)**
+
+   *빈도 규칙을 만들고, 활성화하고, 테스트하고, 보고하는 방법을 알아봅니다. 메시지에 대해 상속될 빈도 규칙을 결정하는 방법을 이해합니다*
+
 * **[구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)**
 
    *구독을 구성하고 랜딩 페이지를 만드는 방법을 알아봅니다.*
@@ -31,16 +35,11 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
    *저장한 개인화 라이브러리 항목을 메시지에 사용하는 방법과 개인화 라이브러리 항목을 만들고 관리하는 방법을 알아봅니다.*
 
-* **[CName 하위 도메인 위임](/help/set-up-email-channel/delegate-cname-subdomains.md)**
-
-   *CNAME을 사용하여 Adobe 관련 레코드를 가리키도록 하위 도메인을 만드는 방법을 알아봅니다.*
-
 ### Experience League 라이브 이벤트
 
 * **[Adobe Journey Optimizer을 사용한 푸시 알림](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
 
    *이 Experience League 라이브 에피소드에서 Adobe Journey Optimizer의 푸시 알림에 대한 일반적인 사용 사례에 대해 설명하고 Adobe Experience Platform에서 제공하는 푸시용 앱을 구성하는 방법에 대한 기술적인 세부 사항을 자세히 살펴봅니다.*
-
 
 ## 직원 추천
 
