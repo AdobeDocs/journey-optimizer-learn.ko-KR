@@ -3,7 +3,7 @@ title: Journey Optimizer 비디오 및 튜토리얼
 description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 자습서가 있습니다.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9b5107457b134a66b1464a3f6d26bd95a8211ec8
+source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 70%
@@ -25,7 +25,7 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 * **[메시지 빈도 규칙 구성](/help/administration/configure-frequency-rules.md)**
 
-   *빈도 규칙을 만들고, 활성화하고, 테스트하고, 보고하는 방법을 알아봅니다. 메시지에 대해 상속될 빈도 규칙을 결정하는 방법을 이해합니다*
+   *빈도 규칙을 만들고, 활성화하고, 테스트하고, 보고하는 방법을 알아봅니다. 메시지에 대해 상속될 빈도 규칙을 결정하는 방법을 이해합니다.*
 
 * **[구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)**
 
