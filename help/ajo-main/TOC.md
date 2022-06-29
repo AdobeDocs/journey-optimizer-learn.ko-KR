@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
+source-git-commit: 9b5107457b134a66b1464a3f6d26bd95a8211ec8
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 97%
@@ -31,7 +31,7 @@ ht-degree: 97%
 + 채널 구성 {#channel-configuration}
    + [이메일 채널 설정](/help/set-up-email-channel/set-up-email-channel.md)
    + [CName 하위 도메인 위임](/help/set-up-email-channel/delegate-cname-subdomains.md)
-   + [메시지 빈도 규칙 구성](help/administration/configure-frequency-rules.md)
+   + [메시지 빈도 규칙 구성](/help/administration/configure-frequency-rules.md)
 + 의사 결정 관리 {#decision-management}
    + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
    + [의사 결정 관리 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
