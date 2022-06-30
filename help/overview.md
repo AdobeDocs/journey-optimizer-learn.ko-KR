@@ -3,10 +3,10 @@ title: Journey Optimizer 비디오 및 튜토리얼
 description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 자습서가 있습니다.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 70%
+source-wordcount: '396'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 ### 튜토리얼
 
+* **[SMS 메시지 구성, 작성 및 전달](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+   *고객 여정에 SMS 메시지를 구성, 작성 및 포함하는 방법을 알아봅니다.*
+
 * **[메시지 빈도 규칙 구성](/help/administration/configure-frequency-rules.md)**
 
    *빈도 규칙을 만들고, 활성화하고, 테스트하고, 보고하는 방법을 알아봅니다. 메시지에 대해 상속될 빈도 규칙을 결정하는 방법을 이해합니다.*
@@ -30,10 +34,6 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 * **[구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)**
 
    *구독을 구성하고 랜딩 페이지를 만드는 방법을 알아봅니다.*
-
-* **[개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-
-   *저장한 개인화 라이브러리 항목을 메시지에 사용하는 방법과 개인화 라이브러리 항목을 만들고 관리하는 방법을 알아봅니다.*
 
 ### Experience League 라이브 이벤트
 

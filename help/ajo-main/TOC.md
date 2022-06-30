@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: 9b5107457b134a66b1464a3f6d26bd95a8211ec8
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 97%
+source-wordcount: '251'
+ht-degree: 94%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 97%
    + [미리 보기, 교정 및 게시](/help/create-messages/preview-proof-and-publish.md)
    + [마케터를 위한 모바일 기능](/help/create-messages/mobile-capabilities.md)
    + [디자이너를 위한 모바일 기능](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [SMS 메시지 구성, 작성 및 전달](/help/create-messages/configure-author-and-deliver-sms-messages.md)
 + 콘텐츠 개인화 {#personalize-content}
    + [프로필 및 세그먼트 멤버십 기반 개인화](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [오퍼를 개인화로 추가하기](/help/personalize-content/add-offer-decisioning-to-messages.md)
