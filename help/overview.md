@@ -3,10 +3,10 @@ title: Journey Optimizer 비디오 및 튜토리얼
 description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 자습서가 있습니다.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
+source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 65%
+source-wordcount: '413'
+ht-degree: 62%
 
 ---
 
@@ -26,6 +26,10 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 * **[SMS 메시지 구성, 작성 및 전달](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *고객 여정에 SMS 메시지를 구성, 작성 및 포함하는 방법을 알아봅니다.*
+
+* **[SMS에 대한 인바운드 키워드 지원](/help/create-messages/inbound-keyword-support-for-sms.md)**
+
+   *SMS에 대한 기본 인바운드 키워드 지원(시작, 중지, 중지)이 작동하는 방식을 이해합니다.*
 
 * **[메시지 빈도 규칙 구성](/help/administration/configure-frequency-rules.md)**
 
