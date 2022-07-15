@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizer 소개
-description: Adobe Journey Optimizer이 무엇인지, 그리고 이것이 어떻게 산업 전반에 걸친 브랜드들이 ROI를 높이고 중요한 마케팅 과제를 극복하도록 도움을 주었는지를 이해하십시오.
+description: Adobe Journey Optimizer가 무엇이며 업계 전반의 브랜드가 ROI를 개선하고 주요 마케팅 과제를 해결하는 데 어떻게 도움이 되었는지 알아봅니다.
 kt: 7517
 thumbnail: 333745.jpg
 feature: Overview
@@ -12,7 +12,7 @@ exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
