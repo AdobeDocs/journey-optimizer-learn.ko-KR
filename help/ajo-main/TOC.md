@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '261'
+ht-degree: 98%
 
 ---
 
@@ -67,6 +67,8 @@ ht-degree: 0%
    + [개인화에 컨텍스트 기반 이벤트 정보 사용](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [개인화에 도우미 기능 사용](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
++ 캠페인 만들기 {#create-campaigns}
+   + [캠페인 만들기](/help/create-champaigns/create-a-campaign.md)
 + 여정 만들기 {#create-journeys}
    + [여정 캔버스 개요](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)

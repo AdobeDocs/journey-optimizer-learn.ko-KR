@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer 비디오 및 튜토리얼
-description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 튜토리얼이 있습니다.
+description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 자습서가 있습니다.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: ht
-source-wordcount: '400'
-ht-degree: 100%
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,13 +15,18 @@ ht-degree: 100%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 개인화된 경험을 제공할 수 있도록 해줍니다. 고객 여정은 접점 시작의 순간부터 사이트를 나가는 순간까지의 고객과 브랜드 간의 전체 상호 작용 프로세스를 말합니다.
+Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 개인화된 경험을 제공할 수 있도록 해줍니다. 고객 여정은 고객이 사이트를 종료하기 전까지 고객이 브랜드와 상호 작용하는 전체 프로세스입니다.
 
 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 
 ## 새로운 기능
 
 ### 튜토리얼
+
+* **[캠페인 만들기](/help/create-champaigns/create-a-campaign.md)**
+
+   *작업을 즉시 또는 지정된 일정에 따라 실행하여 특정 사용자 세그먼트에 일회성 콘텐츠를 전달하는 방법을 알아봅니다.*
+
 
 * **[SMS 메시지 구성, 작성, 전달](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
@@ -30,10 +35,6 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 * **[SMS에 대한 인바운드 키워드 지원](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
    *SMS에 대한 기본 인바운드 키워드 지원(시작, 중지, 중지 해지)이 작동하는 방식을 이해합니다.*
-
-* **[메시지 빈도 규칙 구성](/help/administration/configure-frequency-rules.md)**
-
-   *빈도 규칙을 만들고, 활성화하고, 테스트하고, 보고하는 방법을 알아봅니다. 메시지에 대해 상속될 빈도 규칙을 결정하는 방법을 이해합니다.*
 
 ### Experience League 라이브 이벤트
 
