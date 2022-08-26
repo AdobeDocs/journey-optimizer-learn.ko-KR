@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+source-git-commit: 6b655e69f4533a433ddda130ade9ba0d09398dfa
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 98%
