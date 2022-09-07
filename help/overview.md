@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer 비디오 및 튜토리얼
-description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 자습서가 있습니다.
+description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 튜토리얼이 있습니다.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 84%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 개인화된 경험을 제공할 수 있도록 해줍니다. 고객 여정은 고객이 사이트를 종료하기 전까지 고객이 브랜드와 상호 작용하는 전체 프로세스입니다.
+Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 개인화된 경험을 제공할 수 있도록 해줍니다. 고객 여정은 소통을 순간부터 사이트를 나가는 순간까지의 고객과 브랜드 간의 전체 상호 작용 프로세스를 말합니다.
 
 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
 
