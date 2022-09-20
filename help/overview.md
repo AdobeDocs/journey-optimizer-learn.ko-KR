@@ -3,10 +3,10 @@ title: Journey Optimizer Tutorials - 개요
 description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 튜토리얼이 있습니다.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 97%
+source-wordcount: '396'
+ht-degree: 85%
 
 ---
 
@@ -23,18 +23,17 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 ### 튜토리얼
 
+* **[메시지의 데이터 마스크](/help/privacy/mask-data-in-messages.md)**
+
+   *데이터 마스킹의 의미와 마스크 데이터의 이유를 파악합니다. Journey Optimizer 메시지에서 데이터를 마스크하는 방법을 알아봅니다.*
+
 * **[캠페인 만들기](/help/create-champaigns/create-a-campaign.md)**
 
    *작업을 즉시 또는 지정된 일정에 따라 실행하여 특정 대상에게 일회성 콘텐츠를 전달하는 방법을 알아봅니다.*
 
-
 * **[SMS 메시지 구성, 작성, 전달](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *고객 여정에 SMS 메시지를 구성하고, 작성하고, 포함하는 방법을 알아봅니다.*
-
-* **[SMS에 대한 인바운드 키워드 지원](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-   *SMS에 대한 기본 인바운드 키워드 지원(시작, 중지, 중지 해지)이 작동하는 방식을 이해합니다.*
 
 ### Experience League 라이브 이벤트
 
@@ -127,7 +126,7 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
     </a>
     </div>
     <p>
-    <em>라이브 보고서와 글로벌 보고서의 차이, 여정과 메시지에 대한 보고서에 액세스하고 분석하는 방법, 보고서 대시보드를 수정하는 방법을 알아봅니다.
+    <em>라이브 보고서와 글로벌 보고서, 여정 및 메시지 관련 보고서에 액세스하고 분석하는 방법, 보고서 대시보드를 수정하는 방법 등의 차이점을 알아봅니다.
 
 </em>
     <p>

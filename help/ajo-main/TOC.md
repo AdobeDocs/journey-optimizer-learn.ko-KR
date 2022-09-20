@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: 9390fa4f69307f326df5946000240bf397152690
+source-git-commit: 4960b21053d6309cd64b5bb6a0a98e0d044d4afd
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 94%
+source-wordcount: '265'
+ht-degree: 92%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 94%
    + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
    + [이벤트 만들기](/help/set-up-journeys/create-events.md)
    + [작업 만들기](/help/set-up-journeys/create-actions.md)
-+ 고객 프로필, 세그먼트, 구독 {#profiles-segments-subscriptions}
++ 고객 프로필, 세그먼트 및 구독 {#profiles-segments-subscriptions}
    + [통합 프로필 및 세분화 - 개요](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + [Assets 기본 사항](/help/assets-essentials-overview.md)
 + 메시지 만들기 {#create-messages}
-   + [메시지 디자이너 개요](/help/create-messages/message-designer-overview.md)
+   + [Message Designer 개요](/help/create-messages/message-designer-overview.md)
    + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/create-messages/create-content-with-the-email-designer.md)
    + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/create-messages/import-and-author-html-email-content.md)
    + [미리 보기, 교정 및 게시](/help/create-messages/preview-proof-and-publish.md)
@@ -81,3 +81,5 @@ ht-degree: 94%
    + [여정 게시](/help/create-journeys/publish-a-journey.md)
 + 보고서 및 모니터링 {#report-and-monitor}
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
++ 개인정보 보호 {#privacy}
+   + [메시지의 데이터 마스크](/help/privacy/mask-data-in-messages.md)
