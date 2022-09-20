@@ -1,17 +1,17 @@
 ---
-title: Journey Optimizer 비디오 및 튜토리얼
+title: Journey Optimizer Tutorials - 개요
 description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 튜토리얼이 있습니다.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: ht
-source-wordcount: '394'
-ht-degree: 100%
+source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+workflow-type: tm+mt
+source-wordcount: '392'
+ht-degree: 97%
 
 ---
 
 
-# Journey Optimizer 비디오 및 튜토리얼
+# Journey Optimizer Tutorials - 개요
 
 ![](./assets/ajo-banner.png)
 
