@@ -4,10 +4,10 @@ description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 85%
+source-wordcount: '417'
+ht-degree: 81%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 ## 새로운 기능
 
 ### 튜토리얼
+
+* **[다른 샌드박스에 여정 복사](/help/create-journeys/copy-a-journey.md)**
+
+   *한 샌드박스에서 다른 샌드박스로 여정 및 종속 개체를 복사하는 방법을 알아봅니다.*
 
 * **[메시지의 데이터 마스크](/help/privacy/mask-data-in-messages.md)**
 
