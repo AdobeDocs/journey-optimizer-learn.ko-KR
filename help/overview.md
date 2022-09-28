@@ -4,10 +4,10 @@ description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
+source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 81%
+source-wordcount: '464'
+ht-degree: 66%
 
 ---
 
@@ -24,6 +24,10 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 ### 튜토리얼
 
+* **[경고 사용](/help/administration/alerts.md)**
+
+   *예기치 않은 여정 행동에 대해 사전 정의된 경고를 구독하고 이메일, Journey Optimizer 내 또는 API를 사용하여 알림을 받는 방법을 알아봅니다.*
+
 * **[다른 샌드박스에 여정 복사](/help/create-journeys/copy-a-journey.md)**
 
    *한 샌드박스에서 다른 샌드박스로 여정 및 종속 개체를 복사하는 방법을 알아봅니다.*
@@ -32,15 +36,12 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
    *데이터 마스킹의 의미와 마스크 데이터의 이유를 파악합니다. Journey Optimizer 메시지에서 데이터를 마스크하는 방법을 알아봅니다.*
 
-* **[캠페인 만들기](/help/create-champaigns/create-a-campaign.md)**
-
-   *작업을 즉시 또는 지정된 일정에 따라 실행하여 특정 대상에게 일회성 콘텐츠를 전달하는 방법을 알아봅니다.*
-
-* **[SMS 메시지 구성, 작성, 전달](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
-
-   *고객 여정에 SMS 메시지를 구성하고, 작성하고, 포함하는 방법을 알아봅니다.*
 
 ### Experience League 라이브 이벤트
+
+* **[Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ko-KR)**
+
+   *원래 2022년 9월 22일에 열린 이 Experience League 라이브 에피소드에서, 호스트 Sandra Hausmann과 제품 전문가 Bridgete 달링 및 Frederic Mary를 참조하여 이 새로운 특징 커버의 사용 사례를 설명하고 Journey Optimizer에서 캠페인을 쉽게 설정 및 실행하는 방법을 설명하십시오.*
 
 * **[Adobe Journey Optimizer를 사용한 푸시 알림](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ko)**
 
