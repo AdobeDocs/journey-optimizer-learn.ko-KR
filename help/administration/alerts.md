@@ -3,14 +3,14 @@ title: 경고 사용
 description: 예기치 않은 여정 행동에 대해 사전 정의된 경고를 구독하고 이메일, Journey Optimizer 내 또는 API를 사용하여 알림을 받는 방법을 알아봅니다.
 kt: 11081
 thumbnail: 336218.jpg
-feature: Alerts
+feature: Reporting
 doc-type: feature video
 team: PM
 role: Admin
 last-update-author: 20220928
-source-git-commit: 41dba791d44a5c6be46e48fa1871b5d9c98b6c11
+source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
