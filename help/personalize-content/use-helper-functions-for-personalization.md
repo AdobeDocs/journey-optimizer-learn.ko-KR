@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 20dfc3a7-aa09-4ca2-a02e-3134fd680e2b
-source-git-commit: c6692915380458452cd8956a932d83427bcb7bf1
-workflow-type: ht
-source-wordcount: '67'
-ht-degree: 100%
+source-git-commit: 0422f806896aeff967ce8526fc52b6265b2804a1
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 82%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12)
 
-[도우미 기능](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/build-expressions/functions/helpers.html?lang=ko)에 대한 자세한 내용은 제품 안내서를 참조하세요.
+[도우미 기능](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=en)에 대한 자세한 내용은 제품 안내서를 참조하세요.
