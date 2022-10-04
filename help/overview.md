@@ -4,7 +4,7 @@ description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 62%
@@ -19,6 +19,8 @@ ht-degree: 62%
 Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 개인화된 경험을 제공할 수 있도록 해줍니다. 고객 여정은 소통을 순간부터 사이트를 나가는 순간까지의 고객과 브랜드 간의 전체 상호 작용 프로세스를 말합니다.
 
 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
+
+<div id="whats-new-section">
 
 ## 새로운 기능
 
@@ -40,6 +42,7 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
    *데이터 마스킹의 의미와 마스크 데이터의 이유를 파악합니다. Journey Optimizer 메시지에서 데이터를 마스크하는 방법을 알아봅니다.*
 
+</div>
 
 ### Experience League 라이브 이벤트
 
@@ -50,6 +53,8 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 * **[Adobe Journey Optimizer를 사용한 푸시 알림](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ko)**
 
    *이 Experience League 라이브 에피소드에서는 Adobe Journey Optimizer를 사용한 푸시 알림의 일반적인 사용 사례에 대해 알아보고 Adobe Experience Platform에서 제공하는 푸시용 앱을 구성하는 방법에 대한 기술적인 세부 정보를 살펴봅니다.*
+
+<div id="staff-picks-section">
 
 ## 직원 추천
 
@@ -143,3 +148,5 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
   </td>
 </tr>
 </table>
+
+</div>
