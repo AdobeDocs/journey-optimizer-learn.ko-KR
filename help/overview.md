@@ -4,10 +4,10 @@ description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
+source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 66%
+source-wordcount: '492'
+ht-degree: 62%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 ## 새로운 기능
 
 ### 튜토리얼
+
+* **[조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)**
+
+   *조건 규칙을 만들고 저장하는 방법과 이러한 조건 규칙을 모든 채널의 콘텐츠에 적용하는 방법을 알아봅니다.*
 
 * **[경고 사용](/help/administration/alerts.md)**
 
