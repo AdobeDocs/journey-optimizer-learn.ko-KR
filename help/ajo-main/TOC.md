@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 87%
+source-wordcount: '274'
+ht-degree: 90%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 87%
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + [Assets 기본 사항](/help/assets-essentials-overview.md)
 + 메시지 만들기 {#create-messages}
-   + [Message Designer 개요](/help/create-messages/message-designer-overview.md)
    + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/create-messages/create-content-with-the-email-designer.md)
    + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/create-messages/import-and-author-html-email-content.md)
    + [미리 보기, 교정 및 게시](/help/create-messages/preview-proof-and-publish.md)
@@ -77,10 +76,9 @@ ht-degree: 87%
    + [사용 사례 - 세그먼트 읽기](/help/create-journeys/use-case-read-segment.md)
    + [사용 사례 - 비즈니스 이벤트](/help/create-journeys/use-case-business-event.md)
    + [사용 사례 - 세그먼트 검증](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [사용 사례 - 버스트 메시지](/help/create-journeys/use-case-burst-message.md)
    + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
    + [여정 게시](/help/create-journeys/publish-a-journey.md)
-   + [다른 샌드박스에 여정 복사](/help/create-journeys/copy-a-journey.md)
+   + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
 + 보고서 및 모니터링 {#report-and-monitor}
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
    + [경고 사용](/help/administration/alerts.md)
