@@ -4,10 +4,10 @@ description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
+source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
 workflow-type: tm+mt
 source-wordcount: '492'
-ht-degree: 62%
+ht-degree: 72%
 
 ---
 
@@ -32,17 +32,20 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 * **[경고 사용](/help/administration/alerts.md)**
 
-   *예기치 않은 여정 행동에 대해 사전 정의된 경고를 구독하고 이메일, Journey Optimizer 내 또는 API를 사용하여 알림을 받는 방법을 알아봅니다.*
+   *예기치 않은 여정 비헤이비어에 대해 사전 정의된 경고를 구독하고 이메일을 통해, Journey Optimizer 내에서 또는 API를 사용하여 알림을 받는 방법에 대해 알아봅니다.*
 
-* **[다른 샌드박스에 여정 복사](/help/create-journeys/copy-a-journey.md)**
+* **[다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)**
 
-   *한 샌드박스에서 다른 샌드박스로 여정 및 종속 개체를 복사하는 방법을 알아봅니다.*
+   *한 샌드박스에서 다른 샌드박스로 여정과 해당 종속 오브젝트를 복사하는 방법에 대해 알아봅니다.*
 
 * **[메시지의 데이터 마스크](/help/privacy/mask-data-in-messages.md)**
 
    *데이터 마스킹의 의미와 마스크 데이터의 이유를 파악합니다. Journey Optimizer 메시지에서 데이터를 마스크하는 방법을 알아봅니다.*
 
 </div>
+
+
+<div id="events-section">
 
 ### Experience League 라이브 이벤트
 
@@ -53,6 +56,15 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 * **[Adobe Journey Optimizer를 사용한 푸시 알림](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ko)**
 
    *이 Experience League 라이브 에피소드에서는 Adobe Journey Optimizer를 사용한 푸시 알림의 일반적인 사용 사례에 대해 알아보고 Adobe Experience Platform에서 제공하는 푸시용 앱을 구성하는 방법에 대한 기술적인 세부 정보를 살펴봅니다.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
