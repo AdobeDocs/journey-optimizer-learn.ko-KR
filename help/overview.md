@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizer Tutorials - 개요
+title: Journey Optimizer 튜토리얼 - 개요
 description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 튜토리얼이 있습니다.
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
@@ -7,7 +7,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 71%
+ht-degree: 98%
 
 ---
 
@@ -36,9 +36,9 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
    *한 샌드박스에서 다른 샌드박스로 여정과 해당 종속 오브젝트를 복사하는 방법에 대해 알아봅니다.*
 
-* **[메시지의 데이터 마스크](/help/privacy/mask-data-in-messages.md)**
+* **[메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)**
 
-   *데이터 마스킹의 의미와 마스크 데이터의 이유를 파악합니다. Journey Optimizer 메시지에서 데이터를 마스크하는 방법을 알아봅니다.*
+   *데이터 마스킹의 의미와 데이터를 마스킹하는 이유를 파악합니다. Journey Optimizer 메시지에서 데이터를 마스킹하는 방법을 알아봅니다.*
 
 </div>
 
@@ -47,9 +47,9 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 ## 라이브 이벤트 Experience League
 
-* **[Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ko-KR)**
+* **[Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ko)**
 
-   *원래 2022년 9월 22일에 열린 이 Experience League 라이브 에피소드에서, 호스트 Sandra Hausmann과 제품 전문가 Bridgete 달링 및 Frederic Mary를 참조하여 이 새로운 특징 커버의 사용 사례를 설명하고 Journey Optimizer에서 캠페인을 쉽게 설정 및 실행하는 방법을 설명하십시오.*
+   *원래 2022년 9월 22일에 열린 이 Experience League 라이브 에피소드에서 호스트인 Sandra Hausmann과 제품 전문가인 Bridgete 달Darling 및 Frederic Mary가 이 새로운 특징 커버의 사용 사례를 설명하고 Journey Optimizer에서 캠페인을 쉽게 설정하고 실행하는 방법을 설명합니다.*
 
 * **[Adobe Journey Optimizer를 사용한 푸시 알림](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ko)**
 
@@ -151,7 +151,7 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
     </a>
     </div>
     <p>
-    <em>라이브 보고서와 글로벌 보고서, 여정 및 메시지 관련 보고서에 액세스하고 분석하는 방법, 보고서 대시보드를 수정하는 방법 등의 차이점을 알아봅니다.
+    <em>라이브 보고서와 글로벌 보고서의 차이, 여정과 메시지에 대한 보고서에 액세스하고 분석하는 방법, 보고서 대시보드를 수정하는 방법을 알아봅니다.
 
 </em>
     <p>

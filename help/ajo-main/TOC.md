@@ -5,7 +5,7 @@ user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다
 source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 88%
+ht-degree: 98%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 88%
    + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
    + [이벤트 만들기](/help/set-up-journeys/create-events.md)
    + [작업 만들기](/help/set-up-journeys/create-actions.md)
-+ 고객 프로필, 세그먼트 및 구독 {#profiles-segments-subscriptions}
++ 고객 프로필, 세그먼트, 구독 {#profiles-segments-subscriptions}
    + [통합 프로필 및 세분화 - 개요](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
@@ -85,4 +85,4 @@ ht-degree: 88%
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
    + [경고 사용](/help/administration/alerts.md)
 + 개인정보 보호 {#privacy}
-   + [메시지의 데이터 마스크](/help/privacy/mask-data-in-messages.md)
+   + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
