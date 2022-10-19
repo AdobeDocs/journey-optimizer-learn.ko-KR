@@ -1,6 +1,6 @@
 ---
 title: 경고 사용
-description: 예기치 않은 여정 행동에 대해 사전 정의된 경고를 구독하고 이메일, Journey Optimizer 내 또는 API를 사용하여 알림을 받는 방법을 알아봅니다.
+description: 예기치 않은 여정 비헤이비어에 대해 사전 정의된 경고를 구독하고 이메일을 통해, Journey Optimizer 내에서 또는 API를 사용하여 알림을 받는 방법에 대해 알아봅니다.
 kt: 11081
 thumbnail: 336218.jpg
 feature: Alerts
@@ -9,16 +9,16 @@ team: PM
 role: Admin
 last-substantial-update: 2022-09-28T00:00:00Z
 source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # 경고 사용
 
-예기치 않은 여정 행동에 대해 사전 정의된 경고를 구독하고 이메일, Journey Optimizer 내 또는 API를 사용하여 알림을 받는 방법을 알아봅니다.
+예기치 않은 여정 비헤이비어에 대해 사전 정의된 경고를 구독하고 이메일을 통해, Journey Optimizer 내에서 또는 API를 사용하여 알림을 받는 방법에 대해 알아봅니다.
 
 >[!NOTE]
 >
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12)
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=en) 추가 정보.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=ko)를 참조하세요.
