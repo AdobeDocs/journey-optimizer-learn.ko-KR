@@ -7,8 +7,8 @@ thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Journey Optimizer의 의사 결정 관리 기능에 대한 개요를 살펴보�
 
 >[!INFO]
 >
-> 이 비디오는 물론 [마케터를 위한 의사 결정 관리 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 교육 과정의 일부이며, [마케터용 의사 결정 관리 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
