@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 학습 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 학습 튜토리얼입니다.
-source-git-commit: 66f4b0fabea40b5e8f2e5abd42ec89b945dd04e9
+source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 93%
+source-wordcount: '292'
+ht-degree: 92%
 
 ---
 
@@ -38,11 +38,11 @@ ht-degree: 93%
    + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + 메시지 만들기 {#create-messages}
-   + [이메일 만들기] {#create-emails}
+   + 이메일 만들기 {#create-emails}
       + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/create-messages/create-content-with-the-email-designer.md)
       + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/create-messages/import-and-author-html-email-content.md)
       + [미리 보기, 교정 및 게시](/help/create-messages/preview-proof-and-publish.md)
-   + SMS 메시지 만들기 {#create-sms}
+   + SMS 텍스트 메시지 만들기 {#create-sms}
       + [SMS 메시지 구성, 작성, 전달](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [SMS에 대한 인바운드 키워드 지원](/help/create-messages/inbound-keyword-support-for-sms.md)
    + 인앱 메시지 만들기 {#create-in-app}
