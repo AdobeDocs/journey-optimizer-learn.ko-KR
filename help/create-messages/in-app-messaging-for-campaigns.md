@@ -9,14 +9,18 @@ thumbnail: 3410430.jpg
 last-update-author: 20221018
 hidefromtoc: true
 hide: true
-source-git-commit: 66f4b0fabea40b5e8f2e5abd42ec89b945dd04e9
+source-git-commit: 7273138957300b45b6075a0164634f456556a5f1
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
 # 캠페인을 위한 인앱 메시지
+
+>[!NOTE]
+> 
+> 인앱 메시지는 베타 버전이며 아직 모든 고객에게 제공되지 않습니다.
 
 인앱 메시지가 무엇인지 이해합니다. Campaign에서 인앱 메시지를 만들고, 구성하고, 게시하는 방법을 알아봅니다.
 
