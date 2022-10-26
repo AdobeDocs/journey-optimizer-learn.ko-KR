@@ -5,14 +5,14 @@ recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 
-# Journey Optimizer 자습서
+# Journey Optimizer 튜토리얼
 
 ![](./assets/ajo-banner.png)
 
@@ -45,7 +45,7 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 <div id="events-section">
 
-## 라이브 이벤트 Experience League
+## Experience League 라이브 이벤트
 
 * **[Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ko)**
 
