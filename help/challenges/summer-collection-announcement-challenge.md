@@ -6,7 +6,7 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
-source-git-commit: d1b4aa69e323d9a6112d2273ea5770c42b044d13
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 2%
@@ -132,7 +132,7 @@ loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or l
 ID 네임스페이스를 사용하여 이메일을 미리 봅니다. *이메일* 및 ID 값: *Jenna_Palmer9530@emailsim.io*
 
 * 제목 줄에는 다음 내용이 포함되어야 합니다. 제나, 새로운 루마 컬렉션이 여기 있어!
-* 이메일 본문은 미리 보기에서 본 이메일과 일치해야 합니다. [새로운 시즌 컬렉션 발표](/help/challenges/assets/SeasonalCollectionEmail.html)
+* 이메일 본문은 미리 보기에서 본 이메일과 일치해야 합니다. [새로운 시즌 컬렉션 발표](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **이메일 메시지 #2 - Luma Men&#39;s Collection**

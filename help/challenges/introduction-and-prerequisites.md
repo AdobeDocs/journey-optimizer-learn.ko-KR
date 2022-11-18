@@ -5,7 +5,7 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: dd2832c1e99ed9b8407a0aa9356335d3bce40622
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 7%
@@ -67,8 +67,8 @@ Luma는 최신 의류 및 기어 컬렉션을 홍보하고 기존 고객을 위�
       <em>새로운 Luma 여름 컬렉션을 홍보합니다. </em>
       <p>
       <b>필요한 기술:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html"> 세그먼트 만들기</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html">HTML 이메일 콘텐츠 가져오기 및 작성</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> 세그먼트 만들기</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML 이메일 콘텐츠 가져오기 및 작성</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">사용 사례 - 세그먼트 읽기</li>
   </td>
   </tr>
@@ -94,7 +94,7 @@ Luma는 최신 의류 및 기어 컬렉션을 홍보하고 기존 고객을 위�
     <td>
     <div>
     <a href="product-replenishment-challenge.md">
-      <img alt="Luma 웹 사이트" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
+      <img alt="Luma 웹 사이트" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
