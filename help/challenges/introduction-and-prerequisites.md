@@ -5,13 +5,13 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
+exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
+source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 7%
+source-wordcount: '391'
+ht-degree: 8%
 
 ---
-
 
 # Journey Optimizer 과제 - 소개 및 사전 요구 사항
 
@@ -25,22 +25,23 @@ ht-degree: 7%
 
 ### 시스템 요구 사항
 
-* Journey Optimizer 샌드박스 액세스
-* 전용 교육 샌드박스에서 이 문제를 완료하는 것이 좋습니다. 자세한 내용은 [교육 샌드박스 자습서 설정](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) 참조하십시오.
-* 다음 액세스 권한이 필요합니다.
-   * *여정 관리자* 또는 *여정 관리자* 권한
-   * 테스트 프로필 및 해당 속성 보기
+* Journey Optimizer 샌드박스 액세스 - 전용 교육 샌드박스에서 이 과제를 완료하는 것이 좋습니다.
 * 인스턴스에 대해 AEM Assets Essentials를 프로비저닝해야 합니다
 * 전자 메일 채널은 트랜잭션 및 마케팅 메시지용으로 구성해야 합니다
 
+### 액세스 권한
+
+다음 액세스 권한이 필요합니다.
+* *여정 관리자* 또는 *여정 관리자*
+* 테스트 프로필 및 해당 속성 보기
+
 >[!NOTE]
-> 이 연습은 Luma 샘플 데이터를 기반으로 개발되었습니다. 샘플 데이터로 구성된 교육 샌드박스를 설정하는 것이 좋습니다. 자습서를 방문하십시오 [Adobe Experience Platform으로 샘플 데이터 가져오기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en) 자세한 지침
+> 이 연습은 Luma 샘플 데이터를 기반으로 개발되었습니다. 샘플 데이터로 구성된 교육 샌드박스를 설정하는 것이 좋습니다. 자습서를 방문하십시오 [교육 샌드박스 구성](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) 자세한 지침은
 
 ### 필수 작업
 
 * Adobe Journey Optimizer을 처음 사용하는 경우 교육 과정을 완료합니다 [여정 관리자 및 관리자를 위한 Journey Optimizer 시작하기](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
-* 시작하기 전에 [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) 파일. 이 파일에는 문제를 해결하는 데 필요한 모든 자산이 포함되어 있습니다
-* 다운로드 폴더에서 `luma-assets.zip` 파일을 컴퓨터의 원하는 위치에 저장하고 압축을 해제합니다.
+
 
 ## 더 스토리
 
