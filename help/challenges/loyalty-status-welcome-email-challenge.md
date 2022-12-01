@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 30d2e0b2cad59385c8b9bc98f7db671027f7906a
+source-git-commit: bcd4e8f01ebb83444934d641d3ee3aafe420bd6b
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 7%
@@ -55,8 +55,7 @@ Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램�
    1. 라는 이름의 트랜잭션 이메일 메시지를 만듭니다 `(your name)_Luma – New Status – Diamond – Transactional email message`.
    1. 전자 메일에 제목란 지정 `Welcome to Diamond Status, (recipient's first name)!`.
    1. 제공된 HTML 파일 사용 **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** 이메일 본문에 사용됩니다.
-
-1. 완료되면 여정을 테스트 모드로 전환하고 여정을 트리거하여 직접 보냅니다  
+4. 완료되면 여정을 테스트 모드로 전환하고 여정을 트리거하여 직접 보냅니다  
 
 ### Luma - 새 상태 - 다이아몬드 - 트랜잭션 이메일 메시지 만들기
 
