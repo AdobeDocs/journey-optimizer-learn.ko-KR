@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 52fb90247fa30d5b5c86d5a464d994e8e7075049
+source-git-commit: 30d2e0b2cad59385c8b9bc98f7db671027f7906a
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 8%
+source-wordcount: '457'
+ht-degree: 7%
 
 ---
 
@@ -45,8 +45,12 @@ Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램�
 
 충성도 고객이 다이아몬드 계층으로 이동하여 새로운 이점을 축하하고 알려면 이메일을 보냅니다. 다음
 
-1. Journey Optimizer에서 **이름 - Luma - 다이아몬드 상태**
-1. 고객이 다이아몬드 새 충성도 계층(특히 고객이 새 다이아몬드 수준 멤버에 대해 정의된 세그먼트를 입력할 때)으로 이동하여 &quot;Luma - 새 상태 - 다이아몬드 - 트랜잭션&quot; 이메일을 보낼 때 트리거되는 여정을 만듭니다
+1. Journey Optimizer에서 **Luma - 다이아몬드 상태**
+2. 고객이 다이아몬드 새 충성도 계층(특히 고객이 새 다이아몬드 수준 멤버에 대해 정의된 세그먼트를 입력할 때)으로 이동하여 &quot;Luma - 새 상태 - 다이아몬드 - 트랜잭션&quot; 이메일을 보낼 때 트리거되는 여정을 만듭니다
+   1. 라는 이름의 트랜잭션 이메일 메시지를 만듭니다 `(your name)_Luma – New Status – Diamond – Transactional email message`.
+   2. 전자 메일에 제목란 지정 `Welcome to Diamond Status, (recipient's first name)!`.
+   3. 제공된 HTML 파일 사용 **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** 이메일 본문에 사용됩니다.
+3. 완료되면 여정을 테스트 모드로 전환하고 여정을 트리거하여 직접 보냅니다  
 
    1. 라는 이름의 트랜잭션 이메일 메시지를 만듭니다 `(your name)_Luma – New Status – Diamond – Transactional email message`.
    1. 전자 메일에 제목란 지정 `Welcome to Diamond Status, (recipient's first name)!`.

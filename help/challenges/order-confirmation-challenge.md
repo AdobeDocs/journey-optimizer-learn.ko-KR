@@ -7,12 +7,13 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
 workflow-type: tm+mt
-source-wordcount: '754'
-ht-degree: 3%
+source-wordcount: '683'
+ht-degree: 4%
 
 ---
+
 
 # 주문 확인 트랜잭션 이메일 만들기
 
@@ -26,21 +27,27 @@ ht-degree: 3%
 
 ## 더 스토리
 
-Luma는 고객이 주문을 한 후 주문 확인 이메일을 제공하여 온라인 스토어를 시작하여 양호한 고객 경험을 확보하려고 합니다.
+Luma는 온라인 스토어를 시작하고 고객이 주문을 하면 주문 확인 이메일을 제공하여 고객 경험을 향상하고자 합니다.
 
-트랜잭션 주문 확인 메시지를 만들고 개인화합니다.
 
-## 필요한 거 다 있어요?
 
 ## 과제
 
-Luma 고객이 온라인 주문을 완료할 때 트리거되는 주문 확인 이메일을 만듭니다.
+Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보내는 여정을 만듭니다.
 
-### 주문 확인 이메일을 만듭니다
+>[!BEGINTABS]
 
-&quot;(사용자의 이름)_Luma - 주문 확인&quot;이라는 새 이메일 메시지를 만듭니다. 제목란은 수신자의 이름으로 개인화되어야 하며 &quot;구매에 대한 감사&quot; 구문을 포함해야 합니다
+>[!TAB 작업]
 
-Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 합니다.
+1. &quot;your name_Order Confirmation&quot;이라는 여정을 만듭니다
+2. 이벤트 사용: 트리거로서의 LumaOnlinePurchase
+
+3. 주문 확인 이메일을 만듭니다.
+
+* 카테고리 트랜잭션 - 트랜잭션 이메일 면을 선택해야 합니다.
+* 제목란은 수신자의 이름으로 개인화되어야 하며 &quot;구매에 대한 감사&quot; 구문을 포함해야 합니다
+
+Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 합니다. 이 경우 **Luma - 주문 요약** 템플릿 및 수정:
 
 <table>
 <tr>
@@ -56,7 +63,6 @@ Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 �
     <li>크기 35%, 가운데 흰색 배경 </li>
     <li>luma 웹 사이트에 대한 링크가 있어야 합니다. https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    팁: assets 폴더에서 메시지 이미지라고 하는 모든 이미지를 찾을 수 있습니다. <p>
     </td>
   </tr>
   <tr>
@@ -71,7 +77,7 @@ Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 �
     <li>여백: 위쪽, 아래쪽(10)<div>
     <p>
     <strong>텍스트</strong><p>
-    <em>구매해 주셔서 감사합니다!</em><p>
+    <em>안녕하세요. {first name}</em><p>
     <li>정렬: 왼쪽  </li>
    <li>텍스트 색상: rgb(101, 106, 119); 글꼴 크기:14px</li>
     <li>패딩: 왼쪽(95), 오른쪽(95)</li><div>
@@ -82,9 +88,12 @@ Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 �
     <li>정렬: 왼쪽  </li>
     <li>텍스트 색상: rgb(101, 106, 119); 글꼴 크기:14px </li>
     <li>패딩: 왼쪽(95), 오른쪽(95)</li><div>
-    </a>
-    <p>
-    <strong>버튼:</strong>
+    </a><p>
+    <em>납품처:<p>
+    <p>이름 성</p>
+    Street<p>
+    도시, 주, 우편 번호</p></em>
+    <strong>버튼:</strong></p>
    <p><em>주문 보기</em></p>
       <li>배경색: rgb(25, 121, 195)</li>
       <li>텍스트 색상: 흰색</li>
@@ -99,9 +108,10 @@ Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 �
      <strong>주문 세부 사항 섹션</strong>
       </div>
       <p>팁:
-      <li>상황에 맞는 이벤트 정보입니다. 메시지를 여정에 추가한 후에만 컨텍스트에 을 추가할 수 있습니다(2단계 참조). 여정에 추가하고 컨텍스트 기반 이벤트 정보로 수정하기 전에 이메일을 게시하지 마십시오!</li>
+      <li>상황에 맞는 이벤트 정보입니다.</li>
       <li>도우미 함수를 사용합니다. 각</li>
-      <li>HTML 편집기 형식을 컨텍스트 데이터에 사용합니다.DIV 태그를 사용하여 정보를 컨테이너에 넣습니다.</li>
+      <li>코드 편집기 형식으로 전환하여 컨텍스트 데이터를 추가합니다. <li>
+      <li>DIV 태그를 사용하여 컨테이너에 정보를 넣습니다.</li>
   </td>
   <td>
     <strong>Header</strong>
@@ -141,19 +151,13 @@ Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 �
   </tr>
 </table>
 
-### 여정 만들기
-
-1. 여정을 &quot;your name _Luma-Order Confirmation&quot;으로 호출합니다.
-1. 이벤트 사용: LumaOnlinePurchase
-1. 작업: 1단계에서 만든 메시지를 추가합니다
-1. 메시지로 돌아가서 컨텍스트 특성을 추가합니다
-1. 이메일 게시
 
 >[!TIP]
 >
 >여정 문제를 해결할 수 있도록 하기 위해 가장 좋은 방법은 시간 제한이나 오류가 발생할 경우 모든 메시지 작업에 대체 경로를 추가하는 것입니다.
 
-+++성공 기준
+
+>[!TAB 작업 확인]
 
 테스트 모드에서 만든 여정을 트리거하고 직접 이메일을 전송합니다.
 
@@ -181,17 +185,20 @@ Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 �
 
    43913 타일러 테라스, 워싱턴 DC 20099
 
-+++
 
-+++작업 확인
+>[!TAB 성공 기준]
+
+** 여정
+
+![여정](/help/challenges/assets/c2-journey.png)
+
+
+** 이메일
 
 **제목 줄:**
 
 {{ profile.person.name.firstName }}감사합니다!
 
-**헤더 및 확인 섹션:**
-
-![헤더 및 주문 확인](/help/challenges/assets/c2-header.png)
 
 **주문 세부 사항 섹션:**
 
@@ -230,11 +237,4 @@ Total: ${{context.journey.events.1627840522.commerce.order.priceTotal}}
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**바닥글:**
-![바닥글](/help/challenges/assets/c2-footer.png)
-
-**여정**
-
-![여정](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]
