@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 8%
+source-wordcount: '449'
+ht-degree: 12%
 
 ---
 
@@ -61,11 +61,10 @@ Luma는 최신 의류 및 기어 컬렉션을 홍보하고 기존 고객을 위�
       </div>
   </td>
   <td>
-   <a href="summer-collection-announcement-challenge.md">
-    <strong>여름 컬렉션 공지 만들기 </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">여름 컬렉션 공지 만들기 </strong>
     </a>
       <p>
-      <em>새로운 Luma 여름 컬렉션을 홍보합니다. </em>
+      <em>기존 고객의 세그먼트에 여름 컬렉션 공지 이메일을 보내는 여정을 만듭니다. </em>
       <p>
       <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> 세그먼트 만들기</li>
@@ -82,26 +81,29 @@ Luma는 최신 의류 및 기어 컬렉션을 홍보하고 기존 고객을 위�
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong>주문 확인 만들기</strong>
+    <strong><a href="order-confirmation-challenge.md">주문 확인 만들기</strong>
     </a>
     <div>
     <p>
-    <em>누군가 온라인 구매를 완료하면 주문 확인 이메일을 보냅니다
+    <em>트랜잭션 메시지를 만들고 개인화하는 방법에 대한 지식을 테스트합니다
     </em>
     <p>
+    <b>필요한 기술:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> 메시지 편집기로 이메일 콘텐츠 만들기</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">개인화에 컨텍스트 기반 이벤트 정보 사용</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">개인화에 도우미 기능 사용</li>
   </td>
   </tr>
   <tr>
     <td>
     <div>
-    <a href="product-replenishment-challenge.md">
-      <img alt="Luma 웹 사이트" src="./assets/email-assets/luma-ProductReplenishment.png"/>
+    <a>
+      <img alt="Luma 제품 보충" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="product-replenishment-challenge.md">
-    <strong>제품 보충 통지 생성 </strong>
+      <strong>제품 보충 통지 생성(준비 중)</strong>
     </a>
     </div>
     <p>
@@ -112,14 +114,14 @@ Luma는 최신 의류 및 기어 컬렉션을 홍보하고 기존 고객을 위�
   <tr>
     <td>
     <div>
-    <a href="loyalty-status-welcome-email-challenge.md">
+    <a>
       <img alt="시작" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="loyalty-status-welcome-email-challenge.md">
-    <strong>충성도 상태 시작 이메일 만들기 </strong>
+      <a>
+    <strong>충성도 상태 시작 이메일 만들기(준비 중) </strong>
     </a>
     </div>
     <p>
