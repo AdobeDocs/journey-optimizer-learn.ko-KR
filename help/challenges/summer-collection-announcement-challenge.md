@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
+source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1161'
 ht-degree: 2%
 
 ---
@@ -103,20 +103,20 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 2. 라는 여정 만들기 `Luma - Summer collection announcement` 다음 지침을 기반으로 합니다.
 
-   1. 보내기 *Luma - 새로운 시즌 컬렉션 발표* 전자 메일 *활성 고객* 세그먼트, 대상자의 10%를 컨트롤 그룹으로 보유
-      * 메시지 제목 `Luma New Seasonal Collection Announcement`.
-      * 제목 줄 `(recipient's first name), the new Luma collection is here!`.
+   1. 보내기 *Luma - 새로운 여름 컬렉션 발표* 전자 메일 *활성 고객* 세그먼트, 대상자의 10%를 컨트롤 그룹으로 보유
+      * 메시지 제목 `Luma - Summer Collection Announcement`.
+      * 제목 줄 `(recipient's first name), the new Luma summer collection is here!`.
       * 제공된 HTML 파일 사용 *SeasonalCollectionEmail.html* 이메일 본문에 사용됩니다.
    2. 이틀 동안 기다렸다가 더 많은 타깃팅된 컨텐츠가 있는 후속 이메일 메시지를 보냅니다.
-      * 남성 고객은 **Luma Men&#39;s Collection 이메일**
+      * 남성 고객은 **Luma Men&#39;s Collection** 이메일.
          * 메시지 제목: `Luma Men's Collection`
          * 제목 줄: `(recipient's first name), explore Men's New athletic gear!`
          * 이메일 본문: *MensCollectionEmail.html* 이메일 본문에 사용됩니다.
-      * 여성 고객은 **Luma Women&#39;s Collection 이메일**
+      * 여성 고객은 **루마 여자 컬렉션** 이메일.
          * 메시지 제목: `Luma Women's Collection`
          * 제목 줄: `(recipient's first name), explore Luma's Women Collection!`
          * 이메일 본문: *WomensCollectionEmail.html*
-      * 다른 고객은 **Luma - 컬렉션 이메일 20% 할인**
+      * 다른 고객은 **Luma - 컬렉션 20% 해제** 이메일.
          * 메시지 제목: `Luma - 20 % off Collection`
          * 제목 줄: `(recipient's first name), enjoy 20% off sales!`
          * 이메일 본문: *20FfCollectionEmail.html*
@@ -128,36 +128,48 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 #### 이메일 미리 보기
 
-**이메일 메시지 #1 - 새로운 시즌 컬렉션 발표**
+**이메일 메시지 #1 - Luma - 여름 컬렉션 발표**
 
-ID 네임스페이스를 사용하여 이메일을 미리 봅니다. *이메일* 및 ID 값: *Jenna_Palmer9530@emailsim.io*
+전자 메일 미리 보기:
 
-* 제목 줄에는 다음 내용이 포함되어야 합니다. 제나, 새로운 루마 컬렉션이 여기 있어!
+1. 테스트 프로필 추가: 루이스 페티:
+   1. ID 네임스페이스: *Luma CRM ID*
+   2. ID 값: *d1f132f9f9502bba047a6ec86c4b61f9*
+
+결과:
+* 제목 줄에는 다음 내용이 포함되어야 합니다. 루이즈, 새로운 루마 컬렉션이 여기 있어!
 * 이메일 본문은 미리 보기에서 본 이메일과 일치해야 합니다. [새로운 시즌 컬렉션 발표](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **이메일 메시지 #2 - Luma Men&#39;s Collection**
 
-자신에게 증명 보내기
+자신에게 증명 보내기:
 
-* 이메일 주소를 입력합니다
-* 테스트 프로필을 선택합니다. Chris_Scott1244@emailsim.io
+1. 테스트 프로필 추가: 스탠레이 스토케:
+   1. ID 네임스페이스: *Luma CRM ID*
+   2. ID 값: `4f34057d9d9e792c28ba18ecae378e98`
+1. 테스트 프로필을 선택합니다. 스탠리 스토오케
+2. 자신에게 증명 보내기
 
-이메일을 받아야 합니다. 제목 줄에 &quot;Chris, explore Men&#39;s New athletic gear!&quot; 이라고 적혀 있어야 합니다. 및 이메일 본문은 미리 보기에서 본 내용과 일치해야 합니다. [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+결과:\
+이메일을 받아야 합니다. 제목 줄에는 &quot;Stanleigh, explore Men&#39;s New athletic gear!&quot; 이라고 쓰여 있어야 합니다. 및 이메일 본문은 미리 보기에서 본 내용과 일치해야 합니다. [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+
+>[!NOTE]
+>증명을 받으려면 2분 정도 걸릴 수 있습니다.
 
 **이메일 메시지 #3 - Luma Women&#39;s Collection**
 
-ID 네임스페이스를 사용하여 이메일을 미리 봅니다. *이메일* 및 ID 값: *Jenna_Palmer9530@emailsim.io*
+테스트 프로필 &#39;Louise Petti&#39;를 사용하여 이메일을 미리 봅니다.
 
-* 제목 줄에는 다음 내용이 포함되어야 합니다. *제나, 루마의 여성 콜렉션을 살펴봐!*
+* 제목 줄에는 다음 내용이 포함되어야 합니다. *루이즈, 루마의 여성 콜렉션을 살펴보세요!*
 * 이메일 본문은 미리 보기에서 본 이메일과 일치해야 합니다. [루마 여자 컬렉션](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 
 **이메일 메시지 #4 - Luma 20% 오프 컬렉션**
 
-ID 네임스페이스를 사용하여 이메일을 미리 봅니다. *이메일* 및 ID 값: *Benny_Steer4909@emailsim.io*
+테스트 프로필 &#39;Louise Petti&#39;를 사용하여 이메일을 미리 봅니다.
 
-* 제목 줄에는 다음 내용이 포함되어야 합니다. *베니, 20% 할인 판매!*
+* 제목 줄에는 다음 내용이 포함되어야 합니다. *루이즈, 20%의 판매량을 즐기세요!*
 * 이메일 본문은 미리 보기에서 본 이메일과 일치해야 합니다. [Luma 20% 오프 컬렉션](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 **이메일 게시 잊지 마십시오!**
@@ -168,16 +180,16 @@ ID 네임스페이스를 사용하여 이메일을 미리 봅니다. *이메일*
 >
 >여정을 테스트 모드로 설정하기 전에:
 >
->1. 세그먼트 읽기 활동 에 네임스페이스가 이메일로 설정되어 있는지 확인합니다.
+>1. 세그먼트 읽기 활동 에 네임스페이스가 **Luma CRM ID(lumaCrmId)**
 >1. 각 이메일에 대해 이메일 주소로 전송하도록 이메일의 기본 이메일 매개 변수를 무시합니다.
->1. 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
->1. 전자 메일 매개 변수에서 T 기호를 클릭합니다(매개 변수 무시 활성화).
+   >    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
+   >    * 전자 메일 매개 변수에서 T 기호를 클릭합니다(매개 변수 무시 활성화).
 
-   >
-   >      ![전자 메일 매개 변수 무시](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->1. Address 필드를 클릭합니다.
->1. 다음 화면에서는 이메일 주소를 괄호로 묶습니다. *yourname@yourdomain* 표현식 편집기에서 확인을 클릭합니다.
+      >
+      >      ![전자 메일 매개 변수 무시](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Address 필드를 클릭합니다.
+   >    * 다음 화면에서는 이메일 주소를 괄호로 묶습니다. `"yourname@yourdomain"` 표현식 편집기에서 확인을 클릭합니다.
 
 >
 
@@ -189,9 +201,9 @@ ID 네임스페이스를 사용하여 이메일을 미리 봅니다. *이메일*
 3. 대기 시간: 타이머를 120초로 설정합니다(필드에 입력).
 4. 프로필 시작 트리거
 5. 다음 이메일 주소 중 하나를 프로필 식별자로 사용하여 각 분기를 테스트할 수 있습니다.
-   * 여성: 제나 팔머: Jenna_Palmer9530@emailsim.io
-   * 남성: 크리스 스캇: Chris_Scott1244@emailsim.io
-   * 성별을 지정하지 않았습니다. 베니 스트리: Benny_Steer4909@emailsim.io
+   * 여성: Louise Petti, ID 값: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * 남성: Stanleigh Stooke, ID 값: `4f34057d9d9e792c28ba18ecae378e98`
+   * 성별을 지정하지 않았습니다. Leora Diitsche, a8f14eab3b483c2b96171b575ecd90b1
 
 6. 프로필 입력을 트리거하면 첫 번째 이메일을 수신해야 하며, 헤더는 선택한 프로필에 따라 개인화되어야 합니다.
 7. 여정은 각 분기로 계속 진행되어야 하며 관련 이메일을 수신해야 합니다(예를 들어, 젠나를 선택한 경우, &quot;Luma 여성 컬렉션&quot; 이메일을 수신해야 함).
