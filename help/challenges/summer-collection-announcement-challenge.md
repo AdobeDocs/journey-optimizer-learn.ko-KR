@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 2%
 
 ---
@@ -172,7 +172,6 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 * 제목 줄에는 다음 내용이 포함되어야 합니다. *루이즈, 20%의 판매량을 즐기세요!*
 * 이메일 본문은 미리 보기에서 본 이메일과 일치해야 합니다. [Luma 20% 오프 컬렉션](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**이메일 게시 잊지 마십시오!**
 
 #### 여정 테스트
 
@@ -200,10 +199,10 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 2. 한 번에 하나의 프로필 선택
 3. 대기 시간: 타이머를 120초로 설정합니다(필드에 입력).
 4. 프로필 시작 트리거
-5. 다음 이메일 주소 중 하나를 프로필 식별자로 사용하여 각 분기를 테스트할 수 있습니다.
-   * 여성: Louise Petti, ID 값: *d1f132f9f9502bba047a6ec86c4b61f9*
+5. 다음 중 하나를 사용하여 각 분기를 테스트할 수 있습니다 *Luma CRM Id* 프로필 식별자로서:
+   * 여성: Leora Diitsche, ID 값:`a8f14eab3b483c2b96171b575ecd90b1`
    * 남성: Stanleigh Stooke, ID 값: `4f34057d9d9e792c28ba18ecae378e98`
-   * 성별을 지정하지 않았습니다. Leora Diitsche, a8f14eab3b483c2b96171b575ecd90b1
+   * 성별을 지정하지 않았습니다. Louise Petti, ID 값: &#39;d1f132f9f9502bba047a6ec86c4b61f9&#39;
 
 6. 프로필 입력을 트리거하면 첫 번째 이메일을 수신해야 하며, 헤더는 선택한 프로필에 따라 개인화되어야 합니다.
 7. 여정은 각 분기로 계속 진행되어야 하며 관련 이메일을 수신해야 합니다(예를 들어, 젠나를 선택한 경우, &quot;Luma 여성 컬렉션&quot; 이메일을 수신해야 함).
@@ -216,9 +215,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 * Luma - 새로운 시즌 컬렉션 발표
 * 사용한 테스트 프로필에 따라 다음 이메일 중 하나를 수신해야 합니다.
-   * 제나: 루마 여자 컬렉션
-   * 크리스: Luma Men&#39;s Collection
-   * 베니: Luma - 20% 해제 컬렉션
+   * 레오라: 루마 여자 컬렉션
+   * 스탠리: Luma Men&#39;s Collection
+   * 루이스: Luma - 20% 해제 컬렉션
 * 두 번째 이메일을 열지 않은 경우: Luma - 20% 해제 컬렉션
 
 >[!TAB 작업 확인]
