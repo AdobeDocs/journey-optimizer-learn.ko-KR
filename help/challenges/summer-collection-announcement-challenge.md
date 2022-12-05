@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
+source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
 workflow-type: tm+mt
 source-wordcount: '1161'
 ht-degree: 2%
@@ -147,9 +147,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 1. 테스트 프로필 추가: 스탠레이 스토케:
    1. ID 네임스페이스: *Luma CRM ID*
-   2. ID 값: `4f34057d9d9e792c28ba18ecae378e98`
+   1. ID 값: `4f34057d9d9e792c28ba18ecae378e98`
 1. 테스트 프로필을 선택합니다. 스탠리 스토오케
-2. 자신에게 증명 보내기
+1. 자신에게 증명 보내기
 
 결과:\
 이메일을 받아야 합니다. 제목 줄에는 &quot;Stanleigh, explore Men&#39;s New athletic gear!&quot; 이라고 쓰여 있어야 합니다. 및 이메일 본문은 미리 보기에서 본 내용과 일치해야 합니다. [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
