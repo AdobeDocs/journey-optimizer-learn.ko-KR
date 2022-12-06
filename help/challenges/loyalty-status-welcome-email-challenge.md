@@ -7,16 +7,16 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '445'
 ht-degree: 4%
 
 ---
 
 # 충성도 상태 환영 이메일 만들기 - 문제
 
-![AJO 충성도 상태 환영 이메일 - 챌린지 배너](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
+![충성도 상태 환영 이메일 - 챌린지 배너](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
 
 | 과제 | 충성도 상태 시작 이메일 만들기 |
 |---|---|
@@ -40,37 +40,37 @@ Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램�
 
 충성도 고객이 플래티넘 계층의 자격을 얻으면 축하 메시지를 받고 새로운 이점을 알려주어야 합니다. 크리에이티브 팀이 HTML 파일을 제공했습니다 **[Luma - 상태 업그레이드 - 시작 eMail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** 이메일 본문으로 바꿉니다.
 
-1. Journey Optimizer에서 `Luma – status upgrade`.
-2. &#39;Luma - 새 상태 - 플래티넘&#39;이라는 여정을 만듭니다.
-   1. 고객이 Platinum 충성도 계층의 자격을 얻으면 여정으로 이동합니다.
-   2. 고객은 라는 이름의 이메일 메시지를 수신해야 합니다 `Luma – Platinum Status - Welcome`, 제목 줄 사용 `Welcome to Platinum Status, (recipient's first name)!` 창조 팀이 제공한 본체로
+1. 만들기 [!UICONTROL 세그먼트] Journey Optimizer 호출 `Luma – status upgrade`.
+2. 라는 여정 만들기 `Luma – New Status – platinum`.
+   1. 고객이 Platinum 충성도 계층의 자격이 되는 경우 여정으로 이동합니다.
+   2. 고객은 라는 이름의 이메일 메시지를 수신해야 합니다 `Luma – Platinum Status - Welcome`, 제목 줄 사용 `Welcome to Platinum Status, (recipient's first name)!` 크리에이티브 팀이 제공한 이메일 바디와 함께 사용할 수 있습니다.
    3. HTML 파일을 업로드할 때 이메일이 &quot;백금&quot;이 아닌 &quot;다이아몬드&quot; 상태를 참조한다는 것을 알 수 있습니다. 크리에이티브 팀에 새 파일을 요청하지 않고 이메일 디자이너에서 이메일을 업데이트합니다.
 
 >[팁!]
-> Luma - Platinum Status - Welcome eMail이 트랜잭션인지 확인합니다.
+> Luma - Platinum Status - Welcome eMail이[!UICONTROL 트랜잭션].
 
 
 >[!TAB 성공 기준]
 
 여정 테스트:
 
-1. 세그먼트 읽기 활동 에 네임스페이스가 **Luma CRM ID(lumaCrmId)**
-2. 기본 이메일 매개 변수를 재정의하고 고유한 이메일 주소로 설정합니다
+1. 다음을 확인합니다. [!UICONTROL 세그먼트 활동 읽기] 있음 [!UICONTROL namespace] 설정 **[!DNL Luma CRM id(lumaCrmId)]**
+2. 기본값 재정의 [!UICONTROL 전자 메일 매개 변수] 고유한 이메일 주소로 설정합니다
 
-+++ 재정의 방법에 대한 자세한 내용을 보려면 여기를 클릭하십시오.
++++ 재정의 방법에 대한 자세한 내용을 보려면 여기를 클릭하십시오. [!!UICONTROL 전자 메일 매개 변수].
    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
-   * 전자 메일 매개 변수에서 T 기호를 클릭합니다(매개 변수 무시 활성화).
+   * 에서 [!UICONTROL 전자 메일 매개 변수]를 클릭하고 T 기호를 클릭합니다(매개 변수 무시 활성화).
 
    ![전자 메일 매개 변수 무시](/help/challenges/assets/c3-override-email-paramters.jpg)
 
-   * Address 필드를 클릭합니다.
+   * 을(를) 클릭하여 [!UICONTROL 주소 필드]
    * 다음 화면에서는 이메일 주소를 괄호로 묶습니다. `"yourname@yourdomain"` 표현식 편집기에서 확인을 클릭합니다.
 +++
 
 
 3. 여정을 테스트 모드로 설정합니다
 4. 이벤트 트리거
-5. 프로필 식별자 필드에 Stanleigh Stoke용 다음 CRM ID를 추가합니다. `4f34057d9d9e792c28ba18ecae378e98`
+5. 다음을 추가합니다 [!DNL CRM ID] 대상 [!DNL Stanleigh Stooke] 로 [!UICONTROL 프로필 식별자] 필드: `4f34057d9d9e792c28ba18ecae378e98`
 
 개인화된 을 수신해야 합니다 *Luma - 플래티넘 상태 - 시작* 이메일.
 
