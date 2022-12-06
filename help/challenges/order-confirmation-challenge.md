@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 4%
 
 ---
@@ -40,7 +40,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 >[!TAB 작업]
 
 1. &quot;your name_Order Confirmation&quot;이라는 여정을 만듭니다
-2. 이벤트 사용: 트리거로서의 LumaOnlinePurchase
+2. 이벤트 사용: [!DNL LumaOnlinePurchase] 트리거로
 
 3. 주문 확인 이메일을 만듭니다.
 
