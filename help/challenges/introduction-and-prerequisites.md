@@ -6,9 +6,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '428'
 ht-degree: 12%
 
 ---
@@ -72,6 +72,24 @@ Luma는 최신 의류 및 기어 컬렉션을 홍보하고 기존 고객을 위�
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">사용 사례 - 세그먼트 읽기</li>
   </td>
   </tr>
+   <tr>
+    <td>
+    <div>
+    <a>
+      <img alt="시작" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+    </a>
+    </div>
+    <td>
+    <div >
+      <a>
+    <strong>충성도 상태 시작 이메일 만들기(준비 중) </strong>
+    </a>
+    </div>
+    <p>
+    <em>충성도 고객이 새로운 계층으로 이동하여 새로운 혜택을 축하하고 알려주면 e-메일을 보냅니다</em>
+    <p>
+  </td>
+  </tr>
   <tr>
   <td>
   <div>
@@ -93,40 +111,4 @@ Luma는 최신 의류 및 기어 컬렉션을 홍보하고 기존 고객을 위�
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">개인화에 컨텍스트 기반 이벤트 정보 사용</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">개인화에 도우미 기능 사용</li>
   </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="Luma 제품 보충" src="./assets/email-assets/luma-ProductReplenishment.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <strong>제품 보충 통지 생성(준비 중)</strong>
-    </a>
-    </div>
-    <p>
-    <em>이전에 재고 부족 항목이 다시 재고가 있는 경우 고객에게 알립니다.</em>
-    <p>
-  </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="시작" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <a>
-    <strong>충성도 상태 시작 이메일 만들기(준비 중) </strong>
-    </a>
-    </div>
-    <p>
-    <em>충성도 고객이 새로운 계층으로 이동하여 새로운 혜택을 축하하고 알려주면 e-메일을 보냅니다</em>
-    <p>
-  </td>
-  </tr>
 </table>

@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 2%
@@ -45,7 +45,7 @@ Luma 마케팅 팀은 Journey Optimizer에서 여름 컬렉션 마케팅 캠페�
 
 * Journey Optimizer에서 `Active Customers`.
 * 세그먼트는 활성 Luma 고객만 포함해야 합니다.
-* 활성 고객은 Luma의 충성도 프로그램(은, 금, 백금 또는 다이아몬드)에 계층이 있는 고객으로 정의됩니다.
+* 활성 고객은 Luma의 충성도 프로그램(청동, 은, 금 또는 백금)에 계층이 있는 고객으로 정의됩니다.
 
 
 >[!TAB 성공 기준]
