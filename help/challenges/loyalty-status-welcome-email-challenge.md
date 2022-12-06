@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '451'
 ht-degree: 4%
 
 ---
@@ -58,15 +58,15 @@ Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램�
 2. 기본값 재정의 [!UICONTROL 전자 메일 매개 변수] 고유한 이메일 주소로 설정합니다
 
 +++ 재정의 방법에 대한 자세한 내용을 보려면 여기를 클릭하십시오. [!!UICONTROL 전자 메일 매개 변수].
-   * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
-   * 에서 [!UICONTROL 전자 메일 매개 변수]를 클릭하고 T 기호를 클릭합니다(매개 변수 무시 활성화).
 
-   ![전자 메일 매개 변수 무시](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-   * 을(를) 클릭하여 [!UICONTROL 주소 필드]
-   * 다음 화면에서는 이메일 주소를 괄호로 묶습니다. `"yourname@yourdomain"` 표현식 편집기에서 확인을 클릭합니다.
+    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
+    * [!UICONTROL 전자 메일 매개 변수]를 클릭하고 T 기호를 클릭합니다(매개 변수 무시 활성화).
+    
+    ![전자 메일 매개 변수 무시](/help/challenges/assets/c3-override-email-paramters.jpg)
+    
+    * 를 클릭하여 [!UICONTROL 주소 필드]
+    * 다음 화면에서는 이메일 주소를 괄호로 묶습니다. 표현식 편집기에서 &#39;&quot;yourname@yourdomain&quot;&#39;을 클릭하고 [확인]을 클릭합니다.
 +++
-
 
 3. 여정을 테스트 모드로 설정합니다
 4. 이벤트 트리거

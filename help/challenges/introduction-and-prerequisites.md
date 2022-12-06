@@ -6,9 +6,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '454'
 ht-degree: 11%
 
 ---
@@ -90,7 +90,7 @@ Luma는 최신 의류 및 기어 컬렉션을 홍보하고 기존 고객을 위�
     <p>
     <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> 세그먼트 만들기</li>
-      <li><a [href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">세그먼트 자격 조건</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">세그먼트 자격 조건</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML 이메일 콘텐츠 가져오기 및 작성</li>
   </td>
   </tr>
