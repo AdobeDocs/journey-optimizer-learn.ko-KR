@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
+source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '437'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 4%
 |---|---|
 | 담당자 | 여정 관리자 |
 | 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[세그먼트 자격 조건](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[HTML 콘텐츠 가져오기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
-| 다운로드할 자산 | [platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip) |
+| 다운로드할 자산 | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## 더 스토리
 
@@ -56,21 +56,18 @@ Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램�
 
 1. 다음을 확인합니다. [!UICONTROL 세그먼트 활동 읽기] 있음 [!UICONTROL namespace] 설정 **[!DNL Luma CRM id(lumaCrmId)]**
 2. 기본값 재정의 [!UICONTROL 전자 메일 매개 변수] 고유한 이메일 주소로 설정합니다
+   * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
+   * 에서 [!UICONTROL 전자 메일 매개 변수]를 클릭하고 T 기호를 클릭합니다(매개 변수 무시 활성화).
 
-+++을 재정의하는 방법에 대한 자세한 내용을 보려면 여기를 클릭하십시오. [!!UICONTROL 전자 메일 매개 변수].
+       ![전자 메일 매개 변수 무시](/help/challenges/assets/c3-override-email-paramters.jpg)
+   
+   * 을(를) 클릭하여 [!UICONTROL 주소 필드]
+   * 다음 화면에서는 이메일 주소를 괄호로 묶습니다. `"yourname@yourdomain"` 표현식 편집기에서 확인을 클릭합니다.
 
-* 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
-* 에서 [!UICONTROL 전자 메일 매개 변수]를 클릭하고 T 기호를 클릭합니다(매개 변수 무시 활성화).
 
-![전자 메일 매개 변수 무시](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-* 을(를) 클릭하여 [!UICONTROL 주소 필드]
-* 다음 화면에서는 이메일 주소를 괄호로 묶습니다. `"yourname@yourdomain"` 표현식 편집기에서 확인을 클릭합니다.
-+++
-
-1. 여정을 테스트 모드로 설정합니다
-2. 이벤트 트리거
-3. 다음을 추가합니다 [!DNL CRM ID] 대상 [!DNL Stanleigh Stooke] 로 [!UICONTROL 프로필 식별자] 필드: `4f34057d9d9e792c28ba18ecae378e98`
+3. 여정을 테스트 모드로 설정합니다
+4. 이벤트 트리거
+5. 다음을 추가합니다 [!DNL CRM ID] 대상 [!DNL Stanleigh Stooke] 로 [!UICONTROL 프로필 식별자] 필드: `4f34057d9d9e792c28ba18ecae378e98`
 
 개인화된 을 수신해야 합니다 *Luma - 플래티넘 상태 - 시작* 이메일.
 
