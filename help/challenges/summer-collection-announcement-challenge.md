@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
+source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1138'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Luma 마케팅 팀은 Journey Optimizer에서 여름 컬렉션 마케팅 캠페�
 
 >[!TAB 성공 기준]
 
-세그먼트 빌더에서 예상 자격 있는 프로필 수를 볼 수 있습니다. 교육 샌드박스 데이터를 사용하여 작업하는 경우 1.29K에서 약 753개의 자격 조건을 갖춘 프로필이 제공됩니다.
+세그먼트 빌더에서 예상 자격 있는 프로필 수를 볼 수 있습니다. 교육 샌드박스 데이터를 사용하여 작업하는 경우 1.29K에서 약 753개의 인증된 프로필이 있습니다.
 
 >[!NOTE]
 >기존 프로필을 다시 채워야 하므로 기존 프로필에 대해 세그먼트 멤버십이 표시되는 데 최대 24시간이 걸릴 수 있습니다.
@@ -202,7 +202,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 5. 다음 중 하나를 사용하여 각 분기를 테스트할 수 있습니다 *Luma CRM Id* 프로필 식별자로서:
    * 여성: Leora Diitsche, ID 값:`a8f14eab3b483c2b96171b575ecd90b1`
    * 남성: Stanleigh Stooke, ID 값: `4f34057d9d9e792c28ba18ecae378e98`
-   * 성별을 지정하지 않았습니다. Louise Petti, ID 값: &#39;d1f132f9f9502bba047a6ec86c4b61f9&#39;
+   * 성별을 지정하지 않았습니다. Louise Petti, ID 값: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 6. 프로필 입력을 트리거하면 첫 번째 이메일을 수신해야 하며, 헤더는 선택한 프로필에 따라 개인화되어야 합니다.
 7. 여정은 각 분기로 계속 진행되어야 하며 관련 이메일을 수신해야 합니다(예를 들어, 젠나를 선택한 경우, &quot;Luma 여성 컬렉션&quot; 이메일을 수신해야 함).
