@@ -7,10 +7,11 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: b358ede4a9855b290ce4efa8611173f44e689b61
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1063'
 ht-degree: 7%
 
 ---
@@ -24,11 +25,11 @@ ht-degree: 7%
 
 ## 1단계: ID 네임스페이스 만들기
 
-이 단계에서는 [!DNL Luma] 이름이 사용자 지정 ID 필드 `loyaltyId`, `crmId`, 및 `lumaProduct`. 동일한 네임스페이스에 있는 두 개의 일치 값을 사용하면 두 데이터 소스가 ID 그래프를 형성할 수 있으므로 ID 네임스페이스는 실시간 고객 프로필을 작성하는 데 중요한 역할을 합니다.
+이 단계에서는 [!DNL Luma] 이름이 사용자 지정 ID 필드 `lumaLoyaltyId`, `lumaCrmId`, 및 `lumaProductSKU`. 동일한 네임스페이스에 있는 두 개의 일치 값을 사용하면 두 데이터 소스가 ID 그래프를 형성할 수 있으므로 ID 네임스페이스는 실시간 고객 프로필을 작성하는 데 중요한 역할을 합니다.
 
-에 대한 네임스페이스를 만들어 시작합니다 [!DNL Luma] 충성도 스키마:
+만들기 시작 [!UICONTROL namespace] 대상 [!DNL Luma Loyalty ID] 스키마:
 
-1. Platform 사용자 인터페이스에서 로 이동합니다. **[!UICONTROL ID]** 을 클릭합니다.
+1. Journey Optimizer 사용자 인터페이스에서 *로 이동합니다.**[!UICONTROL 고객]** > **[!UICONTROL ID]** 을 클릭합니다.
 
 1. 선택 **[!UICONTROL ID 네임스페이스 만들기]**.
 
@@ -36,7 +37,7 @@ ht-degree: 7%
 
    | 표시 이름 | ID 기호 | 유형 |
    |---|---|---|
-   | `Luma Loyalty ID` | `lumaLoyalty` | [!UICONTROL 교차 장치 ID] |
+   | `Luma Loyalty ID` | `lumaLoyaltyId` | [!UICONTROL 교차 장치 ID] |
 
 1. **[!UICONTROL 만들기]**&#x200B;를 선택합니다.
 
@@ -46,16 +47,16 @@ ht-degree: 7%
 
    | 표시 이름 | ID 기호 | 유형 |
    |---|---|---|
-   | `Luma CRM ID` | `lumaCRM` | [!UICONTROL 교차 장치 ID] |
-   | `Luma Product` | `lumaProduct` | [!UICONTROL 비사용자 식별자] |
+   | `Luma CRM ID` | `lumaCrmId` | [!UICONTROL 교차 장치 ID] |
+   | `Luma Product SKU` | `lumaProductSKU` | [!UICONTROL 비사용자 식별자] |
 
 ## 2단계: 스키마 만들기
 
 이 단계에서는 6개를 만들어 샘플 데이터의 구조를 정의합니다 [[!UICONTROL 스키마]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
 
-* [[!DNL Luma Loyalty]](#create-luma-loyalty-schema)
+* [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 
-* [[!DNL Luma Products]](#create-luma-products-schema)
+* [[!DNL Luma Product catalog Schema]](-catalog)
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
@@ -107,7 +108,7 @@ ht-degree: 7%
 
 1. 스키마의 맨 위 노드를 선택합니다.
 
-1. Enter 키 `Luma Loyalty` 로서의 [!UICONTROL 표시 이름].
+1. Enter 키 `Luma Loyalty Schema` 로서의 [!UICONTROL 표시 이름].
 
 #### 만들기 [!UICONTROL 필드 그룹]
 
@@ -117,7 +118,7 @@ ht-degree: 7%
 
 1. 선택 **[!UICONTROL 새 필드 그룹 만들기]**.
 
-1. 추가 `Luma Identifiers` 로서의 **[!UICONTROL 표시 이름]**.
+1. 추가 `Luma Identity Profile Field Group` 로서의 **[!UICONTROL 표시 이름]**.
 
 1. 추가 `system identifiers for XDM Individual Profile class` 로서의 **[!UICONTROL 설명]**.
 
@@ -137,7 +138,7 @@ ht-degree: 7%
 
    * **필드 이름:** `systemIdentifier`
 
-   * **[!UICONTROL 디스플레이 이름]:** `System Identifier`
+   * **[!UICONTROL 표시 이름]:** `System Identifier`
 
    * **유형:** 개체
 
@@ -158,31 +159,31 @@ ht-degree: 7%
 
 #### ID 설정
 
-이제 네임스페이스와 [!DNL Luma] 충성도 스키마가 구성되었습니다. 데이터를 수집하려면 먼저 ID 필드에 레이블을 지정해야 합니다. 에 사용되는 각 스키마 [!UICONTROL 실시간 고객 프로필] 는 기본 ID를 지정해야 하며 수집된 각 레코드에는 해당 필드에 대한 값이 있어야 합니다.
+이제 [!UICONTROL namespace] 그리고 [!DNL Luma Loyalty schema] 구성했습니다. 데이터를 수집하려면 먼저 ID 필드에 레이블을 지정해야 합니다. 에 사용되는 각 스키마 [!UICONTROL 실시간 고객 프로필] 는 기본 ID를 지정해야 하며 수집된 각 레코드에는 해당 필드에 대한 값이 있어야 합니다.
 
 1. 설정 **기본 ID**:
 
-   에서 `Luma Loyalty` 스키마:
+   에서 **[!DNL Luma Loyalty Schema]**:
 
-   1. 을(를) 선택합니다 `Luma Identifiers` 필드 그룹.
+   1. **[!DNL Luma Identity Profile Field Group]**&#x200B;을(를) 선택합니다.
 
-   1. 을(를) 선택합니다 `loyaltyId` 필드.
+   2. 을(를) 선택합니다 **[!DNL loyaltyId]** 필드.
 
-   1. 에서 **[!UICONTROL 필드 속성]**&#x200B;를 활성화하십시오. **[!UICONTROL ID]** 상자.
+   3. 에서 **[!UICONTROL 필드 속성]**&#x200B;를 활성화하십시오. **[!UICONTROL ID]** 상자.
 
-   1. 를 활성화합니다 **[!UICONTROL 기본 ID]** 상자.
+   4. 를 활성화합니다 **[!UICONTROL 기본 ID]** 상자.
 
-   1. 을(를) 선택합니다 `Luma Loyalty Id` 네임스페이스 **[!UICONTROL ID 네임스페이스]** 드롭다운.
+   5. 을(를) 선택합니다 `Luma Loyalty Id` 네임스페이스 **[!UICONTROL ID 네임스페이스]** 드롭다운.
 
-   1. 선택 **[!UICONTROL 적용]**.
+   6. 선택 **[!UICONTROL 적용]**.
 
       ![기본 ID](/help/tutorial-configure-a-training-sandbox/assets/primary_identity.png)
 
-1. 설정 **보조 ID**:
+2. 설정 **보조 ID**:
 
-   에서 `Luma Loyalty` 스키마:
+   에서 **[!DNL Luma Loyalty Schema]**:
 
-   1. 을(를) 선택합니다 `Luma Identifiers` 필드 그룹.
+   1. 을(를) 선택합니다 **[!DNL Luma Identity Profile Field Group]**..
 
    2. 을(를) 선택합니다 `crmId` 필드.
 
@@ -204,7 +205,8 @@ ht-degree: 7%
 
 1. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
 
-### 만들기 [!DNL Luma Products] [!UICONTROL 스키마] {#create-luma-products-schema}
+### 만들기 [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
+
 
 1. 이동 [!UICONTROL 데이터 관리] -> **[!UICONTROL 스키마]** 을 클릭합니다.
 
@@ -214,27 +216,27 @@ ht-degree: 7%
 
 1. 선택 **[!UICONTROL 새 클래스 만들기].
 
-1. 표시 이름을 추가합니다. `Luma Products`.
+1. 표시 이름을 추가합니다. `Luma Product Catalog Class`.
 
 1. 클래스를 할당합니다.
 
 1. 만들기 [!UICONTROL 필드 그룹]:
 
-   * 디스플레이 이름: `Luma Product Info`
+   * 표시 이름: `Luma Product Catalog Field Group`
 
-1. 다음 필드를 [!DNL Luma] [!UICONTROL 제품] 정보 필드 그룹입니다.
+2. 다음 필드를 **[!DNL Luma Product Catalog Field Group]**.
 
    * 필드 이름: `product`
 
-   * 디스플레이 이름: `Product`
+   * 표시 이름: `Product`
 
    * 유형: [!UICONTROL 개체]
 
-   * 필드 그룹: [!DNL Luma Product info]
+   * 필드 그룹: [!DNL Luma Product Catalog Field Group]
 
-1. 선택 **[!UICONTROL 적용]**.
+3. 선택 **[!UICONTROL 적용]**.
 
-1. 다음 필드를 **[!DNL Product]** 개체:
+4. 다음 필드를 **[!DNL Product]** 개체:
 
    | [!UICONTROL Fieldname] | [!UICONTROL 표시 이름] | [!UICONTROL 유형] |
    |-------------|-----------|----------|
@@ -245,15 +247,16 @@ ht-degree: 7%
    | `size` | `Size` | [!UICONTROL 문자열] |
    | `price` | `Price` | [!UICONTROL 이중] |
    | `description` | `Description` | [!UICONTROL 문자열] |
-   | `productImageURL` | `Product Image URL` | [!UICONTROL 문자열] |
-   | `productURL` | `Product URL` | [!UICONTROL 문자열] |
+   | `ImageURL` | `Image URL` | [!UICONTROL 문자열] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL 문자열] |
 
-1. 추가 **[!UICONTROL 표시 이름]** `Luma Products` 를 스키마 로 전환합니다.
+5. 추가 **[!UICONTROL 표시 이름]** `Luma Product Catalog Field Group` 변환 후 [!UICONTROL 필드 그룹].
 
-1. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
+6. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
 
-### 만들기 [!DNL Luma Product Inventory Event] [!UICONTROL 스키마] {#create-luma-product-inventory-event-schema}
+
+### 만들기 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
+
 
 1. 이동 **[!UICONTROL 데이터 관리]** -> **[!UICONTROL 스키마]** 을 클릭합니다.
 
@@ -263,7 +266,7 @@ ht-degree: 7%
 
 1. 선택 **[!UICONTROL 새 클래스 만들기]**.
 
-1. 표시 이름을 추가합니다. `Business Event`.
+1. 표시 이름을 추가합니다. `Luma Business Event`.
 
 1. 유형 선택: *[!UICONTROL 시계열]*.
 
@@ -271,7 +274,7 @@ ht-degree: 7%
 
 1. 만들기 [!UICONTROL 필드 그룹]:
 
-   * 디스플레이 이름: `Product Inventory Event Details`
+   * 표시 이름: `Product Inventory Event Details`
 
 1. 추가 **[!UICONTROL 표시 이름]** `Luma Product Inventory Event Schema` 를 스키마 로 전환합니다.
 
@@ -279,7 +282,7 @@ ht-degree: 7%
 
    * 필드 이름: `inventoryEvent`
 
-   * 디스플레이 이름: `Inventory Event`
+   * 표시 이름: `Inventory Event`
 
    * 유형: [!UICONTROL 개체]
 
@@ -311,13 +314,13 @@ ht-degree: 7%
 
 1. 설정 `productId` 필드 **[!UICONTROL 기본 ID]** 사용 **[!DNL Luma Product namespace]**.
 
-1. 을(를) 선택합니다 `sku` 필드 및 `product.sku` 의 필드 **[!DNL Luma Products]** 스키마:
+1. 을(를) 선택합니다 `sku` 필드 및 `product.sku` 의 필드 **[!DNL Luma Product catalog Schema]** 스키마:
 
    1. 아래쪽으로 스크롤합니다. **[!UICONTROL 필드 속성]**.
 
    1. 활성화 **[!UICONTROL 관계]**.
 
-      1. **[!UICONTROL 참조 스키마]**: [!DNL Luma Products].
+      1. **[!UICONTROL 참조 스키마]**: [!DNL Luma Product catalog Schema].
 
       1. **[!UICONTROL 참조 ID 네임스페이스]**: [!DNL Luma Product].
    1. 선택 **[!UICONTROL 적용]**.
@@ -335,11 +338,11 @@ ht-degree: 7%
 
 다음을 추가로 만듭니다 [!UICONTROL 스키마]:
 
-| [!UICONTROL 디스플레이 이름] | [!DNL Luma CRM] | [!DNL Luma Product Interactions] | [!DNL Luma Test Profiles] |
+| [!UICONTROL 표시 이름] | [!DNL Luma CRM] | [!DNL Luma Product Interactions] | [!DNL Luma Test Profiles] |
 |  ---| ------- | ---- |----|
 | **[!UICONTROL 유형]** | [!UICONTROL XDM 개별 프로필] | [!UICONTROL XDM 경험 이벤트] | [!UICONTROL XDM 개별 프로필] |
 | **[!UICONTROL 기존 필드 그룹 추가]** | Luma 식별자<br>인구 통계 세부 정보<br>개인 연락처 세부 정보 | ID 맵<br>상거래 세부 사항 | Luma 식별자<br>인구 통계 세부 정보<br>개인 연락처 세부 정보<br>프로필 테스트 세부 사항 |
-| **[!UICONTROL 관계]** |  | *[!DNL productListItems.SKU]*:<br> 참조 스키마 *[!DNL Luma Products]* <br>[!DNL Reference identity namespace] *[!DNL Luma Product]* 스키마 |
+| **[!UICONTROL 관계]** |  | *[!DNL productListItems.SKU]*:<br> 참조 스키마 *[!DNL Luma Product catalog Schema]* <br>[!DNL Reference identity namespace] *[!DNL Luma Product]* 스키마 |
 | **[!UICONTROL 기본 ID] [!UICONTROL namespace])** | systemIdentifier.crmId<br>(Luma CRM Id) |  | personalEmail.address<br>(Email) |
 | **[!UICONTROL 보조 ID] [!UICONTROL namespace]** | personalEmail.address(이메일)<br>mobilePhone.number(전화) |  |
 | **[!UICONTROL 프로필에 사용]** | yes | yes | yes |
