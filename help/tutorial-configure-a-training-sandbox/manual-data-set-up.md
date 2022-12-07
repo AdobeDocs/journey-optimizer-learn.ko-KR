@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b358ede4a9855b290ce4efa8611173f44e689b61
+source-git-commit: f86140ed3d39462ec245303efecade64a610a938
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 7%
@@ -60,11 +60,11 @@ ht-degree: 7%
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
-* [[!DNL Luma CRM]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
@@ -224,7 +224,7 @@ ht-degree: 7%
 
    * 표시 이름: `Luma Product Catalog Field Group`
 
-2. 다음 필드를 **[!DNL Luma Product Catalog Field Group]**.
+1. 다음 필드를 **[!DNL Luma Product Catalog Field Group]**.
 
    * 필드 이름: `product`
 
@@ -234,9 +234,9 @@ ht-degree: 7%
 
    * 필드 그룹: [!DNL Luma Product Catalog Field Group]
 
-3. 선택 **[!UICONTROL 적용]**.
+1. 선택 **[!UICONTROL 적용]**.
 
-4. 다음 필드를 **[!DNL Product]** 개체:
+1. 다음 필드를 **[!DNL Product]** 개체:
 
    | [!UICONTROL Fieldname] | [!UICONTROL 표시 이름] | [!UICONTROL 유형] |
    |-------------|-----------|----------|
@@ -250,9 +250,9 @@ ht-degree: 7%
    | `ImageURL` | `Image URL` | [!UICONTROL 문자열] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL 문자열] |
 
-5. 추가 **[!UICONTROL 표시 이름]** `Luma Product Catalog Field Group` 변환 후 [!UICONTROL 필드 그룹].
+1. 추가 **[!UICONTROL 표시 이름]** `Luma Product Catalog Field Group` 변환 후 [!UICONTROL 필드 그룹].
 
-6. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
+1. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
 
 
 ### 만들기 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
