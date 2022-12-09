@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
+source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1175'
 ht-degree: 2%
 
 ---
@@ -196,7 +196,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 여정을 테스트하고 전자 메일을 자신의 계정에 전송하도록 합니다.
 
 1. 여정을 테스트 모드로 전환합니다.
-1. 한 번에 하나의 프로필을 선택합니다.
+1. 선택 **[!UICONTROL 한 번에 하나의 프로필]**.
 1. 대기 시간: 타이머를 120초로 설정합니다(필드에 입력).
 1. 프로필 시작 트리거
 1. 다음 중 하나를 사용하여 각 분기를 테스트할 수 있습니다 *Luma CRM Id* 프로필 식별자로서:
