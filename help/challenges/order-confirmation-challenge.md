@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 4%
 
 ---
@@ -41,13 +41,13 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 
 1. 라는 여정 만들기 `Luma - Order Confirmation`
 1. 이벤트 사용: [!DNL LumaOnlinePurchase] 트리거로
-1. 라는 주문 확인 이메일을 만듭니다. `Luma - Order Confirmation`
+1. 라는 주문 확인 이메일을 만듭니다. `Luma - Order Confirmation`:
 
 * 카테고리 트랜잭션 - 트랜잭션 이메일 면을 선택해야 합니다.
 * 제목란은 수신자의 이름으로 개인화되어야 하며 &quot;구매에 대한 감사&quot; 구문을 포함해야 합니다
 * 를 사용하십시오 **Luma - 주문 요약** 템플릿 및 수정:
 
-Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 합니다.
+이메일은 다음과 같이 구조화해야 합니다.
 <table>
 <tr>
 <td>

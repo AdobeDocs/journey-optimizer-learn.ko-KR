@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 4%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 4%
 
 ## 더 스토리
 
-Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램을 제공합니다. 프로그램은 네 가지 다른 수준을 제공합니다. 청동, 은, 금, 백금. 각 충성도 계층은 반복 사업에 대한 보상으로 다양한 수준 또는 보상, 할인 및 기타 특별 혜택을 받습니다.
+Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램을 제공합니다. 이 프로그램은 4가지 계층을 제공합니다. 청동, 은, 금, 백금. 각 충성도 계층은 재창업에 대한 보상으로 서로 다른 보상, 할인 및 기타 특별 혜택을 받습니다.
 
 특별 백금 상태에 밑줄을 긋습니다. Luma는 플래티넘 계층에 도달하면 고객에게 환영 이메일을 보내려고 합니다.
 

@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
 source-wordcount: '1065'
 ht-degree: 7%
@@ -250,9 +250,9 @@ ht-degree: 7%
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL 문자열] |
 
 1. 설정 **[!DNL SKU]** 기본 ID
-2. 추가 **[!UICONTROL 표시 이름]** `Luma Product Catalog Field Group` 변환 후 [!UICONTROL 필드 그룹].
+1. 추가 **[!UICONTROL 표시 이름]** `Luma Product Catalog Field Group` 변환 후 [!UICONTROL 필드 그룹].
 
-3. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
+1. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
 
 
 ### 만들기 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
