@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
+source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '432'
 ht-degree: 4%
 
 ---
@@ -43,12 +43,8 @@ Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램�
 1. 만들기 [!UICONTROL 세그먼트] Journey Optimizer 호출 `Luma – status upgrade`.
 2. 라는 여정 만들기 `Luma – New Status – platinum`.
    1. 고객이 Platinum 충성도 계층의 자격이 되는 경우 여정으로 이동합니다.
-   2. 고객은 라는 이름의 이메일 메시지를 수신해야 합니다 `Luma – Platinum Status - Welcome`, 제목 줄 사용 `Welcome to Platinum Status, (recipient's first name)!` 크리에이티브 팀이 제공한 이메일 바디와 함께 사용할 수 있습니다.
+   2. 고객은 라는 이름의 이메일 메시지를 수신해야 합니다 `Luma – Platinum Status - Welcome`, 제목 줄 사용 `Welcome to Platinum Status, (recipient's first name)!` 크리에이티브 팀이 제공한 이메일 바디와 함께 사용할 수 있습니다. 이것은 [!UICONTROL 트랜잭션] e메일.
    3. HTML 파일을 업로드할 때 이메일이 &quot;백금&quot;이 아닌 &quot;다이아몬드&quot; 상태를 참조한다는 것을 알 수 있습니다. 크리에이티브 팀에 새 파일을 요청하지 않고 이메일 디자이너에서 이메일을 업데이트합니다.
-
->[팁!]
-> Luma - Platinum Status - Welcome eMail이[!UICONTROL 트랜잭션].
-
 
 >[!TAB 성공 기준]
 
@@ -69,7 +65,7 @@ Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램�
 4. 이벤트 트리거
 5. 다음을 추가합니다 [!DNL CRM ID] 대상 [!DNL Stanleigh Stooke] 로 [!UICONTROL 프로필 식별자] 필드: `4f34057d9d9e792c28ba18ecae378e98`
 
-개인화된 을 수신해야 합니다 *Luma - 플래티넘 상태 - 시작* 이메일.
+**결과:** 개인화된 을 수신해야 합니다 *Luma - 플래티넘 상태 - 시작* 이메일.
 
 >[!TAB 작업 확인]
 
