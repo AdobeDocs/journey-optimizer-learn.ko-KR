@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 9%
+source-wordcount: '224'
+ht-degree: 8%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 9%
    | [!UICONTROL 유형] | [!UICONTROL 단일] |
    | [!UICONTROL 이벤트 ID 유형] | [!UICONTROL 규칙 기반] |
    | [!UICONTROL 스키마] | Luma 제품 상호 작용 |
-   | [!UICONTROL 필드] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>제품 목록 항목 > Luma 제품 > _*[!DNL yourOrganizationID]* > 제품:</b> <br> 이름<br>가격<br>ProductImageURL<br>제품 URL |
+   | [!UICONTROL 필드] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>제품 목록 항목 > Luma 제품 카탈로그 스키마 > _ 의&#x200B;*[!DNL yourOrganizationID]* > 제품:</b> <br> 이름<br>가격<br>ProductImageURL<br>제품 URL |
 
 1. 추가 [!UICONTROL 이벤트 ID 조건]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
 
@@ -49,9 +49,9 @@ ht-degree: 9%
 
 ![이벤트 조건 추가](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-1. 선택 [!UICONTROL 네임스페이스]: `Email(Email)`
+1. 선택 [!UICONTROL 네임스페이스]: `Luma CRM ID (lumaCrmId)`
 
-1. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
+2. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
 
 ## 만들기 *[!DNL Luma Wishlist Add]* 이벤트
 

@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 2f4f214100e13265d839e2466063e0546e6408b9
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1065'
 ht-degree: 7%
 
 ---
@@ -207,7 +207,6 @@ ht-degree: 7%
 
 ### 만들기 [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
 
-
 1. 이동 [!UICONTROL 데이터 관리] -> **[!UICONTROL 스키마]** 을 클릭합니다.
 
 1. 을(를) 선택합니다 **[!UICONTROL 스키마 만들기]** 오른쪽 위에 있는 단추입니다.
@@ -250,9 +249,10 @@ ht-degree: 7%
    | `ImageURL` | `Image URL` | [!UICONTROL 문자열] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL 문자열] |
 
-1. 추가 **[!UICONTROL 표시 이름]** `Luma Product Catalog Field Group` 변환 후 [!UICONTROL 필드 그룹].
+1. 설정 **[!DNL SKU]** 기본 ID
+2. 추가 **[!UICONTROL 표시 이름]** `Luma Product Catalog Field Group` 변환 후 [!UICONTROL 필드 그룹].
 
-1. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
+3. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
 
 
 ### 만들기 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
@@ -266,7 +266,7 @@ ht-degree: 7%
 
 1. 선택 **[!UICONTROL 새 클래스 만들기]**.
 
-1. 표시 이름을 추가합니다. `Luma Business Event`.
+1. 표시 이름을 추가합니다. `Luma Business Event Class`.
 
 1. 유형 선택: *[!UICONTROL 시계열]*.
 
@@ -274,11 +274,11 @@ ht-degree: 7%
 
 1. 만들기 [!UICONTROL 필드 그룹]:
 
-   * 표시 이름: `Product Inventory Event Details`
+   * 표시 이름: `Luma Product Inventory Event Details Field Group`
 
 1. 추가 **[!UICONTROL 표시 이름]** `Luma Product Inventory Event Schema` 를 스키마 로 전환합니다.
 
-1. Luma 제품 정보 필드 그룹에 다음 필드를 추가합니다.
+1. 다음 필드를 **[!DNL Luma Product Inventory Event Details Field Group]**:
 
    * 필드 이름: `inventoryEvent`
 
@@ -286,53 +286,52 @@ ht-degree: 7%
 
    * 유형: [!UICONTROL 개체]
 
-   * 필드 그룹: [!DNL Product Inventory Event Details]
+   * 필드 그룹: [!DNLLUma 제품 재고 이벤트 상세내역 필드 그룹]
 
 1. 다음 필드를 **[!DNL Product Inventory Event Details]** 개체:
 
    | [!UICONTROL Fieldname] | [!UICONTROL 표시 이름] | [!UICONTROL 유형] |
    |-------------|-----------|----------|
-   | `productId` | `Product ID` | [!UICONTROL 문자열] |
    | `sku` | `SKU` | [!UICONTROL 문자열] |
-   | `stockEventType` | `Stock Event Type` | **[!UICONTROL 열거형]** with `restock` 및 `outOfStock` 값으로 |
+   | `stockEventType` | `Stock Event Type` | [!UICONTROL 문자열] |
 
    1. 를 `stockEventType` 열거하려면 유형을 선택합니다. `string`.
 
-   1. 아래쪽으로 스크롤합니다. **[!UICONTROL 필드 속성]**.
+   2. 아래쪽으로 스크롤합니다. **[!UICONTROL 필드 속성]**.
 
-   1. 활성화 **[!UICONTROL 열거형]**.
+   3. 활성화 **[!UICONTROL 열거형]**.
 
-   1. Enter 키 **[!UICONTROL 값] ([!UICONTROL label)]**: `restock` (`restock`).
+   4. Enter 키 **[!UICONTROL 값] ([!UICONTROL label)]**: `restock` (`restock`).
 
-   1. 선택 **[!UICONTROL 행 추가]**.
+   5. 선택 **[!UICONTROL 행 추가]**.
 
-   1. Enter 키 **[!UICONTROL 값] ([!UICONTROL label)]**: `outOfStock` (`out of stock`).
+   6. Enter 키 **[!UICONTROL 값] ([!UICONTROL label)]**: `outOfStock` (`out of stock`).
 
-   1. 선택 **[!UICONTROL 적용]**.
+   7. 선택 **[!UICONTROL 적용]**.
 
       ![enum](assets/enum.png)
 
-1. 설정 `productId` 필드 **[!UICONTROL 기본 ID]** 사용 **[!DNL Luma Product namespace]**.
+2. 설정 `productId` 필드 **[!UICONTROL 기본 ID]** 사용 **[!DNL Luma Product namespace]**.
 
-1. 을(를) 선택합니다 `sku` 필드 및 `product.sku` 의 필드 **[!DNL Luma Product catalog Schema]** 스키마:
+3. 을(를) 선택합니다 `sku` 필드 및 `product.sku` 의 필드 **[!DNL Luma Product catalog Schema]** 스키마:
 
    1. 아래쪽으로 스크롤합니다. **[!UICONTROL 필드 속성]**.
 
-   1. 활성화 **[!UICONTROL 관계]**.
+   2. 활성화 **[!UICONTROL 관계]**.
 
       1. **[!UICONTROL 참조 스키마]**: [!DNL Luma Product catalog Schema].
 
-      1. **[!UICONTROL 참조 ID 네임스페이스]**: [!DNL Luma Product].
-   1. 선택 **[!UICONTROL 적용]**.
+      2. **[!UICONTROL 참조 ID 네임스페이스]**: [!DNL Luma Product].
+   3. 선택 **[!UICONTROL 적용]**.
 
       스키마는 다음과 같습니다.
 
       ![SKU 관계](assets/sku_relationship.png)
 
 
-1. 사용 **프로필**.
+4. 사용 **프로필**.
 
-1. 선택 [!UICONTROL 저장] 스키마를 저장하려면 을 클릭합니다.
+5. 선택 [!UICONTROL 저장] 스키마를 저장하려면 을 클릭합니다.
 
 ### 만들기 [!DNL Luma CRM] 및 [!DNL Luma Product Interactions] 스키마 {#create-luma-crm-and-luma-product-interactions-schemas}
 

@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '706'
 ht-degree: 4%
 
 ---
@@ -39,16 +39,15 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 
 >[!TAB 작업]
 
-1. &quot;your name_Order Confirmation&quot;이라는 여정을 만듭니다
-2. 이벤트 사용: [!DNL LumaOnlinePurchase] 트리거로
-
-3. 주문 확인 이메일을 만듭니다.
+1. 라는 여정 만들기 `Luma - Order Confirmation`
+1. 이벤트 사용: [!DNL LumaOnlinePurchase] 트리거로
+1. 라는 주문 확인 이메일을 만듭니다. `Luma - Order Confirmation`
 
 * 카테고리 트랜잭션 - 트랜잭션 이메일 면을 선택해야 합니다.
 * 제목란은 수신자의 이름으로 개인화되어야 하며 &quot;구매에 대한 감사&quot; 구문을 포함해야 합니다
+* 를 사용하십시오 **Luma - 주문 요약** 템플릿 및 수정:
 
-Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 합니다. 이 경우 **Luma - 주문 요약** 템플릿 및 수정:
-
+Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 합니다.
 <table>
 <tr>
 <td>
@@ -79,22 +78,30 @@ Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 �
     <strong>텍스트</strong><p>
     <em>안녕하세요. {first name}</em><p>
     <li>정렬: 왼쪽  </li>
-   <li>텍스트 색상: rgb(101, 106, 119); 글꼴 크기:14px</li>
-    <li>패딩: 왼쪽(95), 오른쪽(95)</li><div>
+   <li>텍스트 색상: rgb(69, 97, 162) #4461a2; 
+   <li>글꼴 크기: 20px</li>
+   <div>
     <p>
      <em>주문하셨습니다.
     <p>패키지가 전송되면 주문을 추적할 수 있도록 추적 번호가 포함된 이메일을 보냅니다.</p></em>
-    </strong><p>
-    <li>정렬: 왼쪽  </li>
-    <li>텍스트 색상: rgb(101, 106, 119); 글꼴 크기:14px </li>
-    <li>패딩: 왼쪽(95), 오른쪽(95)</li><div>
-    </a><p>
-    <em>납품처:<p>
-    <p>이름 성</p>
-    Street<p>
-    도시, 주, 우편 번호</p></em>
-    <strong>버튼:</strong></p>
-   <p><em>주문 보기</em></p>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> 납품처 섹션</strong>
+      </div>
+      <p><li>템플릿의 하드 코딩된 주소를 프로필의 주소 페이로드로 바꿉니다
+      <li> 할인, 합계, 도착 제거</p>
+  </td>
+  <td>
+  <p> 납품처:</p>
+      <em>이름 성<br>
+      Street<br>
+      도시, 주, 우편 번호</em></p>
+
+    &lt;strong>단추:&lt;/strong>&lt;/p>
+<p><em>주문 보기</em></p>
       <li>배경색: rgb(25, 121, 195)</li>
       <li>텍스트 색상: 흰색</li>
       <li>테두리 없음</li>
@@ -107,11 +114,13 @@ Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 �
   <div>
      <strong>주문 세부 사항 섹션</strong>
       </div>
-      <p>팁:
-      <li>상황에 맞는 이벤트 정보입니다.</li>
-      <li>도우미 함수를 사용합니다. 각</li>
-      <li>코드 편집기 형식으로 전환하여 컨텍스트 데이터를 추가합니다. <li>
-      <li>DIV 태그를 사용하여 컨테이너에 정보를 넣습니다.</li>
+       <p><li>사이에 이 섹션 추가 <b>납품처</b> 섹션 및 <b>주문 보기</b> 버튼
+      </p><br>
+      <p><b>팁:</b>
+      <li>상황에 맞는 이벤트 정보입니다.
+      <li>[!UICONTROL helper 함수] 사용: [!UICONTROL 각]
+      <li>코드 편집기 형식으로 전환하여 컨텍스트 데이터를 추가합니다.
+      <li>DIV 태그를 사용하여 컨테이너에 정보를 넣습니다.
   </td>
   <td>
     <strong>Header</strong>
@@ -156,8 +165,7 @@ Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 �
 >
 >여정 문제를 해결할 수 있도록 하기 위해 가장 좋은 방법은 시간 제한이나 오류가 발생할 경우 모든 메시지 작업에 대체 경로를 추가하는 것입니다.
 
-
->[!TAB 작업 확인]
+>[!TAB 성공 기준]
 
 테스트 모드에서 만든 여정을 트리거하고 직접 이메일을 전송합니다.
 
@@ -186,7 +194,8 @@ Luma 브랜드 지침에 따라 이메일을 다음과 같이 구조화해야 �
    43913 타일러 테라스, 워싱턴 DC 20099
 
 
->[!TAB 성공 기준]
+
+>[!TAB 작업 확인]
 
 ** 여정
 
