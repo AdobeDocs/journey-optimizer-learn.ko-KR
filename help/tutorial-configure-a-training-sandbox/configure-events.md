@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 9%
@@ -39,7 +39,7 @@ ht-degree: 9%
    | [!UICONTROL 스키마] | `Luma Web Events Schema` |
    | [!UICONTROL 필드] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-2. 추가 [!UICONTROL 이벤트 ID 조건]: `LumaOnlinePurchase.eventType is commerce.purchases`
+1. 추가 [!UICONTROL 이벤트 ID 조건]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. 연필 아이콘을 선택하여 필드를 편집합니다
    2. 설정 [!UICONTROL 이벤트 ID 조건 추가] 모달, 드래그 앤 드롭 `eventType` 캔버스에

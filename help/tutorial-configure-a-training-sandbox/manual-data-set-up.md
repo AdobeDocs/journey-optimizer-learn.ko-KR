@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1058'
 ht-degree: 7%
 
 ---
@@ -286,9 +286,9 @@ ht-degree: 7%
 
    * 유형: [!UICONTROL 개체]
 
-   * 필드 그룹: [!DNLLUma 제품 재고 이벤트 상세내역 필드 그룹]
+   * 필드 그룹: `Luma Product Inventory Event Details Field Group`
 
-1. 다음 필드를 **[!DNL Product Inventory Event Details]** 개체:
+1. 다음 필드를 `Product Inventory Event Details` 개체:
 
    | [!UICONTROL Fieldname] | [!UICONTROL 표시 이름] | [!UICONTROL 유형] |
    |-------------|-----------|----------|
@@ -311,9 +311,9 @@ ht-degree: 7%
 
       ![enum](assets/enum.png)
 
-2. 설정 `productId` 필드 **[!UICONTROL 기본 ID]** 사용 **[!DNL Luma Product namespace]**.
+1. 설정 `productId` 필드 **[!UICONTROL 기본 ID]** 사용 **[!DNL Luma Product namespace]**.
 
-3. 을(를) 선택합니다 `sku` 필드 및 `product.sku` 의 필드 **[!DNL Luma Product catalog Schema]** 스키마:
+1. 을(를) 선택합니다 `sku` 필드 및 `product.sku` 의 필드 **[!DNL Luma Product catalog Schema]** 스키마:
 
    1. 아래쪽으로 스크롤합니다. **[!UICONTROL 필드 속성]**.
 
@@ -329,9 +329,9 @@ ht-degree: 7%
       ![SKU 관계](assets/sku_relationship.png)
 
 
-4. 사용 **프로필**.
+1. 사용 **프로필**.
 
-5. 선택 [!UICONTROL 저장] 스키마를 저장하려면 을 클릭합니다.
+1. 선택 [!UICONTROL 저장] 스키마를 저장하려면 을 클릭합니다.
 
 ### 만들기 [!DNL Luma CRM] 및 [!DNL Luma Product Interactions] 스키마 {#create-luma-crm-and-luma-product-interactions-schemas}
 
