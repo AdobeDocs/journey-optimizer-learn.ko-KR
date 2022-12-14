@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '671'
 ht-degree: 4%
 
 ---
@@ -33,19 +33,19 @@ Luma는 온라인 스토어를 시작하고 고객이 주문을 하면 주문 �
 
 ## 과제
 
-Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보내는 여정을 만듭니다.
+Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보내는 여정을 만듭니다. 루마
 
 >[!BEGINTABS]
 
 >[!TAB 작업]
 
 1. 라는 여정 만들기 `Luma - Order Confirmation`
-1. 이벤트 사용: [!DNL LumaOnlinePurchase] 트리거로
-1. 라는 주문 확인 이메일을 만듭니다. `Luma - Order Confirmation`:
+2. 이벤트 사용: `LumaOnlinePurchase` 트리거로
+3. 라는 주문 확인 이메일을 만듭니다. `Luma - Order Confirmation`:
 
 * 카테고리 트랜잭션 - 트랜잭션 이메일 면을 선택해야 합니다.
 * 제목란은 수신자의 이름으로 개인화되어야 하며 &quot;구매에 대한 감사&quot; 구문을 포함해야 합니다
-* 를 사용하십시오 **Luma - 주문 요약** 템플릿 및 수정:
+* 를 사용하십시오 `Luma - Order summary` 템플릿 및 수정:
 
 이메일은 다음과 같이 구조화해야 합니다.
 <table>
@@ -59,7 +59,6 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
     <strong>Luma 로고</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>크기 35%, 가운데 흰색 배경 </li>
     <li>luma 웹 사이트에 대한 링크가 있어야 합니다. https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
     </strong>
   </td>
   <td>
-    <strong>이미지</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>여백: 위쪽, 아래쪽(10)<div>
     <p>
     <strong>텍스트</strong><p>
     <em>안녕하세요. {first name}</em><p>
@@ -91,23 +87,15 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
   <div>
      <strong> 납품처 섹션</strong>
       </div>
-      <p><li>템플릿의 하드 코딩된 주소를 프로필의 주소 페이로드로 바꿉니다
+      <p><li>템플릿의 하드 코딩된 주소를 배송 주소로 바꿉니다 
+      <li>세부 사항은 이벤트(거리, 도시, 우편 번호, 주)의 컨텍스트 속성입니다
+      <li>프로필의 이름과 성은
       <li> 할인, 합계, 도착 제거</p>
   </td>
   <td>
   <p> 납품처:</p>
       <em>이름 성<br>
-      Street<br>
-      도시, 주, 우편 번호</em></p>
-
-    &lt;strong>단추:&lt;/strong>&lt;/p>
-<p><em>주문 보기</em></p>
-      <li>배경색: rgb(25, 121, 195)</li>
-      <li>텍스트 색상: 흰색</li>
-      <li>테두리 없음</li>
-      <li>높이: 40</li>
-      <li>원하는 웹 사이트에 링크 추가 </li>
-      <li>왼쪽으로 위의 텍스트에 맞춥니다(팁: 컨테이너 여백 사용)</li>
+      주소<br></em></p>
   </td>
  <tr>
 <td>

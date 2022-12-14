@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 8%
+source-wordcount: '204'
+ht-degree: 9%
 
 ---
 
@@ -36,10 +36,10 @@ ht-degree: 8%
    | [!UICONTROL 이름] | `LumaOnlinePurchase` |
    | [!UICONTROL 유형] | [!UICONTROL 단일] |
    | [!UICONTROL 이벤트 ID 유형] | [!UICONTROL 규칙 기반] |
-   | [!UICONTROL 스키마] | Luma 제품 상호 작용 |
-   | [!UICONTROL 필드] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>제품 목록 항목 > Luma 제품 카탈로그 스키마 > _ 의&#x200B;*[!DNL yourOrganizationID]* > 제품:</b> <br> 이름<br>가격<br>ProductImageURL<br>제품 URL |
+   | [!UICONTROL 스키마] | `Luma Web Events Schema` |
+   | [!UICONTROL 필드] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. 추가 [!UICONTROL 이벤트 ID 조건]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
+2. 추가 [!UICONTROL 이벤트 ID 조건]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. 연필 아이콘을 선택하여 필드를 편집합니다
    2. 설정 [!UICONTROL 이벤트 ID 조건 추가] 모달, 드래그 앤 드롭 `eventType` 캔버스에
