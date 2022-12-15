@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 4%
@@ -63,7 +63,7 @@ Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램�
 
 3. 여정을 테스트 모드로 설정합니다
 4. 이벤트 트리거
-5. 다음을 추가합니다 [!DNL CRM ID] 대상 [!DNL Stanleigh Stooke] 로 [!UICONTROL 프로필 식별자] 필드: `4f34057d9d9e792c28ba18ecae378e98`
+5. 다음을 추가합니다 [!DNL CRM ID] 대상 `Stanleigh Stooke` 로 [!UICONTROL 프로필 식별자] 필드: `4f34057d9d9e792c28ba18ecae378e98`
 
 **결과:** 개인화된 을 수신해야 합니다 *Luma - 플래티넘 상태 - 시작* 이메일.
 
