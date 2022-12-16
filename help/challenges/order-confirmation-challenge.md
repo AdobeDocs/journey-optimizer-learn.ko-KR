@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
+source-git-commit: 2bf17de2d6911fd288e257a42000bb5505e04c08
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 4%
+source-wordcount: '698'
+ht-degree: 5%
 
 ---
 
@@ -88,21 +88,21 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
      <strong> 납품처 섹션</strong>
       </div>
       <p><li>템플릿의 하드 코딩된 주소를 배송 주소로 바꿉니다 
-      <li>세부 사항은 이벤트(거리, 도시, 우편 번호, 주)의 컨텍스트 속성입니다
+      <li>주소 세부 사항은 이벤트(거리, 도시, 우편 번호, 주)의 컨텍스트 속성입니다
       <li>프로필의 이름과 성은
       <li> 할인, 합계, 도착 제거</p>
   </td>
   <td>
   <p> 납품처:</p>
       <em>이름 성<br>
-      주소<br></em></p>
+     주소</em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>주문 세부 사항 섹션</strong>
       </div>
-       <p><li>사이에 이 섹션 추가 <b>납품처</b> 섹션 및 <b>주문 보기</b> 버튼
+       <p><li>다음 항목 뒤에 이 섹션 추가 <b>납품처</b> 섹션 및 <b>주문 보기</b> 버튼을 클릭합니다.
       </p><br>
       <p><b>팁:</b>
       <li>상황에 맞는 이벤트 정보입니다.
@@ -168,11 +168,14 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
    * 이벤트 유형: commerce.purchases
    * 이름: 스프라이트 요가 컴패니언 키트
    * 수량: 1
-   * 가격 합계: 61
-   * 주문 번호: 6253728
-   * SKU: 24-WG080
-   * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
-   * 
+   * `Price Total:` 61
+   * `Purchase Order Number:` 6253728
+   * `SKU:` 24-WG080
+   * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * `City:` San Jose
+   * `Postal Code:` 95110
+   * `State`: CA
+   * `Street:` 345 공원가
 
 지정된 제품과 함께 개인화된 구매 확인 이메일을 받게 됩니다.
 
@@ -223,19 +226,21 @@ Header:
 Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
-제품 목록:
+**제품 목록:**
 
 도우미 함수 &quot;each&quot;를 사용하여 제품 목록을 만듭니다. 다음은 코드가 있어야 하는 모습입니다.
 
 ```javascript
-{{#each context.journey.events.1911672547.productListItems as|product|}}
-<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product._wwfovlab065.productImageURL}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.priceTotal}}.00</h5>
-<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
+{{#each context.journey.events.454181416.productListItems as |product|}}
+<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.productImageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
+<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}.00</h5>
+<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
 {{/each}}
-
-Total: ${{context.journey.events.1627840522.commerce.order.priceTotal}} 
 ```
+
+**가격 합계:**
+
+합계:`${{context.journey.events.1627840522.commerce.order.priceTotal}}`
 
 **고객 정보 섹션**
 
