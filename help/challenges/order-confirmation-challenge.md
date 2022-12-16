@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 2bf17de2d6911fd288e257a42000bb5505e04c08
+source-git-commit: 4268144ade6588e48fc38cae7e542c227af96827
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '686'
 ht-degree: 5%
 
 ---
@@ -181,11 +181,6 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 
 * 제목 줄에는 테스트 프로필의 이름이 있어야 합니다. 레오라
 * 주문 세부 사항 섹션은 테스트 중에 입력한 주문 세부 사항으로 채워야 합니다
-* 다음 *납품처* 섹션에는 테스트 프로필의 city 및 우편 번호가 있어야 합니다.
-
-   43913 타일러 테라스, 워싱턴 DC 20099
-
-
 
 >[!TAB 작업 확인]
 
@@ -228,14 +223,21 @@ Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 
 **제품 목록:**
 
-도우미 함수 &quot;each&quot;를 사용하여 제품 목록을 만듭니다. 다음은 코드가 있어야 하는 모습입니다.
+도우미 함수 &quot;each&quot;를 사용하여 제품 목록을 만듭니다. 표에 표시합니다. 다음은 코드가 있어야 하는 모습입니다.
 
 ```javascript
-{{#each context.journey.events.454181416.productListItems as |product|}}
-<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.productImageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}.00</h5>
-<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
-{{/each}}
+<div class="text-container" contenteditable="true">
+  <p><span class="acr-expression-field" contenteditable="false">{{#each context.journey.events.454181416.productListItems as |product|}}
+    </span></p>
+  <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
+    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
+    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div>
+    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div>
+  </div>
+  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
+  {{/each}}<p></p>
+  <p></p>
+</div>
 ```
 
 **가격 합계:**
