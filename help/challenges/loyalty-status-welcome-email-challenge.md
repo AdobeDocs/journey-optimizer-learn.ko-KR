@@ -1,5 +1,5 @@
 ---
-title: 충성도 상태 환영 이메일 만들기 - 문제
+title: 충성도 상태 환영 이메일 만들기 - 과제
 description: 여정 캔버스에서 여정을 작성하는 기본적인 방법을 이해합니다.
 kt: 8109
 feature: Journeys
@@ -8,74 +8,74 @@ level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '430'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# 충성도 상태 환영 이메일 만들기 - 문제
+# 충성도 상태 환영 이메일 만들기 - 과제
 
-![충성도 상태 환영 이메일 - 챌린지 배너](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
+![충성도 상태 환영 이메일 - 과제 배너](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
 
-| 과제 | 충성도 상태 시작 이메일 만들기 |
+| 과제 | 충성도 상태 환영 이메일 만들기 |
 |---|---|
 | 담당자 | 여정 관리자 |
-| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[세그먼트 자격 조건](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[HTML 콘텐츠 가져오기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
+| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li> <li>[세그먼트 자격 조건](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=ko)</li><li>[HTML 콘텐츠 가져오기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ko)</li></ul> |
 | 다운로드할 자산 | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
-## 더 스토리
+## 스토리
 
-Luma는 고객을 유치하고 유지하는 방법으로 충성도 프로그램을 제공합니다. 이 프로그램은 4가지 계층을 제공합니다. 청동, 은, 금, 백금. 각 충성도 계층은 재창업에 대한 보상으로 서로 다른 보상, 할인 및 기타 특별 혜택을 받습니다.
+Luma는 고객을 유치하고 유지하기 위한 방법으로 충성도 프로그램을 제공합니다. 이 프로그램에는 브론즈, 실버, 골드, 플래티넘의 4가지 티어가 있습니다. 각 충성도 티어는 지속적인 이용에 대한 보상으로 다양한 보상, 할인 및 기타 특별 혜택을 받습니다.
 
-특별 백금 상태에 밑줄을 긋습니다. Luma는 플래티넘 계층에 도달하면 고객에게 환영 이메일을 보내려고 합니다.
+특별 플래티넘 상태에 밑줄을 긋습니다. Luma는 플래티넘 티어에 도달한 고객에게 환영 이메일을 보내려고 합니다.
 
 ## 과제
 
-고객에게 백금 충성도 계층에 도달하면 환영 이메일을 자동으로 전송하는 여정을 설정하라는 메시지가 표시되었습니다.
+고객이 플래티넘 충성도 티어에 도달하면 환영 이메일을 자동으로 전송하는 여정을 설정하라는 요청을 받았습니다.
 
 >[!BEGINTABS]
 
 >[!TAB 작업]
 
-충성도 고객이 플래티넘 계층의 자격을 얻으면 축하 메시지를 받고 새로운 이점을 알려주어야 합니다. 크리에이티브 팀이 HTML 파일을 제공했습니다 **[Luma - 상태 업그레이드 - 시작 eMail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** 이메일 본문으로 바꿉니다.
+충성도 고객이 플래티넘 티어가 되면 축하와 함께 새로운 이점을 알려주는 이메일을 받아야 합니다. 크리에이티브 팀이 **[Luma - 상태 업그레이드 - 환영 이메일](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** HTML 파일과 이메일 본문을 제공했습니다.
 
-1. 만들기 [!UICONTROL 세그먼트] Journey Optimizer 호출 `Luma – status upgrade`.
-2. 라는 여정 만들기 `Luma – New Status – platinum`.
-   1. 고객이 Platinum 충성도 계층의 자격이 되는 경우 여정으로 이동합니다.
-   2. 고객은 라는 이름의 이메일 메시지를 수신해야 합니다 `Luma – Platinum Status - Welcome`, 제목 줄 사용 `Welcome to Platinum Status, (recipient's first name)!` 크리에이티브 팀이 제공한 이메일 바디와 함께 사용할 수 있습니다. 이것은 [!UICONTROL 트랜잭션] e메일.
-   3. HTML 파일을 업로드할 때 이메일이 &quot;백금&quot;이 아닌 &quot;다이아몬드&quot; 상태를 참조한다는 것을 알 수 있습니다. 크리에이티브 팀에 새 파일을 요청하지 않고 이메일 디자이너에서 이메일을 업데이트합니다.
+1. Journey Optimizer에서 `Luma – status upgrade`(이)라는 [!UICONTROL 세그먼트] 만들기
+2. `Luma – New Status – platinum`(이)라는 여정을 만듭니다.
+   1. 고객이 플래티넘 충성도 티어가 됐을 때 여정으로 이동합니다.
+   2. 고객은 `Welcome to Platinum Status, (recipient's first name)!`(이)라는 제목란과 크리에이티브 팀이 제공한 이메일 본문으로 구성된 `Luma – Platinum Status - Welcome`(이)라는 이메일 메시지를 수신해야 합니다. 이것은 [!UICONTROL 트랜잭션] 이메일입니다.
+   3. HTML 파일을 업로드할 때 이메일이 “플래티넘”이 아닌 “다이아몬드” 상태를 참조한다는 것을 알 수 있습니다. 크리에이티브 팀에 새 파일을 요청하지 않고 이메일 디자이너에서 이메일을 업데이트합니다.
 
 >[!TAB 성공 기준]
 
 여정 테스트:
 
-1. 다음을 확인합니다. [!UICONTROL 세그먼트 활동 읽기] 있음 [!UICONTROL namespace] 설정 **[!DNL Luma CRM id(lumaCrmId)]**
-2. 기본값 재정의 [!UICONTROL 전자 메일 매개 변수] 고유한 이메일 주소로 설정합니다
+1. [!UICONTROL 세그먼트 활동 읽기]에 **[!DNL Luma CRM id(lumaCrmId)]**(으)로 설정된 [!UICONTROL 네임스페이스]가 있는지 확인합니다.
+2. [!UICONTROL 이메일 매개 변수] 기본값을 재정의하고 자신의 이메일 주소로 설정하십시오.
    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
-   * 에서 [!UICONTROL 전자 메일 매개 변수]를 클릭하고 T 기호를 클릭합니다(매개 변수 무시 활성화).
+   * [!UICONTROL 이메일 매개 변수]에서 T 기호를 클릭합니다(매개 변수 재정의 활성화).
 
-       ![전자 메일 매개 변수 무시](/help/challenges/assets/c3-override-email-paramters.jpg)
+       ![이메일 매개 변수 재정의](/help/challenges/assets/c3-override-email-paramters.jpg)
    
-   * 을(를) 클릭하여 [!UICONTROL 주소 필드]
-   * 다음 화면에서는 이메일 주소를 괄호로 묶습니다. `"yourname@yourdomain"` 표현식 편집기에서 확인을 클릭합니다.
+   *  [!UICONTROL 주소 필드]를 클릭합니다.
+   * 다음 화면에서는 표현식 편집기에서 이메일 주소를 괄호 안에 넣고 `"yourname@yourdomain"` 확인을 클릭합니다.
 
 
 3. 여정을 테스트 모드로 설정합니다
 4. 이벤트 트리거
-5. 다음을 추가합니다 [!DNL CRM ID] 대상 `Stanleigh Stooke` 로 [!UICONTROL 프로필 식별자] 필드: `4f34057d9d9e792c28ba18ecae378e98`
+5. [!UICONTROL 프로필 식별자] 필드 `4f34057d9d9e792c28ba18ecae378e98`에 `Stanleigh Stooke`에 대한 다음 [!DNL CRM ID]을(를) 추가합니다.
 
-**결과:** 개인화된 을 수신해야 합니다 *Luma - 플래티넘 상태 - 시작* 이메일.
+**결과:** 개인화된 *Luma - 플래티넘 상태 - 환영* 이메일을 수신해야 합니다.
 
 >[!TAB 작업 확인]
 
-여정 모습은 다음과 같습니다.
+여정은 다음과 같아야 합니다.
 
-![platinum-status-upgrade-여정](/help/challenges/assets/journey-luma-status-upgrade.png)
+![플래티넘-상태-업그레이드-여정](/help/challenges/assets/journey-luma-status-upgrade.png)
 
 
-다음은 이메일의 모습입니다.
+이메일은 다음과 같아야 합니다.
 
-![Luma - 상태 업그레이드 - 시작 eMail](/help/challenges/assets/status-upgrade-welcome-email.png)
+![Luma - 상태 업그레이드 - 환영 이메일](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]
