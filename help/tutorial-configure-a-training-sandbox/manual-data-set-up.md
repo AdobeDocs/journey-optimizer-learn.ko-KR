@@ -52,7 +52,7 @@ ht-degree: 7%
 
 ## 2단계: 스키마 만들기
 
-이 단계에서는 6개를 만들어 샘플 데이터의 구조를 정의합니다 [[!UICONTROL 스키마]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
+이 단계에서는 6개를 만들어 샘플 데이터의 구조를 정의합니다 [[!UICONTROL 스키마]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ko-KR-KR):
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 

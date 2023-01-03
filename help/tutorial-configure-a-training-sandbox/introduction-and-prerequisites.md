@@ -43,7 +43,7 @@ ht-degree: 6%
 
       이러한 파일은 샌드박스에 수집하는 샘플 데이터를 포함합니다.
 
-   1. 각 파일을 열고 **`yourOrganizationID`** 그리고 그것을 [조직 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. 각 파일을 열고 **`yourOrganizationID`** 그리고 그것을 [조직 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ko-KR).
 
    1. 파일을 저장합니다.
 
