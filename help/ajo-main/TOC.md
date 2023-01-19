@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '291'
+ht-degree: 95%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 100%
    + [아키텍처](/help/introduction/architecture.md)
    + [마케터를 위한 모바일 기능](/help/create-messages/mobile-capabilities.md)
    + [개발자를 위한 모바일 기능](/help/create-messages/mobile-capabilities-for-developers.md)
-+ 캠페인 만들기 {#create-campaigns}
++ 캠페인 {#create-campaigns}
    + [캠페인 만들기](/help/create-champaigns/create-a-campaign.md)
-+ 여정 만들기 {#create-journeys}
++ 여정 {#create-journeys}
    + [여정 캔버스 개요](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
@@ -33,6 +33,10 @@ ht-degree: 100%
    + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
    + [여정 게시](/help/create-journeys/publish-a-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
++ SMS 채널{#sms-channel}
+   + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
+   + [SMS 메시지 작성 및 게재](/help/channels/author-and-deliver-sms-messages.md)
+   + [SMS에 대한 인바운드 키워드 지원](/help/channels/inbound-keyword-support-for-sms.md)
 + 고객 프로필, 세그먼트, 구독 {#profiles-segments-subscriptions}
    + [통합 프로필 및 세분화 - 개요](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
@@ -42,9 +46,6 @@ ht-degree: 100%
       + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/create-messages/create-content-with-the-email-designer.md)
       + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/create-messages/import-and-author-html-email-content.md)
       + [미리 보기, 교정 및 게시](/help/create-messages/preview-proof-and-publish.md)
-   + SMS 텍스트 메시지 만들기 {#create-sms}
-      + [SMS 메시지 구성, 작성, 전달](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-      + [SMS에 대한 인바운드 키워드 지원](/help/create-messages/inbound-keyword-support-for-sms.md)
    + 인앱 메시지 만들기 {#create-in-app}
       + [캠페인을 위한 인앱 메시지](/help/create-messages/in-app-messaging-for-campaigns.md)
       + [인앱 메시지 작성자](/help/create-messages/author-in-app-messages.md)
@@ -78,8 +79,8 @@ ht-degree: 100%
       + [데이터 세트 만들기 및 데이터 수집](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [소스 커넥터 구성](/help/set-up-data/configure-source-connectors.md)
    + 채널 구성 {#channel-configuration}
-      + [이메일 채널 설정](/help/set-up-email-channel/set-up-email-channel.md)
-      + [CName 하위 도메인 위임](/help/set-up-email-channel/delegate-cname-subdomains.md)
+      + [이메일 채널 설정](/help/set-up-channels/set-up-email-channel.md)
+      + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
       + [메시지 빈도 규칙 구성](/help/administration/configure-frequency-rules.md)
    + 여정 구성 {#journey-configuration}
       + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
