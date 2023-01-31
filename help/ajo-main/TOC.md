@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer Tutorials입니다.
-source-git-commit: a75ab957d5861ccd5206f0ba86afca8157e20d9a
+source-git-commit: ac590d04a50f20f3767d82c17f9548a372044b6b
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '291'
 ht-degree: 93%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 93%
    + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
    + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
    + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
+   + [콘텐츠 템플릿](/help/channels/content-templates.md)
 + 앱 채널{#in-app-channel}
    + [캠페인을 위한 인앱 메시지](/help/channels/in-app-messaging-for-campaigns.md)
    + [인앱 메시지 작성자](/help/channels/author-in-app-messages.md)
