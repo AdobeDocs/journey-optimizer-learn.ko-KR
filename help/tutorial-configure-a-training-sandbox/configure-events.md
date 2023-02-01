@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 9%
+source-wordcount: '198'
+ht-degree: 10%
 
 ---
 
@@ -23,13 +23,9 @@ ht-degree: 9%
 
 ## Luma 온라인 구매 이벤트 만들기
 
-1. 왼쪽 탐색에서 로 이동합니다. [!UICONTROL 관리] 을(를) 선택합니다. *[!UICONTROL 구성]*
-1. 에서 [!UICONTROL 대시보드], 선택 *[!UICONTROL 관리*]* 이벤트
+이 이벤트를 사용하는 경우 Journey Optimizer은 한 사람이 온라인으로 luma 제품을 구매할 때 정보를 받습니다.
 
-![이벤트 관리](assets/create-events.png)
-
-1. 클릭 *[!UICONTROL 이벤트 만들기]*
-1. 이벤트 세부 사항 및 매개 변수를 입력합니다.
+1. 다음 매개 변수로 이벤트를 만듭니다.
 
    | [!UICONTROL 매개 변수] | [!UICONTROL 값] |
    |-------------|-----------|
@@ -39,7 +35,7 @@ ht-degree: 9%
    | [!UICONTROL 스키마] | `Luma Web Events Schema` |
    | [!UICONTROL 필드] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. 추가 [!UICONTROL 이벤트 ID 조건]: `LumaOnlinePurchase.eventType is commerce.purchases`
+2. 추가 [!UICONTROL 이벤트 ID 조건]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. 연필 아이콘을 선택하여 필드를 편집합니다
    2. 설정 [!UICONTROL 이벤트 ID 조건 추가] 모달, 드래그 앤 드롭 `eventType` 캔버스에

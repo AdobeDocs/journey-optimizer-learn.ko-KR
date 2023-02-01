@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 4268144ade6588e48fc38cae7e542c227af96827
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 100%
+source-wordcount: '635'
+ht-degree: 82%
 
 ---
 
@@ -33,19 +33,21 @@ Luma는 온라인 스토어를 시작하고 고객이 주문을 하면 주문 �
 
 ## 과제
 
-Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보내는 여정을 만듭니다. Luma
+Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보내는 여정을 만듭니다.
 
 >[!BEGINTABS]
 
 >[!TAB 작업]
 
 1. `Luma - Order Confirmation`(이)라는 여정 만들기
-2. `LumaOnlinePurchase` 이벤트를 트리거로 사용합니다.
+2. 이벤트 사용: `LumaOnlinePurchase`
 3. `Luma - Order Confirmation`(이)라는 주문 확인 이메일을 만듭니다.
 
 * 카테고리 트랜잭션 - 트랜잭션 이메일 표면을 선택해야 합니다.
 * 제목란은 수신자의 이름으로 개인화되어야 하며 &quot;구매해 주셔서 감사합니다.&quot;라는 문장이 포함되어야 합니다.
 * `Luma - Order summary` 템플릿을 사용하고 수정하십시오.
+   * 제거 `You may also like` 섹션
+   * 이메일 하단에 가입 해지 링크를 추가합니다
 
 이메일을 다음과 같이 구조화해야 합니다.
 <table>
@@ -56,7 +58,6 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
       </div>
   </td>
   <td>
-    <strong>Luma 로고</strong>
       <p>
      <li>luma_logo.png</li>
     <li>Luma 웹 사이트에 대한 링크가 있어야 합니다. https://publish1034.adobedemo.com/content/luma/us/en.html</li>
@@ -72,10 +73,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
   <td>
     <p>
     <strong>텍스트</strong><p>
-    <em>{first name} 님, 안녕하세요?</em><p>
-    <li>Alignment: left  </li>
-   <li>Text color: rgb(69, 97, 162) #4461a2; 
-   <li>font-size: 20px</li>
+    <em>안녕하세요. {firstName}</em><p>
    <div>
     <p>
      <em>주문이 완료되었습니다.
@@ -87,28 +85,30 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
   <div>
      <strong> 배송처 섹션</strong>
       </div>
-      <p><li>템플릿의 하드 코딩된 주소를 배송 주소로 바꿉니다. 
-      <li>주소 세부 사항(거리, 도시, 우편 번호, 주)은 이벤트의 컨텍스트 속성입니다.
+      <p>
       <li>이름과 성은 프로필에서 가져온 것입니다.
+      <li>템플릿의 하드 코딩된 주소를 <b>배송 주소</b>
+      <li>주소 세부 사항은 이벤트(1, city, 우편 번호, 주)의 컨텍스트 속성입니다
       <li> 할인, 합계, 도착 제거</p>
   </td>
   <td>
   <p> 배송처:</p>
-      <em>이름 성<br>
- 주소</em></p>
+      <em>{firstName} {lastName}<br>
+     {Street 1}<br>
+     {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>주문 세부 사항 섹션</strong>
       </div>
-       <p><li><b>배송처</b> 섹션과 <b>주문 보기</b> 버튼 뒤에 이 섹션을 추가합니다.
+       <p><li>아래에 이 섹션을 추가합니다. <b>납품처</b> 섹션을 참조하십시오.
       </p><br>
       <p><b>팁:</b>
+      <li>이 섹션에서는 구조 구성 요소 '1:2 열 왼쪽'을 사용합니다
       <li>컨텍스트 기반 이벤트 정보입니다.
       <li>[!UICONTROL helper function] 사용: [!UICONTROL Each]
       <li>코드 편집기 형식으로 전환하여 컨텍스트 데이터를 추가합니다.
-      <li>DIV 태그를 사용하여 컨테이너에 정보를 넣습니다.
   </td>
   <td>
     <strong>Header</strong>
@@ -120,30 +120,6 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
   <p>각 항목의 형식은 다음과 같이 지정해야 합니다.
    <img alt="주문" src="./assets/c2-order.png"> 
 </p>
-<strong>제품 이미지:</strong>
-<li>class: cart-item-chair
-<li>style: border-box: min-height:40px</li>
-<li>padding top and bottom:20px</li>
-<li>padding-left:80px</li>
-<li>border-radius:0px</li>
-<li>컨테이너의 배경 이미지로 사용합니다.</li>
-<li>background-position: 0% 50%</li>
-<li>background-size: 60px</li>
-<li>background-repeat: no-repeat</li>
-<p>
-<strong>가격:</strong>
-<li>Format = H5</li>
-<li>style = box-sizing:border-box</li>
-<li>margin-bottom:5px</li>
-<li>margin-top:0px;</li>
-<p>
-<strong>이름 및 수량:</strong>
-<li>class=text-small</li>
-<li>style=box-sizing: border-box</li>
-<li>padding-top: 5px</li>
-<li>color: rgb(101, 106, 119)</li>
-<li>font-size:14px</li>
-<p>
 </td>
   </tr>
 </table>
@@ -166,16 +142,14 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 3. 다음 매개 변수로 이벤트를 트리거합니다.
    * 프로필 식별자를 다음으로 설정: 식별값: `a8f14eab3b483c2b96171b575ecd90b1`
    * 이벤트 유형: commerce.purchases
-   * 이름: 스프라이트 요가 컴패니언 키트
-   * 수량: 1
-   * `Price Total:` 61
+   * `Quantity`: 1
+   * `Price Total:` 69
    * `Purchase Order Number:` 6253728
-   * `SKU:` 24-WG080
-   * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
-   * `City:` San Jose
-   * `Postal Code:` 95110
-   * `State`: CA
-   * `Street:` 345 Park Ave
+   * `SKU:` LLMH09
+   * `City:` 워싱턴
+   * `Postal Code:` 20099
+   * `State`: DC
+   * `Street:` 티에르 테라스
 
 지정된 제품과 함께 개인화된 구매 확인 이메일을 받게 됩니다.
 
@@ -193,7 +167,11 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 
 **제목란:**
 
-{{ profile.person.name.firstName }} 님, 구매해 주셔서 감사합니다!
+구매해주셔서 감사합니다 {{ profile.person.name.firstName }}!
+
+이메일 본문은 다음과 같습니다.
+
+![이메일](//help/challenges/assets/c2-email.png)
 
 **배송처 섹션:**
 
@@ -211,48 +189,25 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 
 **주문 세부 사항 섹션:**
 
-![주문 세부 사항 섹션](/help/challenges/assets/c2-order-detail-section.png)
-
 코드는 다음과 같아야 합니다.
 
 Header:
 
 ```javascript
-Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
+Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
 **제품 목록:**
 
-도우미 함수 &quot;each&quot;를 사용하여 제품 목록을 만듭니다. 테이블에 표시합니다. 코드는 다음과 같아야 합니다.
+도우미 함수 &quot;each&quot;를 사용하여 제품 목록을 만듭니다. 테이블에 표시합니다. 이렇게 하면 코드가 다음과 같이 표시됩니다(예: 이벤트 ID 사용). 대신 `454181416` 대신 조직 ID를 사용하십시오. `techmarketingdemos` ):
 
 ```javascript
-<div class="text-container" contenteditable="true">
-  <p><span class="acr-expression-field" contenteditable="false">{{#each context.journey.events.454181416.productListItems as |product|}}
-    </span></p>
-  <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div>
-  </div>
-  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
-  {{/each}}<p></p>
-  <p></p>
-</div>
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
 ```
 
 **가격 합계:**
 
-합계:`${{context.journey.events.1627840522.commerce.order.priceTotal}}`
+합계:`${{context.journey.events.1627840522.commerce.order.priceTotal}}.00`
 
-**고객 정보 섹션**
-
-![고객 주소](assets/c2-customer-information.png)
-
-개인화는 다음과 같아야 합니다.
-
-```javascript
-{{profile.homeAddress.street1}}
-{{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
-```
 
 >[!ENDTABS]
