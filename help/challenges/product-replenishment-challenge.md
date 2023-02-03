@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '609'
-ht-degree: 100%
+source-wordcount: '570'
+ht-degree: 89%
 
 ---
 
@@ -30,62 +30,34 @@ Luma 웹 사이트를 탐색할 때 고객은 관심 있는 제품을 위시리�
 
 Luma는 Journey Optimizer에서 품절 상태였던 위시리스트 항목이 재입고되었을 때 고객에게 알리는 여정을 구현하도록 요청합니다.
 
-## 세그먼트 정의 - 품절 위시리스트 항목
+>[!BEGINTABS]
 
-제품이 재입고될 때 관심이 있을 잠재 고객을 타겟팅하기 위해 다음 고객으로 구성된 세그먼트를 만드십시오.
+>[!TAB 작업]
 
-* 위시리스트에 하나 이상의 항목을 추가(이벤트 유형 사용: [!UICONTROL Commerce 나중을 위해 저장])
-* 지난 3개월 동안 **품절** 상태(재고 수량 = 0 사용)
+## 1. 세그먼트 정의 - 재고 부족 목록 항목
+
+제품이 다시 시작될 때 관심이 있는 잠재 고객을 타겟팅하려면 고객으로 구성된 세그먼트를 만드십시오.
+
+* 원하는 목록에 하나 이상의 항목을 추가한 사용자(이벤트 유형 사용: [!UICONTROL 격자에 대한 상거래 저장])
+* 지난 3개월 동안 품절 상태(재고 수량 = 0 사용)
 * 이후 해당 품목을 구매하지 않음.
 
-세그먼트 이름을 다음과 같이 지정합니다. *사용자 이름 - 품절 위시리스트*
-
-+++**작업 확인**
-
-세그먼트는 다음과 같아야 합니다.
-
-![세그먼트 - 품절 위시리스트 항목](/help/challenges/assets/C1-S2.png)
-
-지난 3개월 동안 품절된 항목을 위시리스트에 추가한 고객:
-
-* 이벤트: 나중을 위해 저장
-   * 최소 1개 포함
-   * 재고 수량이 0
-
-이후에 제품을 구매하지 않음:
-
-* **나중을 위해 저장 이벤트**&#x200B;의 SKU와 SKU가 일치하는 모든 구매 이벤트 유형을 제외합니다.
-
 >[!TIP]
-> * *변수 찾아보기* 섹션의 [나중을 위해 저장]에서 SKU를 선택합니다.
-> * [나중을 위해 저장] 아래 SKU를 이벤트 필드에 놓을 때 비교 옵션을 사용합니다.
+>*나중을 위해 저장 이벤트*&#x200B;의 SKU와 SKU가 일치하는 모든 구매 이벤트 유형을 제외합니다. 에서 필드를 찾을 수 있습니다. *변수 찾아보기* 섹션을 참조하십시오.
+
+이 세그먼트 이름을 다음과 같이 지정합니다. `Out-of-stock-Wishlist`
 
 
-세그먼트 편집 화면에서 이벤트 아래의 오른쪽 아래 모서리에 있는 코드를 확인합니다. 코드는 다음과 같아야 합니다.
-
-코드:
-```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
-
-+++
-
-### 이메일 생성 - Luma-제품 보충
-
-품절 항목을 추가한 고객에게 쇼핑을 시작하라는 호출을 보내 해당 항목이 재입고된 것을 알립니다.
-
-### 여정 만들기 - 제품 재입고 안내
+### 2. 여정 생성 - 제품 잠금 통지
 
 이전에 품절된 항목이 재입고되는 경우, 품절 항목을 추가한 고객에게 쇼핑을 시작하라는 호출을 보내 해당 항목이 재입고된 것을 알려줍니다.
 
-1. &quot;사용자 이름_Luma - 제품 재입고&quot;라는 여정을 만듭니다.
-1. 제품이 재입고되는 경우 여정을 트리거해야 합니다.
-1. 다음 대상에게 *Luma-제품 보충* 이메일 보내기
-1. 이 항목이 품절일 때 위시리스트에 추가한 사용자
+1. 여정 호출: `Product Restock`
+2. 제품이 재입고되는 경우 여정을 트리거해야 합니다.
+3. 다음 대상에게 *Luma-제품 보충* 이메일 보내기
+4. 이 항목이 품절일 때 위시리스트에 추가한 사용자
 
->[!TIP]
->
-> 기존 비즈니스 이벤트를 사용합니다. 나중을 위해 저장 이벤트 유형에 재입고 SKU가 포함되어 있는지 확인하는 조건을 추가해야 합니다.
-
-+++**성공 기준**
+>[!TAB 성공 기준]
 
 여정 테스트:
 
@@ -104,9 +76,14 @@ Luma는 Journey Optimizer에서 품절 상태였던 위시리스트 항목이 �
 
 제품 세부 사항과 Jenna를 위한 맞춤형 &quot;Luma Email 제품 보충&quot; 이메일을 받게 됩니다.
 
-+++
+>[!TAB 작업 확인]
 
-+++**작업 확인**
+세그먼트는 다음과 같아야 합니다.
+
+![세그먼트 - 품절 위시리스트 항목](/help/challenges/assets/C1-S2.png)
+
+
+
 
 여정은 다음과 같아야 합니다.
 
@@ -120,4 +97,29 @@ Luma는 Journey Optimizer에서 품절 상태였던 위시리스트 항목이 �
 
 ```in(@{LumaProductRestock._wwfovlab065.sku},#{ExperiencePlatform.ExperienceEvents.experienceevent.all(currentDataPackField.eventType=="commerce.saveForLaters").productListItems.all().SKU})```
 
-+++
+
+>[!TIP]
+> * *변수 찾아보기* 섹션의 [나중을 위해 저장]에서 SKU를 선택합니다.
+> * [나중을 위해 저장] 아래 SKU를 이벤트 필드에 놓을 때 비교 옵션을 사용합니다.
+
+
+세그먼트 편집 화면에서 이벤트 아래의 오른쪽 아래 모서리에 있는 코드를 확인합니다. 코드는 다음과 같아야 합니다.
+
+코드:
+```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
+
+>[!ENDTABS]
+
+### 이메일 생성 - Luma-제품 보충
+
+품절 항목을 추가한 고객에게 쇼핑을 시작하라는 호출을 보내 해당 항목이 재입고된 것을 알립니다.
+
+
+
+>[!TIP]
+>
+> 기존 비즈니스 이벤트를 사용합니다. 나중을 위해 저장 이벤트 유형에 재입고 SKU가 포함되어 있는지 확인하는 조건을 추가해야 합니다.
+
+
+
+

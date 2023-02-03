@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '195'
 ht-degree: 10%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 10%
 | [!UICONTROL 이름] | `LumaProductRestock` |
 | [!UICONTROL 유형] | [!UICONTROL 비즈니스] |
 | [!UICONTROL 스키마] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL 필드] | productID <br> stockEventType<br><b>제품 > Luma 제품 >에서 *[!DNL yourOrganizationID]* > 제품:</b> <br>이름<br>가격<br> ProductImageURL<br>설명 |
+| [!UICONTROL 필드] | SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>이름<br>가격<br> ImageURL<br>설명 |
 | [!UICONTROL 조건] | LumaProductStock입니다._`your organization's ID`.inventoryEvent.stockEventType이 재구성됨 |
 
 ## 축하합니다
