@@ -7,10 +7,11 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+hide: true
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '191'
 ht-degree: 10%
 
 ---
@@ -19,7 +20,9 @@ ht-degree: 10%
 
 이 섹션에서는 의 실습 연습에 필요한 세 가지 이벤트를 설정합니다 [Journey Optimizer 과제](/help/challenges/introduction-and-prerequisites.md).
 
-비디오 보기 [이벤트 만들기](/help/set-up-journeys/create-events.md) 를 참조하십시오.
+다음 비디오에서는 이벤트를 만드는 방법을 설명합니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
 ## Luma 온라인 구매 이벤트 만들기
 
@@ -61,7 +64,7 @@ ht-degree: 10%
 | [!UICONTROL 조건] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
 | [!UICONTROL 네임스페이스] | 이메일(EMail) |
 
-## 만들기 *[!DNL Luma Product Restock] 이벤트
+## 만들기 *[!DNL Luma Product Restock]* 이벤트
 
 | [!UICONTROL 매개 변수] | [!UICONTROL 값] |
 |-------------|-----------|
