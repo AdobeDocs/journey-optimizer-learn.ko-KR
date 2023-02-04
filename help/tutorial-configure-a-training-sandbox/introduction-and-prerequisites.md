@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 6%
 
 ---
@@ -33,18 +33,11 @@ ht-degree: 6%
 1. [이메일 메시지 사전 설정](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) 마케팅 및 트랜잭션 메시징용으로 구성되었습니다.
 1. **[!UICONTROL 여정 관리자]** 및 **[!UICONTROL 데이터 관리자]** 교육 샌드박스의 권한.
 1. 사용자 [조직 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ko-KR).
-
 1. Journey Optimizer 인스턴스에 구성된 샘플 데이터가 있는 JSON 파일:
-
    1. 다운로드 `luma-sample-data.zip` 파일 [여기](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip): 이 자습서에 필요한 모든 JSON 파일을 포함합니다.
-
-   1. 다운로드 폴더에서 `luma-data.zip` 파일을 컴퓨터의 원하는 위치에 저장하고 압축을 해제합니다.
-
-      이러한 파일은 교육 샌드박스에 대한 샘플 데이터를 포함합니다.
-
-   2. 각 파일을 열고 **`yourOrganizationID`** 그리고 그것을 [조직 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ko-KR).
-
-   3. 파일을 저장합니다.
+   1. 다운로드 폴더에서 `luma-data.zip` 파일을 컴퓨터의 원하는 위치에 저장하고 압축을 해제합니다.이러한 파일은 교육 샌드박스에 대한 샘플 데이터를 포함합니다.
+   1. 각 파일을 열고 **`yourOrganizationID`** 그리고 그것을 [조직 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ko-KR).
+   1. 파일을 저장합니다.
 
 ## 그럼 시작해 보겠습니다
 

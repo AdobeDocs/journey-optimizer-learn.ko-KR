@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 50%
@@ -42,7 +42,6 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 1. `Luma - Order Confirmation`(이)라는 여정 만들기
 2. 이벤트 사용: `LumaOnlinePurchase`
 3. 만들기 **트랜잭션**  이메일 호출 `Luma - Order Confirmation`
-
 * &quot;구매해주셔서 감사합니다, `FirstName`&quot;
 * `Luma - Order summary` 템플릿을 사용하고 수정하십시오.
    * 제거 `You may also like` 섹션
