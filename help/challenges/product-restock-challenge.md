@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 2f7074e5d9109cdbc1db69f6f5c48667b2276da7
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 83%
+source-wordcount: '580'
+ht-degree: 69%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 83%
 | 과제 | 제품 보충 |
 |---|---|
 | 담당자 | 여정 관리자 |
-| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ko)</li> |
+| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ko)</li> |
 | 다운로드할 자산 | [제품 잠금 전자 메일 파일](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## 스토리
 
-Luma 웹 사이트를 탐색할 때 고객은 관심 있는 제품을 위시리스트에 추가할 수 있습니다. 이는 Luma가 타겟팅된 마케팅 메시지와 제품 정보를 고객에게 보낼 수 있도록 해줍니다.
+Luma 웹 사이트를 검색할 때 고객이 관심 있는 제품을 희망 목록에 추가할 수 있으므로 Luma가 대상 마케팅 메시지 및 제품 정보를 고객에게 보낼 수 있습니다.
 
 ## 과제
 
@@ -39,7 +39,7 @@ Luma는 Journey Optimizer에서 품절 상태였던 위시리스트 항목이 �
 제품이 다시 시작될 때 관심이 있는 잠재 고객을 타겟팅하려면 고객으로 구성된 세그먼트를 만드십시오.
 
 * 원하는 목록에 하나 이상의 항목을 추가한 사용자(이벤트 유형 사용: [!UICONTROL 격자에 대한 상거래 저장])
-* 지난 3개월 동안 품절 상태(재고 수량 = 0 사용)
+* 지난 3개월 동안 재고가 부족했던 항목(재고 수량 = 0 사용)
 * 이후 해당 품목을 구매하지 않음.
 
 >[!TIP]
@@ -54,7 +54,7 @@ Luma는 Journey Optimizer에서 품절 상태였던 위시리스트 항목이 �
 
 1. 여정 호출: `Product Restock`
 2. 제품이 재입고되는 경우 여정을 트리거해야 합니다.
-3. 보내기 *제품 잠금 이메일* 전자 메일 보낸 사람
+3. 보내기 *제품 잠금 이메일* to
 4. 이 항목이 품절일 때 위시리스트에 추가한 사용자
 
 >[!TAB 성공 기준]
@@ -101,7 +101,7 @@ Luma는 Journey Optimizer에서 품절 상태였던 위시리스트 항목이 �
 > * [나중을 위해 저장] 아래 SKU를 이벤트 필드에 놓을 때 비교 옵션을 사용합니다.
 
 
-세그먼트 편집 화면에서 이벤트 아래의 오른쪽 아래 모서리에 있는 코드를 확인합니다. 코드는 다음과 같아야 합니다.
+세그먼트 편집 화면의 이벤트 아래에서 오른쪽 아래 모서리에 있는 코드를 확인합니다. 코드는 다음과 같아야 합니다.
 
 코드:
 ```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
@@ -116,7 +116,7 @@ Luma는 Journey Optimizer에서 품절 상태였던 위시리스트 항목이 �
 
 >[!TIP]
 >
-> 기존 비즈니스 이벤트를 사용합니다. 나중을 위해 저장 이벤트 유형에 재입고 SKU가 포함되어 있는지 확인하는 조건을 추가해야 합니다.
+> 기존 비즈니스 이벤트를 사용합니다. 잠금 SKU가 래터용 (any) 이벤트 유형에 포함되는지 확인하는 조건을 추가합니다.
 
 
 

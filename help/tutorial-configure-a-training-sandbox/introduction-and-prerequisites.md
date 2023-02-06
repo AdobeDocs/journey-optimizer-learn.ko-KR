@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 8538fbc0a4e33991ce1f65aeb92d29cc4ac51a56
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 6%
@@ -19,7 +19,7 @@ ht-degree: 6%
 
 ![배너 자습서 - 교육 샌드박스 구성](./assets/ajo-banner-configure-training-sandbox.png)
 
-이 자습서는 Adobe Journey Optimizer 교육 환경을 제공하는 관리자 및 데이터 엔지니어를 위해 설계되었습니다. 스키마를 구성하고 샘플 데이터를 수집하며 이벤트를 만드는 데 필요한 단계를 알아봅니다. 또한 학습자가 자신의 작업을 확인할 수 있도록 하는 3개의 테스트 프로필을 만듭니다.
+이 자습서는 Adobe Journey Optimizer 교육 환경을 제공하는 관리자 및 데이터 엔지니어를 위해 설계되었습니다. 스키마를 구성하고 샘플 데이터를 수집하며 이벤트를 만드는 데 필요한 단계를 알아봅니다. 또한 학습자가 자신의 작업을 확인할 수 있도록 하는 3개의 테스트 프로필을 만들 수도 있습니다.
 
 제공된 샘플 데이터는 _[!DNL Luma]_. [!DNL Luma] 는 여러 국가에 스토어, 웹 사이트를 통한 온라인 유무, 모바일 앱을 보유하고 있습니다. [!DNL Luma] 은 Adobe Journey Optimizer을 사용하여 고객에게 연결되고 상황에 맞는 개인화된 경험을 제공합니다.
 
@@ -30,12 +30,12 @@ ht-degree: 6%
 교육 샌드박스 설정을 시작하려면 먼저 다음을 확인하십시오.
 
 1. 전용 개발 [샌드박스](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en).
-1. [이메일 메시지 사전 설정](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) 마케팅 및 트랜잭션 메시징용으로 구성되었습니다.
+1. [이메일 메시지 사전 설정](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html?lang=en) 마케팅 및 트랜잭션 메시징용으로 구성되었습니다.
 1. **[!UICONTROL 여정 관리자]** 및 **[!UICONTROL 데이터 관리자]** 교육 샌드박스의 권한.
 1. 사용자 [조직 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ko-KR).
 1. Journey Optimizer 인스턴스에 구성된 샘플 데이터가 있는 JSON 파일:
    1. 다운로드 `luma-sample-data.zip` 파일 [여기](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip): 이 자습서에 필요한 모든 JSON 파일을 포함합니다.
-   1. 다운로드 폴더에서 `luma-data.zip` 파일을 컴퓨터의 원하는 위치에 저장하고 압축을 해제합니다.이러한 파일은 교육 샌드박스에 대한 샘플 데이터를 포함합니다.
+   1. 다운로드 폴더에서 `luma-data.zip` 파일을 컴퓨터의 원하는 위치에 저장하고 압축을 해제합니다. 이러한 파일은 교육 샌드박스에 대한 샘플 데이터를 포함합니다.
    1. 각 파일을 열고 **`yourOrganizationID`** 그리고 그것을 [조직 ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=ko-KR).
    1. 파일을 저장합니다.
 

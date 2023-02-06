@@ -1,6 +1,6 @@
 ---
 title: 이벤트 구성
-description: Journey Optimizer 당면 과제를 해결하기 위해 필요한 세 가지 이벤트 구성
+description: 실습 위주의 Journey Optimizer 과제에 필요한 세 가지 이벤트 구성
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 kt: 9382
@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 10%
 
 ---

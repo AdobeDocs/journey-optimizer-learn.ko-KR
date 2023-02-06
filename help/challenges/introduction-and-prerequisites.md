@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '456'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 ### 시스템 요구 사항
 
-* Journey Optimizer 샌드박스 액세스 - 전용 교육용 샌드박스에서 과제를 완료할 것을 권장합니다.
+* Journey Optimizer 샌드박스에 액세스 - 전용 교육 샌드박스에서 이 과제를 완료하는 것이 좋습니다.
 * AEM Assets Essentials를 인스턴스용으로 프로비저닝해야 합니다.
 * 전자 메일 채널은 트랜잭션 및 마케팅 메시지용으로 구성해야 합니다
 
@@ -40,7 +40,7 @@ ht-degree: 97%
 
 ### 필수 작업
 
-* Adobe Journey Optimizer를 처음 사용하는 경우 [여정 관리자 및 최고 관리자를 위한 Journey Optimizer 시작하기](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) 과정을 완료합니다.
+* Adobe Journey Optimizer를 처음 사용하는 경우 [여정 관리자 및 최고 관리자를 위한 Journey Optimizer 시작하기](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html) 과정을 완료합니다.
 
 
 ## 스토리
@@ -69,7 +69,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
       <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko"> 세그먼트 만들기</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ko">세그먼트 읽기</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ko">HTML 이메일 콘텐츠 가져오기</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML 이메일 콘텐츠 가져오기</li>
   </td>
   </tr>
    <tr>
@@ -91,7 +91,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
     <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko"> 세그먼트 만들기</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=ko">세그먼트 자격 조건</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ko">HTML 이메일 콘텐츠 가져오기 및 작성</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML 이메일 콘텐츠 가져오기 및 작성</li>
   </td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
  </em>
     <p>
     <b>필요한 기술:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html?lang=ko"> 메시지 편집기로 이메일 콘텐츠 만들기</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html"> 메시지 편집기로 이메일 콘텐츠 만들기</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=ko">개인화에 컨텍스트 기반 이벤트 정보 사용</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=ko">개인화에 도우미 기능 사용</li>
   </td>
