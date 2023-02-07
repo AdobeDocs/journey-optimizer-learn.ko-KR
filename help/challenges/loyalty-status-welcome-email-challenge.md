@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: a4f2d3e7f5cd4255d029315ffb21dd44609ebf38
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -69,7 +69,7 @@ Luma는 고객을 유치하고 유지하기 위한 방법으로 충성도 프로
 
 다음은 세그먼트가 어떻게 표시되어야 하는지를 나타냅니다.
 
-![Luma - 플래티넘 상태 - 세그먼트](/)
+![Luma - 플래티넘 상태 - 세그먼트](/help/challenges/assets/segment-luma-platinum-status.png)
 
 여정은 다음과 같아야 합니다.
 
