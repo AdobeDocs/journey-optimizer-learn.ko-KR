@@ -7,7 +7,7 @@ role: User
 level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
-source-git-commit: bf5a35d40365f96a7223bf569c1a998ddf933980
+source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 6%
@@ -41,5 +41,3 @@ http://ajolab.s3-website-us-east-1.amazonaws.com/index.html
 |----|----|----|
 | SMS | 베가스 스테이에 오신 것을 환영합니다 줄을 건너뛰고 모바일 앱을 사용하여 체크인: lab://checkin |  |
 | 푸시 | 베가스 스테이에 오신 것을 환영합니다 줄을 건너뛰고 모바일 앱을 사용하여 체크인 | lab://checkin |
-
-
