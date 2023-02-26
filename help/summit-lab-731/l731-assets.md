@@ -8,13 +8,13 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: ce271a2bbddd7cd36d773cc9360d9a0724f0c77d
+exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
+source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '178'
+ht-degree: 6%
 
 ---
-
 
 # Summit Lab L731
 
@@ -38,7 +38,12 @@ ht-degree: 0%
 
 ## 3단원 옴니채널 여정 만들기
 
-| 메시지 | 텍스트 | 링크 |
+| 메시지 | 텍스트 | 링크 | 이미지 |
 |----|----|----|
 | SMS | 베가스 스테이에 오신 것을 환영합니다 줄을 건너뛰고 모바일 앱을 사용하여 체크인: lab://checkin |  |
-| 푸시 | 베가스 스테이에 오신 것을 환영합니다 줄을 건너뛰고 모바일 앱을 사용하여 체크인 | lab://checkin |
+| 푸시 | 베가스 스테이에 오신 것을 환영합니다 줄을 건너뛰고 모바일 앱을 사용하여 체크인 | lab://checkin |  |
+
+
+SMS 및 푸시 알림에 사용하는 이미지입니다.
+
+![온라인 체크인](/help/assets/vegas_online_check_in.jpeg)
