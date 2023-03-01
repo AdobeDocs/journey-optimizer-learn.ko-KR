@@ -1,16 +1,16 @@
 ---
 title: 주문 확인 이메일 만들기
-description: 트랜잭션 메시지를 만들고 개인화하는 방법에 대한 지식을 테스트합니다.
+description: 트랜잭션 메시지를 만들고 개인화하는 방법에 대한 지식을 테스트합니다..
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
+workflow-type: tm+mt
+source-wordcount: '657'
+ht-degree: 93%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 | 필요한 기술 | <ul><li>[메시지 편집기로 이메일 콘텐츠 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=ko)</li> <li>[개인화에 컨텍스트 기반 이벤트 정보 사용](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=ko)</li><li>[개인화에 도우미 기능 사용](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=ko)</li></ul> |
 | 다운로드할 자산 | [주문 확인 자산](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## 스토리
 
-Luma는 온라인 스토어를 시작하고 고객이 주문을 하면 주문 확인 이메일을 제공하여 고객 경험을 향상하고자 합니다.
-
-
+Luma는 온라인 스토어를 시작하고 고객 경험을 향상하고자 합니다. 고객이 주문을 하면 주문 확인 이메일을 제공합니다.
 
 ## 과제
 
@@ -39,13 +39,19 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 
 >[!TAB 작업]
 
-1. `Luma - Order Confirmation`(이)라는 여정 만들기
-2. 이벤트 사용: `LumaOnlinePurchase`
-3. `Luma - Order Confirmation`(이)라는 **트랜잭션** 이메일 만들기
-* 제목 &quot;`FirstName` 님, 구매해 주셔서 감사합니다&quot;
-* `Luma - Order summary` 템플릿을 사용하고 수정하십시오.
-   * `You may also like` 섹션 제거
-   * 이메일 아래쪽에 구독 취소 링크 추가
+1. `Luma - Order Confirmation`(이)라는 여정을 만듭니다.
+
+1. 이벤트 사용: `LumaOnlinePurchase`.
+
+1. 만들기 **트랜잭션**  이메일 호출됨 `Luma - Order Confirmation`.
+
+   * 제목 &quot;`FirstName` 님, 구매해 주셔서 감사합니다&quot;
+
+   * `Luma - Order summary` 템플릿을 사용하고 수정하십시오.
+
+      * `You may also like` 섹션 제거
+
+      * 이메일 아래쪽에 구독 취소 링크 추가
 
 이메일을 다음과 같이 구조화해야 합니다.
 <table>
@@ -66,7 +72,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
   <td>
   <div>
     <strong>주문 확인 섹션
- </strong>
+    </strong>
   </td>
   <td>
     <p>
@@ -125,7 +131,6 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >여정의 문제를 해결하는 가장 좋은 방법은 시간 제한이나 오류가 발생할 경우 모든 메시지 작업에 대체 경로를 추가하는 것입니다.
@@ -136,11 +141,11 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 
 1. 테스트 모드로 전환하기 전에 테스트 이메일을 자신의 이메일 주소로 보낼 수 있도록 이메일 매개 변수를 재정의합니다.
    1. 이메일 세부 사항 보기를 엽니다.
-   2. [이메일 매개 변수] 섹션에서 T 기호를 클릭합니다(매개 변수 재정의 활성화
-   3. 주소 필드를 클릭합니다.
-   4. 다음 화면의 표현식 편집기에서 이메일 주소를 괄호 안에 넣고(*yourname@yourdomain*) 확인을 클릭합니다.
-2. 여정을 테스트 모드로 전환합니다.
-3. 다음 매개 변수로 이벤트를 트리거합니다.
+   1. [이메일 매개 변수] 섹션에서 T 기호를 클릭합니다(매개 변수 재정의 활성화
+   1. 주소 필드를 클릭합니다.
+   1. 다음 화면의 표현식 편집기에서 이메일 주소를 괄호 안에 넣고(*yourname@yourdomain*) 확인을 클릭합니다.
+1. 여정을 테스트 모드로 전환합니다.
+1. 다음 매개 변수로 이벤트를 트리거합니다.
    * 프로필 식별자를 다음으로 설정: 식별값: `a8f14eab3b483c2b96171b575ecd90b1`
    * 이벤트 유형: commerce.purchases
    * `Quantity`: 1
