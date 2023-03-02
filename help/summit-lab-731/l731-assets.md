@@ -1,6 +1,6 @@
 ---
-title: L731 에셋
-description: 이 페이지에는 L731 Summit Lab에서 사용 중인 텍스트와 링크가 있습니다.
+title: L731 자산
+description: 이 페이지에는 L731 Summit Lab에서 사용하는 텍스트와 링크가 있습니다.
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -12,13 +12,13 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 5%
+ht-degree: 78%
 
 ---
 
-# 서밋 랩 L731
+# Summit Lab L731
 
-이 페이지에는 L731 Summit Lab에서 사용 중인 텍스트와 링크가 있습니다. 콘텐츠를 복사하여 Journey Optimizer 메시지에 붙여넣을 수 있습니다.
+이 페이지에는 L731 Summit Lab에서 사용하는 텍스트와 링크가 있습니다. 콘텐츠를 복사하여 Journey Optimizer 메시지에 붙여 넣을 수 있습니다.
 
 ## 연습 1.1 - 앱 다운로드 및 설치
 
@@ -40,19 +40,19 @@ ht-degree: 5%
 |----|----|----|
 | 캠페인 이름 | `<your seat number> March Vegas Campaign` |  |
 | 미디어 URL 옵션 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Title | 일어나고 있습니다. 라이브! |  |
-| 본문 | Adobe Summit이 2023년 3월 21~23일 사이에 라스베이거스로 돌아옵니다. 영감을 주는 스피커, 스킬 확장 세션 및 새로운 연결에 대비하십시오. |  |
-| 버튼 | 지금 호텔을 예약하고 10% 할인 혜택을 누리세요 | lab://booking?suite=presidential&amp;discount=10 |
+| Title | Summit이 라이브로 찾아옵니다! |  |
+| 본문 | Adobe Summit이 2023년 3월 21~23일 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. |  |
+| 버튼 | 지금 호텔 예약하고 10% 할인 받기 | lab://booking?suite=presidential&amp;discount=10 |
 | 기본 URL |  | lab:// |
 
 
 
-## 제 3 장 옴니채널 여정 만들기
+## 3단원 옴니채널 여정 만들기
 
-| 메시지 | 텍스트 | 딥링크 | 미디어 |
+| 메시지 | 텍스트 | 딥 링크 | 미디어 |
 |----|----|----|----|
-| 푸시 | 베가스스테이에 오신 것을 환영합니다 줄을 건너뛰고 모바일 앱으로 체크인 | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| SMS | 베가스스테이에 오신 것을 환영합니다 줄을 건너뛰고 모바일 앱으로 체크인: lab://checkin |  |
+| 푸시 | Vegas Stay에 오신 것을 환영합니다. 줄 설 필요 없이 모바일 앱으로 체크인하기 | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
+| SMS | Vegas Stay에 오신 것을 환영합니다. 줄 설 필요 없이 모바일 앱으로 체크인하기: lab://checkin |  |
 
 
 SMS 및 푸시 알림에 사용하는 이미지입니다.
