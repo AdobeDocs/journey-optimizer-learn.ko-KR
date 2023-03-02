@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: ht
-source-wordcount: '456'
-ht-degree: 100%
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 83%
 
 ---
 
@@ -23,15 +23,18 @@ ht-degree: 100%
 
 ## 전제 조건
 
+다음 전제 조건이 충족되는지 확인합니다.
+
 ### 시스템 요구 사항
 
-* Journey Optimizer 샌드박스 액세스 - 전용 교육용 샌드박스에서 과제를 완료하시면 좋습니다.
+* Journey Optimizer 샌드박스에 액세스 - 전용 교육 샌드박스에서 과제를 완료하는 것이 좋습니다.
 * AEM Assets Essentials를 인스턴스용으로 프로비저닝해야 합니다.
-* 이메일 채널은 트랜잭션 및 마케팅 메시지용으로 구성
+* 이메일 채널은 트랜잭션 및 마케팅 메시지용으로 구성.
 
 ### 액세스 권한
 
 다음 액세스 권한이 필요합니다.
+
 * *여정 관리자* 또는 *여정 최고 관리자*
 * 테스트 프로필 및 해당 속성 보기
 
@@ -40,8 +43,7 @@ ht-degree: 100%
 
 ### 필수 작업
 
-* Adobe Journey Optimizer를 처음 사용하는 경우 [여정 관리자 및 최고 관리자를 위한 Journey Optimizer 시작하기](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ko) 과정을 완료합니다.
-
+* Adobe Journey Optimizer을 처음 사용하는 경우 과정을 완료합니다 [여정 관리자 및 관리자를 위한 Journey Optimizer 시작하기](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ko).
 
 ## 스토리
 
