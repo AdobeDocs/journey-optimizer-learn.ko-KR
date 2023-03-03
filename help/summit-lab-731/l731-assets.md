@@ -1,5 +1,5 @@
 ---
-title: L731 자산
+title: L731 치트 시트
 description: 이 페이지에는 L731 Summit Lab에서 사용하는 텍스트와 링크가 있습니다.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 78%
+source-wordcount: '222'
+ht-degree: 76%
 
 ---
 
-# Summit Lab L731
+# Summit Lab L731 - 치트 시트
 
 이 페이지에는 L731 Summit Lab에서 사용하는 텍스트와 링크가 있습니다. 콘텐츠를 복사하여 Journey Optimizer 메시지에 붙여 넣을 수 있습니다.
 
