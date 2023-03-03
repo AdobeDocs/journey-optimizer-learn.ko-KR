@@ -5,9 +5,9 @@ breadcrumb-title: Journey Optimizer - 과제
 breadcrumb-url: /docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html
 index: false
 hide: true
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: 4fbb578555827ead66aa0d908b70a61f9280516a
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
@@ -19,4 +19,4 @@ ht-degree: 100%
 + [과제 - 여름 컬렉션 발표 만들기](/help/challenges/summer-collection-announcement-challenge.md)
 + [과제 - 충성도 상태 환영 이메일 만들기](/help/challenges/loyalty-status-welcome-email-challenge.md)
 + [과제 - 주문 확인 이메일 만들기](/help/challenges/order-confirmation-challenge.md)
-+ [튜토리얼](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
++ [튜토리얼](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko-KR)
