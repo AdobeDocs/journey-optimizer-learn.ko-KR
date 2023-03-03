@@ -1,19 +1,19 @@
 ---
-title: Journey Optimizer 과제 - 소개 및 사전 요구 사항
+title: Journey Optimizer의 당면 과제 - 소개 및 사전 요구 사항
 description: 여정 캔버스에서 여정을 작성하는 기본적인 방법을 이해합니다.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: f56ada2b4adeced3a77f2313a1a211f71260d0b7
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 83%
+ht-degree: 80%
 
 ---
 
-# Journey Optimizer 과제 - 소개 및 사전 요구 사항
+# Journey Optimizer의 당면 과제 - 소개 및 사전 요구 사항
 
 ![AJO 과제 배너](./assets/ajo-banner-challenges.png)
 
