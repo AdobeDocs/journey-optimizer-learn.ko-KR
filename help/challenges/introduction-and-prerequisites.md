@@ -1,15 +1,15 @@
 ---
 title: Journey Optimizer의 당면 과제 - 소개 및 사전 요구 사항
-description: 여정 캔버스에서 여정을 작성하는 기본적인 방법을 이해합니다.
+description: 과제는 시나리오 및 학습 내용을 실행하는 데 필요한 요구 사항을 제공합니다. 각 과제는 사용자가 구현하는 고유한 사용 사례를 해결합니다.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: f56ada2b4adeced3a77f2313a1a211f71260d0b7
+source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 80%
+source-wordcount: '475'
+ht-degree: 79%
 
 ---
 
