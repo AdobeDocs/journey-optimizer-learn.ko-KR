@@ -23,7 +23,7 @@ ht-degree: 100%
 | 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ko)</li> |
 | 다운로드할 자산 | [시즌 컬렉션 이메일 파일](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 스토리
 
@@ -180,15 +180,13 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. [!UICONTROL 세그먼트 활동 읽기]에 **Luma CRM ID(lumaCrmId)**&#x200B;로 설정된 네임스페이스가 있는지 확인합니다.
 >1. 각각의 이메일에 대해 자신의 이메일 주소로 전송할 수 있도록 기본 이메일 매개 변수를 재정의합니다.
-   >    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
-   >    * 이메일 매개 변수에서 T 기호를 클릭합니다(매개 변수 재정의 활성화).
-
-      >
-      >      ![이메일 매개 변수 재정의](/help/challenges/assets/c3-override-email-paramters.jpg)
-   > 
-   >    * [!UICONTROL 주소] 필드를 클릭합니다.
-   >    * 다음 화면에서는 표현식 편집기에서 이메일 주소를 괄호 안에 넣고(`"yourname@yourdomain"`) 확인을 클릭합니다.
-
+>    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
+>    * 이메일 매개 변수에서 T 기호를 클릭합니다(매개 변수 재정의 활성화).
+>
+>      ![이메일 매개 변수 재정의](/help/challenges/assets/c3-override-email-paramters.jpg)
+> 
+>    * [!UICONTROL 주소] 필드를 클릭합니다.
+>    * 다음 화면에서는 표현식 편집기에서 이메일 주소를 괄호 안에 넣고(`"yourname@yourdomain"`) 확인을 클릭합니다.
 >
 
 
