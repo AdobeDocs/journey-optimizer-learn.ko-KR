@@ -7,8 +7,8 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '1178'
+workflow-type: ht
+source-wordcount: '1175'
 ht-degree: 100%
 
 ---
@@ -180,13 +180,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. [!UICONTROL 세그먼트 활동 읽기]에 **Luma CRM ID(lumaCrmId)**&#x200B;로 설정된 네임스페이스가 있는지 확인합니다.
 >1. 각각의 이메일에 대해 자신의 이메일 주소로 전송할 수 있도록 기본 이메일 매개 변수를 재정의합니다.
->    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
->    * 이메일 매개 변수에서 T 기호를 클릭합니다(매개 변수 재정의 활성화).
->
->      ![이메일 매개 변수 재정의](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * [!UICONTROL 주소] 필드를 클릭합니다.
->    * 다음 화면에서는 표현식 편집기에서 이메일 주소를 괄호 안에 넣고(`"yourname@yourdomain"`) 확인을 클릭합니다.
+   >    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
+   >    * 이메일 매개 변수에서 T 기호를 클릭합니다(매개 변수 재정의 활성화).
+
+      >
+      >      ![이메일 매개 변수 재정의](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * [!UICONTROL 주소] 필드를 클릭합니다.
+   >    * 다음 화면에서는 표현식 편집기에서 이메일 주소를 괄호 안에 넣고(`"yourname@yourdomain"`) 확인을 클릭합니다.
+
 >
 
 
