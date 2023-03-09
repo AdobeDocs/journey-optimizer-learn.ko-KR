@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 28da398f6813b1926c79b5cd45f415e2cfa9f40f
+source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 67%
+source-wordcount: '239'
+ht-degree: 64%
 
 ---
 
@@ -26,6 +26,10 @@ ht-degree: 67%
 
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
+### Android - 자리 표시자
+
+![Android용 QR 코드](/help/assets/lab731-ios-qr-code.png)
+
 
 ## 연습 1.3: Adobe Journey Optimizer에 로그인
 
@@ -33,8 +37,8 @@ ht-degree: 67%
 
 **로그인 세부 정보:**
 
-* 사용자 이름: `L731+<your seat number>@summitlab.us` (예: L731+001@summitlab.us)
-* 암호: Adobe2023!
+* **사용자 이름:** `L731+<your seat number>@summitlab.us` (예: L731+001@summitlab.us)
+* **암호:** Adobe 2023!
 
 
 ## 연습 2.1 인앱 캠페인 만들기
@@ -50,7 +54,7 @@ ht-degree: 67%
 | 본문 | Adobe Summit이 2023년 3월 21~23일 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. |  |
 | 버튼 | 지금 호텔 예약하고 10% 할인 받기 | lab://booking?suite=presidential&amp;discount=10 |
 | 단추: 대화형 이벤트 | 인앱 CTA |  |
-| 기본 URL |  | lab:// |
+| 기본 URL |  | iOS: lab:// <br>Android: https://lab |
 
 
 
