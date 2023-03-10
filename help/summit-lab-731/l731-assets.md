@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
+source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '259'
 ht-degree: 51%
 
 ---
@@ -30,7 +30,7 @@ QR 코드를 스캔하여 앱 다운로드
 
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
->[!TAB Android]
+>[!TAB Android™]
 
 ![Android용 QR 코드](/help/assets/lab731-android-qr-code.png)
 
@@ -57,7 +57,7 @@ QR 코드를 스캔하여 앱 다운로드
 | 본문 | Adobe Summit이 2023년 3월 21~23일 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. |  |
 | 버튼 | 지금 호텔 예약하고 10% 할인 받기 | lab://booking?suite=presidential&amp;discount=10 |
 | 단추: 대화형 이벤트 | 인앱 CTA |  |
-| 기본 URL |  | iOS: lab:// <br>Android: https://lab |
+| 기본 URL |  | iOS: lab:// <br>Android™: https://lab |
 
 
 ## 3단원 옴니채널 여정 만들기
