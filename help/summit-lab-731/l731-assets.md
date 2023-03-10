@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
+source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 64%
+source-wordcount: '271'
+ht-degree: 49%
 
 ---
 
@@ -22,14 +22,19 @@ ht-degree: 64%
 
 ## 연습 1.1 - 앱 다운로드 및 설치
 
-### iOS
+QR 코드를 스캔하여 앱 다운로드
+
+>[!BEGINTABS]
+
+>[!TAB iOS]
 
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
-### Android - 자리 표시자
+>[!TAB Android]
 
 ![Android용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
+>[!ENDTABS]
 
 ## 연습 1.3: Adobe Journey Optimizer에 로그인
 
@@ -43,8 +48,6 @@ ht-degree: 64%
 
 ## 연습 2.1 인앱 캠페인 만들기
 
-
-
 | 필드 | 텍스트 | 링크 |
 |----|----|----|
 | 캠페인 이름 | `<your seat number> March Vegas Campaign` |  |
@@ -57,16 +60,39 @@ ht-degree: 64%
 | 기본 URL |  | iOS: lab:// <br>Android: https://lab |
 
 
-
 ## 3단원 옴니채널 여정 만들기
 
-| 메시지 | 제목/제목 줄 | 텍스트 | 링크 |
-|----|----|----|----|----|
-| 푸시 | Vegas Stay에 오신 것을 환영합니다! | 줄 설 필요 없이 모바일 앱으로 체크인하기 | lab://checkin |  |
-| SMS |  | Vegas Stay에 오신 것을 환영합니다. 줄 설 필요 없이 모바일 앱으로 체크인하기: lab://checkin |  |
-| 이메일 | {{profile.person.name.firstName}}, 체크인되었습니다. 이제 숙박에 대한 오퍼를 확인하십시오! |  |  |
+>[!BEGINTABS]
+
+>[!TAB 푸시 메시지]
+
+**Title:**\
+Vegas Stay에 오신 것을 환영합니다!
+
+**본문:**\
+줄 설 필요 없이 모바일 앱으로 체크인하기
+
+**딥링크:** lab://checkin
+
+**미디어:**
+
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-SMS 및 푸시 알림에 사용하는 이미지입니다.
+다음은 푸시 알림에 사용하는 이미지입니다.
 
 ![온라인 체크인](/help/assets/vegas_online_check_in.jpg)
+
+|SMS| || |전자 메일|{{profile.person.name.firstName}}, 체크인되었습니다. 이제 숙박에 대한 오퍼를 확인해 보십시오.
+
+>[!TAB SMS 메시지]
+
+**메시지:**
+베가스스테이에 오신 것을 환영합니다 줄 설 필요 없이 모바일 앱으로 체크인하기: lab://checkin
+
+>[!TAB 이메일 메시지]
+
+**제목 줄:**
+{{profile.person.name.firstName}}, 체크인되었습니다. 이제 숙박에 대한 오퍼를 확인하십시오!
+
+>[!ENDTABS]
