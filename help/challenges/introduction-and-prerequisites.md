@@ -1,6 +1,6 @@
 ---
 title: Journey Optimizer의 당면 과제 - 소개 및 사전 요구 사항
-description: 과제는 시나리오 및 학습 내용을 실행하는 데 필요한 요구 사항을 제공합니다. 각 과제는 사용자가 구현하는 고유한 사용 사례를 해결합니다.
+description: 과제는 시나리오 및 학습 내용을 실행하는 데 필요한 요구 사항을 제공합니다. 각 과제에서는 구현한 고유의 사용 사례를 해결합니다.
 feature: Journeys
 role: Admin
 level: Beginner
@@ -9,7 +9,7 @@ exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
 source-wordcount: '475'
-ht-degree: 79%
+ht-degree: 81%
 
 ---
 
