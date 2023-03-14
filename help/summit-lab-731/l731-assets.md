@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
+source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 51%
+source-wordcount: '325'
+ht-degree: 40%
 
 ---
 
@@ -30,9 +30,21 @@ QR 코드를 스캔하여 앱 다운로드
 
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
+Testflight를 설치하라는 메시지가 표시됩니다. Testflight를 설치했으면 단계에 따라 Vegas Stay 앱을 설치하십시오.
+
+![iOS 설치 단계](/help/assets/lab731-install-ios.png)
+
 >[!TAB Android™]
 
 ![Android용 QR 코드](/help/assets/lab731-android-qr-code.png)
+
+Android 시뮬레이터를 사용하는 경우 다음 링크를 사용하십시오. [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+
+앱이 Google Play 스토어에 등록되지 않으면 다음과 같은 경고 메시지가 표시됩니다.
+
+![Android 경고 화면](/help/assets/lab731-install-android.png)
+
+클릭 **그대로 설치**
 
 >[!ENDTABS]
 
