@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
+source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 40%
+source-wordcount: '327'
+ht-degree: 39%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 40%
 
 ## 연습 1.1 - 앱 다운로드 및 설치
 
-QR 코드를 스캔하여 앱 다운로드
+QR 코드를 스캔하여 앱을 다운로드합니다
 
 >[!BEGINTABS]
 
@@ -30,7 +30,7 @@ QR 코드를 스캔하여 앱 다운로드
 
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
-Testflight를 설치하라는 메시지가 표시됩니다. Testflight를 설치했으면 단계에 따라 Vegas Stay 앱을 설치하십시오.
+Testflight를 설치하라는 메시지가 표시됩니다. Testflight를 설치한 후에는 다음 단계에 따라 Vegas Stay 앱을 설치하십시오.
 
 ![iOS 설치 단계](/help/assets/lab731-install-ios.png)
 
@@ -38,13 +38,13 @@ Testflight를 설치하라는 메시지가 표시됩니다. Testflight를 설치
 
 ![Android용 QR 코드](/help/assets/lab731-android-qr-code.png)
 
-Android 시뮬레이터를 사용하는 경우 다음 링크를 사용하십시오. [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+Android 시뮬레이터를 사용하는 경우 이 링크를 사용하십시오. [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
-앱이 Google Play 스토어에 등록되지 않으면 다음과 같은 경고 메시지가 표시됩니다.
+앱이 Google Play Store에 등록되어 있지 않으므로 경고 메시지가 표시됩니다.
 
 ![Android 경고 화면](/help/assets/lab731-install-android.png)
 
-클릭 **그대로 설치**
+클릭 **설치**
 
 >[!ENDTABS]
 
@@ -55,7 +55,7 @@ Android 시뮬레이터를 사용하는 경우 다음 링크를 사용하십시�
 **로그인 세부 정보:**
 
 * **사용자 이름:** `L731+<your seat number>@summitlab.us` (예: L731+001@summitlab.us)
-* **암호:** Adobe 2023!
+* **암호:** Adobe2023!
 
 
 ## 연습 2.1 인앱 캠페인 만들기
@@ -63,9 +63,9 @@ Android 시뮬레이터를 사용하는 경우 다음 링크를 사용하십시�
 | 필드 | 텍스트 | 링크 |
 |----|----|----|
 | 캠페인 이름 | `<your seat number> March Vegas Campaign` |  |
-| 적절한 항목 | 바보 |  |
+| Matcher | 부유 |  |
 | 미디어 URL 옵션 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Title | Summit이 라이브로 찾아옵니다! |  |
+| Title | 지금 벌어지고 있습니다. |  |
 | 본문 | Adobe Summit이 2023년 3월 21~23일 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. |  |
 | 버튼 | 지금 호텔 예약하고 10% 할인 받기 | lab://booking?suite=presidential&amp;discount=10 |
 | 단추: 대화형 이벤트 | 인앱 CTA |  |
@@ -79,30 +79,30 @@ Android 시뮬레이터를 사용하는 경우 다음 링크를 사용하십시�
 >[!TAB 푸시 메시지]
 
 **Title:**\
-Vegas Stay에 오신 것을 환영합니다!
+베가스 스테이에 오신 것을 환영합니다!
 
 **본문:**\
 줄 설 필요 없이 모바일 앱으로 체크인하기
 
-**딥링크:** lab://checkin
+**딥 링크:** lab://checkin
 
 **미디어:**
 
 https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-다음은 푸시 알림에 사용하는 이미지입니다.
+푸시 알림에 사용하는 이미지입니다.
 
 ![온라인 체크인](/help/assets/vegas_online_check_in.jpg)
 
 >[!TAB SMS 메시지]
 
 **메시지:**
-베가스스테이에 오신 것을 환영합니다 줄 설 필요 없이 모바일 앱으로 체크인하기: lab://checkin
+베가스 스테이에 오신 것을 환영합니다 줄 설 필요 없이 모바일 앱으로 체크인하기: lab://checkin
 
 >[!TAB 이메일 메시지]
 
 **제목 줄:**
-{{profile.person.name.firstName}}, 체크인되었습니다. 이제 숙박에 대한 오퍼를 확인하십시오!
+{{profile.person.name.firstName}}체크인하셨으니, 이제 저희 오퍼에서 고객님께서 머무르실 수 있도록 해주시기 바랍니다!
 
 >[!ENDTABS]
