@@ -27,8 +27,8 @@ ht-degree: 81%
 
 ### 시스템 요구 사항
 
-* Journey Optimizer 샌드박스에 액세스 - 전용 교육 샌드박스에서 과제를 완료하는 것이 좋습니다.
-* AEM Assets Essentials를 인스턴스용으로 프로비저닝해야 합니다.
+* Journey Optimizer 샌드박스에 액세스 - 전용 교육 샌드박스에서 이 과제를 완료하는 것이 좋습니다.
+* 인스턴스에 대해 AEM Assets Essentials를 프로비저닝해야 합니다.
 * 이메일 채널은 트랜잭션 및 마케팅 메시지용으로 구성.
 
 ### 액세스 권한
@@ -43,7 +43,7 @@ ht-degree: 81%
 
 ### 필수 작업
 
-* Adobe Journey Optimizer을 처음 사용하는 경우 과정을 완료합니다 [여정 관리자 및 관리자를 위한 Journey Optimizer 시작하기](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ko).
+* Adobe Journey Optimizer을 처음 사용하는 경우 교육 과정을 완료합니다 [여정 관리자 및 관리자를 위한 Journey Optimizer 시작하기](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ko).
 
 ## 스토리
 
@@ -51,7 +51,7 @@ Luma는 여러 국가의 상점, 웹 사이트를 통한 온라인 상의 존재
 
 Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대한 판매를 촉진하려고 합니다. 귀하는 Journey Optimizer에서 Luma 마케팅 및 유지 캠페인을 구현하기 위해 고용되었습니다.
 
-## 과제
+## 당면 과제
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
     </a>
     </div>
     <p>
-    <em>충성도 고객이 새로운 티어로 이동하면 축하와 함께 새로운 이점을 알려주는 이메일을 보냅니다.</em>
+    <em>충성도 고객이 새로운 계층으로 이동하여 축하하고 새로운 이점을 알려면 이메일을 보냅니다.</em>
     <p>
     <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko"> 세그먼트 만들기</li>
