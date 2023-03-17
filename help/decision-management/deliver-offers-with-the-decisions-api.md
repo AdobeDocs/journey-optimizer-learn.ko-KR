@@ -1,15 +1,15 @@
 ---
 title: Decisions Hub API를 사용한 오퍼 게재
-description: 결정 API를 사용하여 의사 결정 관리 오퍼를 제공하는 방법을 알아봅니다.
+description: Decisions API를 사용하여 의사 결정 관리 오퍼를 게재하는 방법을 알아봅니다.
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
