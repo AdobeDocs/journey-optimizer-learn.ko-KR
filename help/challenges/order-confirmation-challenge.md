@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: '654'
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 93%
 | 필요한 기술 | <ul><li>[메시지 편집기로 이메일 콘텐츠 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=ko)</li> <li>[개인화에 컨텍스트 기반 이벤트 정보 사용](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=ko)</li><li>[개인화에 도우미 기능 사용](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=ko)</li></ul> |
 | 다운로드할 자산 | [주문 확인 자산](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 스토리
 
-Luma는 온라인 스토어를 시작하고 고객 경험을 향상하고자 합니다. 고객이 주문을 하면 주문 확인 이메일을 제공합니다.
+Luma는 온라인 스토어를 런칭하며 훌륭한 고객 경험을 제공하고자 합니다. 그래서 고객이 주문을 하면 주문 확인 이메일을 보내려고 합니다.
 
 ## 과제
 
@@ -43,7 +43,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 
 1. 이벤트 사용: `LumaOnlinePurchase`.
 
-1. 만들기 **트랜잭션**  이메일 호출됨 `Luma - Order Confirmation`.
+1. **트랜잭션** 이메일(이름: `Luma - Order Confirmation`)을 만듭니다.
 
    * 제목 &quot;`FirstName` 님, 구매해 주셔서 감사합니다&quot;
 
@@ -72,7 +72,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
   <td>
   <div>
     <strong>주문 확인 섹션
-    </strong>
+ </strong>
   </td>
   <td>
     <p>
@@ -104,7 +104,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
  <tr>
 <td>
   <div>
-     <strong>주문 세부 사항 섹션</strong>
+     <strong>주문 상세 정보 섹션</strong>
       </div>
        <p><li><b>배송지</b> 섹션 아래에 이 섹션 추가
       </p><br>
