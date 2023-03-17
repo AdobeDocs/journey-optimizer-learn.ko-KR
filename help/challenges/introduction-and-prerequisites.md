@@ -1,19 +1,19 @@
 ---
-title: Journey Optimizer의 당면 과제 - 소개 및 사전 요구 사항
-description: 과제는 시나리오 및 학습 내용을 실행하는 데 필요한 요구 사항을 제공합니다. 각 과제에서는 구현한 고유의 사용 사례를 해결합니다.
+title: Journey Optimizer 과제 - 소개 및 사전
+description: 과제는 시나리오 및 학습 내용을 실행하는 데 필요한 요구 사항을 제공합니다. 각 과제마다 다른 사용 사례를 다루며, 학습자는 이를 구현해야 합니다.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
-# Journey Optimizer의 당면 과제 - 소개 및 사전 요구 사항
+# Journey Optimizer 과제 - 소개 및 사전 
 
 ![AJO 과제 배너](./assets/ajo-banner-challenges.png)
 
@@ -27,9 +27,9 @@ ht-degree: 81%
 
 ### 시스템 요구 사항
 
-* Journey Optimizer 샌드박스에 액세스 - 전용 교육 샌드박스에서 이 과제를 완료하는 것이 좋습니다.
-* 인스턴스에 대해 AEM Assets Essentials를 프로비저닝해야 합니다.
-* 이메일 채널은 트랜잭션 및 마케팅 메시지용으로 구성.
+* Journey Optimizer 샌드박스 액세스 - 전용 교육 샌드박스에서 과제를 완료하는 것을 추천합니다.
+* AEM Assets Essentials를 학습자의 인스턴스용으로 프로비저닝해야 합니다.
+* 이메일 채널은 트랜잭션 및 마케팅 메시지용으로 구성해야 합니다.
 
 ### 액세스 권한
 
@@ -43,7 +43,7 @@ ht-degree: 81%
 
 ### 필수 작업
 
-* Adobe Journey Optimizer을 처음 사용하는 경우 교육 과정을 완료합니다 [여정 관리자 및 관리자를 위한 Journey Optimizer 시작하기](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ko).
+* Adobe Journey Optimizer를 처음 사용하는 경우 [여정 관리자 및 최고 관리자를 위한 Journey Optimizer 시작](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=ko) 과정을 완료합니다.
 
 ## 스토리
 
@@ -51,7 +51,7 @@ Luma는 여러 국가의 상점, 웹 사이트를 통한 온라인 상의 존재
 
 Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대한 판매를 촉진하려고 합니다. 귀하는 Journey Optimizer에서 Luma 마케팅 및 유지 캠페인을 구현하기 위해 고용되었습니다.
 
-## 당면 과제
+## 과제
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
     </a>
     </div>
     <p>
-    <em>충성도 고객이 새로운 계층으로 이동하여 축하하고 새로운 이점을 알려면 이메일을 보냅니다.</em>
+    <em>충성 고객이 새로운 티어로 이동하면 축하와 함께 새로운 혜택을 알려주는 이메일을 보냅니다.</em>
     <p>
     <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko"> 세그먼트 만들기</li>
