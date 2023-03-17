@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 7%
 
 ![데이터 세트 만들기](/help/tutorial-configure-a-training-sandbox/assets/datasets.png)
 
-아직 다운로드하지 않았다면 샘플 데이터로 다음 JSON 파일을 다운로드하고 데이터를 해당 데이터 세트로 수집합니다.
+아직 다운로드 및 수집 작업을 하지 않은 경우 샘플 데이터가 있는 다음 JSON 파일을 다운로드하고 데이터를 해당하는 데이터 세트로 수집합니다.
 
 * [luma-crm-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm-data.json)
 * [luma-loyalty-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty-data.json)
@@ -34,4 +34,4 @@ ht-degree: 7%
 
 ## 다음 단계
 
-모든 필수 데이터 세트를 만들고 샘플 데이터를 수집했습니다. 마지막 단계는 다음과 같습니다 [이벤트 구성](/help/tutorial-configure-a-training-sandbox/configure-events.md).
+필요한 데이터 세트를 모두 만들고 샘플 데이터를 수집하는 작업에 성공했습니다. 마지막으로 [이벤트 구성](/help/tutorial-configure-a-training-sandbox/configure-events.md) 단계를 진행합니다.
