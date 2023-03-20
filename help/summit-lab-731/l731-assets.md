@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
+source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 55%
+source-wordcount: '355'
+ht-degree: 53%
 
 ---
 
@@ -30,11 +30,97 @@ QR 코드를 스캔하여 앱을 다운로드합니다
 
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
-Testflight를 설치하라는 메시지가 표시됩니다. Testflight를 설치한 후에는 다음 단계에 따라 Vegas Stay 앱을 설치하십시오.
+Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testflight를 설치한 후 5~8단계에 따라 Vegas Stay 앱을 설치합니다.
 
-![iOS 설치 단계](/help/assets/lab731-install-ios.png)
-
->[!TAB Android™]
+<table>
+<tr>
+</tr>
+<tr>
+<td>
+ <div>
+      <p>
+      <b>1단계 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>2단계 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>3단계 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>4단계 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+  <tr>
+<td>
+ <div>
+      <p>
+      <b>5단계 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>6단계 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>7단계 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>8단계 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+</table>
+&gt;[!TAB Android™]
 
 ![Android용 QR 코드](/help/assets/lab731-android-qr-code.png)
 
@@ -74,9 +160,15 @@ Android 시뮬레이터를 사용하는 경우 이 링크를 사용하십시오.
 
 ## 3단원 옴니채널 여정 만들기
 
+**여정 레이블:**
+<your seat number> - 시작 여정
+
 >[!BEGINTABS]
 
 >[!TAB 푸시 메시지]
+
+**레이블:**
+환영 메시지
 
 **Title:**\
 Vegas Stay에 오신 것을 환영합니다!
@@ -97,10 +189,16 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 
 >[!TAB SMS 메시지]
 
+**레이블:**
+환영 메시지
+
 **메시지:**
 베가스 스테이에 오신 것을 환영합니다 줄 설 필요 없이 모바일 앱으로 체크인하기: lab://checkin
 
 >[!TAB 이메일 메시지]
+
+**레이블:**
+확인 메시지
 
 **제목 줄:**
 {{profile.person.name.firstName}}체크인하셨으니, 이제 저희 오퍼에서 고객님께서 머무르실 수 있도록 해주시기 바랍니다!
