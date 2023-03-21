@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 3d39dc6e04992175331a3bf2855370359a8d4527
+source-git-commit: 879eeea18f565db742f62d7dbdf65f61341ead2e
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 53%
@@ -30,7 +30,7 @@ QR 코드를 스캔하여 앱을 다운로드합니다
 
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
-Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testflight를 설치한 후 5~8단계에 따라 Vegas Stay 앱을 설치합니다.
+Testflight를 설치하라는 메시지가 표시됩니다(1-4단계). Testflight를 설치한 후 5~8단계에 따라 Vegas Stay 앱을 설치합니다.
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testfligh
       <p>
       <b>1단계 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 1">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.png"/>
       </a>
       </div>
@@ -51,7 +51,7 @@ Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testfligh
       <p>
       <b>2단계 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 2">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
       </a>
       </div>
@@ -61,7 +61,7 @@ Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testfligh
       <p>
       <b>3단계 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 3">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
       </a>
       </div>
@@ -71,7 +71,7 @@ Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testfligh
       <p>
       <b>4단계 </b>
       <p>
-      <a href="Step 4">
+      <a href="Step 4" 3>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
       </a>
       </div>
@@ -83,7 +83,7 @@ Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testfligh
       <p>
       <b>5단계 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 5">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
       </a>
       </div>
@@ -93,7 +93,7 @@ Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testfligh
       <p>
       <b>6단계 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 6">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
       </a>
       </div>
@@ -103,7 +103,7 @@ Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testfligh
       <p>
       <b>7단계 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 7">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
       </a>
       </div>
@@ -113,7 +113,7 @@ Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testfligh
       <p>
       <b>8단계 </b>
       <p>
-      <a href="Step 4">
+      <a href="Step 8">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
       </a>
       </div>
