@@ -8,7 +8,7 @@ level: Advanced
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 84d1ad8ed2ffa48ccdd5cb8faac1079a98f33c7f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,6 +19,7 @@ ht-degree: 0%
 # L731 - Journey Optimizer을 사용하여 개인화된 모바일 모먼트 구축
 
 ## 랩 개요
+
 이 실습 실습에서는 Adobe Journey Optimizer에서 인앱, 푸시 알림, SMS, 이메일 메시지 캠페인 및 여정을 포함하는 멀티채널 마케팅 전략을 구현하는 방법을 알아봅니다.
 
 ## 주요 사항

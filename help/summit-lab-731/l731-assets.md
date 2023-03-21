@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 53%
@@ -120,7 +120,7 @@ Testflight(1-4단계)를 설치하라는 메시지가 표시됩니다. Testfligh
   </td>
   </tr>
 </table>
-&gt;[!TAB Android™]
+&gt;[!TAB Android]
 
 ![Android용 QR 코드](/help/assets/lab731-android-qr-code.png)
 
@@ -155,13 +155,13 @@ Android 시뮬레이터를 사용하는 경우 이 링크를 사용하십시오.
 | 본문 | Adobe Summit이 2023년 3월 21~23일 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. |  |
 | 버튼 | 지금 호텔 예약하고 10% 할인 받기 | lab://booking?suite=presidential&amp;discount=10 |
 | 버튼: 인터랙티브 이벤트 | 인앱 CTA |  |
-| 기본 URL |  | iOS: lab:// <br>Android™: https://lab |
+| 기본 URL |  | iOS: lab:// <br>Android&amp;: https://lab |
 
 
 ## 3단원 옴니채널 여정 만들기
 
 **여정 레이블:**
-<your seat number> - 시작 여정
+`<your seat number>` - 시작 여정
 
 >[!BEGINTABS]
 
