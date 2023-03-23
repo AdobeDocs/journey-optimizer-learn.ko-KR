@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e3ea884c9a004ca3eba243436ecfc6edf46cfb34
+source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 53%
+source-wordcount: '357'
+ht-degree: 52%
 
 ---
 
@@ -177,7 +177,7 @@ Vegas Stay에 오신 것을 환영합니다!
 **본문:**\
 줄 설 필요 없이 모바일 앱으로 체크인하기
 
-**딥 링크:** lab://checkin
+**딥 링크:** iOS: lab://, Android&amp;: https://lab
 
 **미디어:**
 
