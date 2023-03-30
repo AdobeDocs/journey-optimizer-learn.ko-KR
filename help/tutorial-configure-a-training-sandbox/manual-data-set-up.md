@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 100%
+source-wordcount: '1021'
+ht-degree: 98%
 
 ---
 
@@ -245,7 +245,7 @@ Adobe는 스키마 간에 일관성을 유지하기 위해 모든 시스템 식�
    | `size` | `Product Size` | [!UICONTROL 문자열] |
    | `price` | `Product Price` | [!UICONTROL 이중] |
    | `description` | `Product Description` | [!UICONTROL 문자열] |
-   | `imageURL` | `Product Image URL` | [!UICONTROL 문자열] |
+   | `imageUrl` | `Product Image URL` | [!UICONTROL 문자열] |
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL 문자열] |
    | `url` | `Product URL` | [!UICONTROL 문자열] |
 
@@ -345,4 +345,4 @@ Adobe는 스키마 간에 일관성을 유지하기 위해 모든 시스템 식�
 
 ## 다음 단계
 
-데이터 구조를 만들었다면 이제 [데이터 세트를 만들고 샘플 데이터를 수집합니다](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+이제 데이터 구조를 생성했으므로 다음을 수행할 수 있습니다 [데이터 세트 만들기 및 샘플 데이터 수집](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).

@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 92%
 
 ---
 
@@ -27,10 +27,14 @@ ht-degree: 100%
 
 아직 다운로드 및 수집 작업을 하지 않은 경우 샘플 데이터가 있는 다음 JSON 파일을 다운로드하고 데이터를 해당하는 데이터 세트로 수집합니다.
 
-* [luma-crm-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm-data.json)
-* [luma-loyalty-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty-data.json)
-* [luma-product-catalog-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog-data.json)
-* [luma-test-profile-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-test-profiles-data.json)
+* [luma-web-events](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-web-events.json)
+* [luma-test-profiles](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-test-profiles.json)
+* [luma-inventory-event](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-inventory-events.json)
+* [luma-offline-purchases](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-offline-purchases.json)
+* [luma-product-catalog](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog.json)
+* [luma-crm](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm.json)
+* [luma 충성도](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty.json)
+
 
 ## 다음 단계
 
