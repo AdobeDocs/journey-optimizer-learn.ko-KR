@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 52%
 
 ## 연습 1.1 - 앱 다운로드 및 설치
 
-QR 코드를 스캔하여 앱을 다운로드합니다
+QR 코드를 스캔하여 앱을 다운로드합니다.
 
 >[!BEGINTABS]
 
@@ -30,7 +30,7 @@ QR 코드를 스캔하여 앱을 다운로드합니다
 
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
-Testflight를 설치하라는 메시지가 표시됩니다(1-4단계). Testflight를 설치한 후 5~8단계에 따라 Vegas Stay 앱을 설치합니다.
+Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testflight를 설치한 후 5~8단계에 따라 Vegas Stay 앱을 설치합니다.
 
 <table>
 <tr>
@@ -125,13 +125,13 @@ Testflight를 설치하라는 메시지가 표시됩니다(1-4단계). Testfligh
 
 ![Android용 QR 코드](/help/assets/lab731-android-qr-code.png)
 
-Android 시뮬레이터를 사용하는 경우 이 링크를 사용하십시오. [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+Android 시뮬레이터를 사용하는 경우 이 링크를 사용하세요. [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
 앱이 Google Play Store에 등록되어 있지 않으므로 경고 메시지가 표시됩니다.
 
 ![Android 경고 화면](/help/assets/lab731-install-android.png)
 
-클릭 **설치**
+**무시하고 설치**&#x200B;를 클릭합니다
 
 >[!ENDTABS]
 
@@ -152,36 +152,36 @@ Android 시뮬레이터를 사용하는 경우 이 링크를 사용하십시오.
 | 캠페인 이름 | `<your seat number> March Vegas Campaign` |  |
 | 적절한 대상 | 지금 예약하기 |  |
 | 미디어 URL 옵션 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Title | 지금 벌어지고 있습니다. |  |
+| Title | Summit을 라이브로 들으세요! |  |
 | 본문 | Adobe Summit이 2023년 3월 21~23일 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. |  |
 | 버튼 | 지금 호텔 예약하고 10% 할인 받기 | lab://booking?suite=presidential&amp;discount=10 |
 | 버튼: 인터랙티브 이벤트 | 인앱 CTA |  |
 | 기본 URL |  | iOS: lab:// <br>Android&amp;: https://lab |
 
 
-## 3단원 옴니채널 여정 만들기
+## 단원3 옴니채널 여정 만들기
 
 **여정 레이블:**
-`<your seat number>` - 시작 여정
+`<your seat number>` - 여정 시작
 
 >[!BEGINTABS]
 
 >[!TAB 푸시 메시지]
 
 **레이블:**
-환영 메시지
+시작 메시지
 
-**Title:**\
-Vegas Stay에 오신 것을 환영합니다!
+**제목:**\
+Vegas Stay에 오신 것을 환영합니다.
 
 **본문:**\
-줄 설 필요 없이 모바일 앱으로 체크인하기
+모바일 앱으로 우선 입장 체크인하기
 
-**딥 링크:** iOS: lab://, Android&amp;: https://lab
+**딥링크:** iOS: lab://, Android&amp;: https://lab
 
 **미디어:**
 
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=ko
 
 
 푸시 알림에 사용하는 이미지입니다.
@@ -194,14 +194,14 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 환영 메시지
 
 **메시지:**
-베가스 스테이에 오신 것을 환영합니다 줄 설 필요 없이 모바일 앱으로 체크인하기: lab://checkin
+Vegas Stay에 오신 것을 환영합니다. 모바일 앱으로 우선 입장 체크인하기: lab://checkin
 
 >[!TAB 이메일 메시지]
 
 **레이블:**
 확인 메시지
 
-**제목 줄:**
-{{profile.person.name.firstName}}체크인하셨으니, 이제 저희 오퍼에서 고객님께서 머무르실 수 있도록 해주시기 바랍니다!
+**제목:**
+{{profile.person.name.firstName}}님, 체크인이 완료되었습니다. 이제 숙박 오퍼를 확인하세요.
 
 >[!ENDTABS]
