@@ -7,18 +7,18 @@ role: User
 recommendations: noDisplay, noCatalog
 hide: true
 source-git-commit: c3f1e87ad556d630d03a359408edb7c23f1cf3e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
 # 연습 1.1: 모바일 앱 다운로드 및 설치
 
-이 실습용 모바일 호텔 예약 앱을 만들었습니다. 고객으로서 사용자 여정을 상호 작용하고 경험할 수 있도록 해줍니다.
+이 실습을 위해 모바일 호텔 예약 앱을 만들었습니다. 이를 통해 사용자 여정 내에서 고객 입장으로 상호 작용하고 경험할 수 있습니다. 
 
-QR 코드를 스캔하여 앱을 다운로드합니다
+QR 코드를 스캔하여 앱을 다운로드합니다.
 
 >[!BEGINTABS]
 
@@ -26,7 +26,7 @@ QR 코드를 스캔하여 앱을 다운로드합니다
 
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
-Testflight를 설치하라는 메시지가 표시됩니다. Testflight를 설치한 후에는 다음 단계에 따라 Vegas Stay 앱을 설치하십시오.
+Testflight를 설치하라는 메시지가 표시됩니다. Testflight를 설치한 후 다음 단계에 따라 Vegas Stay 앱을 설치합니다.
 
 ![iOS 설치 단계](/help/assets/lab731-install-ios.png)
 
@@ -34,12 +34,12 @@ Testflight를 설치하라는 메시지가 표시됩니다. Testflight를 설치
 
 ![Android용 QR 코드](/help/assets/lab731-android-qr-code.png)
 
-Android 시뮬레이터를 사용하는 경우 이 링크를 사용하십시오. [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+Android 시뮬레이터를 사용하는 경우 이 링크를 사용하세요. [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
 앱이 Google Play Store에 등록되어 있지 않으므로 경고 메시지가 표시됩니다.
 
 ![Android 경고 화면](/help/assets/lab731-install-android.png)
 
-클릭 **설치**
+**무시하고 설치**&#x200B;를 클릭합니다
 
 >[!ENDTABS]
