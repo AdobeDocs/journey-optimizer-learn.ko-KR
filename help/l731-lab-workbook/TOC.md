@@ -1,19 +1,19 @@
 ---
-user-guide-title: Summit Lab 731 - 통합 문서
-user-guide-description: 이 실습 실습에서는 Adobe Journey Optimizer에서 인앱, 푸시 알림, SMS, 이메일 메시지 캠페인 및 여정을 포함하는 멀티채널 마케팅 전략을 구현하는 방법을 알아봅니다.
-breadcrumb-title: Journey Optimizer - L731 통합 문서
+user-guide-title: Summit Lab 731 - 연습장
+user-guide-description: 이 실습 랩에서는 Adobe Journey Optimizer에서 인앱, 푸시 알림, SMS, 이메일 메시지 캠페인을 포함하는 멀티채널 마케팅 전략과 여정을 구현하는 방법을 알아봅니다.
+breadcrumb-title: Journey Optimizer - L731 연습장
 breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
 index: false
 hide: true
 source-git-commit: a1751f374f611fcf38db7ad9b51c42315c890b04
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Summit Lab L731: Journey Optimizer을 사용하여 개인화된 모바일 모멘트 구축 {#workbook}
+# Summit Lab L731: Journey Optimizer로 개인화된 모바일 모먼트 작성하기 {#workbook}
 
 + [랩 개요]{#overview}
 + [소개]{#introduction}
