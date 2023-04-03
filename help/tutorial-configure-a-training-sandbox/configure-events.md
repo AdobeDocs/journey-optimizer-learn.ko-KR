@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 다음 비디오에서 이벤트를 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on)
 
 ## Luma 온라인 구매 이벤트 만들기
 

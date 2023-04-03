@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 92%
@@ -19,7 +19,7 @@ ht-degree: 92%
 
 다음 비디오 튜토리얼에서는 데이터 세트를 만들고 데이터를 수동으로 수집하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on)
 
 다음 데이터 세트를 만듭니다.
 

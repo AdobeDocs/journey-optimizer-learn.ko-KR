@@ -9,7 +9,7 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 45206e23-46bf-4aaf-8d45-012ea0e64e92
-source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Journey Optimizer에서 작업이 무엇인지와 사용자 정의 작업을 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334257?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334257?quality=12&learn=on)

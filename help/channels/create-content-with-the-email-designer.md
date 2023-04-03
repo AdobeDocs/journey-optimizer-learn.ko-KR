@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
-source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
@@ -20,5 +20,5 @@ ht-degree: 100%
 
 이메일을 처음부터 만드는 방법을 알아봅니다. AEM Assets Essentials 라이브러리에서 자산을 사용하고, 반응형 이메일 디자인을 편집하고, 템플릿으로 이메일을 만드는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on)
 

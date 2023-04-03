@@ -9,7 +9,7 @@ team: PM
 role: Developer
 level: Beginner
 exl-id: e2e9c2be-5c60-4f6f-ae62-8e07f008318d
-source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 실시간 고객 프로필 데이터의 정의와 Journey Optimizer에서 사용할 고객 프로필 데이터를 설정하기 위해 취해야 할 단계에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335878?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335878?quality=12&learn=on)

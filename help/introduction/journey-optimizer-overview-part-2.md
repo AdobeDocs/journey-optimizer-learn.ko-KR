@@ -9,7 +9,7 @@ team: Evangelism
 role: User
 level: Beginner
 exl-id: 93266ba3-d90e-4d6e-8c43-4a421650e25f
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 이 비디오에서는 브랜드가 Adobe Journey Optimizer의 의사 결정 관리 기능, 실시간 세그먼트 검증, 비즈니스 이벤트 관리를 사용하여 소비자 여정을 새로운 수준으로 끌어올리는 방법을 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334175?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334175?quality=12&learn=on)
