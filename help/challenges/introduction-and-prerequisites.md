@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '482'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 96%
 
 * Journey Optimizer 샌드박스 액세스 - 전용 교육 샌드박스에서 과제를 완료하는 것을 추천합니다.
 * AEM Assets Essentials를 학습자의 인스턴스용으로 프로비저닝해야 합니다.
-* 다음 [이메일 채널을 구성해야 합니다](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) 트랜잭션 및 마케팅 메시지
+* 트랜잭션 및 마케팅 메시지용 [이메일 채널을 구성해야 합니다](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html?lang=ko).
 
 ### 액세스 권한
 
