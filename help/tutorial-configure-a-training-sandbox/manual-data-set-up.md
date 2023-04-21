@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1021'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -345,4 +345,4 @@ Adobe는 스키마 간에 일관성을 유지하기 위해 모든 시스템 식�
 
 ## 다음 단계
 
-이제 데이터 구조를 생성했으므로 다음을 수행할 수 있습니다 [데이터 세트 만들기 및 샘플 데이터 수집](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+데이터 구조를 만들었다면 이제 [데이터 세트를 만들고 샘플 데이터를 수집](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)할 수 있습니다.
