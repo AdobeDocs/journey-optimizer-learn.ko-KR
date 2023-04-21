@@ -4,8 +4,8 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 97%
    + [콘텐츠 템플릿](/help/channels/content-templates.md)
 + 인앱 채널{#in-app-channel}
    + [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
-   + [인앱 메시지 작성자](/help/channels/author-in-app-messages.md)
+   + [인앱 메시지 작성](/help/channels/author-in-app-messages.md)
 + SMS 채널{#sms-channel}
    + [SMS 메시지 작성 및 게재](/help/channels/author-and-deliver-sms-messages.md)
    + [SMS에 대한 인바운드 키워드 지원](/help/channels/inbound-keyword-support-for-sms.md)
@@ -67,7 +67,7 @@ ht-degree: 97%
    + [컬렉션 만들기](/help/decision-management/create-collections.md)
    + [의사 결정 만들기](/help/decision-management/create-decisions.md)
    + [Decisions API를 사용하여 오퍼 제공](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [빈도 제한](/help/decision-management/frequency-capping.md)
+   + [빈도 설정](/help/decision-management/frequency-capping.md)
 + 데이터 관리 {#data-management}
    + [개요](/help/set-up-data/set-up-data-overview.md)
    + [스키마 만들기](/help/set-up-data/create-schema.md)
