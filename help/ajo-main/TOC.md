@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
-source-git-commit: e8f4f8bd1428bf6e4a9af88b2b7d11ca962db581
+source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 98%
+source-wordcount: '321'
+ht-degree: 97%
 
 ---
 
@@ -68,16 +68,17 @@ ht-degree: 98%
    + [의사 결정 만들기](/help/decision-management/create-decisions.md)
    + [Decisions API를 사용하여 오퍼 제공](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [빈도 제한](/help/decision-management/frequency-capping.md)
++ 데이터 관리 {#data-management}
+   + [개요](/help/set-up-data/set-up-data-overview.md)
+   + [스키마 만들기](/help/set-up-data/create-schema.md)
+   + [ID 매핑](/help/set-up-data/map-identities.md)
+   + [데이터 세트 만들기 및 데이터 수집](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [소스 커넥터 구성](/help/set-up-data/configure-source-connectors.md)
+   + [클라우드 스토리지 위치로 데이터 세트 내보내기](/help/set-up-data/export-datasets.md)
 + 보고서 및 모니터링 {#report-and-monitor}
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
    + [경고 사용](/help/administration/alerts.md)
 + 구성 {#configuration}
-   + 데이터 구성 {#data-configuration}
-      + [개요](/help/set-up-data/set-up-data-overview.md)
-      + [스키마 만들기](/help/set-up-data/create-schema.md)
-      + [ID 매핑](/help/set-up-data/map-identities.md)
-      + [데이터 세트 만들기 및 데이터 수집](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [소스 커넥터 구성](/help/set-up-data/configure-source-connectors.md)
    + 채널 구성 {#channel-configuration}
       + [이메일 채널 설정](/help/set-up-channels/set-up-email-channel.md)
       + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
