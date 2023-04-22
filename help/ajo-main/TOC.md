@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
-source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
+source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '331'
+ht-degree: 95%
 
 ---
 
@@ -44,6 +44,9 @@ ht-degree: 0%
 + SMS 채널{#sms-channel}
    + [SMS 메시지 작성 및 게재](/help/channels/author-and-deliver-sms-messages.md)
    + [SMS에 대한 인바운드 키워드 지원](/help/channels/inbound-keyword-support-for-sms.md)
++ 웹 채널 {#web-channel}
+   + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
+   + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
 + 고객 프로필, 세그먼트, 구독 {#profiles-segments-subscriptions}
    + [통합 프로필 및 세분화 - 개요](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
