@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '331'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 95%
    + [ID 매핑](/help/set-up-data/map-identities.md)
    + [데이터 세트 만들기 및 데이터 수집](/help/set-up-data/create-datasets-and-ingest-data.md)
    + [소스 커넥터 구성](/help/set-up-data/configure-source-connectors.md)
-   + [클라우드 스토리지 위치로 데이터 세트 내보내기](/help/set-up-data/export-datasets.md)
+   + [데이터 세트를 클라우드 스토리지 위치로 내보내기](/help/set-up-data/export-datasets.md)
 + 보고서 및 모니터링 {#report-and-monitor}
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
    + [경고 사용](/help/administration/alerts.md)
