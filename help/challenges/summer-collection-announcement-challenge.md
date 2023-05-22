@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 8e86fdfe2a9e8c7cc37eeb95af23d32a5c1d83a7
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 100%
+source-wordcount: '1166'
+ht-degree: 96%
 
 ---
 
@@ -153,7 +153,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 교정을 보냅니다.
 
 결과:\
-이메일을 받습니다. 제목란은 다음과 같아야 합니다. *Stanleigh 님, 새로운 남성용 운동복을 살펴보세요!*&#x200B;그리고 이메일 본문은 미리 보기와 일치해야 합니다. [Luma 남성 컬렉션](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+이메일을 받습니다. 제목란은 다음과 같아야 합니다. *Stanleigh 님, 새로운 남성용 운동복을 살펴보세요!* 그리고 이메일 본문은 미리 보기와 일치해야 합니다.
 
 >[!NOTE]
 >교정을 받을 때까지 2분 정도 걸릴 수 있습니다.
@@ -163,14 +163,14 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
  *Louise Petti*&#x200B;의 테스트 프로필로 이메일 미리 보기.
 
 * 제목란은 다음과 같아야 합니다. *Louise 님, Luma의 여성 콜렉션을 살펴보세요!*
-* 이메일 본문은 미리 보기와 일치해야 합니다. [Luma 여성 컬렉션](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
+* 이메일 본문은 미리 보기와 일치해야 합니다.
 
 **이메일 메시지 #4 - Luma 20% 할인 컬렉션**
 
  *Louise Petti*&#x200B;의 테스트 프로필로 이메일 미리 보기.
 
 *   제목란은 다음과 같아야 합니다. *Louise 님, 20% 할인을 받으세요!*
-* 이메일 본문은 미리 보기와 일치해야 합니다. [Luma 20% 할인 컬렉션](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
+* 이메일 본문은 미리 보기와 일치해야 합니다.
 
 #### 여정 테스트
 
@@ -180,13 +180,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. [!UICONTROL 세그먼트 활동 읽기]에 **Luma CRM ID(lumaCrmId)**&#x200B;로 설정된 네임스페이스가 있는지 확인합니다.
 >1. 각각의 이메일에 대해 자신의 이메일 주소로 전송할 수 있도록 기본 이메일 매개 변수를 재정의합니다.
->    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
->    * 이메일 매개 변수에서 T 기호를 클릭합니다(매개 변수 재정의 활성화).
->
->      ![이메일 매개 변수 재정의](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * [!UICONTROL 주소] 필드를 클릭합니다.
->    * 다음 화면에서는 표현식 편집기에서 이메일 주소를 괄호 안에 넣고(`"yourname@yourdomain"`) 확인을 클릭합니다.
+   >    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
+   >    * 이메일 매개 변수에서 T 기호를 클릭합니다(매개 변수 재정의 활성화).
+
+      >
+      >      ![이메일 매개 변수 재정의](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * [!UICONTROL 주소] 필드를 클릭합니다.
+   >    * 다음 화면에서는 표현식 편집기에서 이메일 주소를 괄호 안에 넣고(`"yourname@yourdomain"`) 확인을 클릭합니다.
+
 >
 
 
