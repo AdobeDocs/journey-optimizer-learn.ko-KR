@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
+source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
 workflow-type: tm+mt
 source-wordcount: '357'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -201,7 +201,7 @@ Vegas Stay에 오신 것을 환영합니다. 모바일 앱으로 우선 입장 �
 **레이블:**
 확인 메시지
 
-**제목:**
-{{profile.person.name.firstName}}님, 체크인이 완료되었습니다. 이제 숙박 오퍼를 확인하세요.
+**제목 줄:**
+`{{profile.person.name.firstName}},` 체크인되셨으니 이제 저희 제안을 확인해 보세요!
 
 >[!ENDTABS]
