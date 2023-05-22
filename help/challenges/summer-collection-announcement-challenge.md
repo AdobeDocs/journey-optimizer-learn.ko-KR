@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e86fdfe2a9e8c7cc37eeb95af23d32a5c1d83a7
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 96%
+source-wordcount: '1126'
+ht-degree: 98%
 
 ---
 
@@ -140,7 +140,6 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 결과:
 
 * 제목란은 다음과 같아야 합니다. Louise 님, 새로운 Luma 컬렉션이 나왔습니다!
-* 이메일 본문은 미리 보기와 일치해야 합니다. [새로운 시즌 컬렉션 발표](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 **이메일 메시지 #2 - Luma 남성 컬렉션**
 
@@ -149,8 +148,8 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 테스트 프로필 추가: Stanleigh Stooke:
    * ID 네임스페이스: *Luma CRM ID*
    * ID 값: `4f34057d9d9e792c28ba18ecae378e98`
-1. 테스트 프로필 Stanleigh Stooke를 선택합니다.
-1. 교정을 보냅니다.
+2. 테스트 프로필 Stanleigh Stooke를 선택합니다.
+3. 교정을 보냅니다.
 
 결과:\
 이메일을 받습니다. 제목란은 다음과 같아야 합니다. *Stanleigh 님, 새로운 남성용 운동복을 살펴보세요!* 그리고 이메일 본문은 미리 보기와 일치해야 합니다.
@@ -163,14 +162,12 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
  *Louise Petti*&#x200B;의 테스트 프로필로 이메일 미리 보기.
 
 * 제목란은 다음과 같아야 합니다. *Louise 님, Luma의 여성 콜렉션을 살펴보세요!*
-* 이메일 본문은 미리 보기와 일치해야 합니다.
 
 **이메일 메시지 #4 - Luma 20% 할인 컬렉션**
 
  *Louise Petti*&#x200B;의 테스트 프로필로 이메일 미리 보기.
 
 *   제목란은 다음과 같아야 합니다. *Louise 님, 20% 할인을 받으세요!*
-* 이메일 본문은 미리 보기와 일치해야 합니다.
 
 #### 여정 테스트
 
