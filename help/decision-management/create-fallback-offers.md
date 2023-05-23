@@ -5,9 +5,9 @@ feature: Offers
 kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,4 @@ ht-degree: 100%
 
 API로 대체 오퍼를 만드는 방법에 대한 자세한 내용은 [제품 안내서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=ko)를 참조하십시오.
 
->[!INFO]
->
-> 이 비디오는 교육 과정의 일부이며, [마케터용 의사 결정 관리 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
+{{experienceplatform-u-1-2020-1-offerdecisioning}}
