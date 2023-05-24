@@ -5,7 +5,7 @@ breadcrumb-title: 튜토리얼 - 교육 샌드박스 구성
 breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html
 index: false
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 
