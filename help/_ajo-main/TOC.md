@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
-source-git-commit: 5d7f2e530af5f1aa3c756c2f10bcc3488a71a7fc
+source-git-commit: 6a490db336065781dea510d25c3bf9fc8e0b3181
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 98%
+source-wordcount: '342'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 98%
    + [개발자를 위한 모바일 기능](/help/channels/mobile-capabilities-for-developers.md)
 + 캠페인 {#create-campaigns}
    + [캠페인 만들기](/help/create-campaigns/create-a-campaign.md)
+   + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/create-campaigns/content-experiments.md)
 + 여정 {#create-journeys}
    + [여정 캔버스 개요](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
