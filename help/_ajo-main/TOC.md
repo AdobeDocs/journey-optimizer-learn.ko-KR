@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
-source-git-commit: 917e7bc02046311b731111e3ea54ef34829078a6
+source-git-commit: 13ee94169f1e9c31bdf4394aa132dd4b2700a411
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 91%
+source-wordcount: '378'
+ht-degree: 92%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 91%
    + [규칙 만들기](/help/decision-management/create-rules.md)
    + [태그 만들기](/help/decision-management/create-tags.md)
    + [개인화된 오퍼 만들기](/help/decision-management/create-personalized-offers.md)
-   + [개인화된 순위 모델 만들기](/help/decision-management/create-a-personalized-ranking-model.md)
+   + [AI 모델 만들기](/help/decision-management/create-ai-models.md)
    + [대체 오퍼 만들기](/help/decision-management/create-fallback-offers.md)
    + [컬렉션 만들기](/help/decision-management/create-collections.md)
    + [의사 결정 만들기](/help/decision-management/create-decisions.md)
