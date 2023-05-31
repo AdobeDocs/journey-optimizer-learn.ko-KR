@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 33b8ee09-4cd8-475c-bf8e-a7934eff19a1
 hide: true
 hidefromtoc: true
-source-git-commit: 3ce4f7a792ddb8ea6a6057cea1e776c648f12cbd
-workflow-type: ht
+source-git-commit: e801ea853c84c1bfd95d5b5648682fff49d317b7
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -23,5 +23,3 @@ ht-degree: 100%
 Adobe Journey Optimizer의 기본 아키텍처, 통합 포인트, Journey Optimizer와 다른 Adobe 애플리케이션의 관계를 파악합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on)
-
-{{journeyoptimizer-a-1-2021-1}}
