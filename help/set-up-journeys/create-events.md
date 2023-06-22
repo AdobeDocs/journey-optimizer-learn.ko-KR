@@ -1,7 +1,7 @@
 ---
 title: 이벤트 만들기
 description: 이벤트를 구성하고 스트리밍 엔드포인트 및 이벤트에 대한 페이로드를 지정하는 방법을 알아봅니다.
-kt: 7537
+jira: KT-7537
 thumbnail: 336253.jpg
 feature: Events
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 6275786c-d407-4d46-95f0-e366acad1054
-source-git-commit: e801ea853c84c1bfd95d5b5648682fff49d317b7
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '36'
 ht-degree: 100%
