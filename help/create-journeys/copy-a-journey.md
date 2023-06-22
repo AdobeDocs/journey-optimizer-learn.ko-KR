@@ -1,7 +1,7 @@
 ---
 title: 다른 샌드박스로 여정 복사
 description: 한 샌드박스에서 다른 샌드박스로 여정과 해당 종속 오브젝트를 복사하는 방법에 대해 알아봅니다.
-kt: 10438
+jira: KT-10438
 thumbnail: 3409593.jpg
 feature: Journeys
 doc-type: feature video
@@ -10,9 +10,9 @@ role: User
 level: Beginner
 last-substantial-update: 2022-09-23T00:00:00Z
 exl-id: ae6dcd75-582c-47fd-9971-50a198df1fe9
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: tm+mt
-source-wordcount: '42'
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
