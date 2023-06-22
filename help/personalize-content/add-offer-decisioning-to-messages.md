@@ -1,7 +1,7 @@
 ---
 title: 메시지에 오퍼를 개인화 요소로 추가하기
 description: Journey Optimizer에서 메시지에 의사 결정 관리 구성 요소를 추가하는 방법을 알아봅니다.
-kt: 8033
+jira: KT-8033
 thumbnail: 334088.jpg
 feature: Personalization, Offers
 doc-type: feature video
@@ -9,9 +9,9 @@ team: PM
 role: User
 level: Beginner
 exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: tm+mt
-source-wordcount: '40'
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
