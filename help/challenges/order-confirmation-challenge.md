@@ -1,15 +1,15 @@
 ---
 title: 주문 확인 이메일 만들기
 description: 트랜잭션 메시지를 만들고 개인화하는 방법에 대한 지식을 테스트합니다..
-kt: 7531
+jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '654'
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
