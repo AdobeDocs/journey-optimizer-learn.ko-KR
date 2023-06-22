@@ -3,14 +3,14 @@ title: 수동으로 데이터 구조 설정하기
 description: 필요한 신원 네임스페이스를 만들고 Luma 샘플 데이터 구조를 정의합니다.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
-source-wordcount: '1021'
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -320,12 +320,12 @@ Adobe는 스키마 간에 일관성을 유지하기 위해 모든 시스템 식�
       1. **[!UICONTROL 참조 스키마]**: [!DNL Luma Product Catalog Schema].
 
       2. **[!UICONTROL 참조 신원 네임스페이스]**: [!DNL LumaProductSKU].
+
    3. **[!UICONTROL 적용]**&#x200B;을 선택합니다.
 
       이때 스키마는 다음과 같아야 합니다.
 
       ![SKU 관계](assets/sku_relationship.png)
-
 
 1. **프로필**&#x200B;에 대해 활성화합니다.
 
@@ -340,7 +340,7 @@ Adobe는 스키마 간에 일관성을 유지하기 위해 모든 시스템 식�
 | **[!UICONTROL 클래스]** | [!UICONTROL XDM 개별 프로필] | [!UICONTROL XDM 경험 이벤트] | [!UICONTROL XDM 개별 프로필] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL 기존 필드 그룹 추가]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL 관계]** |  | `productListItems.SKU`:<br> 참조 스키마 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> 참조 스키마 `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-| **[!UICONTROL 기본 신원] [!UICONTROL 네임스페이스])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL 기본 신원] [!UICONTROL 네임스페이스])** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL 프로필에 대해 활성화]** | 예 | 예 | 예 | 예 |
 
 ## 다음 단계
