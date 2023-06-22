@@ -2,10 +2,10 @@
 title: 대체 오퍼 만들기
 description: 의사 결정 관리에 사용할 대체 오퍼를 만드는 방법을 알아봅니다. 대체 오퍼에는 관련 고객에게만 표시되는 데 도움이 되는 자격 규칙이 있습니다.
 feature: Offers
-kt: 6780
+jira: KT-6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
