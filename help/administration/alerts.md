@@ -1,7 +1,7 @@
 ---
 title: 경고 사용
 description: 예기치 않은 여정 비헤이비어에 대해 사전 정의된 경고를 구독하고 이메일을 통해, Journey Optimizer 내에서 또는 API를 사용하여 알림을 받는 방법에 대해 알아봅니다.
-kt: 11081
+jira: KT-11081
 thumbnail: 336218.jpg
 feature: Alerts
 doc-type: feature video
@@ -9,9 +9,9 @@ team: PM
 role: Admin
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: tm+mt
-source-wordcount: '109'
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
