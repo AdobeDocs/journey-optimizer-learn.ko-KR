@@ -1,7 +1,7 @@
 ---
 title: CName 하위 도메인 위임
 description: CNAME을 사용하여 Adobe 관련 레코드를 가리키도록 하위 도메인을 만드는 방법을 알아봅니다.
-kt: 9524
+jira: KT-9524
 thumbnail: 339484.jpg
 feature: Application Settings
 doc-type: feature video
@@ -9,8 +9,8 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 758e5ea0-af6a-4a5f-ae25-2ef4212988a2
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '32'
 ht-degree: 100%
 
