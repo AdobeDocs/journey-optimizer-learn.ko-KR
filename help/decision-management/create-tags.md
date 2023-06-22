@@ -2,12 +2,12 @@
 title: 태그 만들기
 description: 의사 결정 관리에서 태그를 만드는 방법을 알아봅니다. 태그는 오퍼의 선택적 구성 요소입니다.
 feature: Offers
-kt: 6753
+jira: KT-6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
-source-wordcount: '80'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
