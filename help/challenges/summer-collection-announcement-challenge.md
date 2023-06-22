@@ -1,14 +1,14 @@
 ---
 title: 여름 컬렉션 발표 만들기 - 과제
 description: 새로운 Luma 여름 컬렉션을 홍보하기 위해 기존 고객 세그먼트에 여름 컬렉션 발표를 보냅니다.
-kt: 8109
+jira: KT-8109
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
-source-wordcount: '1126'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -185,7 +185,6 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >    * [!UICONTROL 주소] 필드를 클릭합니다.
 >    * 다음 화면에서는 표현식 편집기에서 이메일 주소를 괄호 안에 넣고(`"yourname@yourdomain"`) 확인을 클릭합니다.
 >
-
 
 여정을 테스트하고 자신의 계정으로 이메일을 전송합니다.
 
