@@ -1,7 +1,7 @@
 ---
 title: 캠페인 만들기
 description: 작업을 즉시 또는 지정된 일정에 따라 실행하여 특정 대상에게 일회성 콘텐츠를 전달하는 방법을 알아봅니다.
-kt: 10590
+jira: KT-10590
 thumbnail: 346680.jpg
 feature: Journeys
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
-source-git-commit: 1ba4f4603e9d52a1712530f311ebe31c473b3b1a
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
