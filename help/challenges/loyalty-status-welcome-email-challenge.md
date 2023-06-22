@@ -1,14 +1,14 @@
 ---
 title: 충성도 상태 환영 이메일 만들기 - 과제
 description: 고객이 충성 티어에 도달하면 자동으로 환영 이메일을 보내는 여정을 작성합니다.
-kt: 8109
+jira: KT-8109
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '427'
 ht-degree: 100%
 
