@@ -1,7 +1,7 @@
 ---
 title: 메시지 편집기로 HTML 이메일 콘텐츠를 가져오고 작성하기
 description: 기존 HTML 콘텐츠를 가져오고, 디자인을 수정하고, 미러 페이지와 구독 취소 링크를 추가하고, 콘텐츠를 코딩하는 방법을 알아봅니다.
-kt: 7535
+jira: KT-7535
 thumbnail: 334102.jpg
 feature: Email Design
 doc-type: feature video
@@ -9,8 +9,8 @@ team: PM
 role: User
 level: Beginner
 exl-id: 6b8b5c30-5b12-486e-8787-352670e0b164
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '64'
 ht-degree: 100%
 
