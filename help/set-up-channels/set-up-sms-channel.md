@@ -1,7 +1,7 @@
 ---
 title: SMS API 자격 증명 및 채널 표면 구성
 description: Journey Optimizer를 SMS 서비스 공급자에 연결하는 방법과 SMS 채널 표면을 만드는 방법을 알아봅니다.
-kt: 11734
+jira: KT-11734
 thumbnail: 3413355.jpg
 feature: Channel Configuration, SMS
 doc-type: feature video
@@ -10,8 +10,8 @@ role: Admin, Developer
 level: Beginner
 last-substantial-update: 20230123
 exl-id: 923c0731-b172-44db-8a57-f7ac2101adde
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '52'
 ht-degree: 100%
 
