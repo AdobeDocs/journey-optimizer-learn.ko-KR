@@ -3,14 +3,14 @@ title: 교육 샌드박스 구성 - 소개
 description: 교육용 샌드박스를 구성하는 방법을 알아봅니다. 스키마를 구성하고 샘플 데이터를 수집하고 이벤트를 만드는 데 필요한 단계를 수행합니다.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '338'
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
