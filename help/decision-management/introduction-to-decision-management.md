@@ -2,10 +2,10 @@
 title: 의사 결정 관리 기능 소개
 description: Journey Optimizer의 의사 결정 관리 기능에 대한 개요를 살펴보십시오.
 feature: Offers
-kt: 6417
+jira: KT-6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: d2d1a569bd96f2d11ac971c071c3cff179ff2627
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
