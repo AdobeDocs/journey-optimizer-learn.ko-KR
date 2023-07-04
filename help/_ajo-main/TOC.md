@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 source-git-commit: d755729d2a426e291f6b417546346cbd78900898
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '383'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 97%
    + [작업 만들기](/help/set-up-journeys/create-actions.md)
 + 액세스 제어 {#access-control}
    + [액세스 관리](/help/set-up-access/access-management.md)
-   + [속성 기반 액세스 제어 구성](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
+   + [속성 기반 액세스 제어 구성](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html?lang=ko)
    + [샌드박스를 만들고 관리하기](/help/set-up-access/create-and-manage-sandboxes.md)
 + 개인정보 보호 {#privacy}
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
