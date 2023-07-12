@@ -3,10 +3,12 @@ title: 의사 결정 만들기
 description: 의사 결정 관리에 사용할 의사 결정을 만드는 방법을 알아봅니다. 의사 결정은 배치와 컬렉션을 하나의 엔터티로 결합하므로 고객에게 가장 연관성 높은 오퍼를 게재하는 결정을 내릴 수 있습니다.
 feature: Offers
 jira: KT-6791
+role: User
+level: Beginner
 thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30T00:00:00Z
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
