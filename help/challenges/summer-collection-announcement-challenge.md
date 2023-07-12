@@ -2,11 +2,12 @@
 title: 여름 컬렉션 발표 만들기 - 과제
 description: 새로운 Luma 여름 컬렉션을 홍보하기 위해 기존 고객 세그먼트에 여름 컬렉션 발표를 보냅니다.
 jira: KT-8109
+feature: Segments, Journeys, EMail
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
 source-wordcount: '1126'
 ht-degree: 100%
