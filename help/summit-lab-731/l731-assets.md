@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 92%
 
 ---
 
@@ -125,8 +125,6 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 
 ![Android용 QR 코드](/help/assets/lab731-android-qr-code.png)
 
-Android 시뮬레이터를 사용하는 경우 이 링크를 사용하세요. [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 앱이 Google Play Store에 등록되어 있지 않으므로 경고 메시지가 표시됩니다.
 
 ![Android 경고 화면](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ Android 시뮬레이터를 사용하는 경우 이 링크를 사용하세요. [h
 
 | 필드 | 텍스트 | 링크 |
 |----|----|----|
-| 캠페인 이름 | `<your seat number> March Vegas Campaign` |  |
+| 캠페인 이름 | `<your seat number> Vegas Stay Campaign` |  |
 | 적절한 대상 | 지금 예약하기 |  |
 | 미디어 URL 옵션 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Title | Summit을 라이브로 들으세요! |  |
-| 본문 | Adobe Summit이 2023년 3월 21~23일 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. |  |
-| 버튼 | 지금 호텔 예약하고 10% 할인 받기 | lab://booking?suite=presidential&amp;discount=10 |
+| Title | 할인 혜택을 받으세요! |  |
+| 본문 | Adobe Summit이 2024년 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. 지금 스위트룸을 예약하고 10% 할인을 받으세요. |  |
+| 버튼 | 지금 예약 | lab://booking?suite=presidential&amp;discount=10 |
 | 버튼: 인터랙티브 이벤트 | 인앱 CTA |  |
-| 기본 URL |  | iOS: lab:// <br>Android&amp;: https://lab |
+| 기본 URL |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## 단원3 옴니채널 여정 만들기
