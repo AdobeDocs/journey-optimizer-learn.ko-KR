@@ -2,10 +2,12 @@
 title: 컬렉션 만들기
 description: 의사 결정 관리에 사용할 컬렉션을 만드는 방법을 알아봅니다. 컬렉션에는 관련 고객에게만 표시되는 데 도움이 되는 관련 자격 규칙이 있습니다.
 feature: Offers
+role: User
+level: Beginner
 jira: KT-6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
