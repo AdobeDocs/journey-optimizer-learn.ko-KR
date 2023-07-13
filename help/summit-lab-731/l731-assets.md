@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
+source-git-commit: cfb9b9ba25b07a3325a74d0703f24b1d658f1277
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 76%
+source-wordcount: '284'
+ht-degree: 77%
 
 ---
 
@@ -149,7 +149,7 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 |----|----|----|
 | 캠페인 이름 | `<your seat number> Vegas Stay Campaign` |  |
 | 적절한 대상 | 지금 예약하기 |  |
-| 미디어 URL 옵션 |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| 미디어 URL 옵션 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Title | 할인 혜택을 받으세요! |  |
 | 본문 | Adobe 맥스가 라스베이거스로 돌아온다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. 지금 스위트룸을 예약하고 10% 할인을 받으세요. |  |
 | 버튼 | 지금 예약 | lab://booking?suite=presidential&amp;discount=10 |
@@ -162,6 +162,6 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 | 필드 | 텍스트 | 링크 |
 |----|----|----|
 | 캠페인 이름 | `<your seat number> Max Push Campaign` |  |
-| 미디어 URL 옵션 |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| 미디어 URL 옵션 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Title | 이봐! |  |
 | 본문 | Adobe 맥스가 베가스로 돌아온다는 거 알고 있었어? 지금 객실을 예약하고 10% 할인을 받으세요. |  |
