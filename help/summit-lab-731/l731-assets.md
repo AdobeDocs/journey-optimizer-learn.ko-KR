@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 0341fab31cb829838228cf706a4f696fc71cbd97
+source-git-commit: 152435650d2160fd6def2614d50fc06ade79f24c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 71%
@@ -31,6 +31,7 @@ QR 코드를 스캔하여 앱을 다운로드합니다.
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
 >[!Tip]
+>
 >사용 코드를 요청하는 경우 TestFlight 앱을 닫고 QR 코드를 다시 스캔하십시오.
 >**&#39;알림&#39;을 허용하십시오.**
 
