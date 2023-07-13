@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
+source-git-commit: c3081f196d271f8b32084b0477639ba0fe889e92
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '286'
 ht-degree: 76%
 
 ---
@@ -162,6 +162,6 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 | 필드 | 텍스트 | 링크 |
 |----|----|----|
 | 캠페인 이름 | `<your seat number> Max Push Campaign` |  |
-| 미디어 URL 옵션 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| 미디어 URL 옵션 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
 | Title | 이봐! |  |
 | 본문 | Adobe 맥스가 베가스로 돌아온다는 거 알고 있었어? 지금 객실을 예약하고 10% 할인을 받으세요. |  |
