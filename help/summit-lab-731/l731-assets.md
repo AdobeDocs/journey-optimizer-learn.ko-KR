@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 92%
+source-wordcount: '286'
+ht-degree: 76%
 
 ---
 
@@ -133,7 +133,7 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 
 >[!ENDTABS]
 
-## 연습 1.3: Adobe Journey Optimizer에 로그인하기
+## 연습 1: Adobe Journey Optimizer에 로그인하기
 
 [Journey Optimizer에 로그인하려면 여기를 클릭하십시오](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
@@ -143,63 +143,25 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 * **암호:** Adobe2023!
 
 
-## 연습 2.1 인앱 캠페인 만들기
+## 연습 2 인앱 캠페인 만들기
 
 | 필드 | 텍스트 | 링크 |
 |----|----|----|
 | 캠페인 이름 | `<your seat number> Vegas Stay Campaign` |  |
 | 적절한 대상 | 지금 예약하기 |  |
-| 미디어 URL 옵션 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
+| 미디어 URL 옵션 |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
 | Title | 할인 혜택을 받으세요! |  |
-| 본문 | Adobe Summit이 2024년 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. 지금 스위트룸을 예약하고 10% 할인을 받으세요. |  |
+| 본문 | Adobe 맥스가 라스베이거스로 돌아온다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. 지금 스위트룸을 예약하고 10% 할인을 받으세요. |  |
 | 버튼 | 지금 예약 | lab://booking?suite=presidential&amp;discount=10 |
 | 버튼: 인터랙티브 이벤트 | 인앱 CTA |  |
-| 기본 URL |  | **iOS:** lab:// <br>**Android**: https://lab |
+| 기본 URL 장치에서 미리 보기에 사용됨 |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
-## 단원3 옴니채널 여정 만들기
+## 연습 3: 푸시 알림 만들기
 
-**여정 레이블:**
-`<your seat number>` - 여정 시작
-
->[!BEGINTABS]
-
->[!TAB 푸시 메시지]
-
-**레이블:**
-시작 메시지
-
-**제목:**\
-Vegas Stay에 오신 것을 환영합니다.
-
-**본문:**\
-모바일 앱으로 우선 입장 체크인하기
-
-**딥링크:** iOS: lab://, Android&amp;: https://lab
-
-**미디어:**
-
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=ko
-
-
-푸시 알림에 사용하는 이미지입니다.
-
-![온라인 체크인](/help/assets/vegas_online_check_in.jpg)
-
->[!TAB SMS 메시지]
-
-**레이블:**
-환영 메시지
-
-**메시지:**
-Vegas Stay에 오신 것을 환영합니다. 모바일 앱으로 우선 입장 체크인하기: lab://checkin
-
->[!TAB 이메일 메시지]
-
-**레이블:**
-확인 메시지
-
-**제목:**
-`{{profile.person.name.firstName}},`님, 체크인이 완료되었습니다. 이제 숙박 오퍼를 확인하십시오.
-
->[!ENDTABS]
+| 필드 | 텍스트 | 링크 |
+|----|----|----|
+| 캠페인 이름 | `<your seat number> Max Push Campaign` |  |
+| 미디어 URL 옵션 |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Title | 이봐! |  |
+| 본문 | Adobe 맥스가 베가스로 돌아온다는 거 알고 있었어? 지금 객실을 예약하고 10% 할인을 받으세요. |  |
