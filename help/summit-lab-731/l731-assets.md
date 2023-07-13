@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 152435650d2160fd6def2614d50fc06ade79f24c
+source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '305'
 ht-degree: 71%
 
 ---
@@ -30,10 +30,12 @@ QR 코드를 스캔하여 앱을 다운로드합니다.
 
 ![iOS용 QR 코드](/help/assets/lab731-ios-qr-code.png)
 
->[!Tip]
+>[!IMPORTANT]
 >
 >사용 코드를 요청하는 경우 TestFlight 앱을 닫고 QR 코드를 다시 스캔하십시오.
->**&#39;알림&#39;을 허용하십시오.**
+>
+>알림을 허용하십시오.
+>
 
 Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testflight를 설치한 후 5~8단계에 따라 Vegas Stay 앱을 설치합니다.
 
