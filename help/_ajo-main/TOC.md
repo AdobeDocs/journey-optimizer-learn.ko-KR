@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
-source-git-commit: 7dd39b0bc8b2aa17522310d38140afff9bb1e727
+source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
 workflow-type: tm+mt
 source-wordcount: '382'
-ht-degree: 98%
+ht-degree: 95%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 98%
    + [여정 캔버스 개요](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
-   + [사용 사례 - 세그먼트 읽기](/help/create-journeys/use-case-read-segment.md)
    + [사용 사례 - 비즈니스 이벤트](/help/create-journeys/use-case-business-event.md)
-   + [사용 사례 - 세그먼트 검증](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [사용 사례 - 대상 읽기](/help/create-journeys/use-case-read-audience.md)
+   + [사용 사례 - 대상 선별](/help/create-journeys/use-case-audience-qualification.md)
    + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
    + [여정 게시](/help/create-journeys/publish-a-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
@@ -59,7 +59,7 @@ ht-degree: 98%
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + [Assets 기본 사항](/help/assets-essentials-overview.md)
 + 콘텐츠 개인화 {#personalize-content}
-   + [프로필 및 세그먼트 멤버십 기반 개인화](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [오퍼를 개인화로 추가하기](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [개인화에 컨텍스트 기반 이벤트 정보 사용](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [개인화에 도우미 기능 사용](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -95,9 +95,9 @@ ht-degree: 98%
       + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
       + [메시지 빈도 규칙 구성](/help/administration/configure-frequency-rules.md)
    + 여정 구성 {#journey-configuration}
-   + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
-   + [이벤트 만들기](/help/set-up-journeys/create-events.md)
-   + [작업 만들기](/help/set-up-journeys/create-actions.md)
+      + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
+      + [이벤트 만들기](/help/set-up-journeys/create-events.md)
+      + [작업 만들기](/help/set-up-journeys/create-actions.md)
 + 액세스 제어 {#access-control}
    + [액세스 관리](/help/set-up-access/access-management.md)
    + [속성 기반 액세스 제어 구성](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html?lang=ko)
