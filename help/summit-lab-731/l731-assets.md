@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
+source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 71%
+source-wordcount: '326'
+ht-degree: 66%
 
 ---
 
@@ -142,7 +142,7 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 
 ## 연습 1: Adobe Journey Optimizer에 로그인하기
 
-[Journey Optimizer에 로그인하려면 여기를 클릭하십시오](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Journey Optimizer에 로그인하려면 여기를 클릭하십시오](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
 **로그인 세부 정보:**
 
@@ -152,16 +152,16 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 
 ## 연습 2 인앱 캠페인 만들기
 
-| 필드 | 텍스트 | 링크 |
-|----|----|----|
-| 캠페인 이름 | `<your seat number> Vegas Stay Campaign` |  |
-| 적절한 대상 | 지금 예약하기 |  |
-| 미디어 URL 옵션 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| Title | 할인 혜택을 받으세요! |  |
-| 본문 | Adobe 맥스가 라스베이거스로 돌아온다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. 지금 스위트룸을 예약하고 10% 할인을 받으세요. |  |
-| 버튼 | 10% 할인을 받으세요! | lab://booking?suite=presidential&amp;discount=10 |
-| 버튼: 인터랙티브 이벤트 | 인앱 CTA |  |
-| 기본 URL 장치에서 미리 보기에 사용됨 |  | **iOS:** lab:// <br>**Android**: https://lab |
+| 섹션 | 필드 | 텍스트 | 링크 |
+|----|----|----|----|
+| **속성** |  | 캠페인 이름 | `<your seat number> Vegas Stay Campaign` |  |
+| **트리거** | 주/도 | 지금 예약하기 |  |
+| **콘텐츠 편집:** 미디어 | 미디어 URL 옵션 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **콘텐츠 편집:** 콘텐츠 | Title | 할인 혜택을 받으세요! |  |
+| **콘텐츠 편집:** 콘텐츠 | 본문 | Adobe 맥스가 라스베이거스로 돌아온다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. 지금 스위트룸을 예약하고 10% 할인을 받으세요. |  |
+| **콘텐츠 편집:** 단추 | 버튼 | 10% 할인을 받으세요! | lab://booking?suite=presidential&amp;discount=10 |
+| **콘텐츠 편집:** 콘텐츠 |  | 단추: 이벤트 상호 작용 | 인앱 CTA |  |
+| **장치에서 미리 보기** |  | 장치에서 미리 보기에 사용할 기본 URL |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## 연습 3: 푸시 알림 만들기
