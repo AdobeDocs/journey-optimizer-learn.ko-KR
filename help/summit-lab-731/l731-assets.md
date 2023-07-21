@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
+source-git-commit: 0932b5cd3ad318b0094e859cbc64c5de4f8ba747
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '325'
 ht-degree: 66%
 
 ---
@@ -160,9 +160,8 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 | **콘텐츠 편집:** 콘텐츠 | Title | 할인 혜택을 받으세요! |  |
 | **콘텐츠 편집:** 콘텐츠 | 본문 | Adobe 맥스가 라스베이거스로 돌아온다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. 지금 스위트룸을 예약하고 10% 할인을 받으세요. |  |
 | **콘텐츠 편집:** 단추 | 버튼 | 10% 할인을 받으세요! | lab://booking?suite=presidential&amp;discount=10 |
-| **콘텐츠 편집:** 콘텐츠 |  | 단추: 이벤트 상호 작용 | 인앱 CTA |  |
+| **콘텐츠 편집:** 단추 | 이벤트 상호 작용 | 인앱 CTA |  |
 | **장치에서 미리 보기** |  | 장치에서 미리 보기에 사용할 기본 URL |  | **iOS:** lab:// <br>**Android**: https://lab |
-
 
 ## 연습 3: 푸시 알림 만들기
 
