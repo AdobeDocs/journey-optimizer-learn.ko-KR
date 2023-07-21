@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 0932b5cd3ad318b0094e859cbc64c5de4f8ba747
+source-git-commit: c72d6d4d88811ac4d40bfc512585e0ebe64741d2
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 66%
@@ -154,7 +154,7 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 
 | 섹션 | 필드 | 텍스트 | 링크 |
 |----|----|----|----|
-| **속성** |  | 캠페인 이름 | `<your seat number> Vegas Stay Campaign` |  |
+| **속성** | 캠페인 이름 | `<your seat number> Vegas Stay Campaign` |  |
 | **트리거** | 주/도 | 지금 예약하기 |  |
 | **콘텐츠 편집:** 미디어 | 미디어 URL 옵션 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **콘텐츠 편집:** 콘텐츠 | Title | 할인 혜택을 받으세요! |  |
