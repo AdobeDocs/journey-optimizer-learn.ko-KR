@@ -12,7 +12,7 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 66%
+ht-degree: 91%
 
 ---
 
@@ -32,9 +32,9 @@ QR 코드를 스캔하여 앱을 다운로드합니다.
 
 >[!IMPORTANT]
 >
->사용 코드를 요청하는 경우 TestFlight 앱을 닫고 QR 코드를 다시 스캔하십시오.
+>사용 코드를 입력하라는 메시지가 표시되는 경우 TestFlight 앱을 닫고 QR 코드를 다시 스캔합니다.
 >
->알림을 허용하십시오.
+>알림을 허용해 주십시오.
 >
 
 Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testflight를 설치한 후 5~8단계에 따라 Vegas Stay 앱을 설치합니다.
@@ -157,9 +157,9 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 | **속성** | 캠페인 이름 | `<your seat number> Vegas Stay Campaign` |  |
 | **트리거** | 주/도 | 지금 예약하기 |  |
 | **콘텐츠 편집:** 미디어 | 미디어 URL 옵션 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| **콘텐츠 편집:** 콘텐츠 | Title | 할인 혜택을 받으세요! |  |
-| **콘텐츠 편집:** 콘텐츠 | 본문 | Adobe 맥스가 라스베이거스로 돌아온다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. 지금 스위트룸을 예약하고 10% 할인을 받으세요. |  |
-| **콘텐츠 편집:** 단추 | 버튼 | 10% 할인을 받으세요! | lab://booking?suite=presidential&amp;discount=10 |
+| **콘텐츠 편집:** 콘텐츠 | 제목 | 얼리버드 할인 혜택을 받으세요! |  |
+| **콘텐츠 편집:** 콘텐츠 | 본문 | Adobe MAX가 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. 지금 스위트룸을 예약하면 10% 할인을 받을 수 있습니다. |  |
+| **콘텐츠 편집:** 단추 | 버튼 | 10% 할인 혜택을 받으세요! | lab://booking?suite=presidential&amp;discount=10 |
 | **콘텐츠 편집:** 단추 | 이벤트 상호 작용 | 인앱 CTA |  |
 | **장치에서 미리 보기** | 장치에서 미리 보기에 사용할 기본 URL |  | **iOS:** lab:// <br>**Android**: https://lab |
 
@@ -168,6 +168,6 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 | 필드 | 텍스트 | 링크 |
 |----|----|----|
 | 캠페인 이름 | `<your seat number> Max Push Campaign` |  |
-| Title | 이봐! |  |
-| 본문 | Adobe 맥스가 베가스로 돌아온다는 거 알고 있었어? 지금 객실을 예약하고 10% 할인을 받으세요. |  |
+| 제목 | 안녕하세요! |  |
+| 본문 | Adobe MAX가 라스베가스로 돌아온다는 사실을 알고 계셨나요? 지금 객실을 예약하면 10% 할인을 받을 수 있습니다. |  |
 | 미디어 URL 옵션 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |

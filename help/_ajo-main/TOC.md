@@ -5,7 +5,7 @@ user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 92%
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
    + [사용 사례 - 비즈니스 이벤트](/help/create-journeys/use-case-business-event.md)
-   + [사용 사례 - 대상 읽기](/help/create-journeys/use-case-read-audience.md)
-   + [사용 사례 - 대상 선별](/help/create-journeys/use-case-audience-qualification.md)
+   + [사용 사례 - 대상자 읽기](/help/create-journeys/use-case-read-audience.md)
+   + [사용 사례 - 대상자 자격 조건](/help/create-journeys/use-case-audience-qualification.md)
    + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
    + [여정 게시](/help/create-journeys/publish-a-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
@@ -57,7 +57,7 @@ ht-degree: 92%
 + 웹 채널 {#web-channel}
    + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
    + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
-+ 프로필, 대상자 및 구독 {#profiles-segments-subscriptions}
++ 프로필, 대상자, 구독 {#profiles-segments-subscriptions}
    + [통합 프로필 및 세분화 - 개요](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
