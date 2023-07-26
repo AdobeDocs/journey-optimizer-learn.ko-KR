@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
-source-git-commit: 16c874b46254d067795bc92bfe06e8f91fca3a10
+source-git-commit: 79153d888966670fcbd0d43813491185a5ff200d
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 93%
+source-wordcount: '396'
+ht-degree: 92%
 
 ---
 
@@ -36,6 +36,8 @@ ht-degree: 93%
    + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
    + [여정 게시](/help/create-journeys/publish-a-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
++ 다이렉트 메일 채널{#direct-mail-channel}
+   + [다이렉트 메일 채널](help/channels/direct-mail.md)
 + 이메일 채널{#email-channel}
    + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
    + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
