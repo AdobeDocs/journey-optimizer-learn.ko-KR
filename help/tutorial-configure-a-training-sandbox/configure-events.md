@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '190'
-ht-degree: 100%
+source-git-commit: df055830da42b94d751890af6c19074ddfea2237
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 97%
 
 ---
 
@@ -52,26 +52,14 @@ ht-degree: 100%
 
 1. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
 
-## *[!DNL Luma Wishlist Add]* 이벤트 만들기
-
-| [!UICONTROL 매개 변수] | [!UICONTROL 값] |
-|-------------|-----------|
-| [!UICONTROL 이름] | `LumaWishlistAdd` |
-| [!UICONTROL 유형] | [!UICONTROL 단일] |
-| [!UICONTROL 이벤트 ID 유형] | [!UICONTROL 규칙 기반] |
-| [!UICONTROL 스키마] | `Luma Product Interactions` |
-| [!UICONTROL 필드] | EventType<br>productListItem.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br>Name<br>Price<br> ProductImageURL<br>ProductURL |
-| [!UICONTROL 조건] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL 네임스페이스] | 이메일(이메일) |
-
 ## *[!DNL Luma Product Restock]* 이벤트 만들기
 
 | [!UICONTROL 매개 변수] | [!UICONTROL 값] |
 |-------------|-----------|
 | [!UICONTROL 이름] | `LumaProductRestock` |
 | [!UICONTROL 유형] | [!UICONTROL 비즈니스] |
-| [!UICONTROL 스키마] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL 필드] | SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>name<br>price<br> ImageURL<br>description |
+| [!UICONTROL 스키마] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL 필드] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>name<br>price<br> ImageURL<br>description |
 | [!UICONTROL 조건] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock |
 
 축하합니다! 이제 샌드박스를 사용할 준비가 되었습니다.
