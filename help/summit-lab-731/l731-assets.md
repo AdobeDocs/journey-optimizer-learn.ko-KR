@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -159,9 +159,9 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 | **콘텐츠 편집:** 미디어 | 미디어 URL 옵션 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **콘텐츠 편집:** 콘텐츠 | 제목 | 얼리버드 할인 혜택을 받으세요! |  |
 | **콘텐츠 편집:** 콘텐츠 | 본문 | Adobe MAX가 라스베이거스로 돌아옵니다. 긍정적인 자극이 될 발제자, 스킬을 키울 수 있는 세션, 새로운 인맥을 만나 볼 준비를 하세요. 지금 스위트룸을 예약하면 10% 할인을 받을 수 있습니다. |  |
-| **콘텐츠 편집:** 단추 | 버튼 | 10% 할인 혜택을 받으세요! | lab://booking?suite=presidential&amp;discount=10 |
-| **콘텐츠 편집:** 단추 | 이벤트 상호 작용 | 인앱 CTA |  |
-| **장치에서 미리 보기** | 장치에서 미리 보기에 사용할 기본 URL |  | **iOS:** lab:// <br>**Android**: https://lab |
+| **콘텐츠 편집:** 버튼 | 버튼 | 10% 할인 혜택을 받으세요! | lab://booking?suite=presidential&amp;discount=10 |
+| **콘텐츠 편집:** 버튼 | 상호 작용 이벤트 | 인앱 CTA |  |
+| **디바이스에서 미리 보기** | 디바이스에서 미리 볼 때 사용할 기본 URL |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 ## 연습 3: 푸시 알림 만들기
 
