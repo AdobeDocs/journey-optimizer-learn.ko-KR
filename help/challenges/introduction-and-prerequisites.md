@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '482'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -66,7 +66,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
    <strong><a href="summer-collection-announcement-challenge.md">여름 컬렉션 발표 만들기 </strong>
  </a>
       <p>
-      <em>기존 고객의 대상자에게 여름 컬렉션 발표 이메일을 보내는 여정을 만듭니다. </em>
+      <em>기존 고객으로 이루어진 대상자에게 여름 컬렉션 공지 이메일을 보내는 여정을 만듭니다. </em>
       <p>
       <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko"> 세그먼트 만들기</li>
