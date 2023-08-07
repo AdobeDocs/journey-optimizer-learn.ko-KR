@@ -9,9 +9,9 @@ hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '580'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Luma는 Journey Optimizer에서 품절 상태였던 위시리스트 항목이 �
 
 ## 1. 세그먼트 정의 - 품절된 위시리스트 품목
 
-제품이 재입고될 때 관심이 있는 잠재 고객을 타겟팅하려면 다음 고객으로 구성된 대상을 만듭니다.
+제품이 재입고되면 관심을 가질 만한 잠재 고객을 타겟팅하기 위해 다음과 같은 고객으로 구성된 대상자를 만듭니다.
 
 * 위시리스트에 하나 이상의 품목을 추가한 사람([!UICONTROL Commerce 나중을 위해 저장] 이벤트 유형 사용)
 * 지난 3개월 동안 품절 상태(재고 수량 = 0 사용)
