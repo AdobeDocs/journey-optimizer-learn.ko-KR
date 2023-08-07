@@ -1,6 +1,6 @@
 ---
-title: 여름 컬렉션 발표 만들기 - 과제
-description: 새로운 Luma 여름 컬렉션을 홍보하기 위해 기존 고객 대상으로 여름 컬렉션 발표를 보냅니다.
+title: 여름 컬렉션 공지 만들기 - 과제
+description: 새로운 Luma 여름 컬렉션을 홍보하기 위해 기존 고객으로 이루어진 대상자에게 여름 컬렉션 공지를 보냅니다.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 94%
 
 ## 스토리
 
-가상의 스포츠 의류 회사인 Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대한 판매를 촉진하려고 합니다. Luma는 새로운 여름 컬렉션을 시작하며 특별히 다른 대상을 타기팅하고 싶습니다.
+가상의 스포츠 의류 회사인 Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대한 판매를 촉진하려고 합니다. Luma는 새로운 여름 컬렉션을 출시하며 다른 대상자를 명확하게 타겟팅하려고 합니다.
 
 ## 과제
 
@@ -43,9 +43,9 @@ Luma 마케팅 팀이 Journey Optimizer에서 여름 컬렉션 마케팅 캠페�
 
 >[!TAB 작업]
 
-#### 에서 대상자 만들기 [!DNL Journey Optimizer]
+#### [!DNL Journey Optimizer]에서 대상자 만들기
 
-* 에서 대상자 만들기 [!DNL Journey Optimizer] 호출됨 *활성 고객*.
+* [!DNL Journey Optimizer]에서 *활성 고객*&#x200B;이라는 이름의 대상자를 만듭니다.
 * 세그먼트는 활성 Luma 고객만 포함해야 합니다.
 * 활성 고객은 Luma의 충성도 프로그램(브론즈, 실버, 골드 또는 플래티넘)에 티어가 있는 고객입니다.
 
