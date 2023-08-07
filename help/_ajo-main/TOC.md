@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '396'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 96%
    + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
    + [여정 게시](/help/create-journeys/publish-a-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
-+ 다이렉트 메일 채널{#direct-mail-channel}
-   + [다이렉트 메일 채널](/help/channels/direct-mail.md)
++ DM 채널{#direct-mail-channel}
+   + [DM 채널](/help/channels/direct-mail.md)
 + 이메일 채널{#email-channel}
    + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
    + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
@@ -50,7 +50,7 @@ ht-degree: 96%
    + [인앱 메시지 작성](/help/channels/author-in-app-messages.md)
    + [인앱 메시지에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-in-app-messages.md)
 + 푸시 채널{#push-channel}
-   + [푸시 캠페인 구성 및 전송](/help/channels/create-a-push-campaign.md)
+   + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
 + SMS 채널{#sms-channel}
    + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
    + [SMS에 대한 인바운드 키워드 지원](/help/channels/inbound-keyword-support-for-sms.md)
