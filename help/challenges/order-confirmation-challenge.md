@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
+source-git-commit: 8b8d163b65dbd34f769a26231638f0bfeb6eb0b1
+workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 100%
 
@@ -54,6 +54,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
       * 이메일 아래쪽에 구독 취소 링크 추가
 
 이메일을 다음과 같이 구조화해야 합니다.
+
 <table>
 <tr>
 <td>
@@ -176,7 +177,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 
 **제목란:**
 
-{{ profile.person.name.firstName }} 님, 구매해 주셔서 감사합니다!
+`{{ profile.person.name.firstName }}` 님, 구매해 주셔서 감사합니다!
 
 **배송처 섹션:**
 
