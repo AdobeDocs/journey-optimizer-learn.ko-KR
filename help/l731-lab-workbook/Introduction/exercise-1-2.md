@@ -56,3 +56,4 @@ ht-degree: 100%
 >[!SUCCESS]
 >
 >앱 사용자 만들기를 완료하여 Adobe Journey Optimizer에 이 사용자의 프로필이 만들어졌습니다.
+>
