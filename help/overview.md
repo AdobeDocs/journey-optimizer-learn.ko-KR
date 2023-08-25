@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
+source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
 workflow-type: tm+mt
-source-wordcount: '594'
-ht-degree: 100%
+source-wordcount: '627'
+ht-degree: 96%
 
 ---
 
@@ -42,9 +42,19 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 </div>
 
 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
 <div id="events-section">
 
 ## Experience League 라이브 이벤트
+
+* **[Adobe Journey Optimizer의 API 트리거 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko)**
+  *상황에 맞는 개인화된 실시간 트랜잭션 및 마케팅 커뮤니케이션에 REST API를 사용하는 방법에 대해 알아봅니다.*
 
 * **[Adobe Journey Optimizer로 모바일 앱의 잠재력 극대화하기](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ko)**
   *실시간 참여 채널로서 인앱 메시지의 이점과, Adobe Journey Optimizer에서 개인화된 모바일 앱 경험을 구성하고 작성하는 방법을 알아봅니다.*
@@ -59,13 +69,6 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
   *이 Experience League 라이브 에피소드에서는 Adobe Journey Optimizer를 사용한 푸시 알림의 일반적인 사용 사례에 대해 알아보고 Adobe Experience Platform에서 제공하는 푸시용 앱을 구성하는 방법에 대한 기술적인 세부 정보를 살펴봅니다.*
 
 </div>
-
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
