@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: bd0b08ead432093a44a689c11859bb87be0ac1b5
+source-git-commit: 1309356c5626d54c70ddb07d31f2f53fe05c6793
 workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
@@ -22,3 +22,4 @@ Adobe Journey Optimizer에 대해 알아보고 이 애플리케이션이 해결�
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on)
 
+  <br>
