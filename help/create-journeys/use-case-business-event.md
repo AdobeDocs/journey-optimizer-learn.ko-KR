@@ -1,7 +1,7 @@
 ---
 title: 사용 사례 - 비즈니스 이벤트
 description: 비즈니스 이벤트의 사용 사례를 이해합니다. 비즈니스 이벤트를 사용하여 여정을 작성하는 방법과 상황에 따라 적합한 모범 사례를 알아봅니다.
-jira: KT-7703
+jira: KT-7702
 thumbnail: 334234.jpg
 feature: Journeys
 doc-type: feature video
@@ -9,8 +9,8 @@ team: PM
 role: User
 level: Beginner
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: tm+mt
+source-git-commit: 2d547d19e6556e8a982be3a015e5eebc79fe6c28
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
