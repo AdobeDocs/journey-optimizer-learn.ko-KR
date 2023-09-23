@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: e7626542-1399-4fcd-966a-cd9b3c7cd454
-source-git-commit: b1572b918a1d5dffa3cb8618d8efedeb1b9bec72
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 97%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 대상자 자격 조건 여정의 사용 사례를 살펴봅니다. 대상자 자격 조건을 사용하여 여정을 작성하는 방법과 상황에 따라 적용할 모범 사례를 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334231?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334231?quality=12&learn=on){transcript=true}

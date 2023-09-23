@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '64'
+ht-degree: 96%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 라이브 보고서와 글로벌 보고서의 차이, 여정과 메시지에 대한 보고서에 액세스하고 분석하는 방법, 보고서 대시보드를 수정하는 방법을 알아봅니다.  
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){transcript=true}

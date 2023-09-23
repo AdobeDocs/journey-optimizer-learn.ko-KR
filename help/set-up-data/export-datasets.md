@@ -10,10 +10,10 @@ jira: KT-13113
 thumbnail: 3418688.jpeg
 badge: label="Beta" type="Informative"
 exl-id: 17e1d65c-2548-4d50-bc9f-4e30d729fb5b
-source-git-commit: eb45fa6fd3382ee842d5b0bc937a83e0e271bb44
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 98%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 100%
 >[!NOTE]
 >Beta 단계에서는 모든 데이터 세트가 표시됩니다. 이 기능이 정식 적용되면 시스템에서 생성한 데이터 세트만 사용할 수 있도록 제한될 예정입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=ko)를 참조하십시오.

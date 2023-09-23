@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-10183
 thumbnail: 342114.jpg
 exl-id: 53c853d7-c12e-4e77-aed3-c34039a13c5c
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 96%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 고객 여정을 개인화하기 위해 통합 프로필을 만든 다음 프로필 속성을 기반으로 세그먼트를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}
