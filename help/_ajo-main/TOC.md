@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: eb4bbc4cd8eb511dbadc87cb9b7bc6c9838a8394
+source-git-commit: 076be9da7d5fd89e47852a6d275602f10a81d7bd
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 100%
+source-wordcount: '412'
+ht-degree: 97%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 100%
 + 웹 채널 {#web-channel}
    + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
    + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
+   + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
 + 프로필, 대상자, 구독 {#profiles-segments-subscriptions}
    + [통합 프로필 및 세분화 - 개요](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
@@ -93,6 +94,7 @@ ht-degree: 100%
    + [데이터 세트를 클라우드 스토리지 위치로 내보내기](/help/set-up-data/export-datasets.md)
 + 보고서 및 모니터링 {#report-and-monitor}
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
+   + [채널 수준 보고서](/help/report-and-monitor/channel-level-reports.md)
    + [경고 사용](/help/administration/alerts.md)
 + 구성 {#configuration}
    + 채널 구성 {#channel-configuration}
