@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 3b0b830bb1d5e813df49625c8125924a0bca9364
+source-git-commit: 72208c0530f1055f46a232773a3480f807a09f8b
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 96%
+source-wordcount: '422'
+ht-degree: 95%
 
 ---
 
@@ -96,6 +96,7 @@ ht-degree: 96%
 + 보고서 및 모니터링 {#report-and-monitor}
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
    + [채널 수준 보고서](/help/report-and-monitor/channel-level-reports.md)
+   + [CSV 형식으로 보고서 내보내기](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [경고 사용](/help/administration/alerts.md)
 + 구성 {#configuration}
    + 채널 구성 {#channel-configuration}
