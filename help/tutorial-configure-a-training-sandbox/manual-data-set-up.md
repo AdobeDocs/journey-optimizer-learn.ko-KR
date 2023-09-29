@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 100%
@@ -20,7 +20,7 @@ ht-degree: 100%
 이 섹션에서는 필요한 신원 네임스페이스를 만들고 [[!UICONTROL 스키마]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ko)를 만들어 [!DNL Luma] 샘플 데이터 구조를 정의합니다.
 
 >[!TIP]
->시작하기 전에 [신원 매핑](/help/set-up-data/map-identities.md) 비디오 튜토리얼을 시청하십시오.
+>시작하기 전에 [신원 매핑](/help/data-management/map-identities.md) 비디오 튜토리얼을 시청하십시오.
 
 ## 1단계: 신원 네임스페이스 만들기
 
@@ -69,7 +69,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->시작하기 전에 [스키마 만들기](/help/set-up-data/create-schema.md) 비디오 튜토리얼을 시청하십시오.
+>시작하기 전에 [스키마 만들기](/help/data-management/create-schema.md) 비디오 튜토리얼을 시청하십시오.
 
 ### 만들기 [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
 

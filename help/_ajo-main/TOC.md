@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 95%
+source-wordcount: '427'
+ht-degree: 94%
 
 ---
 
@@ -87,12 +87,13 @@ ht-degree: 95%
    + [Decisions API를 사용하여 오퍼 제공](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [빈도 설정](/help/decision-management/frequency-capping.md)
 + 데이터 관리 {#data-management}
-   + [개요](/help/set-up-data/set-up-data-overview.md)
-   + [스키마 만들기](/help/set-up-data/create-schema.md)
-   + [ID 매핑](/help/set-up-data/map-identities.md)
-   + [데이터 세트 만들기 및 데이터 수집](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [소스 커넥터 구성](/help/set-up-data/configure-source-connectors.md)
-   + [데이터 세트를 클라우드 스토리지 위치로 내보내기](/help/set-up-data/export-datasets.md)
+   + [개요](/help/data-management/set-up-data-overview.md)
+   + [스키마 만들기](/help/data-management/create-schema.md)
+   + [ID 매핑](/help/data-management/map-identities.md)
+   + [데이터 세트 만들기 및 데이터 수집](/help/data-management/create-datasets-and-ingest-data.md)
+   + [소스 커넥터 구성](/help/data-management/configure-source-connectors.md)
+   + [데이터 세트 내보내기 대상 구성](/help/data-management/configure-dataset-export-destination.md)
+   + [데이터 세트를 클라우드 스토리지 위치로 내보내기](/help/data-management/export-datasets.md)
 + 보고서 및 모니터링 {#report-and-monitor}
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
    + [채널 수준 보고서](/help/report-and-monitor/channel-level-reports.md)
