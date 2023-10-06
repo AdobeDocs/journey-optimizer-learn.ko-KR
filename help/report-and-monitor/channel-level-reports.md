@@ -1,6 +1,6 @@
 ---
 title: 채널 수준 보고서
-description: 채널 수준에서 보고서에 액세스, 탐색 및 내보내는 방법을 알아봅니다.
+description: 채널 수준에서 보고서에 액세스하고 보고서를 탐색 및 내보내는 방법을 알아봅니다.
 feature: Reporting
 role: User
 level: Beginner
@@ -9,16 +9,16 @@ last-substantial-update: 2023-09-28T00:00:00Z
 jira: KT-14033
 thumbnail: 3424537.jpeg
 hidefromtoc: false
-source-git-commit: 2e12d30c620620155985a5d8c13a9e6c593332e8
-workflow-type: tm+mt
+exl-id: cd22e955-9cdc-4bb8-b83e-253148c289eb
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # 채널 수준 보고서
 
-채널 수준에서 보고서에 액세스, 탐색 및 내보내는 방법을 알아봅니다. 자세한 내용은 다음을 참조하십시오. [채널 보고서 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html).
+채널 수준에서 보고서에 액세스하고 보고서를 탐색 및 내보내는 방법을 알아봅니다. 자세한 내용은 [채널 보고서 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html?lang=ko)를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424537/?learn=on)
