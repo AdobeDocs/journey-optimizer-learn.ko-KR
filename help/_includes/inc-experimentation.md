@@ -1,8 +1,8 @@
 ---
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '26'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 # 이메일에 대한 콘텐츠 실험 구성
