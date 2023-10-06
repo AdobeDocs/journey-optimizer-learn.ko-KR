@@ -1,6 +1,6 @@
 ---
 title: 데이터 세트 내보내기 대상 구성
-description: 에서 데이터 세트를 내보내기 위한 구성, 워크플로우 및 사용 사례에 대해 알아봅니다. [!DNL Adobe Experience Platform] 대상 연결을 사용하여 클라우드 스토리지 위치로 이동합니다.
+description: 대상 연결을 사용하여  [!DNL Adobe Experience Platform] 에서 클라우드 스토리지 위치로 데이터 세트를 내보내는 구성, 워크플로우 및 사용 사례에 대해 알아봅니다.
 solution: Real-Time Customer Data Platform, Experience Platform, Journey Optimizer
 feature: Destinations, Data Management
 role: User, Admin
@@ -8,17 +8,18 @@ level: Beginner
 jira: KT-13946
 thumbnail: 3424392.jpg
 last-substantial-update: 2023-09-27T00:00:00Z
-source-git-commit: 8542676e7c75962b7a59cef554070a10f8f5e3d0
-workflow-type: tm+mt
+exl-id: 23f12d51-9841-41f5-9028-1507c4b538cf
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 # 데이터 세트 내보내기 대상 구성
 
-에서 데이터 세트를 내보내기 위한 구성, 워크플로우 및 사용 사례에 대해 알아봅니다. [!DNL Adobe Experience Platform] 대상 연결을 사용하여 클라우드 스토리지 위치로 이동합니다.
+대상 연결을 사용하여 [!DNL Adobe Experience Platform]에서 클라우드 스토리지 위치로 데이터 세트를 내보내는 구성, 워크플로우 및 사용 사례에 대해 알아봅니다.
 
-Adobe Journey Optimizer에서 클라우드 스토리지 위치로 데이터 세트 내보내기에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=ko).
+Adobe Journey Optimizer에서 클라우드 스토리지 위치로 데이터 세트 내보내기에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=ko)를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
