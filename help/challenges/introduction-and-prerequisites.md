@@ -6,16 +6,14 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
-source-wordcount: '482'
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+workflow-type: ht
+source-wordcount: '479'
 ht-degree: 100%
 
 ---
 
 # Journey Optimizer 과제 - 소개 및 사전 
-
-![AJO 과제 배너](./assets/ajo-banner-challenges.png)
 
 과제는 시나리오 및 학습 내용을 실행하는 데 필요한 요구 사항을 제공합니다. 과제는 기술 수준을 평가하고 지식 격차를 파악하는 데 도움이 됩니다.
 
