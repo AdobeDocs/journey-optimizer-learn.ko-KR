@@ -7,7 +7,7 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: ht
 source-wordcount: '627'
 ht-degree: 100%
@@ -16,8 +16,6 @@ ht-degree: 100%
 
 
 # Journey Optimizer 튜토리얼
-
-![](./assets/ajo-banner.png)
 
 Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 개인화된 경험을 제공할 수 있도록 해줍니다. 고객 여정은 소통을 순간부터 사이트를 나가는 순간까지의 고객과 브랜드 간의 전체 상호 작용 프로세스를 말합니다.
 
