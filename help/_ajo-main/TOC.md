@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
+source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 98%
@@ -38,8 +38,10 @@ ht-degree: 98%
    + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
    + [여정 게시](/help/create-journeys/publish-a-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
-+ DM 채널{#direct-mail-channel}
-   + [DM 채널](/help/channels/direct-mail.md)
++ 프로필, 대상자, 구독 {#profiles-audiences-subscriptions}
+   + [통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + 이메일 채널{#email-channel}
    + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
    + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
@@ -48,6 +50,8 @@ ht-degree: 98%
    + [조각 관리, 작성, 사용](/help/content-management/manage-author-use-fragments.md)
    + [표현식 조각 만들기 및 사용](/help/content-management/expression-fragments.md)
    + [이메일에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-emails.md)
++ DM 채널{#direct-mail-channel}
+   + [DM 채널](/help/channels/direct-mail.md)
 + 인앱 채널{#in-app-channel}
    + [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
    + [여정의 인앱 메시지 만들기](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -62,10 +66,6 @@ ht-degree: 98%
    + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
    + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
    + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
-+ 프로필, 대상자, 구독 {#profiles-segments-subscriptions}
-   + [통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + [Assets 기본 사항](/help/assets-essentials-overview.md)
 + 콘텐츠 개인화 {#personalize-content}
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
