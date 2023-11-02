@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: e775fc958c65a001d3ca1e09b0b43b3c69084310
+source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 100%
+source-wordcount: '428'
+ht-degree: 98%
 
 ---
 
@@ -63,8 +63,8 @@ ht-degree: 100%
    + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
    + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
 + 프로필, 대상자, 구독 {#profiles-segments-subscriptions}
-   + [통합 프로필 및 세분화 - 개요](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
-   + [세그먼트 만들기](/help/set-up-resources/create-segments.md)
+   + [통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + [Assets 기본 사항](/help/assets-essentials-overview.md)
 + 콘텐츠 개인화 {#personalize-content}
