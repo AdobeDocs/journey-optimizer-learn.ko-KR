@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
-source-wordcount: '627'
+source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
+workflow-type: tm+mt
+source-wordcount: '588'
 ht-degree: 100%
 
 ---
@@ -51,16 +51,16 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 ## Experience League 라이브 이벤트
 
-* **[Adobe Journey Optimizer의 API 트리거된 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko)**
+* **[Adobe Journey Optimizer의 API 트리거된 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko){target="_blank"}**
   *상황별 개인화된 실시간 트랜잭션 및 마케팅 커뮤니케이션에 REST API를 사용하는 방법에 대해 알아보십시오.*
 
-* **[Adobe Journey Optimizer로 모바일 앱의 잠재력 극대화하기](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ko)**
+* **[Adobe Journey Optimizer로 모바일 앱의 잠재력 극대화하기](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ko){target="_blank"}**
   *실시간 참여 채널로서 인앱 메시지의 이점과, Adobe Journey Optimizer에서 개인화된 모바일 앱 경험을 구성하고 작성하는 방법을 알아봅니다.*
 
-* **[웹 채널과 콘텐츠 실험이 보여 주는 Adobe Journey Optimizer의 미래를 확인해 보십시오](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=ko)**
+* **[웹 채널과 콘텐츠 실험이 보여 주는 Adobe Journey Optimizer의 미래를 확인해 보십시오](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=ko){target="_blank"}**
   *새로운 웹 채널 기능을 사용하면 마케터가 WYSIWYG 비주얼 디자이너를 사용하여 웹 캠페인을 작성할 수 있습니다. 또한 이제 Journey Optimizer에서는 이메일, 웹, 푸시, 인앱, SMS 등 모든 채널에서 콘텐츠를 실험할 수 있습니다.*
 
-* **[Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ko)**
+* **[Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=ko){target="_blank"}**
   *원래 2022년 9월 22일에 열린 이 Experience League 라이브 에피소드에서 호스트인 Sandra Hausmann과 제품 전문가인 Bridgete 달Darling 및 Frederic Mary가 이 새로운 특징 커버의 사용 사례를 설명하고 Journey Optimizer에서 캠페인을 쉽게 설정하고 실행하는 방법을 설명합니다.*
 
 * **[Adobe Journey Optimizer를 사용한 푸시 알림](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=ko)**
