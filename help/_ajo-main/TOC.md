@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
+source-git-commit: 6997e1257b0194fce07fc4ee4e1017e333e7f697
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 96%
+source-wordcount: '470'
+ht-degree: 94%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 96%
       + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
       + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
       + [메시지 빈도 규칙 구성](/help/administration/configure-frequency-rules.md)
+      + [IP 준비 계획 만들기 및 실행](/help/administration/create-and-execute-an-ip-warmup-plan.md)
    + 여정 구성 {#journey-configuration}
       + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
       + [이벤트 만들기](/help/set-up-journeys/create-events.md)
