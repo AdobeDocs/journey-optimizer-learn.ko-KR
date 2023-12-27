@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: 6997e1257b0194fce07fc4ee4e1017e333e7f697
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '470'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -106,7 +106,7 @@ ht-degree: 94%
       + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
       + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
       + [메시지 빈도 규칙 구성](/help/administration/configure-frequency-rules.md)
-      + [IP 준비 계획 만들기 및 실행](/help/administration/create-and-execute-an-ip-warmup-plan.md)
+      + [ip 준비 계획 만들고 실행하기](/help/administration/create-and-execute-an-ip-warmup-plan.md)
    + 여정 구성 {#journey-configuration}
       + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
       + [이벤트 만들기](/help/set-up-journeys/create-events.md)
@@ -121,9 +121,9 @@ ht-degree: 94%
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)
-+ 라이브 녹화 Experience League{#experience-league-live-recordings}
++ Experience League Live 기록{#experience-league-live-recordings}
    + [Adobe Journey Optimizer의 API 트리거된 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko){target="_blank"}
    + [Adobe Journey Optimizer로 모바일 앱의 잠재력 극대화하기](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ko){target="_blank"}
-   + [의사 결정 관리를 통해 적시에 적절한 오퍼 제공](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en){target="_blank"}
-   + [Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}
-   + [Adobe Journey Optimizer를 사용한 푸시 알림](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en){target="_blank"}
+   + [의사 결정 관리를 통해 적시에 적절한 오퍼 제공](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko){target="_blank"}
+   + [Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ko){target="_blank"}
+   + [Adobe Journey Optimizer를 사용한 푸시 알림](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ko){target="_blank"}
