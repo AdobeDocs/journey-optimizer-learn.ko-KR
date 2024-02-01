@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 6997e1257b0194fce07fc4ee4e1017e333e7f697
-workflow-type: ht
-source-wordcount: '470'
-ht-degree: 100%
+source-git-commit: 13bba1375a99df9e92c7eaf479e38444b3909a86
+workflow-type: tm+mt
+source-wordcount: '477'
+ht-degree: 98%
 
 ---
 
@@ -62,6 +62,7 @@ ht-degree: 100%
 + SMS 채널{#sms-channel}
    + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
    + [SMS에 대한 인바운드 키워드 지원](/help/channels/inbound-keyword-support-for-sms.md)
+   + [SMS - Sinch 및 Infobip에 대한 이중 옵트인](/help/channels/sms-double-opt-in.md)
 + 웹 채널 {#web-channel}
    + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
    + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
