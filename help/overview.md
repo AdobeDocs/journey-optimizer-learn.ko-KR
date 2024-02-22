@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
-workflow-type: ht
-source-wordcount: '588'
+source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+workflow-type: tm+mt
+source-wordcount: '490'
 ht-degree: 100%
 
 ---
@@ -20,25 +20,6 @@ ht-degree: 100%
 Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 개인화된 경험을 제공할 수 있도록 해줍니다. 고객 여정은 소통을 순간부터 사이트를 나가는 순간까지의 고객과 브랜드 간의 전체 상호 작용 프로세스를 말합니다.
 
 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
-
-<div id="whats-new-section">
-
-## 새로운 기능
-
-* **[조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)**
-  *조건 규칙을 만들고 저장하는 방법과 이러한 조건 규칙을 모든 채널의 콘텐츠에 적용하는 방법을 알아봅니다.*
-
-* **[경고 사용](/help/administration/alerts.md)**
-  *예기치 않은 여정 비헤이비어에 대해 사전 정의된 경고를 구독하고 이메일을 통해, Journey Optimizer 내에서 또는 API를 사용하여 알림을 받는 방법에 대해 알아봅니다.*
-
-* **[다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)**
-  *한 샌드박스에서 다른 샌드박스로 여정과 해당 종속 오브젝트를 복사하는 방법에 대해 알아봅니다.*
-
-* **[메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)**
-  *데이터 마스킹의 의미와 데이터를 마스킹하는 이유를 파악합니다. Journey Optimizer 메시지에서 데이터를 마스킹하는 방법을 알아봅니다.*
-
-</div>
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
