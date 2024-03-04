@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizer 튜토리얼 - 개요
+title: Journey Optimizer 튜토리얼
 description: Journey Optimizer의 이점을 활용하는 방법을 보여주는 다양한 비디오 튜토리얼이 있습니다.
 recommendations: noDisplay, noCatalog
 feature: Get Started
@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+source-git-commit: 53f92861c15c65dac900f279dd815efa314741a1
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
