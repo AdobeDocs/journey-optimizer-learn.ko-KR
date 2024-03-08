@@ -7,7 +7,7 @@ breadcrumb-title: Journey Optimizer - L731 연습장
 breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
 index: false
 hide: true
-source-git-commit: c35b58a488d37d0cba9aa79cdb04924162655a68
+source-git-commit: 42c920b1f1546aac4bda4afb4e19dd9a1a5d466c
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
@@ -19,8 +19,8 @@ ht-degree: 100%
 
 + [랩 개요]{#overview}
 + [소개]{#introduction}
-   + [소개](/help/l731-lab-workbook/Introduction/introduction.md)
-   + [연습 1.1](/help/l731-lab-workbook/Introduction/exercise-1-1.md)
-   + [연습 1.2](/help/l731-lab-workbook/Introduction/exercise-1-2.md)
-   + [연습 1.3](/help/l731-lab-workbook/Introduction/exercise-1-3.md)
-   + [연습 1.4](/help/l731-lab-workbook/Introduction/exercise-1-4.md)
+   + [소개](/help/summit/l731-lab-workbook/Introduction/introduction.md)
+   + [연습 1.1](/help/summit/l731-lab-workbook/Introduction/exercise-1-1.md)
+   + [연습 1.2](/help/summit/l731-lab-workbook/Introduction/exercise-1-2.md)
+   + [연습 1.3](/help/summit/l731-lab-workbook/Introduction/exercise-1-3.md)
+   + [연습 1.4](/help/summit/l731-lab-workbook/Introduction/exercise-1-4.md)
