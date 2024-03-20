@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
+source-git-commit: ec5d79920c305ad77f042db845932a8b1671e65b
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 100%
+source-wordcount: '334'
+ht-degree: 98%
 
 ---
 
-# Summit Lab L731 - 컨닝 페이퍼
+# Summit Lab L731 - 치트 시트
 
 이 페이지에는 L731 Summit Lab에서 사용하는 텍스트와 링크가 있습니다. 콘텐츠를 복사하여 Journey Optimizer 메시지에 붙여 넣을 수 있습니다.
 
@@ -167,7 +167,7 @@ Testflight를 설치하라는 메시지가 표시됩니다(1~4단계). Testfligh
 
 | 필드 | 텍스트 | 링크 |
 |----|----|----|
-| 캠페인 이름 | `<your seat number> Max Push Campaign` |  |
+| 캠페인 이름 | **`<your seat number> Max Push Campaign`** |  |
 | 제목 | 안녕하세요! |  |
 | 본문 | Adobe MAX가 라스베가스로 돌아온다는 사실을 알고 계셨나요? 지금 객실을 예약하면 10% 할인을 받을 수 있습니다. |  |
 | 미디어 URL 옵션 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
