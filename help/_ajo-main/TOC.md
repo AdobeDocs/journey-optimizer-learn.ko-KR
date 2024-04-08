@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 1de848b430f61e93d6073d2db4cccca3dbe7676f
+source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 98%
+source-wordcount: '487'
+ht-degree: 96%
 
 ---
 
@@ -121,10 +121,11 @@ ht-degree: 98%
 + 연습 및 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
-+ [Summit Lab](/help/summit-lab-731/l731-assets.md)
 + Experience League Live 기록{#experience-league-live-recordings}
    + [Adobe Journey Optimizer의 API 트리거된 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko){target="_blank"}
    + [Adobe Journey Optimizer로 모바일 앱의 잠재력 극대화하기](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ko){target="_blank"}
    + [의사 결정 관리를 통해 적시에 적절한 오퍼 제공](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko){target="_blank"}
    + [Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ko){target="_blank"}
    + [Adobe Journey Optimizer를 사용한 푸시 알림](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ko){target="_blank"}
++ 서밋 Labs {#summit-labs}
+   + [Adobe Journey Optimizer을 사용하여 개인화된 모바일 순간 구축(2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
