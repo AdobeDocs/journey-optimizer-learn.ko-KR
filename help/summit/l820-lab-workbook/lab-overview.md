@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
+last-substantial-update: 2024-03-26T00:00:00Z
+exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
+source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
 
 ---
-
 
 # 랩 워크북
 
@@ -67,4 +67,3 @@ Fréscopa의 비즈니스의 핵심은 커피 구독 서비스에 있으며, 고
 구독 서비스를 보완한 프레스코파의 웹사이트와 모바일 앱은 커피 관련 상품을 포괄적으로 제공해 고객이 자신의 커피 의식을 탐색하고 강화할 수 있다. 양조 장비부터 장인의 액세서리까지 Fréscopa는 품질과 편리함을 추구하는 커피 애호가를 위한 원스톱 샵을 제공합니다.
 
 Fréscopa는 원활하고 즐거운 고객 여정을 만들기 위해 최선을 다하고 있기 때문에 우수성을 위한 Fréscopa의 노력은 제품을 넘어 확장됩니다. 혁신적인 기술과 고객 중심 접근법의 결합은 Fréscopa를 진화하는 커피 산업의 선두에 자리잡게 합니다. 본질적으로, 프레스코파는 열정과 기술의 융합을 구현하여 개인이 커피를 경험하고 즐기는 방식을 재정의합니다. 품질, 편리함 및 맞춤형 오퍼링에 중점을 둔 Fréscopa는 커피 애호가를 초대해 맛의 여정을 시작하며, 바로 문 앞까지 배달됩니다.
-

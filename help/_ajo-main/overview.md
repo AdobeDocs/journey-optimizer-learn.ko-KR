@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: f440e58e82532dc3d765848e16c0103af5036e54
+source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 100%
+source-wordcount: '501'
+ht-degree: 94%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 개인화된 경험을 제공할 수 있도록 해줍니다. 고객 여정은 소통을 순간부터 사이트를 나가는 순간까지의 고객과 브랜드 간의 전체 상호 작용 프로세스를 말합니다.
 
-이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다.
+이 사용 안내서에는 Adobe Journey Optimizer의 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다. 를 사용하여 학습한 내용을 연습합니다. [Journey Optimizer 과제](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
