@@ -10,9 +10,9 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
+source-git-commit: 4f5c92f79eba3651b3633b7850e993160cb1f72c
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '699'
 ht-degree: 2%
 
 ---
@@ -157,4 +157,4 @@ ht-degree: 2%
 * [인앱 채널 시작](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
 * [웹 인앱 메시지 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
 * [인앱 콘텐츠 디자인](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [인앱 알림 확인 및 보내기](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [인앱 알림 확인 및 보내기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
