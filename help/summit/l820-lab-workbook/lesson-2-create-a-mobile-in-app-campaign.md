@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: fe18eca7-229c-4867-ab34-1862bad63124
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '1395'
-ht-degree: 0%
+source-wordcount: '1433'
+ht-degree: 1%
 
 ---
-
 
 # 단원 2 - 모바일 인앱 캠페인 만들기
 
@@ -309,4 +309,18 @@ ht-degree: 0%
 >
 > 인앱 메시지가 장치에 표시됩니다.
 >
-> *연결되면 를 클릭할 때마다 인앱 메시지가 표시됩니다&#x200B;**[!UICONTROL 장치에서 미리 보기] 단추**.*
+> *연결되면 인앱 메시지가 표시될 때마다 **[!UICONTROL 장치에서 미리 보기] 단추**.
+
+## 추가 리소스
+
+**비디오 방법:**
+
+* [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
+* [인앱 메시지 작성](/help/channels/author-in-app-messages.md)
+
+**제품 설명서:**
+
+* [인앱 채널 시작](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [모바일 인앱 메시지 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [인앱 콘텐츠 디자인](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [인앱 알림 확인 및 보내기](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

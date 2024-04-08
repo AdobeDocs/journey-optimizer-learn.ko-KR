@@ -8,13 +8,13 @@ doc-type: Tutorial
 duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
-source-git-commit: c590b47ad3dfc54badbac0d8fcaff6b9dd053cc1
+exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 0%
+source-wordcount: '781'
+ht-degree: 2%
 
 ---
-
 
 # 4과 - 푸시 캠페인 만들기
 
@@ -203,8 +203,15 @@ ht-degree: 0%
 >
 > ![푸시 결과](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
+## 추가 리소스
 
-**감사합니다!**
+**비디오 방법:**
 
-참여해 주셔서 감사합니다. Summit 앱의 Lab 820 Session 설문 조사를 완료하여, 우리가 어떻게 수행했으며 실험실이 여러분의 기대에 부합하는지 피드백을 제공해 주십시오.
+* [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
 
+**제품 설명서:**
+
+* [푸시 알림 시작](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [푸시 알림 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [푸시 알림 디자인](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [푸시 알림 확인 및 보내기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

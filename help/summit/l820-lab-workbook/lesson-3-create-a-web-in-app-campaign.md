@@ -9,14 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 0%
+source-wordcount: '698'
+ht-degree: 2%
 
 ---
-
-
 
 # 3과 - 웹 인앱 캠페인 만들기
 
@@ -144,3 +143,18 @@ ht-degree: 0%
 >고유 값으로 전송 단추를 클릭하면 웹 인앱 메시지가 실행됩니다. 웹 인앱 메시지가 화면에 표시되는 것을 볼 수 있습니다.
 >
 >이 연습에서는 Fréscopa 고객 경험을 통해 본 사용자 지정 XDM 전송 이벤트를 시뮬레이션했습니다.
+
+
+## 추가 리소스
+
+**비디오 방법:**
+
+* [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
+* [인앱 메시지 작성](/help/channels/author-in-app-messages.md)
+
+**제품 설명서:**
+
+* [인앱 채널 시작](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [웹 인앱 메시지 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [인앱 콘텐츠 디자인](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [인앱 알림 확인 및 보내기](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
