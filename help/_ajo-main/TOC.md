@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '487'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -127,5 +127,5 @@ ht-degree: 96%
    + [의사 결정 관리를 통해 적시에 적절한 오퍼 제공](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko){target="_blank"}
    + [Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ko){target="_blank"}
    + [Adobe Journey Optimizer를 사용한 푸시 알림](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ko){target="_blank"}
-+ 서밋 Labs {#summit-labs}
-   + [Adobe Journey Optimizer을 사용하여 개인화된 모바일 순간 구축(2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
++ Summit Labs {#summit-labs}
+   + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
