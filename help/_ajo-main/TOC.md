@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 1499ccefd78a34e8d6f930bae9d6d76db5af9da1
+source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '495'
 ht-degree: 97%
 
 ---
@@ -122,7 +122,7 @@ ht-degree: 97%
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
 + Experience League Live 기록{#experience-league-live-recordings}
-   + [Journey Optimizer의 새로운 코드 기반 경험 채널](/https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
+   + [Journey Optimizer의 새로운 코드 기반 경험 채널](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Adobe Journey Optimizer의 API 트리거된 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko){target="_blank"}
    + [Adobe Journey Optimizer로 모바일 앱의 잠재력 극대화하기](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ko){target="_blank"}
    + [의사 결정 관리를 통해 적시에 적절한 오퍼 제공](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko){target="_blank"}
