@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
-workflow-type: ht
-source-wordcount: '501'
-ht-degree: 100%
+source-git-commit: 1499ccefd78a34e8d6f930bae9d6d76db5af9da1
+workflow-type: tm+mt
+source-wordcount: '521'
+ht-degree: 96%
 
 ---
 
@@ -31,6 +31,9 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 <div id="events-section">
 
 ## Experience League 라이브 이벤트
+
+* **[Journey Optimizer의 새로운 코드 기반 경험 채널](/https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+  *개발자 중심 작업으로 인바운드 표면 및 세분화된 개인화 제어를 활성화하는 방법을 알아봅니다.*
 
 * **[Adobe Journey Optimizer의 API 트리거된 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko){target="_blank"}**
   *상황별 개인화된 실시간 트랜잭션 및 마케팅 커뮤니케이션에 REST API를 사용하는 방법에 대해 알아보십시오.*
