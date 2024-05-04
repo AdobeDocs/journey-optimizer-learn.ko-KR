@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 42e7d88fa169980445d537a85681858675023620
+source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 96%
+source-wordcount: '524'
+ht-degree: 91%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 96%
 + 캠페인 {#create-campaigns}
    + [캠페인 만들기](/help/create-campaigns/create-a-campaign.md)
    + [인앱 캠페인 만들기](/help/create-campaigns/in-app.md)
-   + [웹 캠페인 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=ko)
+   + [푸시 캠페인 구성 및 전송](/help/create-campaigns/push-campaign.md)
+   + [웹 캠페인 만들기](/help/create-campaigns/web-campaign.md)
+   + [코드 기반 경험 캠페인 만들기](/help/create-campaigns/code-based-experience.md)
    + [API를 사용하여 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
    + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/create-campaigns/content-experiments.md)
 + 여정 {#create-journeys}
@@ -51,6 +53,8 @@ ht-degree: 96%
    + [조각 관리, 작성, 사용](/help/content-management/manage-author-use-fragments.md)
    + [표현식 조각 만들기 및 사용](/help/content-management/expression-fragments.md)
    + [이메일에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-emails.md)
++ 코드 기반 경험 채널{#code-based-experience-channel}
+   + [코드 기반 경험 캠페인 만들기](/help/channels/create-a-code-based-experience-campaign.md)
 + DM 채널{#direct-mail-channel}
    + [DM 채널](/help/channels/direct-mail.md)
 + 인앱 채널{#in-app-channel}
@@ -62,7 +66,7 @@ ht-degree: 96%
    + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
 + SMS 채널{#sms-channel}
    + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
-   + [MMS 작성자](/help/channels/author-mms.md)
+   + [MMS 메시지 작성](/help/channels/author-mms.md)
    + [SMS - Sinch 및 Infobip에 대한 이중 옵트인](/help/channels/sms-double-opt-in.md)
 + 웹 채널 {#web-channel}
    + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
@@ -109,6 +113,7 @@ ht-degree: 96%
       + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
       + [메시지 빈도 규칙 구성](/help/administration/configure-frequency-rules.md)
       + [ip 준비 계획 만들고 실행하기](/help/administration/create-and-execute-an-ip-warmup-plan.md)
+      + [MMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + 여정 구성 {#journey-configuration}
       + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
       + [이벤트 만들기](/help/set-up-journeys/create-events.md)
