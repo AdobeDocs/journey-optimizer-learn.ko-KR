@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '522'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 ## Experience League 라이브 이벤트
 
-* **[Journey Optimizer의 새로운 코드 기반 경험 채널](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+* **[Journey Optimizer의 새로운 코드 기반 경험 채널](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *개발자 중심 작업으로 인바운드 표면 및 세분화된 개인화 제어를 활성화하는 방법을 알아봅니다.*
 
 * **[Adobe Journey Optimizer의 API 트리거된 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko){target="_blank"}**
