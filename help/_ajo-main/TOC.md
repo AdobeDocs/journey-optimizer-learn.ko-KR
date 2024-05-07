@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
 workflow-type: tm+mt
 source-wordcount: '524'
-ht-degree: 91%
+ht-degree: 94%
 
 ---
 
@@ -127,8 +127,8 @@ ht-degree: 91%
 + 연습 및 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
-+ Experience League Live 기록{#experience-league-live-recordings}
-   + [Journey Optimizer의 새로운 코드 기반 경험 채널](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
++ Experience League 라이브 녹화{#experience-league-live-recordings}
+   + [Journey Optimizer의 새로운 코드 기반 경험 채널](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Adobe Journey Optimizer의 API 트리거된 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko){target="_blank"}
    + [Adobe Journey Optimizer로 모바일 앱의 잠재력 극대화하기](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ko){target="_blank"}
    + [의사 결정 관리를 통해 적시에 적절한 오퍼 제공](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko){target="_blank"}
