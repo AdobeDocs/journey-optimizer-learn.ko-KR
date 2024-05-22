@@ -1,12 +1,12 @@
 ---
 source-git-commit: 28234822f1a5f813688e39e904a93cf565c832f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # 코드 기반 경험 캠페인 만들기
 
-개발 환경과 원활하게 통합하기 위해 서버측, API 기반 또는 SDK 기반 구현 방법을 지원하여 개인화를 확장하기 위해 코드 기반 경험 캠페인을 만드는 방법에 대해 알아봅니다.
+개발 환경과 원활하게 통합할 수 있도록 서버측, API 기반 또는 SDK 기반 구현 방법을 지원하는 방식으로 개인화를 확장하기 위해 코드 기반 경험 캠페인을 만드는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)

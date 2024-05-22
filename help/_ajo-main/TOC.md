@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 + 캠페인 {#create-campaigns}
    + [캠페인 만들기](/help/create-campaigns/create-a-campaign.md)
    + [인앱 캠페인 만들기](/help/create-campaigns/in-app.md)
-   + [푸시 캠페인 구성 및 전송](/help/create-campaigns/push-campaign.md)
+   + [푸시 캠페인 구성 및 보내기](/help/create-campaigns/push-campaign.md)
    + [웹 캠페인 만들기](/help/create-campaigns/web-campaign.md)
    + [코드 기반 경험 캠페인 만들기](/help/create-campaigns/code-based-experience.md)
    + [API를 사용하여 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
