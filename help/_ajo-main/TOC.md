@@ -1,12 +1,12 @@
 ---
 user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
+user-guide-description: Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
-workflow-type: ht
+source-git-commit: 11c852e7e52747306ccd3cfa692c142f631859f7
+workflow-type: tm+mt
 source-wordcount: '524'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 100%
    + [API를 사용하여 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
    + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/create-campaigns/content-experiments.md)
 + 여정 {#create-journeys}
-   + [새 여정 디자이너 살펴보기](/help/create-journeys/new-journey-designer.md)
    + [여정 캔버스 개요](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [새 여정 디자이너 살펴보기](/help/create-journeys/new-journey-designer.md)
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
    + [사용 사례 - 비즈니스 이벤트](/help/create-journeys/use-case-business-event.md)
