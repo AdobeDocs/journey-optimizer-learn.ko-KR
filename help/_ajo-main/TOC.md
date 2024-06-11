@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: 640be5f146208fb7fc3729acbb36edf90aae06e4
+source-git-commit: 0865b233b05eceab34881d42ab6b0182e30dc3f5
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 98%
@@ -50,7 +50,7 @@ ht-degree: 98%
       + [코드 기반 경험 캠페인 만들기](/help/channels/create-a-code-based-experience-campaign.md)
    + DM 채널{#direct-mail-channel}
       + [DM 채널](/help/channels/direct-mail.md)
-   + 이메일 채널{#email}
+   + 이메일 채널{#email-channel}
       + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
       + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
       + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
