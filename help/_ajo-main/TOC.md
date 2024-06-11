@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: 11c852e7e52747306ccd3cfa692c142f631859f7
+source-git-commit: 640be5f146208fb7fc3729acbb36edf90aae06e4
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 99%
+source-wordcount: '525'
+ht-degree: 98%
 
 ---
 
@@ -45,33 +45,34 @@ ht-degree: 99%
    + [통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
-+ 이메일 채널{#email-channel}
-   + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
-   + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
-   + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
-   + [콘텐츠 템플릿](/help/channels/content-templates.md)
-   + [조각 관리, 작성, 사용](/help/content-management/manage-author-use-fragments.md)
-   + [표현식 조각 만들기 및 사용](/help/content-management/expression-fragments.md)
-   + [이메일에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-emails.md)
-+ 코드 기반 경험 채널{#code-based-experience-channel}
-   + [코드 기반 경험 캠페인 만들기](/help/channels/create-a-code-based-experience-campaign.md)
-+ DM 채널{#direct-mail-channel}
-   + [DM 채널](/help/channels/direct-mail.md)
-+ 인앱 채널{#in-app-channel}
-   + [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
-   + [여정의 인앱 메시지 만들기](/help/channels/create-an-in-app-message-in-a-journey.md)
-   + [인앱 메시지 작성](/help/channels/author-in-app-messages.md)
-   + [인앱 메시지에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-in-app-messages.md)
-+ 푸시 채널{#push-channel}
-   + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
-+ SMS 채널{#sms-channel}
-   + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
-   + [MMS 메시지 작성](/help/channels/author-mms.md)
-   + [SMS - Sinch 및 Infobip에 대한 이중 옵트인](/help/channels/sms-double-opt-in.md)
-+ 웹 채널 {#web-channel}
-   + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
-   + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
-   + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
++ 채널 {#channels}
+   + 코드 기반 경험 채널{#code-based-experience-channel}
+      + [코드 기반 경험 캠페인 만들기](/help/channels/create-a-code-based-experience-campaign.md)
+   + DM 채널{#direct-mail-channel}
+      + [DM 채널](/help/channels/direct-mail.md)
+   + 이메일 채널{#email}
+      + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
+      + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
+      + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
+      + [콘텐츠 템플릿](/help/channels/content-templates.md)
+      + [조각 관리, 작성, 사용](/help/content-management/manage-author-use-fragments.md)
+      + [표현식 조각 만들기 및 사용](/help/content-management/expression-fragments.md)
+      + [이메일에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-emails.md)
+   + 인앱 채널{#in-app-channel}
+      + [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
+      + [여정의 인앱 메시지 만들기](/help/channels/create-an-in-app-message-in-a-journey.md)
+      + [인앱 메시지 작성](/help/channels/author-in-app-messages.md)
+      + [인앱 메시지에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + 푸시 채널{#push-channel}
+      + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
+   + SMS 채널{#sms-channel}
+      + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
+      + [MMS 메시지 작성](/help/channels/author-mms.md)
+      + [SMS - Sinch 및 Infobip에 대한 이중 옵트인](/help/channels/sms-double-opt-in.md)
+   + 웹 채널 {#web-channel}
+      + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
+      + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
+      + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
 + [Assets 기본 사항](/help/assets-essentials-overview.md)
 + 콘텐츠 개인화 {#personalize-content}
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
