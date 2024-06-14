@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: 93feb322403ee343686d901576a6c70b1a08287a
+source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '533'
 ht-degree: 97%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 97%
    + [인앱 캠페인 만들기](/help/create-campaigns/in-app.md)
    + [푸시 캠페인 구성 및 보내기](/help/create-campaigns/push-campaign.md)
    + [웹 캠페인 만들기](/help/create-campaigns/web-campaign.md)
-   + [코드 기반 경험 캠페인 만들기](/help/create-campaigns/code-based-experience.md)
+   + [코드 기반 경험 캠페인 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [API를 사용하여 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
    + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/create-campaigns/content-experiments.md)
 + 여정 {#create-journeys}
