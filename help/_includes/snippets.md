@@ -1,8 +1,8 @@
 ---
-source-git-commit: f42f117b47a16536a045688a472f95afff46ecec
+source-git-commit: def6df7acf248f61ac64f1c2d3fc99e519c3ffe6
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 87%
 
 ---
 # AJO 코드 조각
@@ -26,4 +26,10 @@ Experience League LIVE:
 * [Adobe Journey Optimizer로 모바일 앱의 잠재력 극대화하기](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ko)
 
   *실시간 참여 채널로서 인앱 메시지의 이점과, Adobe Journey Optimizer에서 개인화된 모바일 앱 경험을 구성하고 작성하는 방법을 알아봅니다.*
+
+## 제한된 가용성 {#limited-availability}
+
+>[!NOTE]
+>
+>이 기능은 현재 조직 집합(제한된 가용성)에만 사용할 수 있습니다. 권한을 얻으려면 Adobe 담당자에게 문의하십시오.
 
