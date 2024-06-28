@@ -1,5 +1,5 @@
 ---
-title: '사용 사례: 비즈니스 이벤트'
+title: 사용 사례 - 비즈니스 이벤트
 description: Journey Optimizer에서 비즈니스 이벤트를 사용하는 방법을 알아봅니다. 비즈니스 이벤트의 데이터를 여정의 개인화된 메시징에 사용하는 방법을 이해합니다.
 feature: Journeys
 role: User
@@ -9,7 +9,7 @@ duration: 250
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
-source-git-commit: 6eba4838f70e8f7b8b2192eeb6255ac2b50ce1e2
+source-git-commit: 0cf49c6da17b80c45b21981bdaf15e39fbb0ae5a
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
