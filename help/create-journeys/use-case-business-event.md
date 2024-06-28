@@ -1,23 +1,24 @@
 ---
-title: 사용 사례 - 비즈니스 이벤트
-description: 비즈니스 이벤트의 사용 사례를 이해합니다. 비즈니스 이벤트를 사용하여 여정을 작성하는 방법과 상황에 따라 적합한 모범 사례를 알아봅니다.
-jira: KT-7702
-thumbnail: 334234.jpg
+title: '사용 사례: 비즈니스 이벤트'
+description: Journey Optimizer에서 비즈니스 이벤트를 사용하는 방법을 알아봅니다. 비즈니스 이벤트의 데이터를 여정의 개인화된 메시징에 사용하는 방법을 이해합니다.
 feature: Journeys
-doc-type: feature video
-team: PM
 role: User
 level: Beginner
+doc-type: Feature Video
+duration: 250
+last-substantial-update: 2024-06-28T00:00:00Z
+jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 6eba4838f70e8f7b8b2192eeb6255ac2b50ce1e2
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
-# 사용 사례 - 비즈니스 이벤트
 
-비즈니스 이벤트의 사용 사례를 이해합니다. 비즈니스 이벤트를 사용하여 여정을 작성하는 방법과 상황에 따라 적합한 모범 사례를 알아봅니다.
+# 사용 사례: 비즈니스 이벤트
 
->[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12&learn=on){transcript=true}
+Journey Optimizer에서 비즈니스 이벤트를 사용하는 방법을 알아봅니다. 비즈니스 이벤트를 사용하면 브랜드는 뉴스 게시물에 새로운 콘텐츠가 있을 때 구독자에게 알리거나 스포츠 이벤트 동안 커뮤니케이션을 전송하는 등 사용자와 관련이 없는 이벤트를 기반으로 여정을 트리거할 수 있습니다. 비즈니스 이벤트의 데이터를 여정의 개인화된 메시징에 사용하는 방법을 이해합니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
