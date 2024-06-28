@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 823ba83b03a2886a755f0e475c39931f08c76fb2
+source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 97%
+source-wordcount: '562'
+ht-degree: 95%
 
 ---
 
@@ -75,7 +75,11 @@ ht-degree: 97%
       + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
       + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
-+ [Assets 기본 사항](/help/assets-essentials-overview.md)
++ 콘텐츠 관리{#content-management}
+   + [Assets 관리](/help/assets-essentials-overview.md)
+   + [표현식 조각 만들기 및 사용](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [이메일에 대한 콘텐츠 실험 구성](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)
+   + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
 + 콘텐츠 개인화 {#personalize-content}
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [오퍼를 개인화로 추가하기](/help/personalize-content/add-offer-decisioning-to-messages.md)
