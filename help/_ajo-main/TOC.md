@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: c9a4813c607c87a44c8a70ceea727e554f097521
-workflow-type: ht
-source-wordcount: '556'
-ht-degree: 100%
+source-git-commit: 821dd99521bbeed642031c9f9d6a312c67afc454
+workflow-type: tm+mt
+source-wordcount: '559'
+ht-degree: 99%
 
 ---
 
@@ -79,6 +79,7 @@ ht-degree: 100%
    + [자산 관리](/help/assets-essentials-overview.md)
    + [표현식 조각 만들기 및 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
    + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
+   + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
 + 콘텐츠 개인화 {#personalize-content}
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [오퍼를 개인화로 추가하기](/help/personalize-content/add-offer-decisioning-to-messages.md)
