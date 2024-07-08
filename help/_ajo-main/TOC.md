@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: c9a4813c607c87a44c8a70ceea727e554f097521
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '556'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 95%
    + [아키텍처](/help/introduction/architecture.md)
    + [마케터를 위한 모바일 기능](/help/channels/mobile-capabilities.md)
    + [개발자를 위한 모바일 기능](/help/channels/mobile-capabilities-for-developers.md)
-   + [AI-Assistant에 대한 도움말 보기](/help/ai-assistant.md)
+   + [AI 어시스턴트로 도움 받기](/help/ai-assistant.md)
 + 캠페인 {#create-campaigns}
    + [캠페인 만들기](/help/create-campaigns/create-a-campaign.md)
    + [인앱 캠페인 만들기](/help/create-campaigns/in-app.md)
@@ -76,8 +76,8 @@ ht-degree: 95%
       + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
 + 콘텐츠 관리{#content-management}
-   + [Assets 관리](/help/assets-essentials-overview.md)
-   + [표현식 조각 만들기 및 사용](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [자산 관리](/help/assets-essentials-overview.md)
+   + [표현식 조각 만들기 및 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
    + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
 + 콘텐츠 개인화 {#personalize-content}
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -112,7 +112,7 @@ ht-degree: 95%
    + [채널 수준 보고서](/help/report-and-monitor/channel-level-reports.md)
    + [CSV 형식으로 보고서 내보내기](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [경고 사용](/help/administration/alerts.md)
-   + [Customer Journey Analytics을 통한 보고 기능 향상](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [Customer Journey Analytics를 통한 향상된 보고 기능](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 구성 {#configuration}
    + 채널 구성 {#channel-configuration}
       + [이메일 채널 설정](/help/set-up-channels/set-up-email-channel.md)

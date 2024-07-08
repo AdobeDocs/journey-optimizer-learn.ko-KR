@@ -1,8 +1,8 @@
 ---
 source-git-commit: def6df7acf248f61ac64f1c2d3fc99e519c3ffe6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 # AJO 코드 조각
@@ -31,5 +31,5 @@ Experience League LIVE:
 
 >[!NOTE]
 >
->이 기능은 현재 조직 집합(제한된 가용성)에만 사용할 수 있습니다. 권한을 얻으려면 Adobe 담당자에게 문의하십시오.
+>이 기능은 현재 일부 조직(제한된 가용성)에서만 사용할 수 있습니다. 권한을 얻으려면 Adobe 담당자에게 문의하십시오.
 
