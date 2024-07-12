@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 821dd99521bbeed642031c9f9d6a312c67afc454
+source-git-commit: 0feda01400ce1b8f87bb6143f1913fa6cdd54632
 workflow-type: tm+mt
-source-wordcount: '559'
-ht-degree: 99%
+source-wordcount: '560'
+ht-degree: 98%
 
 ---
 
