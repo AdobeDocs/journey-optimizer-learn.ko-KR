@@ -1,6 +1,6 @@
 ---
 title: 다국어 메시지 설정
-description: Adobe Journey Optimizer에서 수동 및 자동 번역을 위해 다국어 메시지를 설정하는 방법을 알아봅니다.  
+description: 자동 번역을 위한 번역 프로젝트를 설정하는 방법과 다국어 메시지를 위한 수동 번역 및 자동 번역 프로젝트에 필요한 언어 설정을 알아봅니다.
 feature: Multilingual Content
 role: Admin
 level: Beginner
@@ -9,10 +9,10 @@ duration: 599
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-14034
 thumbnail: KT-14034.jpeg
-source-git-commit: 2233210765082361d33be8d01317ebf0afcd27dd
+source-git-commit: 28cdf4939f12b981e2c3953814ca3ca612cdbe9d
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 68%
 
 ---
 
