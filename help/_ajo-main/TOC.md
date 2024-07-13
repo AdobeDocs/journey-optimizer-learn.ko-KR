@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 0feda01400ce1b8f87bb6143f1913fa6cdd54632
+source-git-commit: 45a973fa9700abbf254573906d5778ded9483316
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 98%
+source-wordcount: '550'
+ht-degree: 97%
 
 ---
 
@@ -56,9 +56,6 @@ ht-degree: 98%
       + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
       + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
       + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
-      + [콘텐츠 템플릿](/help/channels/content-templates.md)
-      + [조각 관리, 작성, 사용](/help/content-management/manage-author-use-fragments.md)
-      + [표현식 조각 만들기 및 사용](/help/content-management/expression-fragments.md)
       + [이메일에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-emails.md)
    + 인앱 채널{#in-app-channel}
       + [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
@@ -77,7 +74,9 @@ ht-degree: 98%
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
 + 콘텐츠 관리{#content-management}
    + [자산 관리](/help/assets-essentials-overview.md)
-   + [표현식 조각 만들기 및 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [콘텐츠 템플릿 관리](/help/content-management/content-templates.md)
+   + [조각 관리](/help/content-management/manage-fragments.md)
+   + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
    + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
    + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
 + 콘텐츠 개인화 {#personalize-content}
