@@ -30,38 +30,38 @@ ht-degree: 1%
 
 ## 연습 1.1 - 계정 만들기
 
-1. 다음 위치로 이동 [Fréscopa 웹사이트](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+1. [Fréscopa 웹 사이트로 이동](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
-1. Fréscopa 홈 페이지에서 **[!UICONTROL 로그인]**.
+1. Fréscopa 홈페이지에서 **[!UICONTROL 로그인]**&#x200B;을 클릭합니다.
 
-   ![Fréscopa 홈페이지](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa 홈페이지")
+   ![Fréscopa 홈 페이지](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa 홈 페이지")
 
-1. 로그인 페이지에서 을 선택합니다 **[!UICONTROL 계정 만들기]**.
+1. 로그인 페이지에서 **[!UICONTROL 계정 만들기]**&#x200B;를 선택합니다.
 
    ![Fréscopa 로그인 페이지](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa 로그인")
 
 1. 다음 페이지에서 세부 사항을 입력합니다.
 
-   1. 사용자 추가 **이름** 및 **성**.
+   1. **이름** 및 **성**&#x200B;을 추가하세요.
 
-   1. 다음을 입력하십시오. **이메일 주소** 연구실에서 액세스할 수 있습니다.
+   1. 실습 중에 액세스할 수 있는 **전자 메일 주소**&#x200B;를 입력하십시오.
 
       >[!IMPORTANT]
       > 등록한 이메일 주소를 기억해야 하며 실습 중에 이메일 계정에 액세스할 수 있어야 합니다. 웹 사이트 및 앱에 로그인하려면 이 항목이 필요합니다.
 
-   1. 실습 중에 만든 SMS 메시지를 받으려면 **휴대폰 번호**, 국가 코드 포함:
+   1. 실습 중에 만든 SMS 메시지를 받으려면 국가 번호와 함께 **휴대폰 번호**&#x200B;를 입력하세요.
 
       예: `+14502741234`
 
-   1. 입력 **거리 주소** 및 **도시**.
+   1. **주소** 및 **구/군/시**&#x200B;를 입력하세요.
 
-   1. 다음을 입력하십시오. **좌석 번호**. (랩 컴퓨터의 바탕 화면에서 찾을 수 있습니다.)
+   1. **좌석 번호**&#x200B;를 입력하세요. (랩 컴퓨터의 바탕 화면에서 찾을 수 있습니다.)
 
-      ![랩 머신 데스크탑](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+      ![랩 컴퓨터 데스크톱](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 
-   1. Fréscopa 머신이 있는지 여부를 지정하려면 다음 중 하나를 선택합니다 **예** 또는 **아니요**.
+   1. Fréscopa 컴퓨터가 있는지 여부를 지정하려면 **예** 또는 **아니요**&#x200B;를 선택하세요.
 
-1. 클릭 **등록**.
+1. **등록**&#x200B;을 클릭합니다.
 
    ![Fréscopa 등록 페이지](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
@@ -81,23 +81,23 @@ ht-degree: 1%
 
 앱을 설치한 후에는 Adobe 엔터프라이즈 개발자를 신뢰해야 합니다.
 
-1. 다음으로 이동 **설정** > **일반** > **VPN 및 장치 관리**.
+1. **설정** > **일반** > **VPN 및 장치 관리**(으)로 이동합니다.
 
    ![장치 관리 설정 화면](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "장치 관리 설정 화면"){width="250" align="center" zoomable="yes"}
 
-1. 선택 **Adobe Systems** 및 **트러스트 Adobe Systems**.
+1. **Adobe Systems Inc** 및 **Adobe Systems Inc**&#x200B;를 선택합니다.
 
    ![Adobe Systems 선택 화면](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems 선택 화면"){width="250" align="center" zoomable="yes"}
    <br>
 
    ![Adobe Systems 신뢰 화면](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * 이제 를 시작할 수 있습니다. **Fréscopa 앱** iPhone: ![Fréscopa 앱 아이콘](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   * 이제 iPhone에서 **Fréscopa 앱**&#x200B;을 시작할 수 있습니다. ![Fréscopa 앱 아이콘](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
 1. 앱을 엽니다.
 
-1. 팝업에서 **허용**: DX 데모 앱에서 알림을 전송할 수 있습니다.
+1. 팝업에서 **허용**&#x200B;을 클릭하여 DX 데모 앱에서 알림을 보내도록 허용합니다.
 
    ![알림 팝업](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
@@ -111,13 +111,13 @@ Android에서 여기에 표시된 경고 지침에 따라 APK를 다운로드하
 <br>
 ![Android 설치 화면](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* 이제 를 시작할 수 있습니다. **Fréscopa 앱** Android 장치에서: ![Fréscopa 앱 아이콘](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+* 이제 Android 장치에서 **Fréscopa 앱**&#x200B;을 시작할 수 있습니다. ![Fréscopa 앱 아이콘](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
 
 ## 연습 1.3 - 웹 사이트 및 앱 탐색
 
-다음 사항에 대해 숙지하십시오. [Fréscopa 웹사이트](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}  및 모바일 앱입니다. AJO에서 구현되고 상호 작용을 통해 트리거되는 다양한 인앱, 푸시 및 SMS 메시지를 경험합니다.
+[Fréscopa 웹 사이트](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"} 및 모바일 앱에 대해 숙지하십시오. AJO에 구현되어 상호 작용을 통해 트리거되는 다양한 인앱, 푸시 및 SMS 메시지를 경험합니다.
 
 다음은 시도해야 하는 몇 가지 사항입니다.
 
@@ -142,7 +142,7 @@ Android에서 여기에 표시된 경고 지침에 따라 APK를 다운로드하
 >[!SUCCESS]
 >내 상태 확인:
 >
->Frescopa 홈 페이지에서 **Adobe Summit 랩 과제 진행 상황** (페이지 하단).
+>Frescopa 홈페이지에서 **Adobe Summit 랩 과제 진행률**(페이지 하단)을 클릭합니다.
 > 
 >  ![챌린지 진행 단추](/help/summit/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
 >

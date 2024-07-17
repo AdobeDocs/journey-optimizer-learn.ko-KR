@@ -1,5 +1,5 @@
 ---
-title: 여정 및 여정 상태 게시
+title: 여정 및 여정 상태 Publish
 description: 여정의 다양한 상태와 게시의 영향을 이해합니다.
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -17,7 +17,7 @@ ht-degree: 68%
 
 ---
 
-# 여정 및 여정 상태 게시
+# 여정 및 여정 상태 Publish
 
 여정의 다양한 상태와 게시의 영향을 이해합니다.
 

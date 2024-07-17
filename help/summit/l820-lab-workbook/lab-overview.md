@@ -39,7 +39,7 @@ ht-degree: 0%
 >Adobe은 생성 AI 기술을 활용하는 기능에 대한 조기 액세스를 제공합니다. 이러한 기능은 아직 개발 중이며 예기치 않거나 정확하지 않은 응답을 생성할 수 있습니다. 이 기능을 시장에 출시할 때 귀하의 피드백을 환영합니다.
 
 
-### 핵심 사항
+### 주요 개선 사항
 
 * 지원되는 다양한 모바일 경험을 이해합니다.
 * 푸시 캠페인을 구성합니다.
@@ -54,8 +54,8 @@ ht-degree: 0%
 ![시트 번호](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 다음에 대한 액세스 권한이 필요합니다.
 
-* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - 로그인 세부 정보는 연습 중에 제공됩니다.
-* [Fréscopa 웹사이트](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - 로그인 세부 정보는 연습 중에 제공됩니다.
+* [Fréscopa 웹 사이트](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 
 ### 사용 사례 이해

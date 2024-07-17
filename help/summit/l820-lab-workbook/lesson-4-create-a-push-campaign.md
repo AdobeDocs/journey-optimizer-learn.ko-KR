@@ -33,17 +33,17 @@ ht-degree: 2%
 
 이 연습에서는 푸시 캠페인을 만들고, 푸시 알림을 디자인하고, 사용자 지정하고, 푸시 알림을 사용자 지정 장치로 보냅니다.
 
-1. Journey Optimizer의 왼쪽 탐색 영역에서 **[!UICONTROL 여정 관리]** 섹션, 선택 **캠페인**.
+1. Journey Optimizer의 왼쪽 탐색 영역에서 **[!UICONTROL 여정 관리]** 섹션에서 **캠페인**&#x200B;을 선택합니다.
 
-1. 클릭 **[!UICONTROL 캠페인 만들기]**.
+1. **[!UICONTROL 캠페인 만들기]**&#x200B;를 클릭합니다.
 
    ![캠페인 만들기](/help/summit/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
-1. 다음에서 **[!UICONTROL 캠페인 만들기]** 페이지,  **[!UICONTROL 작업]** 섹션에서 **[!UICONTROL 푸시 알림]** 확인란.
+1. **[!UICONTROL 캠페인 만들기]** 페이지의 **[!UICONTROL 작업]** 섹션에서 **[!UICONTROL 푸시 알림]** 확인란을 선택하십시오.
 
-1. 다음에서 **[!UICONTROL 앱 표면]** 드롭다운, 선택 *[!DNL Frecopa-Push]*.
+1. **[!UICONTROL 앱 표면]** 드롭다운에서 *[!DNL Frecopa-Push]*&#x200B;을(를) 선택합니다.
 
-1. 클릭 **[!UICONTROL 만들기]** 을 클릭하여 푸시 캠페인을 만듭니다.
+1. 푸시 캠페인을 만들려면 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![앱 표면](/help/summit/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
 
@@ -60,19 +60,19 @@ ht-degree: 2%
 
 캠페인의 이름을 지정하십시오. 이름을 좌석 번호로 시작해야 검색 시 캠페인을 쉽게 찾을 수 있습니다.
 
-예를 들어 좌석 번호가 99인 경우: `99 - 10% Discount Campaign`.
+예를 들어 시트 번호가 99이면 `99 - 10% Discount Campaign`입니다.
 
 ### 4.2.2 **[!UICONTROL 대상 섹션]**
 
-1. 대상 섹션에서 **[!UICONTROL 대상자 선택]**.
+1. 대상 섹션에서 **[!UICONTROL 대상 선택]**&#x200B;을 클릭합니다.
 
    ![대상 섹션](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 
-1. 다음에서 **[!UICONTROL 대상자 선택]** 대상자 검색:
+1. **[!UICONTROL 대상자 선택]** 화면에서 대상자를 검색합니다.
 
-   **Lab - 시트`your seat number`**
+   **랩 - 시트`your seat number`**
 
-1. 대상자를 선택한 다음 을 클릭합니다. **[!UICONTROL 저장]**.
+1. 대상을 선택한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![대상자 선택](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
@@ -80,11 +80,11 @@ ht-degree: 2%
 
 이 연습에서는 푸시 알림을 디자인하고 사용자 지정합니다.
 
-1. 다음에서 **[!UICONTROL 작업]** 섹션에서 **[!UICONTROL 콘텐츠 편집] 단추**.
+1. **[!UICONTROL 작업]** 섹션에서 **[!UICONTROL 콘텐츠 편집] 단추**&#x200B;를 클릭합니다.
 
    ![콘텐츠 편집 단추](/help/summit/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
-1. 다음 화면에서는 보유한 모바일 장치에 따라 다음 중 하나를 선택합니다. [!DNL iOS™] 또는 [!DNL Android™] 탭으로 이동하여 콘텐츠를 구성합니다.
+1. 다음 화면에서는 보유한 모바일 장치에 따라 [!DNL iOS™] 또는 [!DNL Android™] 탭을 선택하여 콘텐츠를 구성합니다.
 
 >[!BEGINTABS]
 
@@ -100,18 +100,18 @@ ht-degree: 2%
 
 #### 4.2.3.1 [!UICONTROL 메시지 작성] 섹션
 
-1. **메시지 작성:** 원하는 텍스트를 언제든지 추가할 수 있습니다. 다음은 사용할 수 있는 예입니다.
+1. **메시지 작성:** 원하는 텍스트를 자유롭게 추가하십시오. 다음은 사용할 수 있는 예입니다.
 
    * 제목: `Get 10% off today!`
    * 본문: `Today only! Get 10% off on your House Blend coffee purchase!`
 
      ![메시지 작성](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
 
-#### 4.2.3.2 메시지의 클릭 시 동작을 다음으로 변경 **제품 페이지 열기**
+#### 4.2.3.2 메시지의 클릭 시 동작을 **제품 페이지 열기**(으)로 변경
 
-1. 다음에서 **[!UICONTROL 클릭 시 비헤이비어]** 섹션, 선택 **[!UICONTROL Deeplink]** 다음에서 **[!UICONTROL 본문 클릭 비헤이비어]** 드롭다운입니다.
+1. **[!UICONTROL 클릭 동작]** 섹션의 **[!UICONTROL 본문 클릭 동작]** 드롭다운에서 **[!UICONTROL 딥링크]**&#x200B;를 선택합니다.
 
-1. 다음 URL을 복사하여 **URL 필드**:
+1. 다음 URL을 복사하여 **URL 필드**&#x200B;에 붙여 넣으십시오.
 
    `dxdemo://exoticVibes`
 
@@ -119,21 +119,21 @@ ht-degree: 2%
 
 #### 4.2.3.3 메시지에 이미지 추가
 
-1. 다음에서 **[!UICONTROL 미디어 추가]** 섹션, 클릭 **[!UICONTROL 미디어 추가]**.
+1. **[!UICONTROL 미디어 추가]** 섹션에서 **[!UICONTROL 미디어 추가]**&#x200B;를 클릭합니다.
 
    ![미디어 단추 추가](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 
-1. 다음에서 **[!UICONTROL 에셋 선택]** 화면, 왼쪽 탐색에서 **Fréscopa 폴더** 해당 폴더에서 이미지를 선택합니다.
+1. **[!UICONTROL Assets 선택]** 화면의 왼쪽 탐색에서 **Fréscopa 폴더**&#x200B;를 열고 해당 폴더에서 이미지를 선택합니다.
 
    예: `HouseBlend.png`
 
-1. 이미지를 클릭하고 **[!UICONTROL 선택] 단추** : 이미지를 푸시 알림에 추가합니다.
+1. 이미지를 클릭하고 **[!UICONTROL 선택] 단추**&#x200B;를 클릭하여 푸시 알림에 이미지를 추가합니다.
 
    ![이미지 선택](/help/summit/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
    >[!SUCCESS]
    >
-   > 1. 미리보기 화면에서 다음을 클릭합니다. **[!UICONTROL 보기 확장]**.
+   > 1. 미리 보기 화면에서 **[!UICONTROL 보기 확장]**&#x200B;을 클릭합니다.
    > 1. 메시지를 미리 봅니다.
    > <br>
    >
@@ -147,19 +147,19 @@ ht-degree: 2%
 
 #### 수신자의 이름을 추가하여 보내는 메시지 개인화
 
-1. 클릭 **개인화 대화 상자** 다음 옆에 **[!UICONTROL 본문]** 필드.
+1. **[!UICONTROL 본문]** 필드 옆에 있는 **개인화 대화 상자**&#x200B;를 클릭합니다.
 
    ![개인화 단추](/help/summit/l820-lab-workbook/assets/2-3-personalization-button.png)
 
-1. 다음에서 **개인화 대화 상자** 화면에서 텍스트의 이름을 추가할 위치에 커서를 놓습니다.
+1. **개인화 대화 상자** 화면에서 텍스트의 이름을 추가할 위치에 커서를 놓습니다.
 
-1. 다음을 확인합니다. **프로필 속성** 왼쪽 탐색에서 이 선택되어 있습니다.
+1. 왼쪽 탐색에서 **프로필 특성**&#x200B;이 선택되어 있는지 확인하십시오.
 
-   ![프로필 속성](/help/summit/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+   ![프로필 특성](/help/summit/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
 
-1. 다음에서 **검색 필드**, 검색: `first name`.
+1. **검색 필드**&#x200B;에서 `first name`을(를) 검색합니다.
 
-1. 클릭 **+** 다음 옆에 **이름(프로필 속성>개인>전체 이름)** 을 클릭하여 텍스트에 개인화 필드를 추가합니다.
+1. **이름(프로필 특성>사용자>전체 이름)** 옆에 있는 **+**&#x200B;을 클릭하여 텍스트에 개인화 필드를 추가합니다.
 
    ![이름 검색](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
 
@@ -167,14 +167,14 @@ ht-degree: 2%
    >
    > 텍스트는 다음과 같아야 합니다.
    > 
-   >![개인화 토큰](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![Personalization 토큰](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
 
-1. 클릭 **[!UICONTROL 저장]** 개인화를 저장합니다.
+1. 개인화를 저장하려면 **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
 
 
    >[!SUCCESS]
    >
-   > 1. 미리보기 화면에서 다음을 클릭합니다. **[!UICONTROL 보기 확장]**.
+   > 1. 미리 보기 화면에서 **[!UICONTROL 보기 확장]**&#x200B;을 클릭합니다.
    > 1. 메시지를 미리 봅니다.
    > 
    > ![보기 확장](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
@@ -185,16 +185,16 @@ ht-degree: 2%
 
 메시지의 내용에 만족하면 메시지를 활성화할 수 있습니다.
 
-1. 클릭 **[!UICONTROL 활성화하려면 검토]**.
+1. 활성화하려면 **[!UICONTROL 검토]**&#x200B;를 클릭하세요.
 
-   ![검토 및 활성화 버튼](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![검토 및 활성화 단추](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
-1. 다음에서 **[!UICONTROL 활성화하려면 검토]** 화면, 클릭 **[!UICONTROL 활성화]**.
+1. **[!UICONTROL 활성화 검토]** 화면에서 **[!UICONTROL 활성화]**&#x200B;를 클릭합니다.
 
    ![화면을 활성화하기 위한 검토](/help/summit/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
 
 >[!SUCCESS]
-> 다음에서 **캠페인 개요 페이지**&#x200B;캠페인을 검색하고 상태를 확인합니다.
+> **캠페인 개요 페이지**&#x200B;에서 캠페인을 찾아 상태를 확인하세요.
 >
 > ![캠페인 상태](/help/summit/l820-lab-workbook/assets/2-3-push-completed.png)
 > 

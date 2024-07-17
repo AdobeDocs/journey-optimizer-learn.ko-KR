@@ -22,4 +22,4 @@ Real-time Customer Data Platform, Journey Optimizer 및 Customer Journey Analyti
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-다음을 참조하십시오 [AI Assistant 작업](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) Journey Optimizer에서 지원되는 사용 사례에 대한 자세한 정보입니다. 자세한 설명서를 보려면 다음을 참조하십시오. [Adobe Experience Platform의 AI 지원](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) 설명서를 참조하십시오.
+Journey Optimizer에서 지원되는 사용 사례에 대한 자세한 내용은 [AI 길잡이 작업](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant)을 참조하십시오. 자세한 설명서는 Adobe Experience Platform의 [AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) 설명서를 참조하십시오.
