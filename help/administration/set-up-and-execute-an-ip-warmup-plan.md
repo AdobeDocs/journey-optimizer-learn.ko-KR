@@ -1,6 +1,6 @@
 ---
 title: IP 준비 계획 설정 및 실행
-description: IP 워밍이 무엇인지 이해하고 Adobe Journey Optimizer에서 IP 워밍 계획을 설정하고 실행하는 방법을 알아봅니다.
+description: IP 준비가 무엇인지 이해하고 Adobe Journey Optimizer에서 IP 준비 계획을 설정 및 실행하는 방법을 알아봅니다.
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -13,14 +13,14 @@ jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 4%
+ht-degree: 62%
 
 ---
 
 
 # IP 준비 계획 설정 및 실행
 
-IP 워밍이 무엇인지 이해하고 Adobe Journey Optimizer에서 IP 워밍 계획을 설정하고 실행하는 방법을 알아봅니다.
+IP 준비가 무엇인지 이해하고 Adobe Journey Optimizer에서 IP 준비 계획을 설정 및 실행하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
