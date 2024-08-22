@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
+source-git-commit: e0abc58d1356044d1dae64f112eec22f4ed2b99d
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 100%
+source-wordcount: '560'
+ht-degree: 99%
 
 ---
 
@@ -115,6 +115,7 @@ ht-degree: 100%
    + [Customer Journey Analytics를 통한 향상된 보고 기능](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 구성 {#configuration}
    + 채널 구성 {#channel-configuration}
+      + [가이드 채널 설정](/help/set-up-channels/guided-channel-setup.md)
       + [이메일 채널 설정](/help/set-up-channels/set-up-email-channel.md)
       + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
       + [IP 준비 계획 설정 및 실행](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
