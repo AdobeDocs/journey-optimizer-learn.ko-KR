@@ -1,6 +1,6 @@
 ---
 title: AI 어시스턴트
-description: Real-time Customer Data Platform, Journey Optimizer 및 Customer Journey Analytics과 같은 Adobe Experience Platform 기반 애플리케이션에서 AI Assistant를 사용하여 수행할 수 있는 작업에 대해 알아봅니다.
+description: Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics와 같은 Adobe Experience Platform 기반 애플리케이션에서 AI 어시스턴트로 무엇을 할 수 있는지 알아보십시오.
 feature: Overview
 role: Admin, Developer, User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 duration: 143
 last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15789
-source-git-commit: cc8e8c48a35f86585dea99a5f991517f41b4a43b
+exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
+source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 4%
+ht-degree: 62%
 
 ---
 
-
 # AI 어시스턴트
 
-Real-time Customer Data Platform, Journey Optimizer 및 Customer Journey Analytics과 같은 Adobe Experience Platform 기반 애플리케이션에서 AI Assistant를 사용하여 수행할 수 있는 작업에 대해 알아봅니다.
+Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics와 같은 Adobe Experience Platform 기반 애플리케이션에서 AI 어시스턴트로 무엇을 할 수 있는지 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 

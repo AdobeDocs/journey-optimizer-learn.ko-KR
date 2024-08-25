@@ -1,7 +1,7 @@
 ---
 source-git-commit: 906e7a0f1f258d53605d1a155214c61a5335285b
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '401'
 ht-degree: 100%
 
 ---
@@ -11,7 +11,7 @@ Adobe는 문서 팀의 외부 직원뿐만 아니라 커뮤니티로부터의 �
 
 ## Adobe 오픈소스 행동 수칙
 
-이 프로젝트에서는 [Adobe 오픈소스 행동 수칙](code-of-conduct.md) 또는 [.NET Foundation 행동 수칙](https://dotnetfoundation.org/code-of-conduct)이 채택되었습니다. 자세한 내용은 [기여](contributing.md) 문서를 참조하십시오.
+이 프로젝트에서는 [Adobe 오픈 소스 행동 수칙](code-of-conduct.md) 또는 [.NET Foundation 행동 수칙](https://dotnetfoundation.org/code-of-conduct)이 채택되었습니다. 자세한 내용은 [기여](contributing.md) 문서를 참조하십시오.
 
 ## Adobe 콘텐츠에 대한 귀하의 기여 관련 정보
 

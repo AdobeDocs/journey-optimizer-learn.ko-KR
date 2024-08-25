@@ -12,7 +12,7 @@ last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=ko)를 참조하십시오.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=ko)를 참조하세요.
