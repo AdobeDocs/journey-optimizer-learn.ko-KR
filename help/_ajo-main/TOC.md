@@ -116,7 +116,7 @@ ht-degree: 99%
 + 구성 {#configuration}
    + 채널 구성 {#channel-configuration}
       + [채널 구성](/help/set-up-channels/configure-channels.md)
-      + [가이드 채널 설정](/help/set-up-channels/guided-channel-setup.md)
+      + [안내형 채널 설정](/help/set-up-channels/guided-channel-setup.md)
       + [이메일 채널 설정](/help/set-up-channels/set-up-email-channel.md)
       + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
       + [IP 준비 계획 설정 및 실행](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
