@@ -10,10 +10,10 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16041
 hidefromtoc: true
 hide: true
-source-git-commit: 79e5376bdf570664ff308ae18b27168f8fefd891
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+source-git-commit: bf17a3a7c03e1da68bb938a58fd626d0e5322425
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,5 @@ ht-degree: 100%
 
 자세한 내용은 다음 제품 설명서를 참조하십시오.
 
-* [안내형 채널 설정 시작](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
-* [Android 모바일 구성 설정](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-android)
-* [iOS 모바일 구성 설정](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-ios)
-* [웹 구성 설정](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-web)
+* [안내 채널 설정 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
+* [채널 설정 만들기](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
