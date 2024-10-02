@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 0f8cacf3676b4d14f11264fbd691fa73ef01f6ed
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 88%
+source-wordcount: '642'
+ht-degree: 86%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 88%
       + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
       + [이메일에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-emails.md)
    + 콘텐츠 카드{#content-cards}
-      + [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
+      + [콘텐츠 템플릿 만들기](/help/channels/create-content-cards.md)
    + 인앱 채널{#in-app-channel}
       + [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
       + [여정의 인앱 메시지 만들기](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -141,6 +141,8 @@ ht-degree: 88%
    + [샌드박스를 만들고 관리하기](/help/set-up-access/create-and-manage-sandboxes.md)
 + 데이터 거버넌스 및 개인 정보 보호 {#data-governance-and-privacy}
    + [데이터 거버넌스 프레임워크](/help/privacy/data-governance-framework.md)
+   + [레이블을 사용하여 데이터 분류](/help/privacy/classify-data-using-lables.md)
+   + [Journey Optimizer 채널에서 데이터 사용 정책 시행](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
 + 연습 및 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
