@@ -1,5 +1,5 @@
 ---
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 80%
@@ -41,6 +41,6 @@ Experience League LIVE:
 
 ## 플랫폼 비디오 - 정책(#platform-video)
 
->>[!NOTE]
->>
-이 비디오에서는 Adobe Experience Platform 사용자 인터페이스에서 이 기능을 보여 줍니다. 왼쪽 탐색 메뉴의 데이터 관리 및 개인 정보 보호 섹션에 있는 Journey Optimizer에서도 동일한 기능을 사용할 수 있습니다.
+>[!NOTE]
+>
+>이 비디오에서는 Adobe Experience Platform 사용자 인터페이스에서 이 기능을 보여 줍니다. 왼쪽 탐색 메뉴의 데이터 관리 및 개인 정보 보호 섹션에 있는 Journey Optimizer에서도 동일한 기능을 사용할 수 있습니다.
