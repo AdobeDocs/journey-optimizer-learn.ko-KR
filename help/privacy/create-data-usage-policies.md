@@ -5,14 +5,14 @@ feature: Governance, Privacy
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 0
-last-substantial-update: 2024-10-02T00:00:00Z
+duration: 209
+last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: true
 hidefromtoc: true
-source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
+source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >이 비디오에서는 Adobe Experience Platform 사용자 인터페이스에서 이 기능을 보여 줍니다. 왼쪽 탐색 메뉴의 개인 정보 보호 섹션에 있는 Journey Optimizer 사용자 인터페이스에서 동일한 기능을 사용할 수 있습니다.
+>
+>이 [자습서](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)를 통해 Journey Optimizer 채널에서 정책이 어떻게 적용되는지 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 

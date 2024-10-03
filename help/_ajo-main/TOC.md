@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '646'
 ht-degree: 86%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 86%
 + 데이터 거버넌스 및 개인 정보 보호 {#data-governance-and-privacy}
    + [데이터 거버넌스 프레임워크](/help/privacy/data-governance-framework.md)
    + [레이블을 사용하여 데이터 분류](/help/privacy/classify-data-using-lables.md)
+   + [데이터 사용 정책 만들기](/help/privacy/create-data-usage-policies.md)
    + [Journey Optimizer 채널에서 데이터 사용 정책 시행](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
 + 연습 및 과제 {#exercises-and-challenges}
