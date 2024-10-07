@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
 source-wordcount: '646'
-ht-degree: 86%
+ht-degree: 97%
 
 ---
 
@@ -56,9 +56,9 @@ ht-degree: 86%
       + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
       + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
       + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
-      + [이메일에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-emails.md)
+      + [이메일에 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-emails.md)
    + 콘텐츠 카드{#content-cards}
-      + [콘텐츠 템플릿 만들기](/help/channels/create-content-cards.md)
+      + [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
    + 인앱 채널{#in-app-channel}
       + [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
       + [여정의 인앱 메시지 만들기](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -75,9 +75,9 @@ ht-degree: 86%
       + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
 + 콘텐츠 관리{#content-management}
-   + AI Assistant Content Accelerator{#content-accelerator}
-      + [AI Assistant Content Accelerator 소개](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [Journey Optimizer - Content Accelerator에서 AI Assistant를 사용하여 콘텐츠 만들기](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + AI 어시스턴트 Content Accelerator{#content-accelerator}
+      + [AI 어시스턴트 Content Accelerator 소개](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
+      + [Journey Optimizer - Content Accelerator에서 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [자산 관리](/help/assets-essentials-overview.md)
    + [콘텐츠 템플릿 관리](/help/content-management/content-templates.md)
    + [조각 관리](/help/content-management/manage-fragments.md)
@@ -133,13 +133,13 @@ ht-degree: 86%
       + [이벤트 만들기](/help/set-up-journeys/create-events.md)
       + [작업 만들기](/help/set-up-journeys/create-actions.md)
    + 비즈니스 규칙 {#business-rules}
-      + [빈도 제한 규칙 구성](/help/configuration/configure-frequency-capping-rules.md)
+      + [빈도 캡핑 규칙 구성](/help/configuration/configure-frequency-capping-rules.md)
       + [빈도 규칙 테스트 및 보고](/help/configuration/test-and-report-on-frequency-rules.md)
 + 액세스 제어 {#access-control}
    + [액세스 관리](/help/set-up-access/access-management.md)
    + [속성 기반 액세스 제어 구성](/help/administration/attribute-based-access-control.md)
    + [샌드박스를 만들고 관리하기](/help/set-up-access/create-and-manage-sandboxes.md)
-+ 데이터 거버넌스 및 개인 정보 보호 {#data-governance-and-privacy}
++ 데이터 거버넌스 및 개인 정보 {#data-governance-and-privacy}
    + [데이터 거버넌스 프레임워크](/help/privacy/data-governance-framework.md)
    + [레이블을 사용하여 데이터 분류](/help/privacy/classify-data-using-lables.md)
    + [데이터 사용 정책 만들기](/help/privacy/create-data-usage-policies.md)
@@ -149,8 +149,8 @@ ht-degree: 86%
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
 + Experience League 라이브 녹화{#experience-league-live-recordings}
-   + [AI Bash - Adobe Experience Platform 애플리케이션 및 캠페인에서 AI Assistant의 기능 해제](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
-   + [여름 추천 - Adobe Journey Optimizer에서 세 가지 기능을 사용해 보세요](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
+   + [AI Bash - Adobe Experience Platform 애플리케이션 및 Campaign에서 AI 어시스턴트의 기능 활용](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+   + [하계 스포트라이트 - 꼭 사용해 봐야 하는 Adobe Journey Optimizer 기능 세 가지](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
    + [Journey Optimizer의 새로운 코드 기반 경험 채널](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Adobe Journey Optimizer의 API 트리거된 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko){target="_blank"}
    + [의사 결정 관리를 통해 적시에 적절한 오퍼 제공](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko){target="_blank"}

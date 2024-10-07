@@ -13,7 +13,7 @@ hidefromtoc: true
 source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 32%
 
 ---
 
@@ -28,6 +28,6 @@ Journey Optimizer의 [데이터 거버넌스](https://experienceleague.adobe.com
 
 ## 추가 학습
 
-* [재생 목록: Adobe Experience Platform 데이터 거버넌스 시작](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-data-governance)
+* [재생 목록: Adobe Experience Platform 데이터 거버넌스 시작](https://experienceleague.adobe.com/ko/playlists/experience-platform-get-started-with-data-governance)
 
   *Adobe Experience Platform의 데이터 거버넌스 및 레이블을 사용하여 데이터를 분류하고, 데이터 사용 정책을 만들고, Experience Platform에 데이터 사용 정책을 적용하는 방법에 대해 자세히 알아보세요.*
