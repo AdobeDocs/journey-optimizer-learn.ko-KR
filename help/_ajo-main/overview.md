@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -32,10 +32,10 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 ## 최신 Experience League 라이브 이벤트
 
-* **[AI Bash - Adobe Experience Platform 애플리케이션 및 캠페인에서 AI Assistant의 기능 해제](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
-  *AI Assistant가 어떻게 고객 상호 작용을 변화시키고 Adobe Experience Cloud 애플리케이션 및 Adobe Campaign에서 생산성을 향상시키는지 알아봅니다.*
-* **[여름 스포트라이트 - Adobe Journey Optimizer에서 세 가지 기능을 사용해 보십시오.](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
-  *여정 실험, 빈도 제한, 다국어 메시지 등 Adobe Journey Optimizer의 세 가지 기능을 사용하여 이번 여름 고객 참여를 유도하십시오.*
+* **[AI Bash - Adobe Experience Platform 애플리케이션 및 Campaign에서 AI 어시스턴트의 기능 활용](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *AI 어시스턴트가 어떻게 Adobe Experience Cloud 애플리케이션 및 Adobe Campaign에서 고객 상호 작용을 변화시키고 생산성을 향상시키는지 알아봅니다.*
+* **[하계 스포트라이트 - 꼭 사용해 봐야 하는 Adobe Journey Optimizer 기능 세 가지](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
+  *Adobe Journey Optimizer의 여정 실험, 빈도 제한, 다국어 메시지 세 가지 기능으로 올 여름 고객 참여도를 끌어올려 보세요.*
 * **[Journey Optimizer의 새로운 코드 기반 경험 채널](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *개발자 중심 작업으로 인바운드 표면 및 세분화된 개인화 제어를 활성화하는 방법을 알아봅니다.*
 

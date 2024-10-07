@@ -12,9 +12,9 @@ hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: 50f0641415818db8763e5de58a74b77b7eab5d16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -28,5 +28,5 @@ ht-degree: 91%
 
 자세한 내용은 다음 제품 설명서를 참조하십시오.
 
-* [안내 채널 설정 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
-* [채널 설정 만들기](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
+* [안내형 채널 설정 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=ko)
+* [채널 설정 만들기](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=ko)
