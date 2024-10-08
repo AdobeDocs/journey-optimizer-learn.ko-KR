@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
+source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 97%
+source-wordcount: '685'
+ht-degree: 88%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 97%
    + [API를 사용하여 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
    + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/create-campaigns/content-experiments.md)
 + 여정 {#create-journeys}
-   + [여정 캔버스 개요](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [여정 Designer - 개요](/help/create-journeys/journey-designer-overview.md)
    + [새 여정 디자이너 살펴보기](/help/create-journeys/new-journey-designer.md)
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
@@ -44,15 +44,19 @@ ht-degree: 97%
    + [라이브 여정에서 콘텐츠 업데이트](/help/create-journeys/update-content-in-live-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
 + 프로필, 대상자, 구독 {#profiles-audiences-subscriptions}
+   + [프로필 및 대상자 - 개요](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + 채널 {#channels}
+   + [모바일 앱 최적화 - 개요](/help/channels/mobile-app-optimization-overview.md)
    + 코드 기반 경험 채널{#code-based-experience-channel}
       + [코드 기반 경험 캠페인 만들기](/help/channels/create-a-code-based-experience-campaign.md)
    + 다이렉트 메일 채널{#direct-mail-channel}
       + [다이렉트 메일 만들기](/help/channels/direct-mail.md)
    + 이메일 채널{#email-channel}
+      + [이메일 채널 - 개요](/help/channels/email-channel-overview.md)
+      + [이메일 디자인 및 개인화 - 개요](/help/channels/email-design-and-personalization-overview.md)
       + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
       + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
       + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
@@ -60,31 +64,40 @@ ht-degree: 97%
    + 콘텐츠 카드{#content-cards}
       + [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
    + 인앱 채널{#in-app-channel}
+      + [인앱 메시지 - 개요](/help/channels/in-app-messages-overview.md)
       + [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
       + [여정의 인앱 메시지 만들기](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [인앱 메시지 작성](/help/channels/author-in-app-messages.md)
       + [인앱 메시지에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-in-app-messages.md)
    + 푸시 채널{#push-channel}
+      + [푸시 알림 - 개요](/help/channels/push-notifications-overview.md)
       + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
    + SMS 채널{#sms-channel}
+      + [SMS/MMS 메시지 - 개요](/help/channels/sms-mms-messages-overview.md)
       + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
       + [MMS 메시지 작성](/help/channels/author-mms.md)
       + [SMS - Sinch 및 Infobip에 대한 이중 옵트인](/help/channels/sms-double-opt-in.md)
    + 웹 채널 {#web-channel}
+      + [웹 개인화 - 개요](/help/channels/web-personalization-overview.md)
       + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
       + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
 + 콘텐츠 관리{#content-management}
-   + AI 어시스턴트 Content Accelerator{#content-accelerator}
-      + [AI 어시스턴트 Content Accelerator 소개](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [Journey Optimizer - Content Accelerator에서 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
+   + [디지털 자산 관리 - 개요](/help/content-management/digital-asset-management-overview.md)
    + [자산 관리](/help/assets-essentials-overview.md)
    + [콘텐츠 템플릿 관리](/help/content-management/content-templates.md)
    + [조각 관리](/help/content-management/manage-fragments.md)
    + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
-   + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
-   + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
+   + [실험 - 개요](/help/content-management/experimentation-overview.md)
+   + 다국어 메시징 {#multilingual-messaging}
+      + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
+      + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
+   + AI 어시스턴트 Content Accelerator{#content-accelerator}
+      + [AI Assistant Content Accelerator - 개요](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [AI Assistant Content Accelerator를 사용하여 콘텐츠 만들기](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + 콘텐츠 개인화 {#personalize-content}
+   + [Personalization 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [오퍼를 개인화로 추가하기](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [개인화에 컨텍스트 기반 이벤트 정보 사용](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -113,6 +126,7 @@ ht-degree: 97%
    + [데이터 세트 내보내기 대상 구성](/help/data-management/configure-dataset-export-destination.md)
    + [데이터 세트를 클라우드 스토리지 위치로 내보내기](/help/data-management/export-datasets.md)
 + 보고서 및 모니터링 {#report-and-monitor}
+   + [측정 및 보고 - 개요](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
    + [채널 수준 보고서](/help/report-and-monitor/channel-level-reports.md)
    + [CSV 형식으로 보고서 내보내기](/help/report-and-monitor/export-reports-in-csv-format.md)
