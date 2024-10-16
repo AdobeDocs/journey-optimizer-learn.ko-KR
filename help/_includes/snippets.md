@@ -1,8 +1,8 @@
 ---
 source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 # AJO 코드 조각
@@ -39,8 +39,8 @@ Experience League LIVE:
 >
 >이 기능은 현재 beta 버전으로 beta 고객에게만 제공됩니다. Beta 프로그램에 참여하려면 Adobe 고객 지원 센터에 문의해 주십시오.
 
-## 플랫폼 비디오 - 정책(#platform-video)
+## Platform 비디오 - 정책(#platform-video)
 
 >[!NOTE]
 >
->이 비디오에서는 Adobe Experience Platform 사용자 인터페이스에서 이 기능을 보여 줍니다. 왼쪽 탐색 메뉴의 데이터 관리 및 개인 정보 보호 섹션에 있는 Journey Optimizer에서도 동일한 기능을 사용할 수 있습니다.
+>이 비디오에서는 Adobe Experience Platform 사용자 인터페이스 내에서 이 기능을 설명합니다. Journey Optimizer에서도 왼쪽 탐색 메뉴의 데이터 관리 및 개인 정보 섹션을 통해 동일한 기능을 사용할 수 있습니다.

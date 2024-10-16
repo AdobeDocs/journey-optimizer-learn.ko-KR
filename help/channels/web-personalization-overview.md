@@ -9,9 +9,9 @@ duration: 85
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16314
 source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '34'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 

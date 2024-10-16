@@ -11,9 +11,9 @@ jira: KT-16263
 hide: false
 hidefromtoc: false
 source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
@@ -24,10 +24,10 @@ Adobe Experience Platform의 데이터 거버넌스 프레임워크를 이해합
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
-Journey Optimizer의 [데이터 거버넌스](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted)에 대한 자세한 내용은 제품 설명서를 참조하세요.
+Journey Optimizer의 [데이터 거버넌스](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/action-privacy-restricted)에 대한 자세한 내용은 제품 설명서를 참조하십시오.
 
 ## 추가 학습
 
 * [재생 목록: Adobe Experience Platform 데이터 거버넌스 시작](https://experienceleague.adobe.com/ko/playlists/experience-platform-get-started-with-data-governance)
 
-  *Adobe Experience Platform의 데이터 거버넌스 및 레이블을 사용하여 데이터를 분류하고, 데이터 사용 정책을 만들고, Experience Platform에 데이터 사용 정책을 적용하는 방법에 대해 자세히 알아보세요.*
+  *Adobe Experience Platform의 데이터 거버넌스, 그리고 레이블을 사용하여 데이터를 분류하고 데이터 사용 정책을 만들고 Experience Platform에 데이터 사용 정책을 적용하는 방법에 대해 자세히 알아볼 수 있습니다.*

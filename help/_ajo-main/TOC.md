@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 88%
    + [API를 사용하여 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
    + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/create-campaigns/content-experiments.md)
 + 여정 {#create-journeys}
-   + [여정 Designer - 개요](/help/create-journeys/journey-designer-overview.md)
+   + [여정 디자이너 - 개요](/help/create-journeys/journey-designer-overview.md)
    + [새 여정 디자이너 살펴보기](/help/create-journeys/new-journey-designer.md)
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
@@ -90,14 +90,14 @@ ht-degree: 88%
    + [조각 관리](/help/content-management/manage-fragments.md)
    + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
    + [실험 - 개요](/help/content-management/experimentation-overview.md)
-   + 다국어 메시징 {#multilingual-messaging}
+   + 다국어 메시지 {#multilingual-messaging}
       + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
       + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
-   + AI 어시스턴트 Content Accelerator{#content-accelerator}
-      + [AI Assistant Content Accelerator - 개요](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [AI Assistant Content Accelerator를 사용하여 콘텐츠 만들기](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + AI 어시스턴트 콘텐츠 가속기{#content-accelerator}
+      + [AI 어시스턴트 콘텐츠 가속기 - 개요](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [AI 어시스턴트 콘텐츠 가속기로 콘텐츠 만들기](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + 콘텐츠 개인화 {#personalize-content}
-   + [Personalization 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
+   + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [오퍼를 개인화로 추가하기](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [개인화에 컨텍스트 기반 이벤트 정보 사용](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -155,9 +155,9 @@ ht-degree: 88%
    + [샌드박스를 만들고 관리하기](/help/set-up-access/create-and-manage-sandboxes.md)
 + 데이터 거버넌스 및 개인 정보 {#data-governance-and-privacy}
    + [데이터 거버넌스 프레임워크](/help/privacy/data-governance-framework.md)
-   + [레이블을 사용하여 데이터 분류](/help/privacy/classify-data-using-lables.md)
+   + [레이블을 사용한 데이터 분류](/help/privacy/classify-data-using-lables.md)
    + [데이터 사용 정책 만들기](/help/privacy/create-data-usage-policies.md)
-   + [Journey Optimizer 채널에서 데이터 사용 정책 시행](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
+   + [Journey Optimizer 채널에서 데이터 사용 정책 적용](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
 + 연습 및 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
