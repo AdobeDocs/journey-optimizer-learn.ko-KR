@@ -10,17 +10,17 @@ last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+source-git-commit: da924ae1f11f87ef6d940d7ccfc0ac3b9cf3b896
+workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
 
 # 데이터 사용 정책 만들기
 
-데이터 사용 정책을 만들고 관리하는 방법을 알아봅니다. 데이터 사용 정책을 사용하면 데이터 레이블에 따라 특정 목적의 데이터 사용을 제한할 수 있습니다. API 기반 접근 방식에 대해 알아보려면 [API를 사용하여 데이터 사용 정책 만들기|https://experienceleague.adobe.com/ko/docs/experience-platform/data-governance/policies/create]를 참조하십시오.
+데이터 사용 정책을 만들고 관리하는 방법을 알아봅니다. 데이터 사용 정책을 사용하면 데이터 레이블에 따라 특정 목적의 데이터 사용을 제한할 수 있습니다. API 기반 접근 방식에 대해 알아보려면 [API를 사용하여 데이터 사용 정책 만들기](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create)를 참조하십시오.
 
 >[!NOTE]
 >
