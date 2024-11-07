@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2d0a573812fbcbce347821532d5ab254b3a4c98c
+source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 98%
+ht-degree: 81%
 
 ---
 
@@ -47,30 +47,31 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 
 <table>
 <tr>
-  <td>
-    <a href="../introduction/journey-optimizer-overview.md">
-      <img alt="Journey Optimizer 개요(비디오)" src="../assets/334174.jpg"/>
+    <td>
+    <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+      <img alt="AI Assistant Content Accelerator를 사용하여 콘텐츠 만들기(비디오)" src="../assets/3434635.jpg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-1.md">
-    <strong>Journey Optimizer 개요 1부 </strong>
+      <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+    <strong>AI Assistant Content Accelerator를 사용하여 콘텐츠 만들기</strong>
     </a>
     </div>
     <p>
-    <em>이 비디오에서는 브랜드가 소비자에게 개인화된 옴니채널 여정을 전달하기 위해 Adobe Journey Optimizer를 어떻게 활용할 수 있는지 보여 줍니다.</em>
+    <em>AI Assistant Content Accelerator를 사용하여 텍스트와 이미지 모두에 대한 사전 예방 콘텐츠 변형 제안을 생성하는 방법을 알아봅니다.
+</em>
     <p>
   </td>
     <td>
-    <a href="../introduction/journey-optimizer-overview-part-2.md">
-      <img alt="Journey Optimizer 개요 2부 - 옴니채널 여정 게재(비디오)" src="../assets/334175.jpg"/>
+    <a href="../experimentation/content-experiments-for-emails.md">
+      <img alt="이메일 캠페인에 대한 콘텐츠 실험 구성(비디오)" src="../assets/3419893.jpeg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-2.md">
-    <strong>Journey Optimizer 개요 2부  </strong>
+      <a href="../experimentation/content-experiments-for-emails.md">
+    <strong>이메일 캠페인에 대한 콘텐츠 실험 구성 </strong>
     </a>
     </div>
     <p>
-    <em>이 비디오에서는 브랜드가 Adobe Journey Optimizer의 의사 결정 관리 기능, 실시간 세그먼트 검증, 비즈니스 이벤트 관리를 사용하여 소비자 여정을 새로운 수준으로 끌어올리는 방법을 보여줍니다.</em>
+    <em>A/B 테스트를 위한 콘텐츠 실험을 구성하고 비즈니스 목표를 가장 잘 달성하는 이메일 콘텐츠를 살펴보는 방법에 대해 알아봅니다.</em>
     <p>
   </td>
   </td>
