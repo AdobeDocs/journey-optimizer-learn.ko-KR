@@ -3,7 +3,7 @@ title: Experience League 라이브 쇼 녹화
 description: Experience League 라이브는 Experience League 팀이 제작하는 라이브 스트리밍 쇼입니다. Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 수 있는 유용한 팁, 요령 및 전략을 배울 수 있는 기회입니다.
 feature: Overview
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: a996953c91a81f3bfff78d9484cb2a03e1b131ce
+source-git-commit: 5b74cc03af8dbf7fbdb2c3ae6de6741f5ce47c83
 workflow-type: tm+mt
 source-wordcount: '817'
 ht-degree: 10%
@@ -31,7 +31,7 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" title="Adobe Journey Optimizer용 Content Card 공개하기">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?quality=12&format=jpeg&nocache=1731969533389" alt="Adobe Journey Optimizer용 Content Card 공개하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?quality=12&format=jpeg&nocache=1731970136568" alt="Adobe Journey Optimizer용 Content Card 공개하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -54,7 +54,7 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Experience Ecosystem의 대상 조화 - Experience Platform의 연합 대상 구성">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?quality=12&format=jpeg&nocache=1731969533387" alt="Experience Ecosystem의 대상 조화 - Experience Platform의 연합 대상 구성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?quality=12&format=jpeg&nocache=1731970136564" alt="Experience Ecosystem의 대상 조화 - Experience Platform의 연합 대상 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -77,7 +77,7 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" title="AI Bash - Adobe Experience Platform 애플리케이션 및 캠페인에서 AI Assistant의 강력한 기능">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1731969533386" alt="AI Bash - Adobe Experience Platform 애플리케이션 및 캠페인에서 AI Assistant의 강력한 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1731970136569" alt="AI Bash - Adobe Experience Platform 애플리케이션 및 캠페인에서 AI Assistant의 강력한 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -98,18 +98,15 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+
+
 ## 지난 에피소드
 
 <!-- CARDS
 
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
-
+  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -118,7 +115,7 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" title="Summer Spotlight - Adobe Journey Optimizer에서 세 가지 기능을 시도해야 함">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1731969533901" alt="Summer Spotlight - Adobe Journey Optimizer에서 세 가지 기능을 시도해야 함"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1731970137053" alt="Summer Spotlight - Adobe Journey Optimizer에서 세 가지 기능을 시도해야 함"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -141,7 +138,7 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24" title="Journey Optimizer의 새로운 코드 기반 경험 채널">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?quality=12&format=jpeg&nocache=1731969533896" alt="Journey Optimizer의 새로운 코드 기반 경험 채널"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?quality=12&format=jpeg&nocache=1731970137047" alt="Journey Optimizer의 새로운 코드 기반 경험 채널"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -159,12 +156,25 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
             </div>
         </div>
     </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+
+<!-- CARDS
+
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="API Triggered Messaging in Adobe Journey Optimizer">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko" title="Adobe Journey Optimizer의 API 트리거 메시징">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1731969534271" alt="Adobe Journey Optimizer의 API 트리거 메시징"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1731970137552" alt="Adobe Journey Optimizer의 API 트리거 메시징"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -182,35 +192,12 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Deliver the right offer at the right time with decision management">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko" title="의사 결정 관리를 통해 적시에 적절한 오퍼 제공">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?quality=12&format=jpeg&nocache=1731969534232" alt="의사 결정 관리를 통해 적시에 적절한 오퍼 제공"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko" title="의사 결정 관리를 통해 적시에 적절한 오퍼 제공">의사 결정 관리를 통해 적시에 적절한 오퍼 제공</a>
-                    </p>
-                    <p class="is-size-6">Adobe Target과 Adobe Real-time Customer Data Platform을 통합하여 보다 개인화된 고객 경험을 제공할 수 있습니다. 이 라이브스트림 이벤트에서 이 두 플랫폼을 통합하여 기업이 실시간으로 데이터를 수집한 다음 타겟팅된 경험을 생성하고 테스트하는 방법을 살펴보십시오. 라이브 데모에서 이 강력한 기능의 전체적인 프로세스를 확인하십시오.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 녹화 보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize your mobile app's potential with Adobe Journey Optimizer">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ko" title="Adobe Journey Optimizer을 통해 모바일 앱의 잠재력 극대화">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?quality=12&format=jpeg&nocache=1731969534267" alt="Adobe Journey Optimizer을 통해 모바일 앱의 잠재력 극대화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?quality=12&format=jpeg&nocache=1731970137557" alt="Adobe Journey Optimizer을 통해 모바일 앱의 잠재력 극대화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -228,12 +215,47 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
             </div>
         </div>
     </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+<!-- CARDS
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Deliver the right offer at the right time with decision management">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko" title="의사 결정 관리를 통해 적시에 적절한 오퍼 제공">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?quality=12&format=jpeg&nocache=1731970137963" alt="의사 결정 관리를 통해 적시에 적절한 오퍼 제공"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko" title="의사 결정 관리를 통해 적시에 적절한 오퍼 제공">의사 결정 관리를 통해 적시에 적절한 오퍼 제공</a>
+                    </p>
+                    <p class="is-size-6">Adobe Target과 Adobe Real-time Customer Data Platform을 통합하여 보다 개인화된 고객 경험을 제공할 수 있습니다. 이 라이브스트림 이벤트에서 이 두 플랫폼을 통합하여 기업이 실시간으로 데이터를 수집한 다음 타겟팅된 경험을 생성하고 테스트하는 방법을 살펴보십시오. 라이브 데모에서 이 강력한 기능의 전체적인 프로세스를 확인하십시오.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">이벤트 녹화 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Execute your campaigns in Adobe Journey Optimizer">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ko" title="Adobe Journey Optimizer에서 캠페인 실행">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?quality=12&format=jpeg&nocache=1731969534245" alt="Adobe Journey Optimizer에서 캠페인 실행"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?quality=12&format=jpeg&nocache=1731970137953" alt="Adobe Journey Optimizer에서 캠페인 실행"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -256,7 +278,7 @@ Experience League 라이브는 Experience League 팀이 제작하는 라이브 �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ko" title="Adobe Journey Optimizer을 사용한 푸시 알림">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?quality=12&format=jpeg&nocache=1731969534265" alt="Adobe Journey Optimizer을 사용한 푸시 알림"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?quality=12&format=jpeg&nocache=1731970137968" alt="Adobe Journey Optimizer을 사용한 푸시 알림"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
