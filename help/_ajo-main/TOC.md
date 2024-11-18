@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: fb7f9c22ab23392da00f1d7770f33534748de8ea
+source-git-commit: a42991e258dd5f9964d7859003b1cc479bc79c21
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 99%
+source-wordcount: '599'
+ht-degree: 98%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 99%
 # Journey Optimizer 튜토리얼 {#tutorials}
 
 + [Journey Optimizer 튜토리얼](/help/_ajo-main/overview.md)
++ [라이브 쇼 녹화 Experience League](/help/experience-league-live-show-recordings.md)
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 소개](/help/introduction/introduction.md)
@@ -161,14 +162,5 @@ ht-degree: 99%
 + 연습 및 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
-+ Experience League 라이브 녹화{#experience-league-live-recordings}
-   + [AI Bash - Adobe Experience Platform 애플리케이션 및 Campaign에서 AI 어시스턴트의 기능 활용](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
-   + [하계 스포트라이트 - 꼭 사용해 봐야 하는 Adobe Journey Optimizer 기능 세 가지](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
-   + [Journey Optimizer의 새로운 코드 기반 경험 채널](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
-   + [Adobe Journey Optimizer의 API 트리거된 메시징](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko){target="_blank"}
-   + [의사 결정 관리를 통해 적시에 적절한 오퍼 제공](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=ko){target="_blank"}
-   + [Adobe Journey Optimizer로 모바일 앱의 잠재력 극대화하기](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=ko){target="_blank"}
-   + [Adobe Journey Optimizer에서 캠페인 실행](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=ko){target="_blank"}
-   + [Adobe Journey Optimizer를 사용한 푸시 알림](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ko){target="_blank"}
 + Summit Labs {#summit-labs}
    + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
