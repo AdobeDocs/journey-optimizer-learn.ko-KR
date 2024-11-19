@@ -2,8 +2,9 @@
 title: Experience League 라이브 쇼 녹화
 description: Experience League 라이브는 Experience League 팀이 제작하는 라이브 스트리밍 쇼입니다. Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 수 있는 유용한 팁, 요령 및 전략을 배울 수 있는 기회입니다.
 feature: Overview
+doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 5f39cdfb854bc5b0920413785bdedf34329ef13f
+source-git-commit: f50cf10fe0b051ef158be29a7048cfcc8cc83e20
 workflow-type: tm+mt
 source-wordcount: '787'
 ht-degree: 10%
