@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '372'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="AI Assistant Content Accelerator를 사용하여 콘텐츠 만들기(비디오)" src="../assets/3434635.jpg"/>
+      <img alt="AI 어시스턴트 콘텐츠 가속기로 콘텐츠 만들기(비디오)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>AI Assistant Content Accelerator를 사용하여 콘텐츠 만들기</strong>
-    </a>
+    <strong>AI 어시스턴트 콘텐츠 가속기로 콘텐츠 만들기</strong>
+    </a>
     </div>
     <p>
-    <em>AI Assistant Content Accelerator를 사용하여 텍스트와 이미지 모두에 대한 사전 예방 콘텐츠 변형 제안을 생성하는 방법을 알아봅니다.
+    <em>AI 어시스턴트 콘텐츠 가속기로 텍스트 및 이미지 모두에 대한 콘텐츠 베리에이션 제안을 먼저 적극적으로 생성하는 방법에 대해 알아봅니다.
 </em>
     <p>
   </td>
@@ -67,11 +67,11 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
     </a>
     <div>
       <a href="../experimentation/content-experiments-for-emails.md">
-    <strong>이메일 캠페인에 대한 콘텐츠 실험 구성 </strong>
-    </a>
+    <strong>이메일 캠페인에 대한 콘텐츠 실험 구성 </strong>
+    </a>
     </div>
     <p>
-    <em>A/B 테스트를 위한 콘텐츠 실험을 구성하고 비즈니스 목표를 가장 잘 달성하는 이메일 콘텐츠를 살펴보는 방법에 대해 알아봅니다.</em>
+    <em>A/B 테스트를 위한 콘텐츠 실험을 구성하여 비즈니스 목표 달성에 가장 도움이 되는 이메일 콘텐츠를 탐색하는 방법을 알아봅니다.</em>
     <p>
   </td>
   </td>

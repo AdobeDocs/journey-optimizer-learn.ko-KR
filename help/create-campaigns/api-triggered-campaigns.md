@@ -1,6 +1,6 @@
 ---
 title: API를 사용하여 캠페인 트리거
-description: AJO의 외부 시스템에서 트랜잭션 SMS 및 이메일 메시지를 트리거하는 방법을 알아봅니다.
+description: AJO에서 외부 시스템의 트랜잭션 SMS 및 이메일 메시지를 트리거하는 방법을 알아봅니다.
 feature: Campaigns, API
 role: User, Developer
 level: Experienced
@@ -10,9 +10,9 @@ jira: KT-10658
 thumbnail: 3425358.jpeg
 exl-id: 039ce9b1-6942-44ac-b8e3-068b0ad9264e
 source-git-commit: 4f5670b3e7a835bdda1accccdb2e79926d243744
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
