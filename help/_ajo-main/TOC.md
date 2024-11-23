@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
+source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 98%
+source-wordcount: '597'
+ht-degree: 99%
 
 ---
 
@@ -151,7 +151,7 @@ ht-degree: 98%
 + 액세스 제어 {#access-control}
    + [액세스 관리](/help/set-up-access/access-management.md)
    + [속성 기반 액세스 제어 구성](/help/administration/attribute-based-access-control.md)
-   + [샌드박스를 만들고 관리하기](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [샌드박스 사용](/help/set-up-access/create-and-manage-sandboxes.md)
 + 데이터 거버넌스 및 개인 정보 {#data-governance-and-privacy}
    + [데이터 거버넌스 프레임워크](/help/privacy/data-governance-framework.md)
    + [레이블을 사용한 데이터 분류](/help/privacy/classify-data-using-lables.md)
@@ -161,6 +161,6 @@ ht-degree: 98%
 + 연습 및 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
-+ [라이브 쇼 녹화 Experience League](/help/experience-league-live-show-recordings.md)
++ [Experience League Live 쇼 녹화본](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
