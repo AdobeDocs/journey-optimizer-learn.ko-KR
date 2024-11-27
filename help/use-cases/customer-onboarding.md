@@ -5,12 +5,12 @@ feature: Use Cases, Journeys, SMS, Email, Content Assistant
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 0
+duration: 505
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16344
-source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
+source-git-commit: e9475f732cd4bc5b32bf6b0ebcc01cdd102ca353
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
