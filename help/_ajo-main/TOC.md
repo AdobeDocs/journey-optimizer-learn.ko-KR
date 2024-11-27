@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: de27e7e7a1f5307e07ecd43ad578fab679c0c726
+source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '603'
 ht-degree: 99%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 99%
 # Journey Optimizer 튜토리얼 {#tutorials}
 
 + [Journey Optimizer 튜토리얼](/help/_ajo-main/overview.md)
++ 사용 사례 {#use-cases}
+   + [고객 온보딩](/help/use-cases/customer-onboarding.md)
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 소개](/help/introduction/introduction.md)
