@@ -8,7 +8,7 @@ doc-type: Feature Video
 duration: 27540
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16603
-source-git-commit: c84dc927cfe97a5ac88c51f145308db7b919f845
+source-git-commit: d63345a6cc2d772f4819015215809bcaf85823d5
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -21,3 +21,4 @@ ht-degree: 0%
 보고 상호 작용 기능에는 간단한 지표 만들기 또는 보고서에서 직접 대상 게시, 기본 애드혹 분석 수행 및 이해 당사자에 대한 보고서 전달 예약 등이 포함됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440615/?learn=on)
+
