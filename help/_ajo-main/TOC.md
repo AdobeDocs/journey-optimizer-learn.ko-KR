@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '603'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -133,7 +133,7 @@ ht-degree: 99%
    + [CSV 형식으로 보고서 내보내기](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [경고 사용](/help/administration/alerts.md)
    + [Customer Journey Analytics를 통한 향상된 보고 기능](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
-   + [인터랙티브 보고](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
+   + [인터랙티브한 요소 보고](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + 구성 {#configuration}
    + 채널 구성 {#channel-configuration}
       + [채널 구성](/help/set-up-channels/configure-channels.md)
