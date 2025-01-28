@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
-workflow-type: ht
-source-wordcount: '603'
+source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
+workflow-type: tm+mt
+source-wordcount: '601'
 ht-degree: 100%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 100%
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
    + [사용 사례 - 비즈니스 이벤트](/help/create-journeys/use-case-business-event.md)
    + [사용 사례 - 대상자 읽기](/help/create-journeys/use-case-read-audience.md)
-   + [사용 사례 - 대상자 자격 조건](/help/create-journeys/use-case-audience-qualification.md)
+   + [사용 사례 - 대상자 선별](/help/create-journeys/use-case-audience-qualification.md)
    + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
    + [여정 게시](/help/create-journeys/publish-a-journey.md)
    + [라이브 여정에서 콘텐츠 업데이트](/help/create-journeys/update-content-in-live-journey.md)
@@ -117,7 +117,7 @@ ht-degree: 100%
    + [컬렉션 만들기](/help/decision-management/create-collections.md)
    + [의사 결정 만들기](/help/decision-management/create-decisions.md)
    + [Decisions API를 사용하여 오퍼 제공](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [빈도 설정](/help/decision-management/frequency-capping.md)
+   + [빈도 상한 설정](/help/decision-management/frequency-capping.md)
 + 데이터 관리 {#data-management}
    + [개요](/help/data-management/set-up-data-overview.md)
    + [스키마 만들기](/help/data-management/create-schema.md)
@@ -133,7 +133,6 @@ ht-degree: 100%
    + [CSV 형식으로 보고서 내보내기](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [경고 사용](/help/administration/alerts.md)
    + [Customer Journey Analytics를 통한 향상된 보고 기능](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
-   + [인터랙티브한 요소 보고](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + 구성 {#configuration}
    + 채널 구성 {#channel-configuration}
       + [채널 구성](/help/set-up-channels/configure-channels.md)
