@@ -7,17 +7,17 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: ht
-source-wordcount: '372'
-ht-degree: 100%
+source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
+workflow-type: tm+mt
+source-wordcount: '378'
+ht-degree: 88%
 
 ---
 
 
 # Journey Optimizer 튜토리얼
 
-Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 개인화된 경험을 제공할 수 있도록 해줍니다. 고객 여정은 소통을 순간부터 사이트를 나가는 순간까지의 고객과 브랜드 간의 전체 상호 작용 프로세스를 말합니다.
+Journey Optimizer을 통해 기업은 통합적이고 상황에 맞는 개인화된 고객 경험을 만들 수 있습니다. 고객이 처음 접촉한 시점부터 사이트를 나가는 순간까지 브랜드와의 전체 여정을 매끄럽게 안내하여 모든 접점에서 연결되어 만족스러운 경험을 보장할 수 있습니다.
 
 이 사용 안내서는 Adobe Journey Optimizer의 다양한 기능에 대한 비디오와 튜토리얼을 다룹니다. [Journey Optimizer 과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)를 사용하여 학습한 내용을 연습합니다.
 
@@ -35,7 +35,7 @@ Journey Optimizer는 기업이 고객에게 연속적이고 시의적절하며 �
 * **[AI Bash - Adobe Experience Platform 애플리케이션 및 Campaign에서 AI 어시스턴트의 기능 활용](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
   *AI 어시스턴트가 어떻게 Adobe Experience Cloud 애플리케이션 및 Adobe Campaign에서 고객 상호 작용을 변화시키고 생산성을 향상시키는지 알아봅니다.*
 * **[하계 스포트라이트 - 꼭 사용해 봐야 하는 Adobe Journey Optimizer 기능 세 가지](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
-  *Adobe Journey Optimizer의 여정 실험, 빈도 제한, 다국어 메시지 세 가지 기능으로 올 여름 고객 참여도를 끌어올려 보세요.*
+  *Adobe Journey Optimizer의 여정 실험, 빈도 상한 설정, 다국어 메시지 세 가지 기능으로 올 여름 고객 참여도를 끌어올려 보세요.*
 * **[Journey Optimizer의 새로운 코드 기반 경험 채널](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *개발자 중심 작업으로 인바운드 표면 및 세분화된 개인화 제어를 활성화하는 방법을 알아봅니다.*
 
