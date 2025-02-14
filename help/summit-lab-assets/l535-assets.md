@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: 43e9bc85143de7c60e5055bd2403a5b898cb93e1
+source-git-commit: c158039db46bf4337d73e2152ff9293ba364f8e3
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '58'
 ht-degree: 25%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 25%
 
 이 페이지에는 L535 Summit Lab에서 사용 중인 텍스트와 링크가 있습니다. 콘텐츠를 복사하여 Journey Optimizer 메시지에 붙여 넣을 수 있습니다.
 
-이미지:
+## 이미지
 
 ![휴대폰](/help/summit-lab-assets/assets/online-banking-app-01.png)
+
+## 앱 설치
