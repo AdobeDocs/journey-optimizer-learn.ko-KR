@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: 7262b5ab14612f2851ab694279146fc5ef2f26f5
+source-git-commit: 43e9bc85143de7c60e5055bd2403a5b898cb93e1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 25%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이미지:
 
-![휴대폰](/help/summit-lab-assets/assets/Online%20banking%20app-01.png)
+![휴대폰](/help/summit-lab-assets/assets/online-banking-app-01.png)
