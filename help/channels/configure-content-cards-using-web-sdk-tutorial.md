@@ -10,9 +10,9 @@ last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16595
 thumbnail: KT-16595.jpeg
 source-git-commit: 270ba292b519095f313cb2ef5a0fe16547bf8b5d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '37'
+ht-degree: 100%
 
 ---
 
