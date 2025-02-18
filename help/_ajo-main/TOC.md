@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 2e871d0866b2dc5f4c46a664aa62ca69e4ec4e4a
+source-git-commit: fbced616531cc24465e6fcc0baa18f37cf6de88c
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '625'
 ht-degree: 100%
 
 ---
@@ -151,8 +151,9 @@ ht-degree: 100%
       + [이벤트 만들기](/help/set-up-journeys/create-events.md)
       + [작업 만들기](/help/set-up-journeys/create-actions.md)
    + 비즈니스 규칙 {#business-rules}
-      + [빈도 캡핑 규칙 구성](/help/configuration/configure-frequency-capping-rules.md)
-      + [빈도 규칙 테스트 및 보고](/help/configuration/test-and-report-on-frequency-rules.md)
+      + [빈도 캡핑 규칙 구성](/help/business-rules/configure-frequency-capping-rules.md)
+      + [규칙 집합 작업](/help/business-rules/work-with-rule-sets.md)
+      + [빈도 규칙 테스트 및 보고](/help/business-rules/test-and-report-on-frequency-rules.md)
 + 액세스 제어 {#access-control}
    + [액세스 관리](/help/set-up-access/access-management.md)
    + [속성 기반 액세스 제어 구성](/help/administration/attribute-based-access-control.md)
