@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
+source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 4%
 
 ---
@@ -45,11 +45,10 @@ ht-degree: 4%
 
    이제 iPhone에서 * SecureFinancial 앱**을 시작할 수 있습니다.
 
-2. 앱을 엽니다.
+1. 앱을 엽니다.
 
-3. 팝업에서 **허용**&#x200B;을 클릭하여 DX 데모 앱에서 알림을 보내도록 허용합니다.
+1. 팝업에서 **허용**&#x200B;을 클릭하여 DX 데모 앱에서 알림을 보내도록 허용합니다.
 
-   ![알림 팝업](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
