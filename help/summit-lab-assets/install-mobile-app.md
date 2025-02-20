@@ -8,10 +8,10 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
+source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 3%
 
 >[!TAB iOS]
 
-### iOS:
+## iOS:
 
 앱을 설치한 후에는 Adobe Enterprise 개발자를 신뢰할 수 있어야 합니다.
 
@@ -43,18 +43,17 @@ ht-degree: 3%
 
    ![Adobe 시스템 신뢰 화면](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * 이제 iPhone에서 * SecureFinancial 앱**을 시작할 수 있습니다. ! SecureFinancial 앱 아이콘](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   이제 iPhone에서 * SecureFinancial 앱**을 시작할 수 있습니다.
 
+2. 앱을 엽니다.
 
-1. 앱을 엽니다.
-
-1. 팝업에서 **허용**&#x200B;을 클릭하여 DX 데모 앱에서 알림을 보내도록 허용합니다.
+3. 팝업에서 **허용**&#x200B;을 클릭하여 DX 데모 앱에서 알림을 보내도록 허용합니다.
 
    ![알림 팝업](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
-### Android
+## Android
 
 Android에서 여기에 표시된 경고 지침에 따라 APK를 다운로드하여 설치합니다.
 
@@ -62,6 +61,6 @@ Android에서 여기에 표시된 경고 지침에 따라 APK를 다운로드하
 <br>
 ![Android 설치 화면](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* 이제 Android 장치에서 * SecureFinancial 앱**을 시작할 수 있습니다. ! SecureFinancial 앱 아이콘](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+이제 Android 장치에서 * SecureFinancial 앱**을 시작할 수 있습니다.
 
 >[!ENDTABS]
