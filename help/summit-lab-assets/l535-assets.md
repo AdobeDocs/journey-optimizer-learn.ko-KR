@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: c158039db46bf4337d73e2152ff9293ba364f8e3
+source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 25%
+source-wordcount: '65'
+ht-degree: 23%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 25%
 
 ![휴대폰](/help/summit-lab-assets/assets/online-banking-app-01.png)
 
-## 앱 설치
+앱 설치 방법에 대한 지침을 보려면 [여기](/help/summit-lab-assets/install-mobile-app.md)를 클릭하십시오.
