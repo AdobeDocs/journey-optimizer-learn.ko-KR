@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
+source-git-commit: 9e0de40d26aa53dca190d469e51c9cf3345abcbb
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 23%
+source-wordcount: '57'
+ht-degree: 26%
 
 ---
 
@@ -22,6 +22,8 @@ ht-degree: 23%
 
 ## 이미지
 
+![SecureFinancial 로고](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+
 ![휴대폰](/help/summit-lab-assets/assets/online-banking-app-01.png)
 
-앱 설치 방법에 대한 지침을 보려면 [여기](/help/summit-lab-assets/install-mobile-app.md)를 클릭하십시오.
+

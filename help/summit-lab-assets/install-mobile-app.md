@@ -8,19 +8,21 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
+source-git-commit: 9e0de40d26aa53dca190d469e51c9cf3345abcbb
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 4%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
 
 # SecureFinancial 앱 다운로드 및 설치
 
-아래에서 QR 코드를 스캔하여 iOS 또는 Android™ 디바이스에 모바일 앱을 설치합니다.
+iOS 또는 Android&amp;trade에 모바일 앱을 설치합니다.
 
-![보안Financial 모바일 앱 QR 코드](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
+**1단계:** 아래에서 장치에 대한 QR 코드를 스캔합니다.
+
+![SecureFinancial 모바일 앱 QR 코드](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
 
 장치별 설치:
 
@@ -28,7 +30,18 @@ ht-degree: 4%
 
 >[!TAB iOS]
 
-## iOS:
+## 2단계: iOS 장치에 앱 설치:
+
+1. 카메라 앱에 표시되는 모달에서 **설치**&#x200B;를 클릭합니다.
+
+   ![팝업 설치](/help/summit-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
+
+2. **Camera** 앱을 닫고 화면에서 DX 데모 앱을 찾습니다
+
+   ![DX-데모 앱](/help/summit-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
+
+
+## 3단계: Adobe 엔터프라이즈 개발자 신뢰
 
 앱을 설치한 후에는 Adobe Enterprise 개발자를 신뢰할 수 있어야 합니다.
 
@@ -45,16 +58,12 @@ ht-degree: 4%
 
    이제 iPhone에서 * SecureFinancial 앱**을 시작할 수 있습니다.
 
-1. 앱을 엽니다.
-
-1. 팝업에서 **허용**&#x200B;을 클릭하여 DX 데모 앱에서 알림을 보내도록 허용합니다.
-
 
 >[!TAB Android]
 
-## Android
+## Android 장치에 앱을 설치합니다.
 
-Android에서 여기에 표시된 경고 지침에 따라 APK를 다운로드하여 설치합니다.
+Android에서 여기에 표시된 경고 지침에 따라 앱을 다운로드하여 설치합니다.
 
 ![Android 다운로드 화면](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android 다운로드 화면"){width="250" align="center" zoomable="yes"}
 <br>
@@ -63,3 +72,5 @@ Android에서 여기에 표시된 경고 지침에 따라 APK를 다운로드하
 이제 Android 장치에서 * SecureFinancial 앱**을 시작할 수 있습니다.
 
 >[!ENDTABS]
+
+
