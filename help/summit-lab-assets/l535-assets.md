@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: 51ab40981a42b0df56d3994f1155eb4ae7575b17
+source-git-commit: c7a2575121dd10c79a2a0459186e042335a67623
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 21%
+source-wordcount: '112'
+ht-degree: 29%
 
 ---
 
@@ -26,21 +26,23 @@ ht-degree: 21%
 * [SecurFinancial 웹 사이트](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U)
 * [앱 다운로드](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html)
 
-## 연습
+## 연습용으로 복사 및 붙여넣기
 
-### 연습 2.3
+### 연습 2.3 - 이메일 메시지 구성
 
-**12단계** 전자 메일 메시지 프롬프트:
+#### 프롬프트
 
-새 SecurFinancial에 대한 시작 이메일 생성
-막 새 저축 계좌를 개설한 고객. 추가
-SecurFinancial 모바일 앱을 설치하려면 클릭 유도 문안
+```
+Generate a welcome email for new SecurFinancial
+customers who just opened a new savings account. Add a
+call to action to install the SecurFinancial mobile app.
+```
 
-### 연습 3.1
+### 연습 3.1 - SMS 메시지에 동적 콘텐츠 적용
 
-**7단계**
+#### 코드
 
-```javascript
+```
 {%#if select _Push_details1 from profile.pushNotificationDetails where
 _Push_details1.token.isNotNull()%}
 Welcome to your new SecurFinancial checking account! Discover the
@@ -56,8 +58,66 @@ s3.amazonaws.com/dxdemo/summit/index.html
 {%/if%} 
 ```
 
+### 연습 문제 4.2 - 처리 구성
+
+#### 제목
+
+```
+Welcome to SecurFinancial"
+```
+
+#### 본문 텍스트
+
+```
+Did you know you can find an ATM near in the SecurFinancial app? Try it now!"
+```
+
+#### URL
+
+```
+dxdemo://atm
+```
+
+### 연습 문제 6 - 콘텐츠 카드
+
+#### 제목
+
+```
+Welcome to SecurFinancial!
+```
+
+#### 본문
+
+```
+Thank you for downloading the app. You can find
+ATMs, track your spending and more. All within the
+app.
+```
+
+#### 미디어 URL
+
+```
+https://demo-systemnext.
+s3.amazonaws.com/assets/securfinancial/homeloan.
+jpg
+```
+
+#### 버튼 제목
+
+```
+Find ATMs
+```
+
+#### 대상 URL
+
+```
+dxdemo://atm
+```
+
+## 이미지
 
 ![SecureFinancial 로고](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+
 
 ![휴대폰](/help/summit-lab-assets/assets/online-banking-app-01.png)
 
