@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: c1a77892652df0a91a6add1ad0dc5a4bd0770d8b
+source-git-commit: c25ebab9fedd0218d087fc679a8da05b06e71227
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 29%
+source-wordcount: '133'
+ht-degree: 24%
 
 ---
 
@@ -27,6 +27,15 @@ ht-degree: 29%
 * [앱 다운로드](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html)
 
 ## 연습용으로 복사 및 붙여넣기
+
+### 연습 2.1 - Journey Optimizer 로그인
+
+다음 세부 정보를 사용하여 로그인합니다.
+
+이메일 주소:    L535+*시트 번호*@adobeeventlab.com
+
+암호:       Adobe4Summit!
+
 
 ### 연습 2.3 - 이메일 메시지 구성
 
@@ -94,7 +103,7 @@ Thank you for downloading the app. You can find ATMs, track your spending and mo
 #### 미디어 URL
 
 ```
-https://demo-systemnext.s3.amazonaws.com/assets/securfinancial/homeloan.jpg
+https://demo-system-next.s3.amazonaws.com/assets/securfinancial/home-loan.jpg
 ```
 
 #### 버튼 제목
