@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '632'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -97,9 +97,9 @@ ht-degree: 96%
    + 다국어 메시지 {#multilingual-messaging}
       + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
       + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
-   + 콘텐츠 생성 {#content-accelerator}에 대한 AI 도우미
-      + [콘텐츠 생성을 위한 AI Assistant - 개요](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [콘텐츠 생성을 위해 AI Assistant를 사용하여 콘텐츠 생성](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + 콘텐츠 생성용 AI 어시스턴트 {#content-accelerator}
+      + [콘텐츠 생성용 AI 어시스턴트 - 개요](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + 콘텐츠 개인화 {#personalize-content}
    + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -152,7 +152,7 @@ ht-degree: 96%
       + [작업 만들기](/help/set-up-journeys/create-actions.md)
    + 비즈니스 규칙 {#business-rules}
       + [빈도 캡핑 규칙 구성](/help/business-rules/configure-frequency-capping-rules.md)
-      + [규칙 집합 작업](/help/business-rules/work-with-rule-sets.md)
+      + [규칙 세트 작업](/help/business-rules/work-with-rule-sets.md)
       + [빈도 규칙 테스트 및 보고](/help/business-rules/test-and-report-on-frequency-rules.md)
 + 액세스 제어 {#access-control}
    + [액세스 관리](/help/set-up-access/access-management.md)
