@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: b24aa3dab4ac86cf6b7e381b7c72326c24c03dbb
+source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '638'
 ht-degree: 99%
 
 ---
@@ -90,7 +90,6 @@ ht-degree: 99%
    + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
    + [디지털 자산 관리 - 개요](/help/content-management/digital-asset-management-overview.md)
    + [자산 관리](/help/assets-essentials-overview.md)
-   + [콘텐츠 템플릿 관리](/help/content-management/content-templates.md)
    + [조각 관리](/help/content-management/manage-fragments.md)
    + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
    + [실험 - 개요](/help/content-management/experimentation-overview.md)
