@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
+source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
 workflow-type: tm+mt
-source-wordcount: '638'
-ht-degree: 99%
+source-wordcount: '635'
+ht-degree: 97%
 
 ---
 
@@ -110,9 +110,9 @@ ht-degree: 99%
    + [개인화에 도우미 기능 사용](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)
-+ 의사 결정 관리 {#decision-management}
-   + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
-   + [의사 결정 관리 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
++ 의사 결정 {#decisioning}
+   + [의사 결정 소개](/help/decision-management/introduction-to-decisioning.md)
+   + [의사 결정 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [배치 만들기](/help/decision-management/create-placements.md)
    + [규칙 만들기](/help/decision-management/create-rules.md)
    + [태그 만들기](/help/decision-management/create-tags.md)
