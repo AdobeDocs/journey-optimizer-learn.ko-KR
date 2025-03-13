@@ -1,6 +1,6 @@
 ---
-title: 의사 결정 소개
-description: Journey Optimizer의 의사 결정 관리 기능에 대한 개요를 살펴보십시오.
+title: 결정 소개
+description: Journey Optimizer의 결정 관리 기능에 대한 개요를 살펴보십시오.
 feature: Offers
 jira: KT-6417
 role: Admin, Developer, Leader, User
@@ -8,20 +8,20 @@ level: Beginner
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: 6ba3e692c1560815801f849bdf6c7f2cd331eb02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
-# 의사 결정 소개
+# 결정 소개
 
-Journey Optimizer의 의사 결정에 대한 개요를 살펴보십시오. 이 비디오에서는 의사 결정 관리 기능으로 해결할 수 있는 비즈니스 과제, 주요 기능, 기본 아키텍처, 주요 사용 사례를 다룹니다.
+Journey Optimizer의 결정에 대한 개요를 살펴봅니다. 이 비디오에서는 결정 관리 기능으로 해결할 수 있는 비즈니스 과제, 주요 기능, 기본 아키텍처, 주요 사용 사례를 다룹니다.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on){transcript=true}
 
-Journey Optimizer 의사 결정에 대한 간단한 데모
+Journey Optimizer 결정에 대한 간단한 데모
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
 

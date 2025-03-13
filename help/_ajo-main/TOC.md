@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '635'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -101,7 +101,7 @@ ht-degree: 97%
       + [콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
    + 콘텐츠 템플릿{#content-templates}
       + [콘텐츠 템플릿 만들기](/help/content-management/templates/create-content-templates.md)
-      + [템플릿의 콘텐츠 잠금](/help/content-management/templates/content-locking.md)
+      + [템플릿의 콘텐츠 잠그기](/help/content-management/templates/content-locking.md)
 + 콘텐츠 개인화 {#personalize-content}
    + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -110,9 +110,9 @@ ht-degree: 97%
    + [개인화에 도우미 기능 사용](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)
-+ 의사 결정 {#decisioning}
-   + [의사 결정 소개](/help/decision-management/introduction-to-decisioning.md)
-   + [의사 결정 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
++ 결정 {#decisioning}
+   + [결정 소개](/help/decision-management/introduction-to-decisioning.md)
+   + [결정 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [배치 만들기](/help/decision-management/create-placements.md)
    + [규칙 만들기](/help/decision-management/create-rules.md)
    + [태그 만들기](/help/decision-management/create-tags.md)
