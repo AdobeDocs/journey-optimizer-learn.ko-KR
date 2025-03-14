@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
-workflow-type: ht
-source-wordcount: '635'
-ht-degree: 100%
+source-git-commit: 8727d3b84573f78ac28da260177aab607014f6fe
+workflow-type: tm+mt
+source-wordcount: '647'
+ht-degree: 97%
 
 ---
 
@@ -110,19 +110,23 @@ ht-degree: 100%
    + [개인화에 도우미 기능 사용](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)
-+ 결정 {#decisioning}
-   + [결정 소개](/help/decision-management/introduction-to-decisioning.md)
-   + [결정 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [배치 만들기](/help/decision-management/create-placements.md)
-   + [규칙 만들기](/help/decision-management/create-rules.md)
-   + [태그 만들기](/help/decision-management/create-tags.md)
-   + [개인화된 오퍼 만들기](/help/decision-management/create-personalized-offers.md)
-   + [AI 모델 만들기](/help/decision-management/create-ai-models.md)
-   + [대체 오퍼 만들기](/help/decision-management/create-fallback-offers.md)
-   + [컬렉션 만들기](/help/decision-management/create-collections.md)
-   + [의사 결정 만들기](/help/decision-management/create-decisions.md)
-   + [Decisions API를 사용하여 오퍼 제공](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [빈도 상한 설정](/help/decision-management/frequency-capping.md)
++ 결정 기능{#decision-capabilites}
+   + 결정 {#decisioning}
+      + [Decisioning 소개](/help/decisioning/introduction-to-decisioning.md)
+      + [전체적인 의사 결정 워크스루](/help/decisioning/decisioning-end-to-end.md)
+   + 의사 결정 관리 {#decision-management}
+      + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
+      + [의사 결정 관리 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
+      + [배치 만들기](/help/decision-management/create-placements.md)
+      + [규칙 만들기](/help/decision-management/create-rules.md)
+      + [태그 만들기](/help/decision-management/create-tags.md)
+      + [개인화된 오퍼 만들기](/help/decision-management/create-personalized-offers.md)
+      + [AI 모델 만들기](/help/decision-management/create-ai-models.md)
+      + [대체 오퍼 만들기](/help/decision-management/create-fallback-offers.md)
+      + [컬렉션 만들기](/help/decision-management/create-collections.md)
+      + [의사 결정 만들기](/help/decision-management/create-decisions.md)
+      + [Decisions API를 사용하여 오퍼 제공](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+      + [빈도 상한 설정](/help/decision-management/frequency-capping.md)
 + 데이터 관리 {#data-management}
    + [개요](/help/data-management/set-up-data-overview.md)
    + [스키마 만들기](/help/data-management/create-schema.md)
