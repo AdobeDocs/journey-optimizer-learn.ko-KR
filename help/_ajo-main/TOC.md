@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 070dd91ef8fee8ff1801d6cfb5fc4a6658fc9d15
+source-git-commit: bb6dc1a70df284f58645336e139d1b78c5cfe590
 workflow-type: tm+mt
-source-wordcount: '647'
-ht-degree: 97%
+source-wordcount: '652'
+ht-degree: 96%
 
 ---
 
@@ -88,8 +88,10 @@ ht-degree: 97%
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
 + 콘텐츠 관리{#content-management}
    + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
+   + 
    + [디지털 자산 관리 - 개요](/help/content-management/digital-asset-management-overview.md)
    + [자산 관리](/help/assets-essentials-overview.md)
+   + [Adobe Express으로 에셋 편집](/help/content-management/edit-assets-with-adobe-express.md)
    + [조각 관리](/help/content-management/manage-fragments.md)
    + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
    + [실험 - 개요](/help/content-management/experimentation-overview.md)
