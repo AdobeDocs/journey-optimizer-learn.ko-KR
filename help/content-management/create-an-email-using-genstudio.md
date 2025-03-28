@@ -9,10 +9,10 @@ doc-type: Feature Video
 duration: 324
 last-substantial-update: 2025-03-28T00:00:00Z
 jira: KT-17531
-source-git-commit: 7d6dfc4ab8e4d8bdfcb51c7512dcafce390d006e
+source-git-commit: 21e0d23dd012b0954bf18d29016a5c1041ad519f
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 9%
+source-wordcount: '119'
+ht-degree: 8%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 9%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
-[!DNL GenStudio for Performance Marketing]에 대해 자세히 알아보려면 [설명서](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}를 참조하세요.
+[!DNL GenStudio for Performance Marketing]에 대해 자세히 알아보려면 [[!DNL Adobe GenStudio for Performance Marketing] 사용 안내서](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}를 방문하거나 [Adobe GenStudio for Performance Marketing 자습서](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/overview)를 참조하세요.
