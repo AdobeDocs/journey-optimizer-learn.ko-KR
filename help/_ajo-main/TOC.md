@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: fc1d1eeb472e4f9f5230425c16220df86db9dbb7
+source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '662'
 ht-degree: 95%
 
 ---
@@ -95,6 +95,7 @@ ht-degree: 95%
    + [조각 관리](/help/content-management/manage-fragments.md)
    + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
    + [실험 - 개요](/help/content-management/experimentation-overview.md)
+   + [GenStudio을 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
    + 다국어 메시지 {#multilingual-messaging}
       + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
       + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
