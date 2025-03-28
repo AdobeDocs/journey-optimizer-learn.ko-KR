@@ -1,7 +1,7 @@
 ---
 title: GenStudio for Performance Marketing을 사용하여 만들기 및 이메일
 description: Journey Optimizer에서 GenStudio for Performance Marketing으로 이메일 템플릿을 내보내고 GenStudio에서 템플릿을 사용하여 브랜드 준수 이메일을 만들고 이를 다시 Journey Optimizer으로 원활하게 가져오는 프로세스를 살펴봅니다.
-feature: Emails, Templates
+feature: Email Design, Templates
 topic: Content Management
 role: User
 level: Beginner, Intermediate
@@ -9,7 +9,7 @@ doc-type: Feature Video
 duration: 324
 last-substantial-update: 2025-03-28T00:00:00Z
 jira: KT-17531
-source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
+source-git-commit: 4c3ab10c177c1e314fa09dcc2be356d2ca6d47e8
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 8%
