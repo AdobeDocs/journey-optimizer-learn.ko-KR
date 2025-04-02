@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
 workflow-type: tm+mt
 source-wordcount: '662'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 95%
    + [통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV 파일을 업로드하여 대상자 만들기](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [요청 시 대상 평가](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [온디맨드 대상자 평가](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + 채널 {#channels}
    + [모바일 앱 최적화 - 개요](/help/channels/mobile-app-optimization-overview.md)
@@ -91,7 +91,7 @@ ht-degree: 95%
    + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
    + [디지털 자산 관리 - 개요](/help/content-management/digital-asset-management-overview.md)
    + [자산 관리](/help/assets-essentials-overview.md)
-   + [Adobe Express으로 에셋 편집](/help/content-management/edit-assets-with-adobe-express.md)
+   + [Adobe Express를 사용한 자산 편집](/help/content-management/edit-assets-with-adobe-express.md)
    + [조각 관리](/help/content-management/manage-fragments.md)
    + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
    + [실험 - 개요](/help/content-management/experimentation-overview.md)
@@ -115,8 +115,8 @@ ht-degree: 95%
    + [조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)
 + 결정 기능{#decision-capabilities}
    + 결정 {#decisioning}
-      + [Decisioning 소개](/help/decisioning/introduction-to-decisioning.md)
-      + [전체적인 의사 결정 워크스루](/help/decisioning/decisioning-end-to-end.md)
+      + [결정 소개](/help/decisioning/introduction-to-decisioning.md)
+      + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
    + 의사 결정 관리 {#decision-management}
       + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
       + [의사 결정 관리 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
