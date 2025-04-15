@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -52,13 +52,13 @@ ht-degree: 99%
    + [CSV 파일을 업로드하여 대상자 만들기](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [온디맨드 대상자 평가](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
-+ 채널 {#channels}
++ 채널 {#channels}
    + [모바일 앱 최적화 - 개요](/help/channels/mobile-app-optimization-overview.md)
    + 코드 기반 경험 채널{#code-based-experience-channel}
       + [코드 기반 경험 캠페인 만들기](/help/channels/create-a-code-based-experience-campaign.md)
       + [코드 기반 채널에서 의사 결정 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
-   + 다이렉트 메일 채널{#direct-mail-channel}
-      + [다이렉트 메일 만들기](/help/channels/direct-mail.md)
+   + DM 채널{#direct-mail-channel}
+      + [DM 만들기](/help/channels/direct-mail.md)
    + 이메일 채널{#email-channel}
       + [이메일 채널 - 개요](/help/channels/email-channel-overview.md)
       + [이메일 디자인 및 개인화 - 개요](/help/channels/email-design-and-personalization-overview.md)
@@ -81,7 +81,7 @@ ht-degree: 99%
       + [SMS/MMS 메시지 - 개요](/help/channels/sms-mms-messages-overview.md)
       + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
       + [MMS 메시지 작성](/help/channels/author-mms.md)
-      + [SMS - Sinch 및 Infobip에 대한 이중 옵트인](/help/channels/sms-double-opt-in.md)
+      + [SMS - Sinch 및 Infobip에 대한 중복 옵트인](/help/channels/sms-double-opt-in.md)
    + 웹 채널 {#web-channel}
       + [웹 개인화 - 개요](/help/channels/web-personalization-overview.md)
       + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
@@ -95,7 +95,7 @@ ht-degree: 99%
    + [조각 관리](/help/content-management/manage-fragments.md)
    + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
    + [실험 - 개요](/help/content-management/experimentation-overview.md)
-   + [GenStudio을 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
+   + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
    + 다국어 메시지 {#multilingual-messaging}
       + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
       + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
@@ -138,7 +138,7 @@ ht-degree: 99%
    + [소스 커넥터 구성](/help/data-management/configure-source-connectors.md)
    + [데이터 세트 내보내기 대상 구성](/help/data-management/configure-dataset-export-destination.md)
    + [데이터 세트를 클라우드 스토리지 위치로 내보내기](/help/data-management/export-datasets.md)
-+ 보고서 및 모니터링 {#report-and-monitor}
++ 보고 및 모니터링 {#report-and-monitor}
    + [측정 및 보고 - 개요](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [라이브 및 글로벌 보고서](/help/report-and-monitor/live-and-global-reports.md)
    + [채널 수준 보고서](/help/report-and-monitor/channel-level-reports.md)
@@ -160,14 +160,14 @@ ht-degree: 99%
       + [이벤트 만들기](/help/set-up-journeys/create-events.md)
       + [작업 만들기](/help/set-up-journeys/create-actions.md)
    + 비즈니스 규칙 {#business-rules}
-      + [빈도 캡핑 규칙 구성](/help/business-rules/configure-frequency-capping-rules.md)
+      + [빈도 설정 규칙 구성](/help/business-rules/configure-frequency-capping-rules.md)
       + [규칙 세트 작업](/help/business-rules/work-with-rule-sets.md)
       + [빈도 규칙 테스트 및 보고](/help/business-rules/test-and-report-on-frequency-rules.md)
 + 액세스 제어 {#access-control}
    + [액세스 관리](/help/set-up-access/access-management.md)
    + [속성 기반 액세스 제어 구성](/help/administration/attribute-based-access-control.md)
    + [샌드박스 사용](/help/set-up-access/create-and-manage-sandboxes.md)
-+ 데이터 거버넌스 및 개인 정보 {#data-governance-and-privacy}
++ 데이터 거버넌스 및 개인 정보 보호 {#data-governance-and-privacy}
    + [데이터 거버넌스 프레임워크](/help/privacy/data-governance-framework.md)
    + [레이블을 사용한 데이터 분류](/help/privacy/classify-data-using-lables.md)
    + [데이터 사용 정책 만들기](/help/privacy/create-data-usage-policies.md)
@@ -179,5 +179,5 @@ ht-degree: 99%
 + [Experience League Live 쇼 녹화본](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
-   + [컨닝 페이퍼](/help/summit-lab-assets/l535-assets.md)
+   + [요약 가이드](/help/summit-lab-assets/l535-assets.md)
    + [모바일 앱 설치](/help/summit-lab-assets/install-mobile-app.md)
