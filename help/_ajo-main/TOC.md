@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: ht
-source-wordcount: '662'
-ht-degree: 100%
+source-git-commit: 602252c2f39bb97486460486ef9a6fec628a3aee
+workflow-type: tm+mt
+source-wordcount: '671'
+ht-degree: 99%
 
 ---
 
@@ -89,22 +89,25 @@ ht-degree: 100%
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
 + 콘텐츠 관리{#content-management}
    + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
-   + [디지털 자산 관리 - 개요](/help/content-management/digital-asset-management-overview.md)
-   + [자산 관리](/help/assets-essentials-overview.md)
-   + [Adobe Express를 사용한 자산 편집](/help/content-management/edit-assets-with-adobe-express.md)
-   + [조각 관리](/help/content-management/manage-fragments.md)
-   + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
-   + [실험 - 개요](/help/content-management/experimentation-overview.md)
-   + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
+   + [자산 관리]{#assets}
+      + [디지털 자산 관리 - 개요](/help/content-management/digital-asset-management-overview.md)
+      + [자산 관리](/help/assets-essentials-overview.md)
+      + [Adobe Express를 사용한 자산 편집](/help/content-management/edit-assets-with-adobe-express.md)
+   + 조각을 사용한 작업 {#fragments}
+      + [조각 관리](/help/content-management/manage-fragments.md)
+      + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
+      + [AEM 컨텐츠 조각 사용](/help/content-management/aem_content_fragments.md)
+   + 콘텐츠 템플릿{#content-templates}
+      + [콘텐츠 템플릿 만들기](/help/content-management/templates/create-content-templates.md)
+      + [템플릿의 콘텐츠 잠그기](/help/content-management/templates/content-locking.md)
    + 다국어 메시지 {#multilingual-messaging}
       + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
       + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
    + 콘텐츠 생성용 AI 어시스턴트 {#content-accelerator}
       + [콘텐츠 생성용 AI 어시스턴트 - 개요](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-   + 콘텐츠 템플릿{#content-templates}
-      + [콘텐츠 템플릿 만들기](/help/content-management/templates/create-content-templates.md)
-      + [템플릿의 콘텐츠 잠그기](/help/content-management/templates/content-locking.md)
+   + [실험 - 개요](/help/content-management/experimentation-overview.md)
+   + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
 + 콘텐츠 개인화 {#personalize-content}
    + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
