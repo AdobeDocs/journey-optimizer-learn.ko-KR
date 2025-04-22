@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
-workflow-type: ht
-source-wordcount: '378'
-ht-degree: 100%
+source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
+workflow-type: tm+mt
+source-wordcount: '375'
+ht-degree: 90%
 
 ---
 
@@ -49,15 +49,15 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="AI 어시스턴트 콘텐츠 가속기로 콘텐츠 만들기(비디오)" src="../assets/3434635.jpg"/>
+      <img alt="AI Assistant Content Accelerator를 사용하여 콘텐츠 만들기(비디오)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>AI 어시스턴트 콘텐츠 가속기로 콘텐츠 만들기</strong>
-    </a>
+    <strong>AI Assistant Content Accelerator를 사용하여 콘텐츠 만들기</strong>
+    </a>
     </div>
     <p>
-    <em>AI 어시스턴트 콘텐츠 가속기로 텍스트 및 이미지 모두에 대한 콘텐츠 베리에이션 제안을 먼저 적극적으로 생성하는 방법에 대해 알아봅니다.
+    <em>AI Assistant Content Accelerator를 사용하여 텍스트와 이미지 모두에 대한 사전 예방 콘텐츠 변형 제안을 생성하는 방법을 알아봅니다.
 </em>
     <p>
   </td>
