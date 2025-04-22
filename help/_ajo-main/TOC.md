@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 4c7d047593ce5c8be7b8120ce65a9363a4e088fe
+source-git-commit: bc284bc408bb05e9454b3de4193b05c95643797b
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 99%
@@ -96,7 +96,7 @@ ht-degree: 99%
    + 조각을 사용한 작업 {#fragments}
       + [조각 관리](/help/content-management/manage-fragments.md)
       + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
-      + [AEM 컨텐츠 조각 사용](/help/content-management/aem_content_fragments.md)
+      + [AEM 컨텐츠 조각 사용](/help/content-management/aem-content-fragments.md)
    + 콘텐츠 템플릿{#content-templates}
       + [콘텐츠 템플릿 만들기](/help/content-management/templates/create-content-templates.md)
       + [템플릿의 콘텐츠 잠그기](/help/content-management/templates/content-locking.md)
