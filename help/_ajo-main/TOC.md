@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 602252c2f39bb97486460486ef9a6fec628a3aee
+source-git-commit: 4c7d047593ce5c8be7b8120ce65a9363a4e088fe
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 99%
@@ -105,7 +105,7 @@ ht-degree: 99%
       + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
    + 콘텐츠 생성용 AI 어시스턴트 {#content-accelerator}
       + [콘텐츠 생성용 AI 어시스턴트 - 개요](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+      + [콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
    + [실험 - 개요](/help/content-management/experimentation-overview.md)
    + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
 + 콘텐츠 개인화 {#personalize-content}
