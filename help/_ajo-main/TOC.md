@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 6dd5b60426226724bb7855594fac387f7f6d8a7d
+source-git-commit: b85a915543769e5af2e873bc7c1cb57286d78fe8
 workflow-type: tm+mt
-source-wordcount: '671'
-ht-degree: 99%
+source-wordcount: '675'
+ht-degree: 98%
 
 ---
 
@@ -92,6 +92,7 @@ ht-degree: 99%
    + 자산 관리 {#assets}
       + [디지털 자산 관리 - 개요](/help/content-management/digital-asset-management-overview.md)
       + [자산 관리](/help/assets-essentials-overview.md)
+      + [AEM Dynamic Media 통합](/help/content-management/aem-dynamic-media-integration.md)
       + [Adobe Express를 사용한 자산 편집](/help/content-management/edit-assets-with-adobe-express.md)
    + 조각을 사용한 작업 {#fragments}
       + [조각 관리](/help/content-management/manage-fragments.md)
