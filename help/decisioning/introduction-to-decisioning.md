@@ -1,6 +1,6 @@
 ---
 title: 결정 소개
-description: Journey Optimizer의 Decisioning 기능에 대해 알아봅니다.
+description: Journey Optimizer의 의사 결정 기능에 대해 알아봅니다.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -14,7 +14,7 @@ exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 69%
+ht-degree: 80%
 
 ---
 
