@@ -97,7 +97,7 @@ ht-degree: 98%
    + 조각을 사용한 작업 {#fragments}
       + [조각 관리](/help/content-management/manage-fragments.md)
       + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
-      + [AEM 컨텐츠 조각 사용](/help/content-management/aem-content-fragments.md)
+      + [AEM 콘텐츠 조각 사용](/help/content-management/aem-content-fragments.md)
    + 콘텐츠 템플릿{#content-templates}
       + [콘텐츠 템플릿 만들기](/help/content-management/templates/create-content-templates.md)
       + [템플릿의 콘텐츠 잠그기](/help/content-management/templates/content-locking.md)
