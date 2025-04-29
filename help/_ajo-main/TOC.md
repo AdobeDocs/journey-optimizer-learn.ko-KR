@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: b85a915543769e5af2e873bc7c1cb57286d78fe8
+source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '678'
 ht-degree: 98%
 
 ---
@@ -117,6 +117,7 @@ ht-degree: 98%
    + [개인화에 도우미 기능 사용](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)
+   + [Personalization 편집기 플레이그라운드](/help/personalize-content/personalization-editor-playground.md)
 + 결정 기능{#decision-capabilities}
    + 결정 {#decisioning}
       + [결정 소개](/help/decisioning/introduction-to-decisioning.md)
