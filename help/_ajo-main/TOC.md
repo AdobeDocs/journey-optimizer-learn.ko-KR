@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
+source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 98%
+source-wordcount: '696'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
+
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 소개](/help/introduction/introduction.md)
@@ -181,7 +182,13 @@ ht-degree: 98%
 + 연습 및 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
-+ [Experience League Live 쇼 녹화본](/help/experience-league-live-show-recordings.md)
++ [Experience League 라이브 쇼 녹화](/help/experience-league-live-show-recordings.md)
++ 웹 SDK을 사용하여 대상자 만들기 {#tutorial-creating-audiences}
+   + [소개](../tutorial-creating-audience/introduction.md)
+   + [스키마, 데이터 세트 만들기..등](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [AEP 태그 만들기](../tutorial-creating-audience/create-aep-tags.md)
+   + [웹 양식 만들기](../tutorial-creating-audience/create-web-form.md)
+   + [솔루션 디버그](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
    + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [요약 가이드](/help/summit-lab-assets/l535-assets.md)
