@@ -21,6 +21,6 @@ ht-degree: 100%
 
 작업이 무엇인지, Journey Optimizer에서 프로필 편집 및 이동 작업을 사용하는 방법과 사용자 정의 작업을 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430279?quality=12&learn=on&captions=kor){transcript=true}
 
 [사용자 정의 작업 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}에 대한 자세한 내용은 제품 설명서를 참조하십시오.

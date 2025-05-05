@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Journey Optimizer 캠페인 및 여정에서 SMS 메시지를 구성하고 작성하고 게재하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420509?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422697?quality=12&learn=on&captions=kor){transcript=true}

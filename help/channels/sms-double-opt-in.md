@@ -21,4 +21,4 @@ ht-degree: 57%
 
 SMS에 대한 이중 옵트인을 구성하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440286/?learn=on&captions=kor)

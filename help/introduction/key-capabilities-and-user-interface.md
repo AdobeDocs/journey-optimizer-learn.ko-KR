@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Journey Optimizer의 주요 기능 및 대상으로 가정하는 사용자를 이해합니다. 사용자 인터페이스를 탐색하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430319?quality=12&learn=on&captions=kor){transcript=true}

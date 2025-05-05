@@ -20,4 +20,4 @@ ht-degree: 100%
 
 메시지에 프로필 기반 개인화를 추가하는 방법과 개인화 블록의 전제 조건으로 대상자 멤버십을 사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416272?quality=12&learn=on&captions=kor){transcript=true}

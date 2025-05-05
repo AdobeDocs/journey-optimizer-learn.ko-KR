@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer의 플레이북 기능을 사용하여 포기한 장바구니 사용 사례를 구현하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443971/?learn=on&enablevpops&captions=kor)

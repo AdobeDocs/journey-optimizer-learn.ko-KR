@@ -18,6 +18,6 @@ ht-degree: 100%
 
 의사 결정 관리에 사용할 [대체 오퍼](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html?lang=ko)를 만드는 방법을 알아봅니다. 대체 오퍼는 맞춤형 오퍼에 대한 자격이 없는 고객에게 표시되는 기본 오퍼입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341359?quality=12&learn=on&captions=kor){transcript=true}
 
 API로 대체 오퍼를 만드는 방법에 대한 자세한 내용은 [제품 안내서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=ko)를 참조하십시오.

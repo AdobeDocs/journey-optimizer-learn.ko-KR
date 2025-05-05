@@ -19,6 +19,6 @@ ht-degree: 100%
 
 의사 결정 관리에 사용할 [결정](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html?lang=ko)을 만드는 방법을 알아봅니다. 의사 결정은 배치와 컬렉션을 하나의 엔터티로 결합하므로 고객에게 가장 연관성 높은 오퍼를 게재하는 결정을 내릴 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346696?quality=12&learn=on&captions=kor){transcript=true}
 
 Batch Decisioning API를 사용하여 결정을 만드는 방법에 대한 자세한 내용은 [제품 안내서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html?lang=ko)를 참조하십시오.

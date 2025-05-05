@@ -22,4 +22,4 @@ ht-degree: 100%
 
 애플리케이션에 사용할 콘텐츠 카드를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434790/?learn=on&captions=kor)

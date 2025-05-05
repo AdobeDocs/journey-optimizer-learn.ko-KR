@@ -19,4 +19,4 @@ ht-degree: 100%
 
 콘텐츠 템플릿을 만들고 편집하고 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413743?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418588?quality=12&learn=on&captions=kor){transcript=true}

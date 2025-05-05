@@ -20,4 +20,4 @@ ht-degree: 100%
 
 DM(다이렉트 메일) 채널을 설정하는 방법과 DM 캠페인을 만들고 미리 보는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449361/?learn=on&captions=kor){transcript=true}

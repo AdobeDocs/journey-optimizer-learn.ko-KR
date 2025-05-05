@@ -20,5 +20,5 @@ ht-degree: 100%
 
 이벤트를 구성하고 스트리밍 엔드포인트 및 이벤트에 대한 페이로드를 지정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431519?quality=12&learn=on&captions=kor){transcript=true}
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 데이터 마스킹의 의미와 데이터를 마스크해야 하는 시기 및 이유를 파악합니다. Journey Optimizer 메시지에서 데이터를 마스킹하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413049?quality=12&learn=on&captions=kor){transcript=true}

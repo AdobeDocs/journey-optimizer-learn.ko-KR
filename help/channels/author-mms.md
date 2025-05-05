@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Journey Optimizer를 MMS 서비스 제공자에 연결하는 방법과 MMS 채널 표면을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437107/?learn=on&captions=kor)

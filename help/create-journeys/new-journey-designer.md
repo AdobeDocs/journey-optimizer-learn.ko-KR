@@ -22,4 +22,4 @@ ht-degree: 100%
 
 새롭게 디자인된 여정 캔버스와 여정에서 라이브 보고를 활용하는 방법을 살펴볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443602/?learn=on&captions=kor){transcript=true}

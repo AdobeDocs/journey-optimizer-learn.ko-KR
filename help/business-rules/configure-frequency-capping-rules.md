@@ -20,6 +20,6 @@ ht-degree: 65%
 
 빈도 상한 설정 규칙을 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433402/?learn=on&captions=kor)
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/frequency-rules)를 참조하십시오.

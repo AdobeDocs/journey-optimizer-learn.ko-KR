@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Litmus를 사용하여 여러 받은 편지함에서 이메일 렌더링을 테스트하고, 테스트 프로필에 따라 개인화 이메일을 미리보고, 교정쇄를 보내고, 이메일을 게시하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430340?quality=12&learn=on&captions=kor){transcript=true}

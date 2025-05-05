@@ -20,4 +20,4 @@ ht-degree: 100%
 
 소스 커넥터의 정의와 Journey Optimizer에서 소스 커넥터를 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422585?quality=12&learn=on&captions=kor){transcript=true}

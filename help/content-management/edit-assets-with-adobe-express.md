@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Adobe Express 도구를 사용하여 Adobe Journey Optimizer에서 자산을 편집하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455530/?learn=on&enablevpops&captions=kor)
 
 콘텐츠 편집기에서 이 기능에 액세스하는 자세한 방법은 [Journey Optimizer 제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/assets-images/express)를 참조하십시오. Adobe Express에 대한 자세한 내용은 [이 설명서](https://helpx.adobe.com/kr/express/user-guide.html)를 참조하십시오.

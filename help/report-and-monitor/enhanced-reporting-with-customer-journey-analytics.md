@@ -21,4 +21,4 @@ ht-degree: 100%
 이제 Journey Optimizer의 보고 기능이 Customer Journey Analytics 기능과 완전히 통합되어 양 플랫폼의 보고를 표준화하고 데이터의 일관성과 안정성을 개선합니다. 이렇게 Journey Optimizer와 Customer Journey Analytics가 원활하게 통합됨으로써 사용자가 성과 지표를 보다 명확하게 확인하여 더욱 정보에 근거한 결정을 내릴 수 있습니다.
 자세한 설명서는 [Customer Journey Analytics의 분석](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}을 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443158/?learn=on&captions=kor)

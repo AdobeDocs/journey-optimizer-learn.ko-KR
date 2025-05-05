@@ -23,4 +23,4 @@ ht-degree: 100%
 * 메시지에 구독(구독 취소) 옵션 통합
 * 관련 여정 구성
 
->[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344401?quality=12&learn=on&captions=kor){transcript=true}

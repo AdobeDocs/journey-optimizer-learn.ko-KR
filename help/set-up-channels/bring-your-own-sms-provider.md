@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Journey Optimizer 내에서 기본 공급자인 Sinch, Infobip, Twilio 외에 추가 SMS 공급자를 추가하고 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432088/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443635/?learn=on&captions=kor)

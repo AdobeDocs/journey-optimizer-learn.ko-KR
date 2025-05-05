@@ -23,4 +23,4 @@ ht-degree: 100%
 
 메시지 사전 설정을 만들고 사용하는 방법과 하위 도메인을 위임하고 IP 풀을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416661?quality=12&learn=on&captions=kor){transcript=true}

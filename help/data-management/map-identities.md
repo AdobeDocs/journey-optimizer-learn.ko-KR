@@ -20,4 +20,4 @@ ht-degree: 100%
 
 스키마 필드에 ID 레이블을 지정하는 방법과 적절한 시점, 네임스페이스를 만드는 방법, 특정 ID를 기본 ID로 만들어야 할 시점, ID 데이터를 수집 및 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418472?quality=12&learn=on&captions=kor){transcript=true}

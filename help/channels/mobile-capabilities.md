@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer이 마케터에게 제공하는 모바일 기능을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430374?quality=12&learn=on&captions=kor){transcript=true}

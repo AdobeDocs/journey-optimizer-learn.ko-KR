@@ -21,7 +21,7 @@ ht-degree: 100%
 
 다음 비디오에서 이벤트를 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431519?quality=12&learn=on&captions=kor){transcript=true}
 
 ## Luma 온라인 구매 이벤트 만들기
 

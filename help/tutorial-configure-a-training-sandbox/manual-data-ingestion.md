@@ -19,7 +19,7 @@ ht-degree: 100%
 
 다음 비디오 튜토리얼에서는 데이터 세트를 만들고 데이터를 수동으로 수집하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416651?quality=12&learn=on&captions=kor){transcript=true}
 
 다음 데이터 세트를 만듭니다.
 

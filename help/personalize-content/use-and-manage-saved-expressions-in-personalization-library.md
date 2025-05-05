@@ -18,4 +18,4 @@ ht-degree: 100%
 
 저장한 개인화 라이브러리 항목을 메시지에 사용하는 방법과 개인화 라이브러리 항목을 만들고 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344988?quality=12&learn=on&captions=kor){transcript=true}

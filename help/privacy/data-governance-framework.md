@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Adobe Experience Platform의 데이터 거버넌스 프레임워크를 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32135/?learn=on&captions=kor)
 
 Journey Optimizer의 [데이터 거버넌스](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/action-privacy-restricted)에 대한 자세한 내용은 제품 설명서를 참조하십시오.
 

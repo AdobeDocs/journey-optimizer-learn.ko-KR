@@ -21,4 +21,4 @@ ht-degree: 100%
 
 조건 규칙을 만들고 저장하는 방법과 이러한 조건 규칙을 모든 채널의 콘텐츠에 적용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409815?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413674?quality=12&learn=on&captions=kor){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 Offer Decisioning용 AI 모델을 만드는 방법과 이를 의사결정에 적용하는 방법에 대해 알아봅니다.
 기능: 오퍼
 
->[!VIDEO](https://video.tv.adobe.com/v/3419959/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444678/?learn=on&captions=kor){transcript=true}

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer에서 클라우드 스토리지 위치로 데이터 세트 내보내기에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=ko)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448825/?learn=on&captions=kor)

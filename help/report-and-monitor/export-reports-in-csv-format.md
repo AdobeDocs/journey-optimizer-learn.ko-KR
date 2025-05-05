@@ -21,4 +21,4 @@ ht-degree: 100%
 
 보고서 및 단일 위젯에 대한 CSV 보고서를 다운로드하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439618/?learn=on&captions=kor)

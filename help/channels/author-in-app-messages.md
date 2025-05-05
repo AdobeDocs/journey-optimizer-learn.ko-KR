@@ -19,7 +19,7 @@ ht-degree: 100%
 
 인앱 메시지를 작성하고 테스트하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410471?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422079?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

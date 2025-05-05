@@ -22,4 +22,4 @@ ht-degree: 100%
 
 표현식 조각을 만들고 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438924/?learn=on&captions=kor)
