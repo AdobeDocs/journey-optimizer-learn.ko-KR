@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 이 비디오는 교육 과정의 일부이며, [마케터용 의사 결정 관리 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 교육 과정의 일부이며, [마케터용 의사 결정 관리 시작하기](https://experienceleague.adobe.com/?lang=ko&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)는 Experience League에서 무료로 사용할 수 있습니다.

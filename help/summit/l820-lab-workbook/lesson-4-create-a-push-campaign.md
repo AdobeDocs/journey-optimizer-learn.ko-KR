@@ -211,7 +211,7 @@ ht-degree: 2%
 
 **제품 설명서:**
 
-* [푸시 알림 시작](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
-* [푸시 알림 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
-* [푸시 알림 디자인](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
-* [푸시 알림 확인 및 보내기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
+* [푸시 알림 시작](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/push/get-started-push)
+* [푸시 알림 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/push/create-push)
+* [푸시 알림 디자인](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/push/design-push)
+* [푸시 알림 확인 및 보내기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/push/send-push)

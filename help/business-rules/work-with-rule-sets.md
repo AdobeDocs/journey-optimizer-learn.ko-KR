@@ -22,4 +22,4 @@ ht-degree: 15%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/rule-sets)를 참조하십시오.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/rule-sets)를 참조하십시오.
