@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
+source-git-commit: 036ac1b9cf1618ff1e4727fc1560dee8dddb7c9f
 workflow-type: tm+mt
-source-wordcount: '696'
-ht-degree: 95%
+source-wordcount: '707'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
+   + [오케스트레이션을 옴니채널 참여로 크기 조정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement){target="_blank"}
 
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
@@ -190,6 +191,6 @@ ht-degree: 95%
    + [웹 양식 만들기](../tutorial-creating-audience/create-web-form.md)
    + [솔루션 디버그](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
-   + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
-   + [요약 가이드](/help/summit-lab-assets/l535-assets.md)
-   + [모바일 앱 설치](/help/summit-lab-assets/install-mobile-app.md)
+   + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Adobe Journey Optimizer에서 옴니채널 참여로 오케스트레이션 크기 조정(2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+
