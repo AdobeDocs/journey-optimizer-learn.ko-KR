@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 036ac1b9cf1618ff1e4727fc1560dee8dddb7c9f
+source-git-commit: 0b3b022f682c7835d726b6f75bf26430b0b9de9a
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 93%
@@ -17,7 +17,7 @@ ht-degree: 93%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [오케스트레이션을 옴니채널 참여로 크기 조정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement){target="_blank"}
+   + [오케스트레이션을 옴니채널 참여로 크기 조정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
