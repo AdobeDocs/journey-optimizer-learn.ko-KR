@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17875
 index: false
 exl-id: e3a93300-e5db-4c8b-8afc-18f101db93d0
-source-git-commit: 4bc6062a440fb62b8a05c1bcfb5244eb75fb72c8
+source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 6%
 
 ---
 
@@ -26,3 +26,7 @@ ht-degree: 0%
 이 연습에서는 동적 콘텐츠를 SMS에 적용하는 경우를 예로 들었지만, 모든 채널에 적용할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
+
+## 추가 리소스
+
+* [조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)
