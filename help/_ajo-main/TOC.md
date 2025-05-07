@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: f24ee1c6024e7ed7242448fe119a1437d6a69cb6
+source-git-commit: 55af4c67ad3839ac306416bdf58d7d98602cd8d3
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 93%
+source-wordcount: '726'
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,6 @@ ht-degree: 93%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [오케스트레이션을 옴니채널 참여로 크기 조정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
@@ -190,6 +189,18 @@ ht-degree: 93%
    + [AEP 태그 만들기](../tutorial-creating-audience/create-aep-tags.md)
    + [웹 양식 만들기](../tutorial-creating-audience/create-web-form.md)
    + [솔루션 디버그](../tutorial-creating-audience/debug.md)
++ 웹 페이지에서 의사 결정 {#getting-started-with-decisioning-webpage}
+   + [소개](../getting-started-with-decisioning-webpage/introduction.md)
+   + [태그 만들기](../getting-started-with-decisioning-webpage/create-tags.md)
+   + [오퍼 만들기](../getting-started-with-decisioning-webpage/create-offers.md)
+   + [컬렉션 만들기](../getting-started-with-decisioning-webpage/create-collection.md)
+   + [선택 전략 만들기](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
+   + [채널 만들기](../getting-started-with-decisioning-webpage/create-channel.md)
+   + [캠페인 만들기](../getting-started-with-decisioning-webpage/create-campaign.md)
+   + [의사 결정 정책 만들기](../getting-started-with-decisioning-webpage/create-decision-policy.md)
+   + [AEP 태그 만들기](../getting-started-with-decisioning-webpage/create-aep-tags.md)
+   + [웹 페이지 만들기](../getting-started-with-decisioning-webpage/create-web-page.md)
+
 + Summit Labs {#summit-labs}
    + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Adobe Journey Optimizer에서 옴니채널 참여로 오케스트레이션 크기 조정(2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
