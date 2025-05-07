@@ -7,15 +7,15 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: 9695a4db0d0caa44a8c7d49e069320309ffc40a6
+exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
+source-git-commit: 5ab637d9b9955ab334ee67ed887e34026b04206d
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '271'
 ht-degree: 1%
 
 ---
 
-
-# 사용자 투자 환경 설정(주식, 채권, CD)을 기반으로 AJO 대상 만들기
+# 대상자를 기반으로 한 AJO Decisioning을 사용하여 웹 페이지 오퍼 개인화
 
 이 자습서는 Adobe Experience Platform(AEP) Web SDK을 사용하여 이전에 만든 대상 세분화 설정을 기반으로 합니다. 이전 자습서에서는 사용자 환경 설정(예: 주식, 채권 또는 CD(Certificate of Deposit)에 대한 관심)을 캡처하여 Adobe Experience Platform(AEP) 내의 타기팅된 대상으로 개인을 세분화하는 데 사용했습니다. 이 튜토리얼은 Adobe Journey Optimizer(AJO) Decisioning을 사용하여 해당 대상자에게 실시간으로 개인화된 금융 오퍼를 전달하여 참여 및 전환 결과를 모두 향상시킴으로써 그러한 기반을 기반으로 합니다.
 
@@ -47,8 +47,3 @@ ht-degree: 1%
 * AEP 웹 SDK(Alloy.js)
 * AEP Edge 세그멘테이션
 * 오퍼를 표시하는 웹 페이지
-
-
-
-
-
