@@ -202,6 +202,6 @@ ht-degree: 92%
    + [웹 페이지 만들기](../getting-started-with-decisioning-webpage/create-web-page.md)
 
 + Summit Labs {#summit-labs}
-   + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Adobe Journey Optimizer에서 옴니채널 참여로 오케스트레이션 크기 조정(2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Adobe Journey Optimizer에서 옴니채널 참여로 오케스트레이션 크기 조정(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
