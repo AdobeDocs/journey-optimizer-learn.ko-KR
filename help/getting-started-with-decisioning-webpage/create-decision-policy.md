@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: a675979bc590190e0481e63efbc2cfd30752b7c0
+exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
+source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # 의사 결정 정책 만들기
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 이 코드는 사용자에 대해 선택된 개인화된 오퍼 목록을 통과하고 웹 페이지에 있는 각 오퍼에 대한 텍스트를 표시합니다. 단락 내의 각 오퍼에서 메시지(offerText라고 함)를 표시하므로 사용자가 맞춤화된 콘텐츠를 명확하게 볼 수 있습니다.
 사용할 수 있는 개인화된 오퍼가 없는 경우 대체 오퍼가 표시되어 공백이 남지 않도록 합니다.
 
-저장 을 클릭한 다음 캠페인을 활성화합니다.
+저장 을 클릭한 다음 캠페인 활성화 를 클릭합니다.
