@@ -20,7 +20,7 @@ ht-degree: 0%
 
 * Adobe Experience Platform에 로그인
 
-* Journey Optimizer에서 Financial Advisor라는 XDM 이벤트 기반 스키마를 만듭니다. 스키마 만들기에 익숙하지 않은 경우 이 [설명서](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)를 따르십시오.
+* Journey Optimizer에서 Financial Advisor라는 XDM 이벤트 기반 스키마를 만듭니다. 스키마 만들기에 익숙하지 않은 경우 이 [설명서](https://experienceleague.adobe.com/ko/docs/experience-platform/xdm/tutorials/create-schema-ui)를 따르십시오.
 
 * 스키마에 다음 구조를 추가합니다. PreferredFinancialInstrument 요소는 주식, 채권, CD에 대한 사용자의 선호도를 저장합니다
   ![xdm-schema](assets/xdm-schema.png)
