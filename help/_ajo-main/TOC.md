@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
+source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '714'
 ht-degree: 96%
 
 ---
@@ -17,10 +17,8 @@ ht-degree: 96%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [사용자 환경 설정에 따라 대상 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [웹 페이지의 의사 결정](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [고객 참여 향상](/help/use-cases/enhance-customer-engagement.md)
    + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 소개](/help/introduction/introduction.md)
@@ -55,6 +53,7 @@ ht-degree: 96%
    + [통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV 파일을 업로드하여 대상자 만들기](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [웹 SDK을 사용하여 대상 만들기(튜토리얼)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
    + [온디맨드 대상자 평가](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + 채널 {#channels}
@@ -140,6 +139,7 @@ ht-degree: 96%
       + [의사 결정 만들기](/help/decision-management/create-decisions.md)
       + [Decisions API를 사용하여 오퍼 제공](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [빈도 상한 설정](/help/decision-management/frequency-capping.md)
+   + [의사 결정을 사용하여 웹 오퍼를 개인화합니다(튜토리얼)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction)
 + 데이터 관리 {#data-management}
    + [개요](/help/data-management/set-up-data-overview.md)
    + [스키마 만들기](/help/data-management/create-schema.md)
@@ -187,24 +187,6 @@ ht-degree: 96%
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
 + [Experience League Live 쇼 녹화본](/help/experience-league-live-show-recordings.md)
-+ 웹 SDK를 사용하여 대상자 만들기 {#tutorial-creating-audiences}
-   + [소개](../tutorial-creating-audience/introduction.md)
-   + [스키마, 데이터 세트...등 만들기](../tutorial-creating-audience/create-schema-and-dataset.md)
-   + [AEP 태그 만들기](../tutorial-creating-audience/create-aep-tags.md)
-   + [웹 양식 만들기](../tutorial-creating-audience/create-web-form.md)
-   + [솔루션 디버그](../tutorial-creating-audience/debug.md)
-+ 웹 페이지에서 의사 결정 {#getting-started-with-decisioning-webpage}
-   + [소개](../getting-started-with-decisioning-webpage/introduction.md)
-   + [태그 만들기](../getting-started-with-decisioning-webpage/create-tags.md)
-   + [오퍼 만들기](../getting-started-with-decisioning-webpage/create-offers.md)
-   + [컬렉션 만들기](../getting-started-with-decisioning-webpage/create-collection.md)
-   + [선택 전략 만들기](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
-   + [채널 만들기](../getting-started-with-decisioning-webpage/create-channel.md)
-   + [캠페인 만들기](../getting-started-with-decisioning-webpage/create-campaign.md)
-   + [의사 결정 정책 만들기](../getting-started-with-decisioning-webpage/create-decision-policy.md)
-   + [AEP 태그 만들기](../getting-started-with-decisioning-webpage/create-aep-tags.md)
-   + [웹 페이지 만들기](../getting-started-with-decisioning-webpage/create-web-page.md)
-
 + Summit Labs {#summit-labs}
    + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
