@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
 workflow-type: tm+mt
 source-wordcount: '751'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 89%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [사용자 환경 설정에 따라 대상 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [웹 페이지의 의사 결정](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
-   + [오케스트레이션을 옴니채널 참여로 크기 조정](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [사용자 환경 설정에 따라 대상 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + 웹 페이지의 [의사 결정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
@@ -122,7 +122,7 @@ ht-degree: 89%
    + [개인화에 도우미 기능 사용](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)
-   + [Personalization 편집기 플레이그라운드](/help/personalize-content/personalization-editor-playground.md)
+   + [개인화 편집기 플레이그라운드](/help/personalize-content/personalization-editor-playground.md)
 + 결정 기능{#decision-capabilities}
    + 결정 {#decisioning}
       + [결정 소개](/help/decisioning/introduction-to-decisioning.md)
@@ -186,10 +186,10 @@ ht-degree: 89%
 + 연습 및 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
-+ [Experience League 라이브 쇼 녹화](/help/experience-league-live-show-recordings.md)
-+ 웹 SDK을 사용하여 대상자 만들기 {#tutorial-creating-audiences}
++ [Experience League Live 쇼 녹화본](/help/experience-league-live-show-recordings.md)
++ 웹 SDK를 사용하여 대상자 만들기 {#tutorial-creating-audiences}
    + [소개](../tutorial-creating-audience/introduction.md)
-   + [스키마, 데이터 세트 만들기..등](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [스키마, 데이터 세트...등 만들기](../tutorial-creating-audience/create-schema-and-dataset.md)
    + [AEP 태그 만들기](../tutorial-creating-audience/create-aep-tags.md)
    + [웹 양식 만들기](../tutorial-creating-audience/create-web-form.md)
    + [솔루션 디버그](../tutorial-creating-audience/debug.md)
@@ -207,5 +207,5 @@ ht-degree: 89%
 
 + Summit Labs {#summit-labs}
    + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Adobe Journey Optimizer에서 옴니채널 참여로 오케스트레이션 크기 조정(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
