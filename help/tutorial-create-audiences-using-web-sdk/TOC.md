@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: web-sdk를 사용하여 대상자 만들기
 breadcrumb-url: /docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction
 auto-video-transcripts: true
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+source-git-commit: 15b2379c251ed0d7583a01fb6af67815322456cf
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 14%
+source-wordcount: '91'
+ht-degree: 16%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 14%
 
 + [소개](./introduction.md)
 + [스키마, 데이터 세트...등 만들기](./create-schema-and-dataset.md)
++ [대상자 만들기](./create-audiences.md)
 + [AEP 태그 만들기](./create-aep-tags.md)
 + [웹 양식 만들기](./create-web-form.md)
 + [솔루션 디버그](./debug.md)
