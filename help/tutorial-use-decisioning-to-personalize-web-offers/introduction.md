@@ -1,6 +1,6 @@
 ---
-title: 의사 결정을 사용하여 웹 오퍼 개인화
-description: Adobe Journey Optimizer(AJO) Decisioning을 사용하여 Adobe Experience Platform(AEP)에 내장된 대상 세분화를 활용하여 웹 페이지에 개인화된 오퍼를 제공하는 방법을 알아봅니다.
+title: Decisioning을 사용하여 웹 오퍼 개인화
+description: Journey Optimizer(AJO) Decisioning을 사용하여 Experience Platform(AEP)에 내장된 대상 세분화를 활용하여 웹 페이지에 개인화된 오퍼를 제공하는 방법을 알아봅니다.
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 0c42bf9a9af53bf80a14d904733ae0c1f03be0ee
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '261'
 ht-degree: 1%
 
 ---
