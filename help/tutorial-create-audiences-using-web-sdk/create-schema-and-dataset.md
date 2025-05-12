@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * _재무 관리자_&#x200B;라는 XDM 이벤트 기반 스키마를 만듭니다. 스키마 만들기에 익숙하지 않은 경우 이 [설명서](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)를 따르십시오.
 
-* 스키마에 다음 구조를 추가합니다. PreferredFinancialInstrument 요소는 주식, 채권, CD에 대한 사용자의 선호도를 저장합니다. **__techmarketingdemos_**은(는) 테넌트 ID이며 환경에서 서로 다릅니다.
+* 스키마에 다음 구조를 추가합니다. PreferredFinancialInstrument 요소는 주식, 채권, CD에 대한 사용자의 선호도를 저장합니다. **__techmarketingdemos_**&#x200B;은(는) 테넌트 ID이며 환경에서 서로 다릅니다.
   ![xdm-schema](assets/xdm-schema.png)
 
 * PreferredFinancialInstrument 요소에 아래와 같이 정의된 열거형 값이 있습니다.
