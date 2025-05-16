@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: f6ddb0f7b8b7570582eaaa3b20fd3a70450cdaf1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
 <tr>
     <td>
     <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-      <img alt="AI Assistant를 사용하여 콘텐츠 생성(비디오)" src="../assets/3434635.jpg"/>
+      <img alt="콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기(비디오)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-    <strong>콘텐츠 생성을 위해 AI Assistant를 사용하여 콘텐츠 만들기</strong>
+    <strong>콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기</strong>
     </a>
     </div>
     <p>
-    <em>콘텐츠 생성에 AI Assistant를 사용하여 텍스트와 이미지 모두에 대한 사전 예방 콘텐츠 변형 제안을 생성하는 방법을 알아봅니다.
+    <em>콘텐츠 생성용 AI 어시스턴트로 텍스트 및 이미지 모두에 대한 콘텐츠 베리에이션 제안을 먼저 적극적으로 생성하는 방법에 대해 알아봅니다.
 </em>
     <p>
   </td>
