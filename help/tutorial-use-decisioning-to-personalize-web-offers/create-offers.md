@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
-source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
+source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,8 @@ AJO에서 오퍼 항목을 만들 때 [!UICONTROL 의사 결정 스키마]를 �
    각 오퍼에 대해 이 문서의 끝에 제공된 해당 오퍼 텍스트를 복사하여 해당 오퍼 항목에 붙여넣습니다.
 
 1. 이전 단계에서 생성된 태그로 오퍼에 태그를 지정합니다.
-
+1. 각 오퍼에 적절한 대상을 추가합니다.
+   ![오퍼 자격](assets/offer-eligibility.png)
 1. 오퍼를 승인합니다.
 
 표준 및 사용자 지정 특성이 정의된 완료된 오퍼:
