@@ -20,6 +20,6 @@ ht-degree: 29%
 
 Adobe Journey Optimizer의 플레이북 기능을 사용하여 포기한 장바구니 사용 사례를 구현하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443971/?learn=on&enablevpops&captions=kor)
 
 자세한 내용은 [플레이북 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} 및 [플레이북 인스턴스 만들기 및 게시](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}를 참조하십시오.
