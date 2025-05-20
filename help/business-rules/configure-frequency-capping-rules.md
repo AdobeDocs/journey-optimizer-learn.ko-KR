@@ -22,4 +22,4 @@ Adobe Journey Optimizer의 비즈니스 규칙을 사용하여 고객의 과도�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules)를 참조하십시오.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/frequency-rules)를 참조하십시오.
