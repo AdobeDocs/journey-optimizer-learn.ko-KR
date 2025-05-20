@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17945
 index: false
 exl-id: d2ac4c55-b40c-448a-bf88-cd85b47320ac
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 4%
+source-wordcount: '127'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,4 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457973/?learn=on&enablevpops)
 
-## 추가 리소스
-
-* [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
+이 항목에 대한 자세한 지침은 [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)를 참조하십시오.

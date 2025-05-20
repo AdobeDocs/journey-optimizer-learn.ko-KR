@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17876
 index: false
 exl-id: 2e756b8a-4fd8-47d5-99ea-4a18cdd6d974
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 0%
 
 ---
 
@@ -27,8 +27,5 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
 
-## 추가 리소스
 
-* [실험 - 개요](/help/content-management/experimentation-overview.md)
-*[이메일 캠페인에 대한 콘텐츠 실험 구성](/help/create-campaigns/content-experiments.md)
-* [푸시 알림 - 개요](/help/channels/push-notifications-overview.md)
+이 주제에 대한 자세한 지침은 [실험 - 개요](/help/content-management/experimentation-overview.md), [이메일 캠페인에 대한 콘텐츠 실험 구성](/help/create-campaigns/content-experiments.md) 및 [푸시 알림- 개요](/help/channels/push-notifications-overview.md)를 참조하십시오.
