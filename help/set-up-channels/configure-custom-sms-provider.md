@@ -22,4 +22,4 @@ Adobe Journey Optimizer에서 Sinch, Twilio 및 Infobip 이외의 SMS 공급자�
 
 자세한 내용은 [사용자 지정 SMS 공급자 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom)을 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443613/?learn=on&enablevpops&captions=kor)
