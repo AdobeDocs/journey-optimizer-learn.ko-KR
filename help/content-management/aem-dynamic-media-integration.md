@@ -12,20 +12,15 @@ jira: KT-17533
 hidefromtoc: false
 hide: false
 index: true
-badge: label="제한된 가용성" type="Informative"
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
-source-git-commit: 948d5467594acb7d3e0a4e0cc64fcf68285a71ba
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: dbe14c7a6a4a2197a6954a9920508a152dc65fc5
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 # Adobe Experience Manager Dynamic Media 통합
-
->[!AVAILABILITY]
->
->이 통합은 일부 조직에서만 사용할 수 있습니다(제한된 가용성). 액세스 권한을 받으려면 Adobe 담당자에게 문의하십시오.
 
 Adobe Experience Manager Dynamic Media를 Adobe Journey Optimizer와 통합하여 실시간 콘텐츠 업데이트 및 개인화를 활성화하는 방법에 대해 알아봅니다.
 
