@@ -1,6 +1,6 @@
 ---
 title: 잠재적 충돌 확인
-description: Adobe Journey Optimizer에서 충돌 관리 뷰어를 사용하여 너무 많은 동시 캠페인 및 커뮤니케이션으로 압도적인 고객을 방지하는 방법에 대해 알아봅니다.
+description: 대상 중복, 동시 타임라인, 공유 통신 채널 및 여정 및 캠페인 간 빈도 제한과 같은 잠재적 충돌을 식별하고 관리하여 원활하고 고객 친화적인 통신 경험을 보장하는 방법을 알아봅니다.
 feature: Journeys
 role: User
 level: Intermediate
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 203
 last-substantial-update: 2025-05-29T00:00:00Z
 jira: KT-17854
-source-git-commit: 7bc03eeca746ff5ee9394263e26b3585a1647c71
+exl-id: 2911535d-dcf2-4b24-a55f-28d750928b7c
+source-git-commit: 11a36b0557a3246126946235c6873d4b8e9a4f5a
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 11%
+source-wordcount: '70'
+ht-degree: 8%
 
 ---
 
-
 # 잠재적 충돌 확인
 
-Adobe Journey Optimizer에서 충돌 관리 뷰어를 사용하여 너무 많은 동시 캠페인 및 커뮤니케이션으로 압도적인 고객을 방지하는 방법에 대해 알아봅니다.
+대상 중복, 동시 타임라인, 공유 통신 채널 및 여정 및 캠페인 간 빈도 제한과 같은 잠재적 충돌을 식별하고 관리하여 원활하고 고객 친화적인 통신 경험을 보장하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
