@@ -22,7 +22,7 @@ ht-degree: 0%
 
 이 튜토리얼은 주요 Adobe Journey Optimizer 및 Adobe Experience Platform 개념을 기반으로 합니다. 계속하기 전에 다음 전제 조건이 충족되는지 확인하십시오.
 
-* [ID 연결 자습서](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction)이(가) 완료되었습니다. CRM ID가 Adobe Experience Platform의 ECID와 연결되어 있습니다.
+* [ID 연결 자습서](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction)이(가) 완료되었습니다. CRM ID가 Adobe Experience Platform의 ECID와 연결되어 있습니다.
 
 * 컨텐츠 정의, 메타데이터 설정 및 자격 규칙을 포함하여 AJO에서 오퍼 항목을 생성하는 방법에 익숙합니다.
 
