@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizer의 Content Card가 모바일 앱 내에서 개인화되고 흥미로운 콘텐츠를 직접 제공하는 방법을 알아봅니다.
 
 <!-- 62_S603_3442534_62_introduction-to-content-cards-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458206/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460393/?learn=on&enablevpops=true&captions=kor)

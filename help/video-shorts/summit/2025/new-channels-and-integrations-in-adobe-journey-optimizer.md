@@ -20,4 +20,4 @@ ht-degree: 0%
 WhatsApp, iOS 라이브 활동, RCS 메시징 등 Adobe Journey Optimizer의 최신 채널 혁신 및 통합을 살펴보고 고객 참여를 향상시키십시오.
 
 <!-- 62_S520_3442520_207_new-channels-and-integrations-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458234/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460349/?learn=on&enablevpops=true&captions=kor)

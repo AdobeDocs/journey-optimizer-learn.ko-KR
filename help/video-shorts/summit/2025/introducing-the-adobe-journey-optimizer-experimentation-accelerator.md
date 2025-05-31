@@ -20,4 +20,4 @@ ht-degree: 0%
 테스트를 최적화하고, 통찰력을 제공하고, 비즈니스 영향을 유도하도록 설계된 새로운 GenAI 기반의 Experimentation Accelerator을 살펴보십시오.
 
 <!-- 62_S531_3442531_100_introducing-the-adobe-journey-optimizer-experimentation-accelerator -->
->[!VIDEO](https://video.tv.adobe.com/v/3458230/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460360/?learn=on&enablevpops=true&captions=kor)

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 콘텐츠 생성용 AI 어시스턴트로 텍스트 및 이미지 모두에 대한 콘텐츠 베리에이션 제안을 먼저 적극적으로 제공하여 마케터의 업무를 지원하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463107/?learn=on&captions=kor)

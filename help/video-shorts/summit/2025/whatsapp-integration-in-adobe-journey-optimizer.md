@@ -20,4 +20,4 @@ ht-degree: 0%
 AJO의 WhatsApp Business와의 기본 통합을 통해 원활한 마케팅 및 트랜잭션 커뮤니케이션이 가능한 방법을 알아봅니다.
 
 <!-- 72_S520_3442520_49_whatsapp-integration-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458215/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460476/?learn=on&enablevpops=true&captions=kor)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe의 Audience Agent이 AI를 사용하여 실시간 데이터와 머신 러닝 모델을 활용하여 정밀하고 목표 중심의 대상자를 생성하는 방법을 살펴보십시오.
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460304/?learn=on&enablevpops=true&captions=kor)

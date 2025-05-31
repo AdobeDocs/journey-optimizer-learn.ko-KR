@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizer과 Places Service의 통합을 사용하여 개인화된 고객 참여를 위한 위치 기반 인앱 메시지를 만드는 방법을 알아봅니다.
 
 <!-- 72_S522_3442522_189_geofencebased-inapp-messaging-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458203/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460415/?learn=on&enablevpops=true&captions=kor)
