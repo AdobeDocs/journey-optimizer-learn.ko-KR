@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: aep에서 id-스티칭 튜토리얼
 breadcrumb-url: /docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction
 auto-video-transcripts: true
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '57'
 ht-degree: 7%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 7%
 
 + [소개](./introduction.md)
 + [샘플 데이터 가져오기](./import-sample-data.md)
++ [스키마, 데이터 세트 등 만들기](./create-schema-and-dataset.md)
 + [AEP 태그 만들기](./create-aep-tags.md)
 + [웹 페이지에서 CRMID 전송](./send-crmid.md)
 + [솔루션 테스트](./test-solution.md)

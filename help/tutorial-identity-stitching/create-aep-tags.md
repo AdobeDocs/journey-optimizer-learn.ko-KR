@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 9%
@@ -22,7 +23,7 @@ FinWise라는 AEP Tags 속성이 만들어집니다. 다음 확장이 태그 속
 
 ![tags-extensions](assets/tags-extensions.png)
 
-이전 자습서에서 만든 Financial Advisor 데이터 스트림을 사용하여 AEP Web SDK 확장을 구성합니다.
+이전 단계에서 만든 재무 관리자 데이터 스트림을 사용하여 AEP Web SDK 확장을 구성합니다.
 Experience Cloud ID 서비스 는 디버깅을 위해 태그 속성에 추가된 선택적 확장입니다.
 
 ## 태그 데이터 요소
@@ -51,4 +52,3 @@ Experience Cloud ID 서비스 는 디버깅을 위해 태그 속성에 추가된
 ## 저장 및 빌드
 
 변경 사항을 저장하고, 라이브러리를 만들고 빌드합니다.
-
