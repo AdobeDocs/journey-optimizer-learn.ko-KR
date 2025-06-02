@@ -25,7 +25,7 @@ XDM 스키마를 만들려면
 * Adobe Experience Platform에 로그인
 * 데이터 관리 -> 스키마 -> 스키마 만들기
 
-* **_재무 관리자_**&#x200B;라는 XDM 이벤트 기반 스키마를 만듭니다. 스키마 만들기에 익숙하지 않은 경우 이 [설명서](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)를 따르십시오.
+* **_재무 관리자_**&#x200B;라는 XDM 이벤트 기반 스키마를 만듭니다. 스키마 만들기에 익숙하지 않은 경우 이 [설명서](https://experienceleague.adobe.com/ko/docs/experience-platform/xdm/tutorials/create-schema-ui)를 따르십시오.
 
 
 * 프로필에 대해 스키마가 활성화되어 있는지 확인합니다.
