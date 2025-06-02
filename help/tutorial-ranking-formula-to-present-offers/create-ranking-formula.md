@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
+source-git-commit: 69868d1f303fa0c67530b3343a678a850a8e493b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # 순위 공식 만들기
 
@@ -31,35 +31,34 @@ Adobe Journey Optimizer의 순위 공식은 Offer Decisioning 중에 사용되�
 
 
 기준 1
-![criteria_one](assets/criteria1.png)
 
-기준 1에는 다음 세 가지 기준이 포함되어 있습니다.
-
-* 오퍼._techmarketingdemos.offerDetails.zipCode == &quot;92128&quot; - 오퍼와 연결된 ZIP 코드를 확인합니다.
-
-* _techmarketingdemos.zipCode == &quot;92128&quot; - 사용자 프로필의 우편번호를 확인합니다.
-
-* _techmarketingdemos.annualIncome > 100000 - 사용자 프로필에서 소득 수준을 확인합니다.
-
-이 기준을 모두 충족하면 오퍼는 40점을 받습니다.
+이 조건은 &quot;IncomeLevel&quot;로 태그가 지정된 오퍼만 포함하도록 **결정 항목(오퍼)을 필터링합니다**.
+그런 다음 필터링된 오퍼는 정의한 추가 논리에 따라 순위 또는 게재와 같은 다음 단계로 진행합니다.
+![criteria_one](assets/income-related-formula.png)
 
 
+다음 표현식은 등급 점수를 만드는 데 사용됩니다
+
+```pql
+if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
+```
+
+공식의 기능
+
+* 오퍼의 우편 번호가 사용자와 동일한 경우, 우선 선택되도록 매우 높은 점수를 제공하십시오.
+
+* 오퍼에 우편 번호가 전혀 없다면(일반 오퍼인 경우) 사용자의 수입을 기준으로 일반 점수를 부여합니다.
+
+* 오퍼에 사용자와 다른 우편 번호가 있는 경우, 오퍼가 선택되지 않도록 매우 낮은 점수를 제공합니다.
+
+이렇게 하면 시스템이
+
+* 항상 먼저 ZIP 일치 오퍼를 표시하려고 합니다.
+
+* 일치하는 항목이 없는 경우 일반 오퍼로 대체되며 다른 우편번호에 해당하는 오퍼를 표시하지 않습니다.
 
 
-
-
-기준 2
-![criteria_two](assets/criteria2.png)
-
-기준 2에는 다음 세 가지 기준이 포함됩니다.
-
-* 오퍼._techmarketingdemos.offerDetails.zipCode == &quot;92126&quot; - 오퍼와 연결된 ZIP 코드를 확인합니다.
-
-* _techmarketingdemos.zipCode == &quot;92126&quot; - 사용자 프로필의 우편번호를 확인합니다.
-
-* _techmarketingdemos.annualIncome &lt; 100000 - 사용자 프로필에서 소득 수준을 확인합니다.
-
-이 기준을 모두 충족하면 오퍼는 30점을 받습니다.
+오퍼 항목이 필터 기준을 충족하지 않는 경우(&quot;IncomeLevel&quot; 태그가 없는 경우 등) 오퍼에 기본 순위 점수 10이 부여됩니다.
 
 
 

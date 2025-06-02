@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+source-git-commit: 666d25d1ed06ab76331d197a1677731516f73d7c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
-
 
 # 캠페인 만들기
 
@@ -88,11 +88,14 @@ ht-degree: 1%
      각 적격 오퍼에 점수를 매기는 논리 표현식입니다. 점수가 가장 높은 오퍼는 개인화된 경험에서 렌더링됩니다.
 
 
+6. **결정 정책 삽입**
 
-6. **캠페인 게시**\
+   ![개인화 편집기](assets/personalization-editor.png)
+
+   Handlebars 코드는 Adobe Journey Optimizer의 특정 결정 정책에서 반환된 오퍼를 순환하고 각 오퍼에 대해 `<div>`을(를) 만듭니다. 각 `<div>`은(는) 오퍼의 내부 이름이 있는 데이터 태그 특성을 사용하여 원활한 탐색을 위해 캐러셀 그룹을 지원하고 범주별로 오퍼를 구성합니다. 각 `<div>` 내의 콘텐츠에는 개인화된 오퍼 텍스트가 표시되어 여러 오퍼를 동적으로 시각적으로 세그먼트화할 수 있습니다.
+
+
+7. **캠페인 게시**\
    캠페인을 활성화하여 개인화된 오퍼를 실시간으로 제공할 수 있습니다.
 
-
-
-
-
+![img](assets/personalization-editor.png)

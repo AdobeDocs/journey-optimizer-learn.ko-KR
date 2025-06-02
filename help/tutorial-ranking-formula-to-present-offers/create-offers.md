@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+source-git-commit: fb0ef6d502c6e3ba37ef528683a8888ed83f2990
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # 우편 번호 타깃팅을 사용하여 위치 기반 오퍼 만들기
 
@@ -73,12 +73,9 @@ ht-degree: 0%
 </div>
 ```
 
-**_GenericOffers_** 컬렉션에서 이러한 오퍼를 그룹화합니다.
+**수입 관련 오퍼**&#x200B;라는 컬렉션에서 이 오퍼들을 그룹화합니다.
 
 오퍼는 모든 방문자가 사용할 수 있습니다. 즉, 엄격한 자격 제한이 없습니다. 그러면 순위 공식이 프로필 컨텍스트를 기반으로 표시할 오퍼를 결정하는 데 중요해집니다.
 자격 규칙이 오퍼를 필터링하지 않으므로 세 가지 모두 후보로 처리됩니다.
 선택 전략은 세 가지 모두를 검색합니다.
 순위 공식은 프로필 속성(예: 우편 번호 및 annualIncome)에 따라 점수를 매겨 가장 적합한 속성을 선택합니다.
-
-
-
