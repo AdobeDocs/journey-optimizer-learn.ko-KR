@@ -20,4 +20,4 @@ ht-degree: 0%
 새로운 템플릿, 메시지 받은 편지함 등을 포함하여 콘텐츠 카드의 예정된 기능을 간단히 살펴보십시오.
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460327/?learn=on&enablevpops=true&captions=kor)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizer을 Experience Manager의 Dynamic Media와 통합하여 마케팅 캠페인에 개인화된 합성 이미지를 활성화하는 방법에 대해 알아봅니다.
 
 <!-- 62_S520_3442520_48_dynamic-media-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458201/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460316/?learn=on&enablevpops=true&captions=kor)

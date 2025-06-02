@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizer의 Content Card가 앱 내에 침입되지 않는 개인화된 콘텐츠를 직접 전달하여 참여 및 전환을 유도하는 방법을 알아봅니다.
 
 <!-- 62_S603_3442534_58_content-cards-a-gamechanger-for-mobile-apps -->
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460091/?learn=on&enablevpops=true&captions=kor)

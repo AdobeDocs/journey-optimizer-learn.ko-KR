@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Journey Optimizer이 AI를 사용하여 개인화된 고객 경험을 위한 여정, 경로 및 채널을 최적화하는 방법에 대해 알아봅니다.
 
 <!-- 62_S520_3442520_184_ai-decisioning-and-next-best-actions-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458188/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460238/?learn=on&enablevpops=true&captions=kor)

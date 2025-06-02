@@ -20,4 +20,4 @@ ht-degree: 0%
 스트리밍 세그먼트를 최적화하고 시스템을 오버로드하지 않고 의사 결정에 여정 캔버스를 사용하는 방법에 대해 알아봅니다.
 
 <!-- 62_S522_3442522_52_streamlining-journey-segments-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458244/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460460/?learn=on&enablevpops=true&captions=kor)
