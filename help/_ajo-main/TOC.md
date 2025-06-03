@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 7bc03eeca746ff5ee9394263e26b3585a1647c71
+source-git-commit: d33da3a0df7b9ab8d3d9e69db485ce382b9ce63f
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 98%
+source-wordcount: '756'
+ht-degree: 96%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 98%
    + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 사용 사례 플레이북 {#use-case-playbooks}
-   + [개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [플레이북 인스턴스 생성 및 게시](http://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [개요](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [플레이북 인스턴스 생성 및 게시](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 소개](/help/introduction/introduction.md)
@@ -164,13 +164,18 @@ ht-degree: 98%
 + 구성 {#configuration}
    + 채널 구성 {#channel-configuration}
       + [채널 구성](/help/set-up-channels/configure-channels.md)
-      + [안내형 채널 설정](/help/set-up-channels/guided-channel-setup.md)
-      + [이메일 채널 설정](/help/set-up-channels/set-up-email-channel.md)
-      + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [IP 준비 계획 설정 및 실행](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
-      + [사용자 정의 SMS 공급자 구성](/help/set-up-channels/configure-custom-sms-provider.md)
-      + [MMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + 이메일 채널 {#email-channel}
+         + [및 IP 풀 만들기](/help/set-up-channels/create-ip-pool.md)
+         + [하위 도메인 설정](/help/set-up-channels/set-up-subdomain.md)
+         + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
+         + [이메일 채널 설정](/help/set-up-channels/set-up-email-channel.md)
+         + [IP 준비 계획 설정 및 실행](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + SMS/MMS 채널 {#sms-mms-channel}
+         + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
+         + [사용자 정의 SMS 공급자 구성](/help/set-up-channels/configure-custom-sms-provider.md)
+         + [MMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + 웹 및 모바일 채널 {#web-and-mobile-channels}
+         + [안내형 채널 설정](/help/set-up-channels/guided-channel-setup.md)
    + 여정 구성 {#journey-configuration}
       + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
       + [이벤트 만들기](/help/set-up-journeys/create-events.md)
