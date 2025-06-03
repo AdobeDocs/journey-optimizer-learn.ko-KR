@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer에서 이메일 채널에 대한 하위 도메인을 설정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463232/?learn=on&enablevpops&captions=kor)
