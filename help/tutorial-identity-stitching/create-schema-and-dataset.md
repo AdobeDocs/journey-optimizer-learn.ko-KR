@@ -6,8 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
+exl-id: 8bb85ba7-3c50-4596-88f8-e112c48a8253
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -25,7 +27,7 @@ XDM 스키마를 만들려면
 * Adobe Experience Platform에 로그인
 * 데이터 관리 -> 스키마 -> 스키마 만들기
 
-* **_재무 관리자_**&#x200B;라는 XDM 이벤트 기반 스키마를 만듭니다. 스키마 만들기에 익숙하지 않은 경우 이 [설명서](https://experienceleague.adobe.com/ko/docs/experience-platform/xdm/tutorials/create-schema-ui)를 따르십시오.
+* **_재무 관리자_**&#x200B;라는 XDM 이벤트 기반 스키마를 만듭니다. 스키마 만들기에 익숙하지 않은 경우 이 [설명서](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)를 따르십시오.
 
 
 * 프로필에 대해 스키마가 활성화되어 있는지 확인합니다.
@@ -54,4 +56,3 @@ Adobe Experience Platform의 데이터 스트림은 웹 사이트 또는 앱을 
 * 적절한 이벤트 데이터 세트(이전에 만든 데이터 세트)를 선택합니다.
 
 * 데이터스트림을 저장합니다.
-

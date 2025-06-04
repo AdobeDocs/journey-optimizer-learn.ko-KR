@@ -6,14 +6,15 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+exl-id: e080149c-0ac0-4559-b99d-ebad9f03b98b
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
 
 ---
-
 
 # 로그인 활동을 모방할 샘플 애플리케이션 구축
 
@@ -53,5 +54,3 @@ Adobe Experience Platform 태그 스크립트는 일반적으로 다음과 같�
 `<script src="https://assets.adobedtm.com/b5eu4857867/4e4d84957/launch-b69e276bb9b5-development.min.js" async crossorigin="anonymous"></script>`
 
 AEP 태그 스크립트는 이전 단계에서 만든 웹 SDK 지원 속성을 게시하고 환경 탭에서 포함 코드를 복사하여 가져온 것입니다.
-
-
