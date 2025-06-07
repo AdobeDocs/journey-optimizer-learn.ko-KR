@@ -22,4 +22,4 @@ ht-degree: 6%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 
-[여정 및 캠페인에서 발생할 수 있는 충돌을 감지](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts)하는 방법에 대한 자세한 내용은 제품 설명서를 참조하세요.
+[여정 및 캠페인에서 발생할 수 있는 충돌을 감지](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/conflict-prioritization/conflicts)하는 방법에 대한 자세한 내용은 제품 설명서를 참조하세요.
