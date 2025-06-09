@@ -23,12 +23,12 @@ Adobe Experience Platform 태그(이전의 Adobe Launch)를 사용하면 사이�
 
 * 데이터 수집에 로그인
 * Tags -> New Property 클릭
-* _**기상 시 개인화**_&#x200B;라는 Adobe Experience Platform 태그를 만듭니다.
+* _&#x200B;**기상 시 개인화**&#x200B;_&#x200B;라는 Adobe Experience Platform 태그를 만듭니다.
 
 * 태그에 다음 확장 추가
   ![tags-extensions](assets/tags-extensions1.png)
 
-* 이전 단계에서 만든 **날씨 관련 데이터스트림**과 올바른 환경을 사용하도록 Adobe Experience Platform Web SDK을 구성해야 합니다.
+* 이전 단계에서 만든 **날씨 관련 데이터스트림**&#x200B;과 올바른 환경을 사용하도록 Adobe Experience Platform Web SDK을 구성해야 합니다.
   ![web-sdk-configuration](assets/tags-extensions.png)
 
 

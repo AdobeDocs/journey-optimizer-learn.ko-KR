@@ -39,7 +39,7 @@ Adobe Experience Platform(AEP)의 **데이터 집합**&#x200B;은(는) 정의된
 
 
 * 데이터 관리 -> 데이터 세트 -> 데이터 세트 만들기
-* 이전 단계에서 만든 XDM 스키마(_**Weather-Schema**_)를 기반으로 **_Weather-schema-dataset_**&#x200B;이라는 데이터 집합을 만듭니다.
+* 이전 단계에서 만든 XDM 스키마(_&#x200B;**Weather-Schema**&#x200B;_)를 기반으로 **_Weather-schema-dataset_**&#x200B;이라는 데이터 집합을 만듭니다.
 
 
 ## 데이터 스트림 만들기

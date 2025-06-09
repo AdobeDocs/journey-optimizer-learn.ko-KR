@@ -23,7 +23,7 @@ ht-degree: 64%
 컬렉션을 만드는 단계
 
 * Journey Optimizer에 로그인
-* 태그로 이동 ->태그 범주 만들기(_**WeatherRelatedOffers**_)
+* 태그로 이동 ->태그 범주 만들기(_&#x200B;**WeatherRelatedOffers**&#x200B;_)
 * 저장 을 클릭합니다.
-* 태그 만들기(hot, cold, spring)를 클릭합니다. 이러한 태그는 _**WeatherRelatedOffers**_ 태그 범주 아래에 있어야 합니다.
+* 태그 만들기(hot, cold, spring)를 클릭합니다. 이러한 태그는 _&#x200B;**WeatherRelatedOffers**&#x200B;_ 태그 범주 아래에 있어야 합니다.
 
