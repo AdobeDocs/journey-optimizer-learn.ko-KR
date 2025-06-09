@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: 사용자 우편번호 및 수입에 따라 순위를 매긴 오퍼 개인화
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
 auto-video-transcripts: true
-source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
+source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 11%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 

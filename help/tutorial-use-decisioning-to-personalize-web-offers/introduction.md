@@ -8,10 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 71c406e7a06c49f01245970c280c6a7beb84da5f
+source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 1%
+source-wordcount: '226'
+ht-degree: 2%
 
 ---
 
@@ -19,8 +19,6 @@ ht-degree: 1%
 
 이 자습서는 Adobe Experience Platform(AEP) Web SDK을 사용하여 이전에 만든 대상 세분화 설정을 기반으로 합니다. [이전 자습서](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)에서는 주식, 채권 또는 예금 증서(CD)에 대한 관심도와 같은 사용자 환경 설정을 캡처하여 개인을 Experience Platform 내의 타깃팅된 대상으로 세그먼트화하는 데 사용했습니다. 이 튜토리얼은 Adobe Journey Optimizer(AJO) Decisioning을 사용하여 해당 대상자에게 실시간으로 개인화된 금융 오퍼를 전달하여 참여 및 전환 결과를 모두 향상시킴으로써 그러한 기반을 기반으로 합니다.
 
-아래 링크를 사용하여 개인화된 AJO 오퍼를 라이브로 테스트할 수 있습니다.
-[라이브 데모를 보려면 여기를 클릭하세요](https://gbedekar489.github.io/finwise/welcome.html). 투자 선호도에 따라 실시간 오퍼가 페이지에 표시됩니다.
 
 ## 이 자습서의 사전 요구 사항
 
