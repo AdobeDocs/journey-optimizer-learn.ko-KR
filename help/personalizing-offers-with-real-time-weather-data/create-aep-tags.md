@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Adobe Experience Platform 태그(이전의 Adobe Launch)를 사용하면 사이트 코드를 변경하지 않고도 웹 사이트에서 marketing 및 analytics 기술을 관리 및 배포*할 수 있습니다.
 
-이 [비디오에서는 Adobe Experience Tags를 만드는 과정을 설명합니다](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
+이 [비디오에서는 Adobe Experience Tags를 만드는 과정을 설명합니다](https://experienceleague.adobe.com/ko/playlists/experience-platform-get-started-with-tags)
 
 * 데이터 수집에 로그인
 * Tags -> New Property 클릭
