@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Adobe Journey Optimizer의 순위 공식은 Offer Decisioning 중에 사용되�
 
 * Journey Optimizer에 로그인
 
-* 의사 결정 ->전략 설정 ->등급 수식 ->수식 만들기
+* _**의사 결정 ->전략 설정 ->등급 수식 ->수식 만들기**_(으)로 이동
 
-수식 이름을 _&#x200B;**날씨 - 관련 - 오퍼**&#x200B;_&#x200B;로 지정합니다.
+수식 이름을 _**날씨 - 관련 - 오퍼**_&#x200B;로 지정합니다.
 
 
 

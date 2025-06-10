@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 * Journey Optimizer에 로그인
 
-* 의사 결정 ->전략 설정 ->선택 전략 ->선택 전략 생성으로 이동합니다.
+* _**의사 결정 ->전략 설정 ->선택 전략 ->선택 전략 만들기**_(으)로 이동
 
 * 스크린샷에 표시된 대로 선택 전략 이름, 컬렉션, 자격 요건 및 등급 지정 방법을 제공합니다
 
