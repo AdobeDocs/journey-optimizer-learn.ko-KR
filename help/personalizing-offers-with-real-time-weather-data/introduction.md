@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Adobe Journey Optimizer(AJO)의 날씨 관련 데이터를 사용하여 서비�
 
 고객 기분과 환경에 맞는 적절한 오퍼 제공
 
-더운 날, 차가운 음료 또는 AC 장치에 대한 오퍼를 표시하십시오. 비 오는 날에는 잭이나 우산을 홍보하세요
+더운 날, 차가운 음료 또는 AC 장치에 대한 오퍼를 표시하십시오. 비가 오는 날에는 재킷이나 우산의류를 판촉하세요
 
 날씨 기반 오퍼의 예
 
@@ -31,14 +31,14 @@ Adobe Journey Optimizer(AJO)의 날씨 관련 데이터를 사용하여 서비�
 
 ## 이 자습서의 사전 요구 사항
 
-* Experience Platform 액세스
+* Experience Platform 액세스.
 
-* Adobe Experience Platform 태그에 대한 기본 이해
+* Adobe Experience Platform 태그에 대한 기본 이해.
 
-* Experience Platform 개념(프로필, 대상, 데이터 세트)에 대한 기본 이해
+* Experience Platform 개념(프로필, 대상, 데이터 세트)에 대한 기본 이해.
 
-* Journey Optimizer 친숙도
+* Journey Optimizer에 익숙합니다.
 
-* 기본 JavaScript 지식(간단한 기능 읽기 및 쓰기)
+* 기본 JavaScript 지식(간단한 기능 읽기 및 쓰기).
 
-* 브라우저 개발 도구 사용 기능(콘솔 및 네트워크 탭)
+* 브라우저 개발 도구(콘솔 및 네트워크 탭)를 사용할 수 있습니다.
