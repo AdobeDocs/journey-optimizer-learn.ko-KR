@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+source-git-commit: 97c1c72a7bc0b0cc87ab7bf66ea6849e2427d2ee
 workflow-type: tm+mt
 source-wordcount: '774'
 ht-degree: 94%
@@ -20,9 +20,9 @@ ht-degree: 94%
    + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 사용 사례 플레이북 {#use-case-playbooks}
-   + [개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [플레이북 인스턴스 생성 및 게시](http://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [개요](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [플레이북 인스턴스 생성 및 게시](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 소개](/help/introduction/introduction.md)
@@ -52,7 +52,7 @@ ht-degree: 94%
    + [라이브 여정에서 콘텐츠 업데이트](/help/create-journeys/update-content-in-live-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
    + [배치 세분화 후 일일 여정 실행 트리거](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [여정의 인바운드 동작 문제 해결](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [여정의 인바운드 동작 문제 해결](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
 + 충돌 관리 {#conflict-management}
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
@@ -172,7 +172,7 @@ ht-degree: 94%
          + [및 IP 풀 만들기](/help/set-up-channels/create-ip-pool.md)
          + [하위 도메인 설정](/help/set-up-channels/set-up-subdomain.md)
          + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
-         + [이메일 채널 설정](/help/set-up-channels/set-up-email-channel.md)
+         + [이메일 채널 구성](/help/set-up-channels/configure-email-channel.md)
          + [IP 준비 계획 설정 및 실행](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + SMS/MMS 채널 {#sms-mms-channel}
          + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
