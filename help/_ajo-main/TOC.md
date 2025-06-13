@@ -17,14 +17,14 @@ ht-degree: 89%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [웹 SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-   + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼를 전달합니다](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+   + [웹 SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+   + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼를 전달합니다](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 사용 사례 플레이북 {#use-case-playbooks}
-   + [개요](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [플레이북 인스턴스 생성 및 게시](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [플레이북 인스턴스 생성 및 게시](http://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 소개](/help/introduction/introduction.md)
@@ -54,7 +54,7 @@ ht-degree: 89%
    + [라이브 여정에서 콘텐츠 업데이트](/help/create-journeys/update-content-in-live-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
    + [배치 세분화 후 일일 여정 실행 트리거](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [여정의 인바운드 동작 문제 해결](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [여정의 인바운드 동작 문제 해결](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
 + 충돌 관리 {#conflict-management}
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
@@ -138,8 +138,8 @@ ht-degree: 89%
       + [결정 소개](/help/decisioning/introduction-to-decisioning.md)
       + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
       + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
-      + [실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [등급 수식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [등급 수식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + 의사 결정 관리 {#decision-management}
