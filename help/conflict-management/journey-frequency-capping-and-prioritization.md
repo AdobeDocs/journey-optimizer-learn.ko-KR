@@ -20,6 +20,6 @@ ht-degree: 0%
 
 동일한 채널 구성을 사용하여 여러 인바운드 작업에 대한 자격이 고객에게 가장 높은 우선 순위의 콘텐츠가 전달되도록 인바운드 작업의 우선 순위를 지정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447622/?learn=on&enablevpops&captions=kor)
 
 [여정 한도 및 중재](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)에 대한 자세한 내용은 제품 설명서를 참조하세요.
