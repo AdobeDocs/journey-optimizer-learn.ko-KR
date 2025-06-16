@@ -20,4 +20,4 @@ ht-degree: 100%
 
 발신자 신뢰도를 보호하고 이메일 전달성을 높이기 위한 IP 풀을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463256/?learn=on&enablevpops&captions=kor)
