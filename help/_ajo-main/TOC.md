@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: b29ec5eb30db089d8b7dd2d8133640ac84874e7d
 workflow-type: tm+mt
 source-wordcount: '815'
-ht-degree: 89%
+ht-degree: 94%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 89%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [Web SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼를 전달합니다](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Web SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼를 전달합니다](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 사용 사례 플레이북 {#use-case-playbooks}
@@ -58,7 +58,7 @@ ht-degree: 89%
 + 충돌 관리 {#conflict-management}
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
-   + [여정 빈도 제한 및 우선 순위](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
+   + [여정 빈도 상한 설정 및 우선 순위 지정](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
 + 프로필, 대상자, 구독 {#profiles-audiences-subscriptions}
    + [프로필 및 대상자 - 개요](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -138,8 +138,8 @@ ht-degree: 89%
       + [결정 소개](/help/decisioning/introduction-to-decisioning.md)
       + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
       + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
-      + [실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [등급 수식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [등급 수식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + 의사 결정 관리 {#decision-management}
@@ -175,16 +175,16 @@ ht-degree: 89%
    + 채널 구성 {#channel-configuration}
       + [채널 구성](/help/set-up-channels/configure-channels.md)
       + 이메일 채널 {#email-channel}
-         + [및 IP 풀 만들기](/help/set-up-channels/create-ip-pool.md)
+         + [IP 풀 만들기](/help/set-up-channels/create-ip-pool.md)
          + [하위 도메인 설정](/help/set-up-channels/set-up-subdomain.md)
          + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
          + [이메일 채널 구성](/help/set-up-channels/configure-email-channel.md)
          + [IP 준비 계획 설정 및 실행](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + SMS/MMS 채널 {#sms-mms-channel}
+      + SMS / MMS 채널 {#sms-mms-channel}
          + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
          + [사용자 정의 SMS 공급자 구성](/help/set-up-channels/configure-custom-sms-provider.md)
          + [MMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-      + 웹 및 모바일 채널 {#web-and-mobile-channels}
+      + 웹 채널 및 모바일 채널 {#web-and-mobile-channels}
          + [안내형 채널 설정](/help/set-up-channels/guided-channel-setup.md)
    + 여정 구성 {#journey-configuration}
       + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
@@ -209,7 +209,7 @@ ht-degree: 89%
    + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
 + [Experience League Live 쇼 녹화본](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
-   + [2025 Summit 랩 치트 시트](/help/summit-lab-assets/l535-assets.md)
+   + [2025 Summit Lab 컨닝 페이퍼](/help/summit-lab-assets/l535-assets.md)
    + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
