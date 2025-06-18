@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: b237731f00ee1ec979edaf566ac932221ef3552f
+source-git-commit: 7bd4e66d31fb4182ded4ad14f8f9f426b5051019
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '823'
 ht-degree: 93%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 93%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [Web SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼를 전달합니다](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Web SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼를 전달합니다](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 사용 사례 플레이북 {#use-case-playbooks}
@@ -71,7 +71,7 @@ ht-degree: 93%
    + [모바일 앱 최적화 - 개요](/help/channels/mobile-app-optimization-overview.md)
    + 코드 기반 경험 채널{#code-based-experience-channel}
       + [코드 기반 경험 캠페인 만들기](/help/channels/create-a-code-based-experience-campaign.md)
-      + [코드 기반 경험 템플릿에 편집 가능한 필드 추가](/help/channels/editable-fields-in-code-based-experiences.md)
+      + [코드 기반 경험 채널 템플릿에 양식 필드 추가](/help/channels/form-fields-in-code-based-experiences.md)
       + [코드 기반 채널에서 의사 결정 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + DM 채널{#direct-mail-channel}
       + [DM 만들기](/help/channels/direct-mail.md)
@@ -139,8 +139,8 @@ ht-degree: 93%
       + [결정 소개](/help/decisioning/introduction-to-decisioning.md)
       + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
       + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
-      + [실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [등급 수식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [등급 수식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + 의사 결정 관리 {#decision-management}
