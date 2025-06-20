@@ -23,7 +23,7 @@ Adobe Journey Optimizer(AJO)에서 캠페인은 개인화된 경험을 타겟팅
 1. Journey Optimizer에 로그인합니다.
 1. **[!UICONTROL 여정 관리]** > **[!UICONTROL 캠페인]** > **[!UICONTROL 캠페인 만들기]** > **[!UICONTROL 마케팅 예약]**&#x200B;을 클릭합니다.
 1. 캠페인에 의미 있는 이름 제공
-1. _**작업**_ 탭으로 이동
+1. _&#x200B;**작업**&#x200B;_ 탭으로 이동
 1. **[!UICONTROL 코드 기반 경험]** 작업을 선택한 다음 이전 단계에서 만든 구성을 선택합니다.
 1. **[!UICONTROL 콘텐츠 편집]**&#x200B;을 클릭합니다.
 
