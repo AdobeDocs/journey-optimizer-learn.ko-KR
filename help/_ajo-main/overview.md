@@ -33,13 +33,13 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
 ## 최신 Experience League 라이브 이벤트
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+* https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
 
@@ -50,7 +50,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1750288896715" alt="기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -59,11 +59,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)">기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)">기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)</a>
                     </p>
                     <p class="is-size-6">이 세션에서는 Adobe 전문가 Ariel Sultan과 Aaron Forrest가 Adobe Journey Optimizer의 새로운 기능에 대해 깊이 있게 설명함으로써 고객 메시지를 정확하게 관리하고 우선 순위를 정할 수 있도록 지원합니다. 이들은 메시징 피로도를 줄이고, 충돌을 해결하고, 공감하는 영향력 있는 경험을 전달하는 방법을 보여주었다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -73,7 +73,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로 (2025년 6월 5일)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로 (2025년 6월 5일)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1750288896708" alt="규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로 (2025년 6월 5일)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -82,11 +82,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로 (2025년 6월 5일)">규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로(2025년 6월 5일)</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로 (2025년 6월 5일)">규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로(2025년 6월 5일)</a>
                     </p>
                     <p class="is-size-6">이 세션에서는 Adobe 전문가 Chris Ivory, Amarnath Vannarath, Rohan Bhatt가 Adobe Journey Optimizer(AJO)를 Adobe Express 및 GenStudio for Performance Marketing과 원활하게 통합하는 방법을 소개합니다. 이러한 도구를 통해 마케팅 워크플로우에 탁월한 유연성, 공동 작업 및 AI 기반 창의성을 제공하는 방법에 대해 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -96,7 +96,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1750288896696" alt="Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -105,11 +105,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)">Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)">Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)</a>
                     </p>
                     <p class="is-size-6">당사의 전문가들은 AI Assistant가 어떻게 중요한 운영 통찰력을 발휘하여 생산성을 높이고 Adobe Experience Platform 및 플랫폼 기반 애플리케이션에서 작업을 재정의할 수 있는지에 대해 논의했습니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
