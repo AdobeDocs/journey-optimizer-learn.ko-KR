@@ -10,10 +10,10 @@ role: Admin
 level: Beginner
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: dfbf246c95cf89afebd7460361791d1c33aa9e6e
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -28,6 +28,6 @@ ht-degree: 100%
 >
 >Journey Optimizer에서 경고에 액세스할 때는 기본적으로 라이브 여정에 관련된 경고만 표시됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423921?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=ko)를 참조하세요.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/alerts){target="_blank"}를 참조하세요.
