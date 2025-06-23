@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: 사용자 우편번호 및 수입에 따라 순위를 매긴 오퍼 개인화
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
 auto-video-transcripts: true
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: b9feb65fb7af8fb495f81841ab9235e4ae80ecd7
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 14%
+source-wordcount: '72'
+ht-degree: 13%
 
 ---
 
@@ -21,4 +21,5 @@ ht-degree: 14%
 + [순위 공식 만들기](./create-ranking-formula.md)
 + [선택 전략 만들기](./selection-strategy.md)
 + [캠페인 만들기](./create-campaign.md)
++ [편집 가능한 필드 만들기](./editable-fields.md)
 + [웹 페이지 만들기](./display-offers.md)
