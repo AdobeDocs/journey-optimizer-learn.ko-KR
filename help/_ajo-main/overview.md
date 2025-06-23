@@ -33,13 +33,13 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
 ## 최신 Experience League 라이브 이벤트
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+* https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
 
@@ -50,7 +50,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1750720617792" alt="기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -59,11 +59,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)">기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)">기본 빈도 제한 및 충돌 우선 순위 지정(2025년 6월 18일)</a>
                     </p>
                     <p class="is-size-6">이 세션에서는 Adobe 전문가 Ariel Sultan과 Aaron Forrest가 Adobe Journey Optimizer의 새로운 기능에 대해 깊이 있게 설명함으로써 고객 메시지를 정확하게 관리하고 우선 순위를 정할 수 있도록 지원합니다. 이들은 메시징 피로도를 줄이고, 충돌을 해결하고, 공감하는 영향력 있는 경험을 전달하는 방법을 보여주었다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -73,7 +73,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로 (2025년 6월 5일)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로 (2025년 6월 5일)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1750720617807" alt="규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로 (2025년 6월 5일)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -82,11 +82,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로 (2025년 6월 5일)">규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로(2025년 6월 5일)</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로 (2025년 6월 5일)">규모에 맞게 개인화된 콘텐츠를 위한 애자일 워크플로(2025년 6월 5일)</a>
                     </p>
                     <p class="is-size-6">이 세션에서는 Adobe 전문가 Chris Ivory, Amarnath Vannarath, Rohan Bhatt가 Adobe Journey Optimizer(AJO)를 Adobe Express 및 GenStudio for Performance Marketing과 원활하게 통합하는 방법을 소개합니다. 이러한 도구를 통해 마케팅 워크플로우에 탁월한 유연성, 공동 작업 및 AI 기반 창의성을 제공하는 방법에 대해 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -96,7 +96,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1750720617800" alt="Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -105,11 +105,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)">Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)">Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금(2025년 2월 27일)</a>
                     </p>
                     <p class="is-size-6">당사의 전문가들은 AI Assistant가 어떻게 중요한 운영 통찰력을 발휘하여 생산성을 높이고 Adobe Experience Platform 및 플랫폼 기반 애플리케이션에서 작업을 재정의할 수 있는지에 대해 논의했습니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -124,9 +124,9 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
 
 <!-- CARDS
 
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -135,7 +135,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="주요 기능 및 사용자 인터페이스" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="주요 기능 및 사용자 인터페이스" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1750720618534" alt="주요 기능 및 사용자 인터페이스"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -144,11 +144,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" title="주요 기능 및 사용자 인터페이스">주요 기능 및 사용자 인터페이스</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" title="주요 기능 및 사용자 인터페이스">주요 기능 및 사용자 인터페이스</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer의 주요 기능 및 대상으로 가정하는 사용자를 이해합니다. 사용자 인터페이스를 탐색하는 방법을 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -181,7 +181,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="규칙 빌더를 사용하여 대상자 만들기" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="규칙 빌더를 사용하여 대상자 만들기" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1750720618527" alt="규칙 빌더를 사용하여 대상자 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -190,11 +190,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" title="규칙 빌더를 사용하여 대상자 만들기">규칙 빌더를 사용하여 대상 만들기</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" title="규칙 빌더를 사용하여 대상자 만들기">규칙 빌더를 사용하여 대상 만들기</a>
                     </p>
                     <p class="is-size-6">AJO(Journey Optimizer)에서 규칙을 사용하여 대상자를 생성하는 원리를 이해하고 속성, 이벤트, 기존 대상자를 사용하여 대상자를 만드는 방법을 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -204,9 +204,9 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -215,7 +215,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1750720619194" alt="콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -224,11 +224,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기">콘텐츠 생성을 위해 AI Assistant를 사용하여 콘텐츠 만들기</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기">콘텐츠 생성을 위해 AI Assistant를 사용하여 콘텐츠 만들기</a>
                     </p>
                     <p class="is-size-6">콘텐츠 생성용 AI 어시스턴트로 텍스트 및 이미지 모두에 대한 콘텐츠 베리에이션 제안을 먼저 적극적으로 생성하는 방법에 대해 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -238,7 +238,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="의사 결정 전체 연습" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="의사 결정 전체 연습" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1750720619211" alt="의사 결정 전체 연습"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -247,11 +247,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="의사 결정 전체 연습">의사 결정 전체 연습</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="의사 결정 전체 연습">의사 결정 전체 연습</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer의 의사 결정에 대한 전체적인 연습</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -261,7 +261,7 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="인앱 메시지에 대한 콘텐츠 실험 구성" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="인앱 메시지에 대한 콘텐츠 실험 구성" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1750720619204" alt="인앱 메시지에 대한 콘텐츠 실험 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -270,11 +270,11 @@ Journey Optimizer을 통해 기업은 통합적이고 상황에 맞으며 개인
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" title="인앱 메시지에 대한 콘텐츠 실험 구성">인앱 메시지에 대한 콘텐츠 실험 구성</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" title="인앱 메시지에 대한 콘텐츠 실험 구성">인앱 메시지에 대한 콘텐츠 실험 구성</a>
                     </p>
                     <p class="is-size-6">인앱 메시지를 A/B 테스트하기 위한 콘텐츠 실험을 구성하고 분석하는 방법에 대해 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
