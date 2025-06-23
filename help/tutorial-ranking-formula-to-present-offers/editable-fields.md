@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # AJO 코드 기반 경험에서 편집 가능한 양식 필드 사용
 
-많은 마케팅 여정, 특히 규제 대상 산업에서는 캠페인, 지역 또는 제품에 따라 달라질 수 있는 법적 면책조항을 포함해야 합니다. AJO Personalization 편집기에서 직접 [편집 가능한 필드](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)를 사용하면 마케터와 법률팀이 개발자를 참여시키거나 결정 논리를 수정하지 않고도 면책조항 텍스트에 대한 모든 권한을 유지할 수 있습니다.
+많은 마케팅 여정, 특히 규제 대상 산업에서는 캠페인, 지역 또는 제품에 따라 달라질 수 있는 법적 면책조항을 포함해야 합니다. AJO Personalization 편집기에서 직접 [편집 가능한 필드](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)를 사용하면 마케터와 법률팀이 개발자를 참여시키거나 결정 논리를 수정하지 않고도 면책조항 텍스트에 대한 모든 권한을 유지할 수 있습니다.
 
 이를 통해 오퍼와 같은 결정된 콘텐츠를 활용하면서 캠페인 전반에서 빠른 업데이트와 규정 준수를 보장할 수 있습니다.
 
