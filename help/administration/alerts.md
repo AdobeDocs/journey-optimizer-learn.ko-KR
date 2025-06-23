@@ -28,6 +28,6 @@ ht-degree: 99%
 >
 >Journey Optimizer에서 경고에 액세스할 때는 기본적으로 라이브 여정에 관련된 경고만 표시됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423921?quality=12&learn=on&captions=kor){transcript=true}
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/test/alerts){target="_blank"}를 참조하세요.
