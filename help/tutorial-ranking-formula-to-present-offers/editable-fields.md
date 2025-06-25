@@ -25,11 +25,11 @@ ht-degree: 1%
 ## 개인화 편집기에 편집 가능한 필드 삽입
 
 - 이전 단계에서 만든 캠페인을 엽니다.
-- _**캠페인 수정**_ 클릭
-- _**콘텐츠**_ 탭으로 이동
-- _**코드 편집**_&#x200B;을 클릭하고 개인화 편집기에서 다음 구문을 사용하여 기본값이 포함된 legalDisclaimer라는 편집 가능한 필드를 삽입합니다
+- _&#x200B;**캠페인 수정**&#x200B;_ 클릭
+- _&#x200B;**콘텐츠**&#x200B;_ 탭으로 이동
+- _&#x200B;**코드 편집**&#x200B;_&#x200B;을 클릭하고 개인화 편집기에서 다음 구문을 사용하여 기본값이 포함된 legalDisclaimer라는 편집 가능한 필드를 삽입합니다
 
-- 
+- &#x200B;
   <pre><code>&#123;&#123;#inline &quot;legalDisclaimer&quot; name=&quot;Legal Disclaimer&quot;&#125;&#125; Legal Disclaimer will go here &#123;&#123;/inline&#125;&#125;</code></pre>
 
 - <code>{{{legalDisclaimer}}} 사용</code> 아래 표시된 대로 템플릿에 있는 변수
