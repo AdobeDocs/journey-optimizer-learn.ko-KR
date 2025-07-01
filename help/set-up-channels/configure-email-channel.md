@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer.에서 이메일 채널을 구성하는 방법에 대해 알아봅니다. 이 비디오는 하위 도메인, IP 풀, 구독 취소 관리, 발신자 개인화, BCC 및 시드 목록, 재시도 논리, 추적 매개 변수 등 이메일 구성을 설정하는 과정을 다룹니다. 마케팅 이메일의 성과를 최적화하기 위한 규정 준수, 전달성, 개인화를 강조합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416661?quality=12&learn=on&captions=kor){transcript=true}
