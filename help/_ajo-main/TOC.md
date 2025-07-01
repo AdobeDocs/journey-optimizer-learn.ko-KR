@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '830'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 92%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [Web SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼를 전달합니다](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 사용 사례 플레이북 {#use-case-playbooks}
@@ -113,7 +113,7 @@ ht-degree: 92%
    + 조각을 사용한 작업 {#fragments}
       + [조각 관리](/help/content-management/manage-fragments.md)
       + [표현식 조각 만들기](/help/content-management/expression-fragments.md)
-      + [편집 가능한 조각에 서식 있는 텍스트 추가](/help/content-management/add-rich-text-to-editable-fragments.md)
+      + [편집 가능한 조각에 리치 텍스트 추가](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [AEM 콘텐츠 조각 사용](/help/content-management/aem-content-fragments.md)
    + 콘텐츠 템플릿{#content-templates}
       + [콘텐츠 템플릿 만들기](/help/content-management/templates/create-content-templates.md)
@@ -140,8 +140,8 @@ ht-degree: 92%
       + [결정 소개](/help/decisioning/introduction-to-decisioning.md)
       + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
       + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
-      + [실시간 날씨 데이터를 사용하여 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [등급 수식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + 의사 결정 관리 {#decision-management}
       + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
       + [의사 결정 관리 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
