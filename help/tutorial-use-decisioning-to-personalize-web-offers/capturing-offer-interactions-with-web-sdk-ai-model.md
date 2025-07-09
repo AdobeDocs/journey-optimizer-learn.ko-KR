@@ -26,7 +26,7 @@ ht-degree: 0%
 
 - Adobe Experience Platform Web SDK 확장이 설치된 작동 중인 Adobe Launch 속성입니다.
 
-- AEP 샌드박스에 구성 및 매핑된 [데이터스트림](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)입니다.
+- AEP 샌드박스에 구성 및 매핑된 [데이터스트림](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)입니다.
 
 - Launch가 배포되는 웹 사이트입니다.
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 경험 이벤트를 수집하려면 먼저 이러한 이벤트를 전송할 데이터 세트를 만들어야 합니다.
 
-이 [문서에 언급된 단계에 따라 필요한 스키마와 데이터 집합을 만드십시오](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
+이 [문서에 언급된 단계에 따라 필요한 스키마와 데이터 집합을 만드십시오](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
 
 ## AEP에서 데이터 스트림 만들기
 
