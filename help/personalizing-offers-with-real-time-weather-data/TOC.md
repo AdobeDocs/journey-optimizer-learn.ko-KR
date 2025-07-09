@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: 실시간 날씨 데이터로 오퍼 개인화
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 530613b18ea37ae3739957e45ede7d47fbedc447
+source-git-commit: c81c3ce8a2564b26a92cef821a1e45533c347f30
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 9%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 
@@ -26,4 +26,5 @@ ht-degree: 9%
 + [캠페인 만들기](./create-campaign.md)
 + [솔루션 테스트](./create-web-page.md)
 + [JSON 콘텐츠 유형](./json-content-type.md)
++ [순위를 위한 AI 모델 만들기](./capturing-offer-interactions-with-web-sdk-ai-model.md)
 
