@@ -21,4 +21,4 @@ ht-degree: 0%
 
 콘텐츠 생성을 위해 AI Assistant를 사용하여 텍스트 및 이미지 모두에 대한 사전 예방적 콘텐츠 변형 제안을 생성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434642/?learn=on&captions=kor)
