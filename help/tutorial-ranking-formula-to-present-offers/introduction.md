@@ -1,5 +1,5 @@
 ---
-title: 사용자 우편번호 및 소득을 기반으로 하는 등급 수식으로 오퍼 개인화
+title: 우편 번호 및 소득을 기반으로 하는 등급 수식으로 오퍼 개인화
 description: 보다 높은 참여도와 보다 스마트한 개인화를 위해 각 사용자의 우편번호 및 수입 수준에 맞게 맞춤화된 가장 관련성이 높은 금융 오퍼를 동적으로 제공하려면 Adobe Journey Optimizer의 등급 공식을 사용하십시오.
 feature: Decisioning
 role: User
@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-27T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 11685f7c-8048-4318-9c28-71bd7da8f7ff
+source-git-commit: 85d3def3afb1d073b133df40e4cbf32d00a3a5c9
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -39,5 +40,3 @@ ht-degree: 0%
 * 선택 전략을 정의하여 오퍼를 그룹화하고 우선순위를 지정합니다.
 
 * 각 개인에게 가장 적합한 오퍼를 제공하기 위한 의사 결정 정책 구축.
-
-
