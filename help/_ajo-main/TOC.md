@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: e4b289bcc7c9aac4f7993153d21ae0ad5e050d4e
+source-git-commit: ea0c8ff52b1f21fc0ce77871c6b32af42775fad9
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '841'
 ht-degree: 98%
 
 ---
@@ -185,7 +185,7 @@ ht-degree: 98%
          + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
          + [사용자 정의 SMS 공급자 구성](/help/set-up-channels/configure-custom-sms-provider.md)
          + [MMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-         + [비즈니스용 RCS 설정](/help/set-up-channels/set-up-rcs.md)
+         + [RCS 설정](/help/set-up-channels/set-up-rcs.md)
       + 웹 채널 및 모바일 채널 {#web-and-mobile-channels}
          + [안내형 채널 설정](/help/set-up-channels/guided-channel-setup.md)
    + 여정 구성 {#journey-configuration}
