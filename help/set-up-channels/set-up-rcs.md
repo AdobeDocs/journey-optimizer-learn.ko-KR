@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
 
-RCS 구성 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration)를 참조하세요.
+RCS 구성 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration)를 참조하세요.
