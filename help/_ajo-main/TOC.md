@@ -55,7 +55,7 @@ ht-degree: 97%
    + [라이브 여정에서 콘텐츠 업데이트](/help/create-journeys/update-content-in-live-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
    + [배치 세분화 후 일일 여정 실행 트리거](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [여정의 인바운드 동작 문제 해결](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
+   + [여정의 인바운드 동작 문제 해결](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + 충돌 관리 {#conflict-management}
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
@@ -207,7 +207,7 @@ ht-degree: 97%
    + [Journey Optimizer 채널에서 데이터 사용 정책 적용](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
 + 연습 및 과제 {#exercises-and-challenges}
-   + [교육 샌드박스 구성](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [교육 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Experience League Live 쇼 녹화본](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
