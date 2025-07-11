@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: ea0c8ff52b1f21fc0ce77871c6b32af42775fad9
+source-git-commit: 14672bd5743c5fbadfc0e38308d82b6e7b6893dc
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '843'
 ht-degree: 98%
 
 ---
@@ -94,7 +94,7 @@ ht-degree: 98%
    + 푸시 채널{#push-channel}
       + [푸시 알림 - 개요](/help/channels/push-notifications-overview.md)
       + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
-   + SMS 채널{#sms-channel}
+   + SMS / MMS 채널{#sms-channel}
       + [SMS/MMS 메시지 - 개요](/help/channels/sms-mms-messages-overview.md)
       + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
       + [MMS 메시지 작성](/help/channels/author-mms.md)
@@ -181,7 +181,7 @@ ht-degree: 98%
          + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
          + [이메일 채널 구성](/help/set-up-channels/configure-email-channel.md)
          + [IP 준비 계획 설정 및 실행](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + SMS / MMS 채널 {#sms-mms-channel}
+      + SMS/MMS/RCS 채널 {#sms-mms-channel}
          + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
          + [사용자 정의 SMS 공급자 구성](/help/set-up-channels/configure-custom-sms-provider.md)
          + [MMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
