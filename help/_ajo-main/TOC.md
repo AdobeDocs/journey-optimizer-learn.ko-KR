@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 14672bd5743c5fbadfc0e38308d82b6e7b6893dc
+source-git-commit: e1fac28df665a0ca6d25a7655f22bd1eb787b5e1
 workflow-type: tm+mt
 source-wordcount: '843'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 98%
 + 사용 사례 플레이북 {#use-case-playbooks}
    + [개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
    + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [플레이북 인스턴스 생성 및 게시](http://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [플레이북 인스턴스 생성 및 게시](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 소개](/help/introduction/introduction.md)
@@ -55,7 +55,7 @@ ht-degree: 98%
    + [라이브 여정에서 콘텐츠 업데이트](/help/create-journeys/update-content-in-live-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
    + [배치 세분화 후 일일 여정 실행 트리거](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [여정의 인바운드 동작 문제 해결](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [여정의 인바운드 동작 문제 해결](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + 충돌 관리 {#conflict-management}
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
@@ -207,8 +207,8 @@ ht-degree: 98%
    + [Journey Optimizer 채널에서 데이터 사용 정책 적용](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
 + 연습 및 과제 {#exercises-and-challenges}
-   + [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=ko)
-   + [과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=ko)
+   + [교육 샌드박스 구성](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Experience League Live 쇼 녹화본](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [2025 Summit Lab 컨닝 페이퍼](/help/summit-lab-assets/l535-assets.md)
