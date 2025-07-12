@@ -21,4 +21,4 @@ ht-degree: 100%
 
 다국어 메시지 기능을 사용하면 단일 캠페인 또는 여정 내에 여러 언어로 된 콘텐츠를 만들 수 있습니다. Journey Optimizer에서 다국어 메시지를 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452120/?learn=on&captions=kor)
