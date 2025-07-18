@@ -8,18 +8,18 @@ role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 0f49176c9295cf20721320386f37094a7bb3b38d
+source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '150'
 ht-degree: 7%
 
 ---
 
 
-# AEP의 ID 결합에 대한 자습서{#personalizing-offers-with-real-time-weather-data}
+# 웹 SDK을 사용하여 실시간 날씨 데이터를 통해 오퍼를 개인화하는 방법에 대한 튜토리얼 {#personalizing-offers-with-real-time-weather-data}
 
 + [소개](./introduction.md)
-+ [스키마, 데이터 세트 만들기](./create-schema-and-dataset.md)
++ [스키마 및 데이터 세트 만들기](./create-schema-and-dataset.md)
 + [AEP 태그 만들기](./create-aep-tags.md)
 + [태그 카테고리 생성](./create-tag-category.md)
 + [오퍼 만들기](./create-offers.md)
