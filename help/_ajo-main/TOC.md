@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '849'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 98%
    + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
    + [여정 시험 실행으로 여정 논리의 유효성 검사](/help/create-journeys/journey-dry-run.md)
    + [여정 게시](/help/create-journeys/publish-a-journey.md)
-   + [보조 ID로 여정 재입력 잠금 해제](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [보조 ID로 여정 다시 시작](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [라이브 여정에서 콘텐츠 업데이트](/help/create-journeys/update-content-in-live-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
    + [배치 세분화 후 일일 여정 실행 트리거](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
@@ -181,7 +181,7 @@ ht-degree: 98%
          + [하위 도메인 설정](/help/set-up-channels/set-up-subdomain.md)
          + [CName 하위 도메인 위임](/help/set-up-channels/delegate-cname-subdomains.md)
          + [이메일 채널 구성](/help/set-up-channels/configure-email-channel.md)
-         + [IP 준비 계획 설정 및 실행](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+         + [IP 준비 계획 및 실행](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + SMS/MMS/RCS 채널 {#sms-mms-channel}
          + [SMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/set-up-sms-channel.md)
          + [사용자 정의 SMS 공급자 구성](/help/set-up-channels/configure-custom-sms-provider.md)
