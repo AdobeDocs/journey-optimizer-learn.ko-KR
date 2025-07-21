@@ -9,9 +9,9 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,13 @@ JavaScript은 사용자의 위치에 따라 날씨 정보를 동적으로 가져
 
 6. **오퍼 검색 및 렌더링**
 
-   AJO에서 반환된 오퍼를 받습니다.
+   AJO Decisioning에서 반환된 오퍼를 받습니다.
 
    HTML 콘텐츠를 디코딩합니다.
 
    에 오퍼를 동적으로 주입 <div id="offerContainer"> 요소를 생성하지 않습니다.
+
+## 다음 단계
+
+[AJO Decisioning의 영향을 측정하고 보고합니다.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 

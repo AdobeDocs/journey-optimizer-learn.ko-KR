@@ -8,19 +8,20 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 69bc8aace3cc502a18e691584824176833413c7e
+exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
+source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
 
 # 노출 횟수 및 상호 작용 이벤트 캡처
 
-AJO 오퍼 노출 횟수 및 클릭 수에 대한 보고를 활성화하려면 다음 구성 요소를 구성해야 합니다.
+AJO 의사 결정에서 오퍼 노출 횟수 및 클릭 수에 대한 보고를 활성화하려면 다음 구성 요소를 구성해야 합니다.
 >[!NOTE]
 >
-> 이러한 필수 구성 요소는 [이전 자습서](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)의 스키마 및 데이터 세트 만들기 섹션에서 이미 완료되었습니다.
+> 이러한 필수 구성 요소는 [이전 자습서](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)의 스키마 및 데이터 세트 만들기 섹션에서 이미 완료되었습니다.
 
 ## &#x200B;1. Adobe Experience Platform(AEP)의 데이터 세트
 

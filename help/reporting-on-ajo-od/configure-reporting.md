@@ -8,7 +8,8 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: 5bff884b-17e2-4b86-affb-ea9cf3cc2a60
+source-git-commit: c2478bc3bde4c7770110a5672a0ffc425a117e62
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -19,8 +20,7 @@ ht-degree: 0%
 
 Adobe Journey Optimizer Offer Decisioning에 대한 보고 설정을 시작하려면
 
-- Journey Optimizer에 로그인
+- _**Journey Optimizer**_&#x200B;에 로그인
 
-- _&#x200B;**관리 ->구성 ->보고 ->관리 ->데이터 세트 추가**&#x200B;_(으)로 이동
-- 오퍼 노출을 저장하고 이전 자습서에서 생성된 이벤트를 클릭하는 _&#x200B;**날씨 스키마 데이터 세트**&#x200B;_&#x200B;를 선택하십시오.
-
+- _**관리 ->구성 ->보고 ->관리 ->데이터 세트 추가**_(으)로 이동
+- 오퍼 노출을 저장하고 이전 자습서에서 생성된 이벤트를 클릭하는 _**날씨 스키마 데이터 세트**_&#x200B;를 선택하십시오.
