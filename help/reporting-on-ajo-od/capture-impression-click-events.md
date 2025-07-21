@@ -21,7 +21,7 @@ ht-degree: 0%
 AJO 의사 결정에서 오퍼 노출 횟수 및 클릭 수에 대한 보고를 활성화하려면 다음 구성 요소를 구성해야 합니다.
 >[!NOTE]
 >
-> 이러한 필수 구성 요소는 [이전 자습서](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)의 스키마 및 데이터 세트 만들기 섹션에서 이미 완료되었습니다.
+> 이러한 필수 구성 요소는 [이전 자습서](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)의 스키마 및 데이터 세트 만들기 섹션에서 이미 완료되었습니다.
 
 ## &#x200B;1. Adobe Experience Platform(AEP)의 데이터 세트
 

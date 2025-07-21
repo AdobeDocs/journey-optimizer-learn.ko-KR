@@ -107,5 +107,5 @@ JavaScript은 사용자의 위치에 따라 날씨 정보를 동적으로 가져
 
 ## 다음 단계
 
-[AJO Decisioning의 영향을 측정하고 보고합니다.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[AJO Decisioning의 영향을 측정하고 보고합니다.](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 
