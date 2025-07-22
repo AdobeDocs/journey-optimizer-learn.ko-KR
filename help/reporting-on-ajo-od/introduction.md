@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
+source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -24,9 +25,7 @@ Adobe Web SDK을 통해 decisioning.propositionDisplay 및 decisioning.propositi
 
 
 
-
 ![보고 대시보드](assets/dashboard-reporting.png)
-
 
 
 ## 이 자습서의 사전 요구 사항
@@ -34,12 +33,8 @@ Adobe Web SDK을 통해 decisioning.propositionDisplay 및 decisioning.propositi
 시작하기 전에 [실시간 날씨 데이터를 사용하여 오퍼 개인화 자습서를 완료하십시오.](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) 다음을 포함한 모든 기본 구성 요소를 설정합니다.
 
 - 웹 SDK 통합
-
 - Adobe Journey Optimizer(AJO)의 오퍼 설정
-
 - 날씨 및 온도와 같은 상황별 속성을 사용한 의사 결정
-
 - 웹 페이지에서 실시간 오퍼 렌더링
 
 이 튜토리얼은 해당 구현을 직접 기반으로 하며, 특히 Journey Optimizer에서 보고 및 분석을 위한 오퍼 노출 횟수 및 상호 작용 캡처에 중점을 둡니다.
-
