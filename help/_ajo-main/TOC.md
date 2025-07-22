@@ -18,7 +18,7 @@ ht-degree: 98%
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
    + [Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [오퍼 노출 및 클릭에 대한 보고서 생성](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [오퍼 노출 및 클릭에 대한 보고서 생성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
