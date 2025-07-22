@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 4a228623154a5422ba45ff1c0cc8be986787c0cb
+source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 99%
+source-wordcount: '860'
+ht-degree: 98%
 
 ---
 
@@ -46,13 +46,14 @@ ht-degree: 99%
    + [여정 디자이너 - 개요](/help/create-journeys/journey-designer-overview.md)
    + [새 여정 디자이너 살펴보기](/help/create-journeys/new-journey-designer.md)
    + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
+   + [여정 게시](/help/create-journeys/publish-a-journey.md)
    + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
    + [사용 사례 - 비즈니스 이벤트](/help/create-journeys/use-case-business-event.md)
    + [사용 사례 - 대상자 읽기](/help/create-journeys/use-case-read-audience.md)
    + [사용 사례 - 대상자 선별](/help/create-journeys/use-case-audience-qualification.md)
-   + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
+   + [다중 속성 필터링 마스터하기](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [여정 시험 실행으로 여정 논리의 유효성 검사](/help/create-journeys/journey-dry-run.md)
-   + [여정 게시](/help/create-journeys/publish-a-journey.md)
    + [보조 ID로 여정 다시 시작](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [라이브 여정에서 콘텐츠 업데이트](/help/create-journeys/update-content-in-live-journey.md)
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
