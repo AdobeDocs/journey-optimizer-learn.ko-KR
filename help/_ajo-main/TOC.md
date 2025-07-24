@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '860'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
