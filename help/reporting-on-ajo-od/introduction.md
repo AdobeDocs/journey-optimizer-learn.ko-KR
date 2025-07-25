@@ -1,5 +1,5 @@
 ---
-title: AJO Offer Decisioning을 통해 제공된 Adobe Journey Optimizer(AJO) 오퍼 추적 및 보고
+title: AJO Decisioning을 통해 제공된 Adobe Journey Optimizer(AJO) 오퍼 추적 및 보고
 description: 이 자습서에서는 온도와 같은 컨텍스트 데이터를 기반으로 개인화된 오퍼를 제공하는 기존 Adobe Journey Optimizer(AJO) 구현을 확장합니다. 노출 및 상호 작용 이벤트를 캡처하고 Journey Optimizer 내에서 보고할 데이터를 준비하는 방법에 대해 설명합니다.
 feature: Decisioning
 role: User
@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-# AJO Offer Decisioning을 통해 제공된 Adobe Journey Optimizer(AJO) 오퍼 추적 및 보고
+# AJO Decisioning을 통해 제공된 Adobe Journey Optimizer(AJO) 오퍼 추적 및 보고
 
 이 사용 사례는 Adobe Journey Optimizer(AJO)를 통해 제공되는 오퍼에 대한 보고 및 성능 분석을 활성화하는 데 중점을 둡니다. 상황별 신호(예: 날씨 또는 위치)를 기반으로 오퍼가 개인화되고 전달되면 노출과 사용자 상호 작용을 모두 추적하여 효과를 평가하는 것이 중요합니다.
 

@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
-source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 AJO 의사 결정에서 오퍼 노출 횟수 및 클릭 수에 대한 보고를 활성화하려면 다음 구성 요소를 구성해야 합니다.
 >[!NOTE]
 >
-> 이러한 필수 구성 요소는 [이전 자습서](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)의 스키마 및 데이터 세트 만들기 섹션에서 이미 완료되었습니다.
+> 이러한 필수 구성 요소는 [이전 자습서](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)의 스키마 및 데이터 세트 만들기 섹션에서 이미 완료되었습니다.
 
 ## &#x200B;1. Adobe Experience Platform(AEP)의 데이터 세트
 
@@ -72,6 +72,10 @@ sendEvent 페이로드는 이벤트 유형(노출에 대해서는 decisioning.pr
                 decisioning: {
                   propositionEventType: {
                     display: 1
+                  },
+                    propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
                   },
                   
                    propositions: window.latestPropositions

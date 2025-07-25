@@ -8,9 +8,9 @@ role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 5%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 + [소개](./introduction.md)
 + [스키마 및 데이터 세트 만들기](./create-schema-and-dataset.md)
-+ [AEP 태그 만들기](./create-aep-tags.md)
++ [Experience Platform 태그 만들기](./create-aep-tags.md)
 + [오퍼 컬렉션 만들기](./create-tag-category.md)
 + [오퍼 만들기](./create-offers.md)
 + [순위 공식 만들기](./create-ranking-formula.md)
