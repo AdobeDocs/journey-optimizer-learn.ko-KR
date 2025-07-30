@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
-workflow-type: ht
-source-wordcount: '860'
-ht-degree: 100%
+source-git-commit: d84462b08d8abac74f9fa1147f6d10a05922520b
+workflow-type: tm+mt
+source-wordcount: '888'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
+   + [지능형 재참여 - 찾아보기 중단됨](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [오퍼 노출 및 클릭에 대한 보고서 생성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -107,6 +108,10 @@ ht-degree: 100%
       + [웹 캠페인 만들기](/help/channels/create-a-web-campaign.md)
       + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
+   + WhatsApp {#whatsapp}
+      + [WhatsApp 채널 소개](/help/channels/whatsapp-introduction.md)
+      + [WhatsApp 채널 설정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)
+      + [WhatsApp 여정 만들기](/help/channels/create-a-whatsapp-journey.md)
 + 콘텐츠 관리{#content-management}
    + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
    + 자산 관리 {#assets}
@@ -191,6 +196,8 @@ ht-degree: 100%
          + [RCS 설정](/help/set-up-channels/set-up-rcs.md)
       + 웹 채널 및 모바일 채널 {#web-and-mobile-channels}
          + [안내형 채널 설정](/help/set-up-channels/guided-channel-setup.md)
+      + WhatsApp 채널 {#whatsapp-channel}
+         + [WhatsApp 채널 설정](/help/set-up-channels/set-up-whatsapp-channel.md)
    + 여정 구성 {#journey-configuration}
       + [데이터 소스 구성](/help/set-up-journeys/configure-data-sources.md)
       + [이벤트 만들기](/help/set-up-journeys/create-events.md)
