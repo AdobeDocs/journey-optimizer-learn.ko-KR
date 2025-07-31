@@ -28,4 +28,4 @@ ht-degree: 0%
 
 WhatsApp을 통해 개인화된 고객 참여를 자동화하려는 마케터에게 이상적입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470289/?learn=on&enablevpops&captions=kor)
