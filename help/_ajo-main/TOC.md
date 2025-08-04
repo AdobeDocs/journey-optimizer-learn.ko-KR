@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: e0713e7265468f749239acdac53ddaf1c27afdc8
+source-git-commit: 202cc6731ee1a587b62125b2916131521b6f3343
 workflow-type: tm+mt
 source-wordcount: '905'
 ht-degree: 95%
@@ -17,7 +17,7 @@ ht-degree: 95%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [지능형 재참여 - 찾아보기 중단됨](https://experienceleague.adobe.com/ko/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [지능형 재참여 - 찾아보기 중단됨](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [오퍼 노출 및 클릭에 대한 보고서 생성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -43,7 +43,7 @@ ht-degree: 95%
       + [웹 캠페인 만들기](/help/create-campaigns/web-campaign.md)
       + [코드 기반 경험 캠페인 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/create-campaigns/content-experiments.md)
-      + [캠페인에서 메시지 최적화 활용](/help/channels/leverage-message-optimization-in-a-campaign.md)
+      + [캠페인에서 메시지 최적화 활용](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API 트리거 캠페인 {#api-triggered-campaigns}
       + [API를 사용하여 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
    + 오케스트레이션된 캠페인 {#orchestrated-campaigns}
