@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 202cc6731ee1a587b62125b2916131521b6f3343
+source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
-source-wordcount: '905'
-ht-degree: 95%
+source-wordcount: '910'
+ht-degree: 94%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [지능형 재참여 - 찾아보기 중단됨](https://experienceleague.adobe.com/ko/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [지능형 재참여 - 찾아보기 중단됨](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [오퍼 노출 및 클릭에 대한 보고서 생성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -138,6 +138,7 @@ ht-degree: 95%
    + 콘텐츠 생성용 AI 어시스턴트 {#ai-assistant}
       + [콘텐츠 생성용 AI 어시스턴트 - 개요](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+      + [브랜드 가이드라인 작성 및 관리](/help/content-management/brand-guideline-creation-and-management.md)
    + [실험 - 개요](/help/content-management/experimentation-overview.md)
    + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
 + 콘텐츠 개인화 {#personalize-content}
