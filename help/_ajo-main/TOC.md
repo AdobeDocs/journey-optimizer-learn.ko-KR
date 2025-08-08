@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 + 사용 사례 {#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [지능형 재참여 - 찾아보기 중단됨](https://experienceleague.adobe.com/ko/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [인텔리전트 재참여 - 포기한 찾아보기](https://experienceleague.adobe.com/ko/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [오퍼 노출 및 클릭에 대한 보고서 생성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -36,7 +36,7 @@ ht-degree: 94%
    + [개발자를 위한 모바일 기능](/help/channels/mobile-capabilities-for-developers.md)
    + [AI 어시스턴트로 도움 받기](/help/ai-assistant.md)
 + 캠페인 {#create-campaigns}
-   + 작업 캠페인 {#action-campaigns}
+   + 액션 캠페인 {#action-campaigns}
       + [캠페인 만들기](/help/create-campaigns/create-a-campaign.md)
       + [인앱 캠페인 만들기](/help/create-campaigns/in-app.md)
       + [푸시 캠페인 구성 및 보내기](/help/create-campaigns/push-campaign.md)
@@ -45,7 +45,7 @@ ht-degree: 94%
       + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/create-campaigns/content-experiments.md)
       + [캠페인에서 메시지 최적화 활용](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API 트리거 캠페인 {#api-triggered-campaigns}
-      + [API를 사용하여 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
+      + [API로 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
    + 오케스트레이션된 캠페인 {#orchestrated-campaigns}
 + 여정 {#create-journeys}
    + [여정 디자이너 - 개요](/help/create-journeys/journey-designer-overview.md)
@@ -113,7 +113,7 @@ ht-degree: 94%
       + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + [WhatsApp 시작하기(엔드투엔드)](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + [WhatsApp 시작(엔드투엔드)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp 채널 소개](/help/channels/whatsapp-introduction.md)
       + [WhatsApp 채널 설정](/help/channels/set-up-whatsapp.md)
       + [WhatsApp 여정 만들기](/help/channels/create-a-whatsapp-journey.md)
