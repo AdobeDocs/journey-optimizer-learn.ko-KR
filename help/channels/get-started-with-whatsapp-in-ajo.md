@@ -30,4 +30,4 @@ Adobe Journey Optimizer에서 WhatsApp을 기본 채널로 통합하여 안전�
 
 세계에서 가장 널리 쓰이는 메시지 플랫폼 중 하나를 통해 도달 범위와 참여를 확장하려는 마케터에게 적합합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470251/?learn=on&enablevpops&captions=kor)
