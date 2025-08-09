@@ -22,6 +22,6 @@ ht-degree: 0%
 
 커뮤니케이션 전반에 걸쳐 고유한 시각적 및 언어적 정체성을 명확하게 정의하기 위해 고유한 브랜드를 만들고 사용자 지정하는 방법을 알아봅니다. 브랜드 정렬 점수를 통해 콘텐츠가 브랜드의 색조, 스타일 및 지침을 얼마나 잘 반영하는지에 대한 실시간 피드백을 받는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470553/?learn=on&enablevpops&captions=kor)
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands)를 참조하세요.
