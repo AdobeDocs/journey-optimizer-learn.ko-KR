@@ -9,10 +9,10 @@ duration: 143
 last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15789
 exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
-source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
+source-git-commit: 5ec9aa524723f15e90ea22e5f93c9f9153c82069
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 62%
+source-wordcount: '82'
+ht-degree: 64%
 
 ---
 
@@ -22,4 +22,4 @@ Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Journey Optimizer에서 지원되는 사용 사례에 대한 자세한 내용은 [AI 길잡이 작업](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/get-started/ai-assistant)을 참조하십시오. 자세한 설명서는 Adobe Experience Platform의 [AI Assistant](https://experienceleague.adobe.com/ko/docs/experience-platform/ai-assistant/home) 설명서를 참조하십시오.
+Journey Optimizer에서 지원되는 사용 사례에 대한 자세한 내용은 [AI 길잡이를 사용하여 작업](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant)을 참조하십시오. 자세한 설명서는 Adobe Experience Platform의 [AI Assistant](https://experienceleague.adobe.com/ko/docs/experience-platform/ai-assistant/home) 설명서를 참조하십시오.
