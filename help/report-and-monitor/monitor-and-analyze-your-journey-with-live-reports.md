@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer의 라이브 보고서 기능을 효과적으로 사용하여 여정 및 메시지의 성능을 실시간으로 모니터링하고 분석하는 방법을 알아봅니다. 여정을 사용자 정의하고, 보고서를 내보내고, 마케팅 전략을 최적화하기 위해 대시보드별 지표를 해석하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470842/?learn=on&enablevpops&captions=kor)
