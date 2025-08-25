@@ -32,7 +32,7 @@ Adobe Journey Optimizer을 사용하여 효과적인 모바일 커뮤니케이�
 
 Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용하여 메시지를 구성하고 보내는 방법을 이해할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430374?quality=12&learn=on&captions=kor){transcript=true}
 
 >[!TAB 푸시]
 
@@ -78,7 +78,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="푸시 캠페인 구성 및 보내기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1755891402391" alt="푸시 캠페인 구성 및 보내기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3452708/?format=jpeg&nocache=1755891402391&captions=kor" alt="푸시 캠페인 구성 및 보내기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html?lang=ko" title="인앱 메시지 작성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410471?format=jpeg&nocache=1755891403133" alt="인앱 메시지 작성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422079?format=jpeg&nocache=1755891403133&captions=kor" alt="인앱 메시지 작성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -149,7 +149,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="인앱 캠페인 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410430?format=jpeg&nocache=1755891402919" alt="인앱 캠페인 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451889?format=jpeg&nocache=1755891402919&captions=kor" alt="인앱 캠페인 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards" title="콘텐츠 카드 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434783/?format=jpeg&nocache=1755891403581" alt="콘텐츠 카드 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434790/?format=jpeg&nocache=1755891403581&captions=kor" alt="콘텐츠 카드 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -272,7 +272,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="SMS 메시지 구성, 작성, 전달" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1755891404139" alt="SMS 메시지 구성, 작성, 전달"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422697?format=jpeg&nocache=1755891404139&captions=kor" alt="SMS 메시지 구성, 작성, 전달"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -295,7 +295,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Sinch 및 Infobip에 대한 이중 옵트인" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1755891404148" alt="Sinch 및 Infobip에 대한 이중 옵트인"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440286/?format=jpeg&nocache=1755891404148&captions=kor" alt="Sinch 및 Infobip에 대한 이중 옵트인"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -329,7 +329,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="MMS 메시지 작성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1755891404669" alt="MMS 메시지 작성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437107/?format=jpeg&nocache=1755891404669&captions=kor" alt="MMS 메시지 작성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -352,7 +352,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Journey Optimizer에서 RCS 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755891404682" alt="Journey Optimizer에서 RCS 설정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464762/?format=jpeg&nocache=1755891404682&captions=kor" alt="Journey Optimizer에서 RCS 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -398,7 +398,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" title="코드 기반 경험 캠페인을 만듭니다." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428868/?format=jpeg&nocache=1755891405190" alt="코드 기반 경험 캠페인을 만듭니다."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449460/?format=jpeg&nocache=1755891405190&captions=kor" alt="코드 기반 경험 캠페인을 만듭니다."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -421,7 +421,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="코드 기반 경험 채널 템플릿에 양식 필드 추가" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463990/?format=jpeg&nocache=1755891405203" alt="코드 기반 경험 채널 템플릿에 양식 필드 추가"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463998/?format=jpeg&nocache=1755891405203&captions=kor" alt="코드 기반 경험 채널 템플릿에 양식 필드 추가"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -467,7 +467,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" title="WhatsApp 채널 소개" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470296/?format=jpeg&nocache=1755891405738" alt="WhatsApp 채널 소개"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470303/?format=jpeg&nocache=1755891405738&captions=kor" alt="WhatsApp 채널 소개"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -490,7 +490,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" title="WhatsApp 여정 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470282/?format=jpeg&nocache=1755891405726" alt="WhatsApp 여정 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470289/?format=jpeg&nocache=1755891405726&captions=kor" alt="WhatsApp 여정 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -590,7 +590,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" title="개인화에 도우미 기능 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334244?format=jpeg&nocache=1755891406861" alt="개인화에 도우미 기능 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416646?format=jpeg&nocache=1755891406861&captions=kor" alt="개인화에 도우미 기능 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -613,7 +613,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="개인화 라이브러리에 저장한 표현식 사용 및 관리" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/340941?format=jpeg&nocache=1755891406844" alt="개인화 라이브러리에 저장한 표현식 사용 및 관리"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/344988?format=jpeg&nocache=1755891406844&captions=kor" alt="개인화 라이브러리에 저장한 표현식 사용 및 관리"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -647,7 +647,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" title="인바운드 작업에 우선 순위 점수 할당" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435529/?format=jpeg&nocache=1755891407584" alt="인바운드 작업에 우선 순위 점수 할당"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445008/?format=jpeg&nocache=1755891407584&captions=kor" alt="인바운드 작업에 우선 순위 점수 할당"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -670,7 +670,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" title="여정 빈도 제한 및 우선 순위 지정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435530/?format=jpeg&nocache=1755891407596" alt="여정 빈도 제한 및 우선 순위 지정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447622/?format=jpeg&nocache=1755891407596&captions=kor" alt="여정 빈도 제한 및 우선 순위 지정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
