@@ -26,6 +26,6 @@ Adobe Experience Manager(AEM)를 Adobe Journey Optimizer와 원활하게 통합�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
 
-Experience League LIVE - [AEM 콘텐츠 조각 및 Dynamic Media를 사용하여 Journey Optimizer에서 개인화된 콘텐츠 제공](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
+Experience League LIVE - [AEM 콘텐츠 조각 및 Dynamic Media를 사용하여 Journey Optimizer에서 개인화된 콘텐츠 제공](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 
 이 세션에서는 Jyothitha Chandran, Chris Ivory 및 Kaitlin White가 어떻게 Adobe Journey Optimizer(AJO)가 Adobe Experience Manager(AEM) Sites 콘텐츠 조각 및 AEM Assets Dynamic Media와 원활하게 통합되어 모든 채널에서 확장 가능한 실시간 개인화를 제공하는지 보여주었다.
