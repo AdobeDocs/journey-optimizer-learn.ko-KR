@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 3%
@@ -32,7 +32,7 @@ Adobe Journey Optimizer 내에서 WhatsApp은 사용자의 WhatsApp 계정에 �
 | 4 | 규정 준수 및 신뢰 유지 | 메시지는 엄격한 옵트인 요구 사항이 있는 공식 API를 통해 전달됩니다 | <ul><li>구독 확인</li><li>규정 알림</li></ul> |
 | 5 | 다른 채널과 통합 | 이메일, 푸시 또는 SMS와 결합하여 원활한 멀티채널 여정 | <ul><li>크로스 채널 재참여</li><li>포기한 장바구니에 대한 후속 조치</li></ul> |
 
-## WhatsApp을 사용하지 않을 때
+## WhatsApp을 사용할 *not*&#x200B;인 경우
 
 * 대상자가 WhatsApp을 적극적으로 사용하지 않는 경우.
 * 사용자가 WhatsApp 메시지 수신을 명시적으로 선택하지 않은 경우.
