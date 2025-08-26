@@ -215,6 +215,7 @@ Journey Optimizer 및 Experience Platform에서 모바일 채널을 구성하고
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ## 블로그 게시물
 
 * [더 빠른 개인화를 위해 모바일에서 CDN 기반 클라이언트측 개인화(ODD)를 사용합니다.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
