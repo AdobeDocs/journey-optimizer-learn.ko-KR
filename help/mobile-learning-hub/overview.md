@@ -7,9 +7,9 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
+source-git-commit: b3469f95fdff0757e2f8795a7420b0b0a92caa01
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '900'
 ht-degree: 0%
 
 ---
@@ -29,42 +29,42 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 아웃바운드 채널은 사전 상호 작용 없이 고객에게 **메시지를 사전 예방적으로 전달**&#x200B;하는 데 사용됩니다. 이는 캠페인, 프로모션 및 트랜잭션 커뮤니케이션에 이상적입니다.
 
+이러한 채널은 메시지 전송 시간에 **사용자 지정 동의 정책**&#x200B;을 적용합니다. 특정 마케팅 작업에 대한 동의가 부여되지 않으면 메시지가 게재되지 않도록 차단됩니다.
+
 | ![푸시 알림](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[푸시 알림](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | 앱 외부로 보낸 푸시 메시지는 즉시 주의를 사로잡습니다. 시간에 민감한 업데이트와 사용자가 앱으로 돌아가도록 유도하는 데 이상적입니다. | 앱이 필요 없이 사용자의 휴대폰으로 보낸 다이렉트 메시지. 긴급한 알림, 미리 알림 및 이미지나 비디오와 같은 리치 미디어 콘텐츠에 적합합니다. | 널리 사용되는 메시징 앱을 통한 대화형 채널을 통해 개인화된 양방향 커뮤니케이션 및 대화형 캠페인을 수행할 수 있습니다. |
 
-> 아웃바운드 채널은 메시지 전송 시간에 **사용자 지정 동의 정책**&#x200B;을 적용합니다. 특정 마케팅 작업에 대한 동의가 부여되지 않으면 메시지가 게재되지 않도록 차단됩니다.
-
 ### 인바운드 채널
 
-인바운드 채널은 **고객이 시작한 상호 작용**&#x200B;을 위해 설계되어 사용자가 귀하의 브랜드에 참여할 때 개인화된 경험을 사용할 수 있습니다.
+인바운드 채널은 **고객이 시작한 상호 작용**&#x200B;을 위해 설계되어 사용자가 귀하의 브랜드에 참여할 때 개인화된 경험을 사용할 수 있습니다. 세분화 및 타깃팅을 위해 Adobe Experience Platform(AEP)에 공급되는 랜딩 페이지 양식과 같은 **실시간 개인화** 및 **데이터 캡처**&#x200B;를 지원합니다.
+
 
 | ![인앱 메시지](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;,height=&quot;50%&quot;}<br> **[인앱 메시지](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![콘텐츠 카드](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[콘텐츠 카드](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![코드 기반 경험](/help/mobile-learning-hub/assets/code-based.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[코드 기반 경험](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | 사용자가 앱을 적극적으로 사용하는 동안 전달되는 이러한 메시지는 실시간 및 대화형입니다. 이 제품은 고객의 관심을 끌기에 안성맞춤입니다. | 사용자가 앱에서 언제든지 액세스할 수 있는 비간섭적 지속 메시지. 콘텐츠 카드는 진행 중인 오퍼 또는 유용한 정보를 공유하는 데 적합합니다. | 사용자 지정 코드 메시지는 고도로 개인화되고 동적인 캠페인을 활성화하여 실시간 데이터와 복잡한 고객 여정을 통합합니다. |
 
-> 인바운드 채널은 세분화 및 타깃팅을 위해 Adobe Experience Platform(AEP)에 공급되는 랜딩 페이지 양식과 같이 **실시간 개인화** 및 **데이터 캡처**&#x200B;를 지원합니다.
 
-### 모바일 채널이 함께 작동하는 방식
+### 모바일 채널은 어떻게 함께 작동할 수 있습니까?
 
 이러한 채널을 결합하면 원활하고 효과적인 고객 경험을 만들 수 있습니다.
 
-1. **푸시 알림**&#x200B;을 사용하여 빠르게 주의를 집중하고 사용자를 앱으로 다시 불러올 수 있습니다(예: &quot;판매 시작!&quot;).
+1. [푸시 알림](/help/mobile-learning-hub/channels/push-notifications-overview.md)을 사용하여 빠르게 주의를 집중하고 사용자를 앱으로 다시 불러올 수 있습니다(예: &quot;판매 시작!&quot;).
 
-2. 로그인한 후 **인앱 메시지**&#x200B;와 함께 개인화된 프로모션(예: &quot;오늘 할인 행사 15% 할인&quot;)을 전달하십시오.
+2. 로그인한 후 [인앱 메시지](/help/mobile-learning-hub/channels/in-app-messages-overview.md)와 함께 개인화된 프로모션(예: &quot;오늘 할인 행사 15% 할인&quot;)을 전달하십시오.
 
-3. 사용자가 만료되기 전에 언제든지 프로모션을 다시 방문할 수 있도록 **콘텐츠 카드**&#x200B;를 제공합니다(예: &quot;15% 할인은 금요일에 끝남&quot;).
+3. 사용자가 만료되기 전에 언제든지 프로모션을 다시 방문할 수 있도록 [콘텐츠 카드](/help/mobile-learning-hub/channels/content-cards-overview.md)를 제공합니다(예: &quot;15% 할인은 금요일에 끝남&quot;).
 
-4. **SMS/MMS/RCS**&#x200B;를 사용하여 앱에 없을 수 있는 사용자에게 적절한 미리 알림 또는 리치 미디어 오퍼를 직접 보냅니다.
+4. [SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)를 사용하여 앱에 없을 수 있는 사용자에게 적절한 미리 알림 또는 리치 미디어 오퍼를 직접 보냅니다.
 
-5. 고객 지원 또는 대화형 캠페인에 이상적인 **WhatsApp**&#x200B;을(를) 통해 의미 있는 대화를 나눌 수 있습니다.
+5. 고객 지원 또는 대화형 캠페인에 이상적인 [WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)을(를) 통해 의미 있는 대화를 나눌 수 있습니다.
 
-6. **코드 기반 경험**&#x200B;을 활용하여 사용자 동작 및 환경 설정을 기반으로 모든 메시지를 사용자 정의하여 채널 간에 진정한 개인화된 여정을 만들어 보세요.
+6. [코드 기반 경험](/help/mobile-learning-hub/channels/code-based-experience-overview.md)을 활용하여 사용자 동작 및 환경 설정을 기반으로 모든 메시지를 사용자 정의하여 채널 간에 진정한 개인화된 여정을 만들어 보세요.
 
 
 ## 고객 사용 사례
 
-* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ko)
+* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## 기반 구축
