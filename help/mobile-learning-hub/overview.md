@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: b3469f95fdff0757e2f8795a7420b0b0a92caa01
+source-git-commit: 69eed07e1759e2dfd30934d7ef2c16b1240704e2
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -16,7 +16,9 @@ ht-degree: 0%
 
 # Journey Optimizer - 모바일 학습 허브
 
-Adobe Journey Optimizer(AJO)에서 모바일 채널을 시작 또는 레벨업합니다. 이는 개발자, 관리자, 마케터 및 데이터 분석가가 인바운드 및 아웃바운드 모바일 채널을 설정하는 것부터 강력한 캠페인으로 연결하는 것까지 모든 것을 발견할 수 있는 여정 공간입니다. 모범 사례를 살펴보고, 채택을 촉진하는 방법과 보고 기능을 마스터하는 방법을 한 곳에서 모두 알아봅니다. 이를 통해 팀은 언제 어디서나 사용자와 연결하는 효과적인 데이터 기반의 모바일 경험을 제공할 수 있습니다.
+Adobe Journey Optimizer(AJO)에서 모바일 채널을 시작 또는 레벨업합니다. 이는 개발자, 관리자, 마케터 및 데이터 분석가가 인바운드 및 아웃바운드 모바일 채널 설정에서 강력한 캠페인으로 연결하는 모든 것을 발견할 수 있는 여정 공간입니다.
+
+모범 사례를 살펴보고, 채택을 촉진하는 방법과 보고 기능을 마스터하는 방법을 한 곳에서 모두 알아봅니다. 이를 통해 팀은 언제 어디서나 사용자와 연결하는 효과적인 데이터 기반의 모바일 경험을 제공할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
 
@@ -64,7 +66,7 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 ## 고객 사용 사례
 
-* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ko)
+* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## 기반 구축
