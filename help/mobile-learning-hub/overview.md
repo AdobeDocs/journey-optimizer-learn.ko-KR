@@ -6,13 +6,13 @@ role: User, Admin, Developer
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
+source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer - 모바일 학습 허브
 
@@ -35,7 +35,7 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 > 아웃바운드 채널은 메시지 전송 시간에 **사용자 지정 동의 정책**&#x200B;을 적용합니다. 특정 마케팅 작업에 대한 동의가 부여되지 않으면 메시지가 게재되지 않도록 차단됩니다.
 
-## 인바운드 채널
+### 인바운드 채널
 
 인바운드 채널은 **고객이 시작한 상호 작용**&#x200B;을 위해 설계되어 사용자가 귀하의 브랜드에 참여할 때 개인화된 경험을 사용할 수 있습니다.
 
@@ -45,7 +45,7 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 > 인바운드 채널은 세분화 및 타깃팅을 위해 Adobe Experience Platform(AEP)에 공급되는 랜딩 페이지 양식과 같이 **실시간 개인화** 및 **데이터 캡처**&#x200B;를 지원합니다.
 
-## 모바일 채널이 함께 작동하는 방식
+### 모바일 채널이 함께 작동하는 방식
 
 이러한 채널을 결합하면 원활하고 효과적인 고객 경험을 만들 수 있습니다.
 
@@ -64,7 +64,7 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 ## 고객 사용 사례
 
-* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ko)
+* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## 기반 구축
@@ -99,5 +99,3 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 | **상향 판매 및 교차 판매 캠페인** | 비헤이비어, 환경 설정 또는 구매 내역을 기반으로 기존 고객에 대한 추가 제품 또는 업그레이드를 홍보합니다. | - 푸시 알림은 관련 업셀 기회를 강조 표시합니다.<br> - 인앱 메시지 및 콘텐츠 카드에 보조 항목이 표시됩니다.<br>- SMS 캠페인은 전용 오퍼를 사용하여 세그먼트화된 대상자를 타겟팅합니다. |
 | **이탈 방지** | 이탈 위험이 있는 사용자를 식별하고 충성도를 유지하기 위한 개인화된 유지 전략에 참여합니다. | - 예측 분석은 위험이 있는 사용자에게 모바일 전달을 트리거합니다.<br>- 푸시 알림 및 SMS 오퍼 충성도 보상 또는 개인화된 콘텐츠.<br>- 인앱 설문 조사는 보존 전략을 개선하기 위해 피드백을 수집합니다. |
 | **다중 채널 메시징** | 여러 모바일 채널에서 일관된 메시지를 조율하여 사용자가 적시에 적절한 커뮤니케이션을 받을 수 있도록 합니다. | - 푸시, 인앱, SMS 및 이메일이 통합 메시징에 대해 조정됩니다.<br>- SDK를 사용하면 채널 전체에서 실시간 개인화가 가능합니다.<br>- 콘텐츠 카드는 세션 간에 유지되어 주요 메시지를 강화합니다. |
-
-
