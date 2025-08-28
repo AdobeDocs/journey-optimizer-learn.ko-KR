@@ -20,4 +20,4 @@ ht-degree: 0%
 
 시작 및 종료 통계, 오류 및 실행된 작업을 포함하여 사용자가 여정에서 다양한 단계와 상호 작용하는 개별 여정의 성능을 추적하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471470/?learn=on&enablevpops&captions=kor)
