@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 7f05f2f16414c4bbd64f55fd6cf3bc68623c6d4d
+source-git-commit: a3b77dfe47e09816ad4d5b295ebe791c4f133e69
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 99%
+source-wordcount: '926'
+ht-degree: 97%
 
 ---
 
@@ -180,8 +180,10 @@ ht-degree: 99%
    + [데이터 세트 내보내기 대상 구성](/help/data-management/configure-dataset-export-destination.md)
    + [데이터 세트를 클라우드 스토리지 위치로 내보내기](/help/data-management/export-datasets.md)
 + 보고 및 모니터링 {#report-and-monitor}
-   + [측정 및 보고 - 개요](/help/report-and-monitor/measurement-and-reporting-overview.md)
+   + [보고 및 모니터링](/help/report-and-monitor/report-and-monitor.md)
+   + [Journey Optimizer을 사용한 보고 소개](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [라이브 보고서로 여정 모니터링 및 분석](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
+   + [여정 보고서를 사용하여 여정 모니터링 및 분석](/help/report-and-monitor/journey-reports.md)
    + [채널 수준 보고서](/help/report-and-monitor/channel-level-reports.md)
    + [CSV 형식으로 보고서 내보내기](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [경고 사용](/help/administration/alerts.md)
