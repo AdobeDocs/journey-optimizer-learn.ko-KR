@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
+source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
 workflow-type: tm+mt
-source-wordcount: '926'
-ht-degree: 97%
+source-wordcount: '951'
+ht-degree: 95%
 
 ---
 
@@ -14,16 +14,6 @@ ht-degree: 97%
 # Journey Optimizer 튜토리얼 {#tutorials}
 
 + [Journey Optimizer 튜토리얼](/help/_ajo-main/overview.md)
-+ 사용 사례 {#use-cases}
-   + [고객 온보딩](/help/use-cases/customer-onboarding.md)
-   + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
-   + [인텔리전트 재참여 - 포기한 찾아보기](https://experienceleague.adobe.com/ko/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [오퍼 노출 및 클릭에 대한 보고서 생성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
-   + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
-   + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-+ 사용 사례 플레이북 {#use-case-playbooks}
    + [개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
    + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
    + [플레이북 인스턴스 생성 및 게시](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
@@ -37,16 +27,17 @@ ht-degree: 97%
    + [AI 어시스턴트로 도움 받기](/help/ai-agents/ai-assistant.md)
 + 캠페인 {#create-campaigns}
    + 액션 캠페인 {#action-campaigns}
-      + [캠페인 만들기](/help/create-campaigns/create-a-campaign.md)
-      + [인앱 캠페인 만들기](/help/create-campaigns/in-app.md)
-      + [푸시 캠페인 구성 및 보내기](/help/create-campaigns/push-campaign.md)
-      + [웹 캠페인 만들기](/help/create-campaigns/web-campaign.md)
+      + [캠페인 만들기](/help/campaigns/action-campaigns/create-a-campaign.md)
+      + [인앱 캠페인 만들기](/help/campaigns/action-campaigns/in-app.md)
+      + [푸시 캠페인 구성 및 보내기](/help/campaigns/action-campaigns/push-campaign.md)
+      + [웹 캠페인 만들기](/help/campaigns/action-campaigns/web-campaign.md)
       + [코드 기반 경험 캠페인 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/create-campaigns/content-experiments.md)
       + [캠페인에서 메시지 최적화 활용](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API 트리거 캠페인 {#api-triggered-campaigns}
       + [API로 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
    + 오케스트레이션된 캠페인 {#orchestrated-campaigns}
+      + [오케스트레이션된 캠페인 소개](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
+      + [관계형 스키마 이해](/help/orchestrated-campaigns/understand-relational-schemas.md)
 + 여정 {#create-journeys}
    + [여정 디자이너 - 개요](/help/create-journeys/journey-designer-overview.md)
    + [새 여정 디자이너 살펴보기](/help/create-journeys/new-journey-designer.md)
@@ -64,7 +55,7 @@ ht-degree: 97%
    + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
    + [배치 세분화 후 일일 여정 실행 트리거](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
    + [여정의 인바운드 동작 문제 해결](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
-+ 충돌 관리 {#conflict-management}
++ 충돌 관리 및 우선순위 지정 {#conflict-management}
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
    + [여정 빈도 상한 설정 및 우선 순위 지정](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
@@ -139,7 +130,6 @@ ht-degree: 97%
       + [콘텐츠 생성용 AI 어시스턴트 - 개요](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [브랜드 가이드라인 만들기 및 관리](/help/content-management/brand-guideline-creation-and-management.md)
-   + [실험 - 개요](/help/content-management/experimentation-overview.md)
    + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
 + 콘텐츠 개인화 {#personalize-content}
    + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
@@ -150,6 +140,9 @@ ht-degree: 97%
    + [개인화 라이브러리에 저장한 표현식 사용 및 관리](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)
    + [개인화 편집기 플레이그라운드](/help/personalize-content/personalization-editor-playground.md)
++ 실험 {#experimentation}
+   + [실험 소개](/help/experimentation/introduction-to-experimentation.md)
+   + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/experimentation/content-experiments-for-emails.md)
 + 결정 기능{#decision-capabilities}
    + 결정 {#decisioning}
       + [결정 소개](/help/decisioning/introduction-to-decisioning.md)
@@ -224,12 +217,24 @@ ht-degree: 97%
    + [데이터 사용 정책 만들기](/help/privacy/create-data-usage-policies.md)
    + [Journey Optimizer 채널에서 데이터 사용 정책 적용](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
-+ 연습 및 과제 {#exercises-and-challenges}
++ 사용 사례 및 모범 사례{#use-cases}
+   + [고객 온보딩](/help/use-cases/customer-onboarding.md)
+   + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
+   + [인텔리전트 재참여 - 포기한 찾아보기](https://experienceleague.adobe.com/ko/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [오퍼 노출 및 클릭에 대한 보고서 생성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
+   + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + 사용 사례 플레이북 {#use-case-playbooks}
+      + [개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+      + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+      + [플레이북 인스턴스 생성 및 게시](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
++ 연습, 실습 및 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
-+ [Experience League Live 쇼 녹화본](/help/_ajo-main/experience-league-live-show-recordings.md)
-+ Summit Labs {#summit-labs}
-   + [2025 Summit Lab 컨닝 페이퍼](/help/summit-lab-assets/l535-assets.md)
-   + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-
+   + Summit Labs {#summit-labs}
+      + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+      + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
++ 라이브 세션 및 딥 다이브 {#live-sessions-and-deep-dives}
+   + [Experience League Live 쇼 녹화본](/help/_ajo-main/experience-league-live-show-recordings.md)
