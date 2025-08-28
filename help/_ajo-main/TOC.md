@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: fe5ca064c5823c980b19a41a511e534842a91e99
+source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 97%
@@ -34,7 +34,7 @@ ht-degree: 97%
    + [아키텍처](/help/introduction/architecture.md)
    + [마케터를 위한 모바일 기능](/help/channels/mobile-capabilities.md)
    + [개발자를 위한 모바일 기능](/help/channels/mobile-capabilities-for-developers.md)
-   + [AI 어시스턴트로 도움 받기](/help/ai-assistant.md)
+   + [AI 어시스턴트로 도움 받기](/help/ai-agents/ai-assistant.md)
 + 캠페인 {#create-campaigns}
    + 액션 캠페인 {#action-campaigns}
       + [캠페인 만들기](/help/create-campaigns/create-a-campaign.md)
@@ -121,7 +121,7 @@ ht-degree: 97%
    + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
    + 자산 관리 {#assets}
       + [디지털 자산 관리 - 개요](/help/content-management/digital-asset-management-overview.md)
-      + [자산 관리](/help/assets-essentials-overview.md)
+      + [자산 관리](/help/content-management/assets-essentials-overview.md)
       + [AEM Dynamic Media 통합](/help/content-management/aem-dynamic-media-integration.md)
       + [Adobe Express를 사용한 자산 편집](/help/content-management/edit-assets-with-adobe-express.md)
    + 조각을 사용한 작업 {#fragments}
@@ -227,7 +227,7 @@ ht-degree: 97%
 + 연습 및 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
-+ [Experience League Live 쇼 녹화본](/help/experience-league-live-show-recordings.md)
++ [Experience League Live 쇼 녹화본](/help/_ajo-main/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [2025 Summit Lab 컨닝 페이퍼](/help/summit-lab-assets/l535-assets.md)
    + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
