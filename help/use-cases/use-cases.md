@@ -19,14 +19,14 @@ ht-degree: 4%
 Adobe Journey Optimizer에서 제공하는 실제 마케팅 시나리오를 살펴보십시오. 이러한 사용 사례에서는 브랜드가 온보딩 및 재참여부터 개인화된 오퍼 및 크로스 채널 오케스트레이션에 이르기까지 보다 스마트한 고객 여정을 구축하는 방법을 보여줍니다. 각 예제는 전략을 실제 실행과 연결하여 실제 비즈니스 목표에 제품 기능을 적용하는 데 도움이 됩니다.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
-* https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
+* https://experienceleague.adobe.com/ko/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -34,7 +34,7 @@ Adobe Journey Optimizer에서 제공하는 실제 마케팅 시나리오를 살�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="사용 사례 - 고객 온보딩(튜토리얼)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="사용 사례 - 고객 온보딩(튜토리얼)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1756417587791" alt="사용 사례 - 고객 온보딩(튜토리얼)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -43,11 +43,11 @@ Adobe Journey Optimizer에서 제공하는 실제 마케팅 시나리오를 살�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" title="사용 사례 - 고객 온보딩(튜토리얼)">사용 사례 - 고객 온보딩(튜토리얼)</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" title="사용 사례 - 고객 온보딩(튜토리얼)">사용 사례 - 고객 온보딩(튜토리얼)</a>
                     </p>
                     <p class="is-size-6">Adobe Journey Optimizer(AJO)에서 고객 온보딩 여정을 구현하는 방법을 알아봅니다​.이 프로세스는 새로운 충성도 멤버를 타겟팅하여 개인화된 이메일과 SMS를 전달하여 앱 다운로드를 장려합니다. ​여기에는 환영 이메일 전송, 앱 설치 확인 및 미리 알림 후속 조치가 포함됩니다. ​이 튜토리얼에서는 AI 콘텐츠 도우미를 사용하여 콘텐츠를 만들고 개인화하는 방법을 보여 줍니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
@@ -104,7 +104,7 @@ Adobe Journey Optimizer에서 제공하는 실제 마케팅 시나리오를 살�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction" title="Web SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="Web SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="Web SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,7 +127,7 @@ Adobe Journey Optimizer에서 제공하는 실제 마케팅 시나리오를 살�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction" title="AJO Decisioning을 통해 제공된 Adobe Journey Optimizer(AJO) 오퍼 추적 및 보고" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction./media_1fb3a58c60be3873b773f9ba694350319c4b8dc4f.png?width=400&format=png&optimize=medium" alt="AJO Decisioning을 통해 제공된 Adobe Journey Optimizer(AJO) 오퍼 추적 및 보고"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction./media_1fb3a58c60be3873b773f9ba694350319c4b8dc4f.png?width=400&format=png&optimize=medium" alt="AJO Decisioning을 통해 제공된 Adobe Journey Optimizer(AJO) 오퍼 추적 및 보고"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +172,7 @@ Adobe Journey Optimizer에서 제공하는 실제 마케팅 시나리오를 살�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" title="사용 사례 - 고객 참여 개선" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" title="사용 사례 - 고객 참여 개선" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="사용 사례 - 고객 참여 개선"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -181,11 +181,11 @@ Adobe Journey Optimizer에서 제공하는 실제 마케팅 시나리오를 살�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" target="_blank" rel="referrer" title="사용 사례 - 고객 참여 개선">사용 사례 - 고객 참여 개선</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" target="_blank" rel="referrer" title="사용 사례 - 고객 참여 개선">사용 사례 - 고객 참여 개선</a>
                     </p>
                     <p class="is-size-6">이 튜토리얼은 웹 양식 및 웹 페이지를 통한 실시간 대상 생성 및 개인화된 의사 결정을 사용하여 고객 참여 및 개인화를 향상시키는 데 중점을 둡니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
