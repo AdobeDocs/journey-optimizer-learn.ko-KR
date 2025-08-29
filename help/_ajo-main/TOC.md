@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
+source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '938'
 ht-degree: 95%
 
 ---
@@ -14,9 +14,6 @@ ht-degree: 95%
 # Journey Optimizer 튜토리얼 {#tutorials}
 
 + [Journey Optimizer 튜토리얼](/help/_ajo-main/overview.md)
-   + [개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [플레이북 인스턴스 생성 및 게시](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 소개](/help/introduction/introduction.md)
@@ -34,7 +31,7 @@ ht-degree: 95%
       + [코드 기반 경험 캠페인 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [캠페인에서 메시지 최적화 활용](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API 트리거 캠페인 {#api-triggered-campaigns}
-      + [API로 캠페인 트리거](/help/create-campaigns/api-triggered-campaigns.md)
+      + [API로 캠페인 트리거](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 오케스트레이션된 캠페인 {#orchestrated-campaigns}
       + [오케스트레이션된 캠페인 소개](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [관계형 스키마 이해](/help/orchestrated-campaigns/understand-relational-schemas.md)
