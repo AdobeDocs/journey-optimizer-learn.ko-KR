@@ -20,4 +20,4 @@ ht-degree: 100%
 
 캠페인을 만들고 [인터랙티브 메시지 실행 REST API](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution)를 사용하여 사용자 상호 작용을 기반으로 외부 시스템에서 트리거하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425358/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452732/?learn=on&captions=kor)
