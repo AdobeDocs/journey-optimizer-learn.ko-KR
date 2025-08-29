@@ -20,6 +20,6 @@ ht-degree: 100%
 
 커뮤니케이션 유형에 따라 고객에게 전송되는 커뮤니케이션 수를 제한하는 고객 빈도 상한 규칙 세트를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444733/?learn=on&enablevpops&captions=kor)
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/rule-sets)를 참조하세요.
