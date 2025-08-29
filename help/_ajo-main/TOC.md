@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
 source-wordcount: '938'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -142,7 +142,7 @@ ht-degree: 95%
    + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/experimentation/content-experiments-for-emails.md)
 + 결정 기능{#decision-capabilities}
    + 결정 {#decisioning}
-      + [결정 소개](/help/decisioning/introduction-to-decisioning.md)
+      + [의사 결정 소개](/help/decisioning/introduction-to-decisioning.md)
       + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
       + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
       + [실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
