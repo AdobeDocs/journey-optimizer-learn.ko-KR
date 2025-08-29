@@ -1,6 +1,6 @@
 ---
-title: Adobe Journey Optimizer의 공식 빌더 인터페이스 안내서
-description: Adobe Journey Optimizer의 AI 공식 빌더를 사용하여 사용자 정의 오퍼 등급 전략을 만드는 방법에 대해 알아봅니다. 이 연습에서는 AI Formula Builder를 사용하여 모델 점수, 프로필 및 오퍼 데이터, 컨텍스트 신호 및 비즈니스 규칙을 결합하여 의사 결정을 개인화하고 마케팅 목표를 기반으로 오퍼의 우선 순위를 정하는 방법에 대해 설명합니다.
+title: Adobe Journey Optimizer 수식 작성기 인터페이스 안내서
+description: Adobe Journey Optimizer에서 AI 수식 작성기를 사용하여 맞춤형 오퍼 순위 전략을 만드는 방법을 알아봅니다. 이 연습에서는 AI 수식 작성기를 사용하여 모델 점수, 프로필 및 오퍼 데이터, 상황별 신호 및 비즈니스 규칙을 결합하여 의사 결정을 개인화하고 마케팅 목표를 기반으로 오퍼 우선순위를 지정하는 방법을 설명합니다.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -12,16 +12,16 @@ jira: KT-17614
 thumbnail: KT-17614.jpeg
 exl-id: 0926ec17-7b6a-49be-95c1-059366cdaa81
 source-git-commit: 3f3c225179c4ff390eae40d1e3122ead314605b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Adobe Journey Optimizer의 공식 빌더 인터페이스 안내서
+# Adobe Journey Optimizer 수식 작성기 인터페이스 안내서
 
-Adobe Journey Optimizer의 AI 공식 빌더를 사용하여 사용자 정의 오퍼 등급 전략을 만드는 방법에 대해 알아봅니다.
+Adobe Journey Optimizer에서 AI 수식 작성기를 사용하여 맞춤형 오퍼 순위 전략을 만드는 방법을 알아봅니다.
 
-이 연습에서는 AI Formula Builder를 사용하여 모델 점수, 프로필 및 오퍼 데이터, 컨텍스트 신호 및 비즈니스 규칙을 결합하여 의사 결정을 개인화하고 마케팅 목표를 기반으로 오퍼의 우선 순위를 정하는 방법에 대해 설명합니다.
+이 연습에서는 AI 수식 작성기를 사용하여 모델 점수, 프로필 및 오퍼 데이터, 상황별 신호 및 비즈니스 규칙을 결합하여 의사 결정을 개인화하고 마케팅 목표를 기반으로 오퍼 우선순위를 지정하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464446/?learn=on&enablevpops){transcript=true}
