@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
+source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '930'
 ht-degree: 96%
 
 ---
@@ -29,12 +29,11 @@ ht-degree: 96%
       + [푸시 캠페인 구성 및 보내기](/help/campaigns/action-campaigns/push-campaign.md)
       + [웹 캠페인 만들기](/help/campaigns/action-campaigns/web-campaign.md)
       + [코드 기반 경험 캠페인 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [캠페인에서 메시지 최적화 활용](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + API 트리거 캠페인 {#api-triggered-campaigns}
+      + [캠페인에서 메시지 최적화 활용](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
       + [API로 캠페인 트리거](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 오케스트레이션된 캠페인 {#orchestrated-campaigns}
       + [오케스트레이션된 캠페인 소개](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [관계형 스키마 이해](/help/orchestrated-campaigns/understand-relational-schemas.md)
+      + [관계형 스키마 이해](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
 + 여정 {#create-journeys}
    + [여정 디자이너 - 개요](/help/create-journeys/journey-designer-overview.md)
    + [새 여정 디자이너 살펴보기](/help/create-journeys/new-journey-designer.md)
@@ -78,7 +77,6 @@ ht-degree: 96%
       + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
       + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
       + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
-      + [이메일에 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-emails.md)
    + 콘텐츠 카드{#content-cards}
       + [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
    + 인앱 채널{#in-app-channel}
