@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 442dc6a8daa84173e0db176edc757d7164c2b2e1
+source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
 ht-degree: 96%
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [API로 캠페인 트리거](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 오케스트레이션된 캠페인 {#orchestrated-campaigns}
       + [오케스트레이션된 캠페인 소개](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [관계형 스키마 이해](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
+      + [관계형 저장소 기본 사항](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + 여정 {#create-journeys}
    + [여정 디자이너 - 개요](/help/create-journeys/journey-designer-overview.md)
    + [새 여정 디자이너 살펴보기](/help/create-journeys/new-journey-designer.md)
