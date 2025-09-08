@@ -20,4 +20,4 @@ ht-degree: 100%
 
 개별 여정의 성과와 더불어 입장 및 종료 통계, 오류, 실행한 작업 등 사용자가 여정의 다양한 단계와 상호 작용하는 방식을 추적하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471470/?learn=on&enablevpops&captions=kor)

@@ -61,7 +61,7 @@ Adobe Journey Optimizer의 보고 기능은 원시 데이터를 실용적인 인
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="라이브 보고서로 여정 모니터링 및 분석" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1756406406388" alt="라이브 보고서로 여정 모니터링 및 분석"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470842/?format=jpeg&nocache=1756406406388&captions=kor" alt="라이브 보고서로 여정 모니터링 및 분석"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,7 +84,7 @@ Adobe Journey Optimizer의 보고 기능은 원시 데이터를 실용적인 인
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="채널 수준 보고서" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1756406406387" alt="채널 수준 보고서"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448046/?format=jpeg&nocache=1756406406387&captions=kor" alt="채널 수준 보고서"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,7 +107,7 @@ Adobe Journey Optimizer의 보고 기능은 원시 데이터를 실용적인 인
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="CSV 형식으로 보고서 내보내기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1756406406384" alt="CSV 형식으로 보고서 내보내기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439618/?format=jpeg&nocache=1756406406384&captions=kor" alt="CSV 형식으로 보고서 내보내기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,7 +130,7 @@ Adobe Journey Optimizer의 보고 기능은 원시 데이터를 실용적인 인
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts" title="경고 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/336218?format=jpeg&nocache=1756406406387" alt="경고 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3423921?format=jpeg&nocache=1756406406387&captions=kor" alt="경고 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +153,7 @@ Adobe Journey Optimizer의 보고 기능은 원시 데이터를 실용적인 인
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Customer Journey Analytics를 통한 향상된 보고 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1756406406386" alt="Customer Journey Analytics를 통한 향상된 보고 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443158/?format=jpeg&nocache=1756406406386&captions=kor" alt="Customer Journey Analytics를 통한 향상된 보고 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

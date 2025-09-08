@@ -24,6 +24,6 @@ ht-degree: 100%
 
 작업을 즉시 또는 지정된 일정에 따라 실행하여 특정 대상자에게 일회성 콘텐츠를 전달하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412406?quality=12&learn=on&captions=kor){transcript=true}
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=ko)를 참조하십시오.

@@ -35,7 +35,7 @@ Adobe Journey Optimizer를 기반으로 한 실제 마케팅 시나리오를 살
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="사용 사례 - 고객 온보딩(튜토리얼)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1756417587791" alt="사용 사례 - 고객 온보딩(튜토리얼)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440657/?format=jpeg&nocache=1756417587791&captions=kor" alt="사용 사례 - 고객 온보딩(튜토리얼)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +58,7 @@ Adobe Journey Optimizer를 기반으로 한 실제 마케팅 시나리오를 살
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="사용 사례 플레이북 - 미완료 장바구니" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1756417587818" alt="사용 사례 플레이북 - 미완료 장바구니"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443971/?format=jpeg&nocache=1756417587818&captions=kor" alt="사용 사례 플레이북 - 미완료 장바구니"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +81,7 @@ Adobe Journey Optimizer를 기반으로 한 실제 마케팅 시나리오를 살
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="지능형 재참여 Luma 예시" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1756417587792" alt="지능형 재참여 Luma 예시"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454280/?format=jpeg&nocache=1756417587792&captions=kor" alt="지능형 재참여 Luma 예시"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
