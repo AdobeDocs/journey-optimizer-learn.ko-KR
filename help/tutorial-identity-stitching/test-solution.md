@@ -8,9 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
+source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -88,6 +89,7 @@ AEP Debugger를 사용하여 로그인 이벤트를 테스트하고, ID 결합�
 * 고객 -> 프로필 ->찾아보기 로 이동합니다.
 * FinWise CRM ID = FIN001 검색
 * 프로필을 열고 ID 섹션을 확인합니다. 나열된 CRMID와 ECID가 모두 표시됩니다.   이를 통해 두 ID가 단일 프로필로 결합되었음을 알 수 있습니다.
-
+* 또한 여정이 트리거되어야 합니다. 여정 보고서를 보고 이를 확인하십시오
+* ![여정-보고서](assets/journey-triggered-report.png)
 
 

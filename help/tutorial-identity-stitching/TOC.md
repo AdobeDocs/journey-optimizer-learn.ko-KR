@@ -1,15 +1,15 @@
 ---
 user-guide-title: AEP의 ID 결합
-user-guide-description: 알려진 사용자(CRMID)와 익명 웹 방문자(ECID) 간의 ID 결합을 설정하여 Adobe Journey Optimizer(AJO)에서 실시간 개인화 및 오퍼 의사 결정에 통합 프로필을 활성화합니다.
+user-guide-description: Adobe Journey Optimizer(AJO)의 실시간 개인화 및 오퍼 결정을 위한 통합 프로필을 제공하여 알려진 사용자(CRMID)와 익명의 웹 방문자(ECID) 간의 ID 결합을 설정합니다.
 role: Developer
 level: Beginner
 breadcrumb-title: aep에서 id-스티칭 튜토리얼
 breadcrumb-url: /docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction
 auto-video-transcripts: true
-source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
+source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 7%
+source-wordcount: '59'
+ht-degree: 54%
 
 ---
 
@@ -21,4 +21,5 @@ ht-degree: 7%
 + [스키마, 데이터 세트 등 만들기](./create-schema-and-dataset.md)
 + [AEP 태그 만들기](./create-aep-tags.md)
 + [웹 페이지에서 CRMID 전송](./send-crmid.md)
++ [트리거 여정](./trigger-journey-on-user-login.md)
 + [솔루션 테스트](./test-solution.md)
