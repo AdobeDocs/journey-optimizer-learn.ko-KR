@@ -9,10 +9,10 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 83b23f54594b796ec528526a360c5c40164fb5cb
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 4%
+source-wordcount: '346'
+ht-degree: 5%
 
 ---
 
@@ -28,28 +28,31 @@ ID 결합을 시작하려면 샘플 CRM 프로필 데이터를 Adobe Experience 
 
 ## 프로필 활성화 스키마 만들기
 
-**_FinWiseProfileSchema_**&#x200B;이라는 개별 프로필 스키마를 만듭니다. annualIncome, email, firstName, lastName 및 loyaltyStatus와 같은 필드를 포함합니다.
-SystemIdentifier 개체 아래에 ID 필드 **_crmid_**&#x200B;을(를) 추가합니다. crmid 필드를 ID 및 기본 필드로 표시
+**_FinWiseProfileSchema_**이라는 개별 프로필 스키마를 만듭니다. annualIncome, email, firstName, lastName 및 loyaltyStatus와 같은 필드를 포함합니다.
+표시된 대로 ID 필드 **_crmid_**을(를) 추가합니다. crmid 필드를 ID 및 기본 필드로 표시합니다.
+_**동의 및 환경 설정 세부 정보**_ 필드 그룹을 스키마에 추가합니다. [동의 및 환경 설정](https://experienceleague.adobe.com/ko/docs/experience-platform/xdm/field-groups/profile/consents)은(는) 개별 고객에 대한 동의 및 환경 설정 정보를 캡처하는 XDM 개별 프로필 클래스의 표준 필드 그룹입니다.여기에 저장된 환경 설정이 채널 수준 통신 환경 설정을 결정합니다.
 
 
 ![프로필 스키마](assets/finwise-profile-schema.png)
 
 ## 샘플 데이터 준비
 
-| crmId | 이름 | 성 | 이메일 | loyaltyStatus | 우편번호 | annualIncome |
-|--------|-----------|----------|-------------------------|---------------|---------|--------------|
-| FIN001 | 앨리스 | 웡 | alice.wong@example.com | 골드 | 92128 | 120000 |
-| FIN002 | Bob | Smith | bob.smith@example.com | 실버 | 92126 | 85000 |
-| FIN003 | 찰리 | 김 | charlie.kim@example.com | 플래티넘 | 60614 | 175000 |
-| FIN004 | 다이아나 | Lee | diana.lee@example.com | 골드 | 30303 | 98000 |
-| FIN005 | 이선 | 갈색 | ethan.brown@example.com | 브론즈 | 75201 | 60000 |
+더미 이메일 주소를 실제 주소로 업데이트합니다. 이 템플릿은 나중에 Adobe Journey Optimizer을 사용하여 메시지를 보낼 때 사용됩니다. 프로필에 대한 이메일 게재를 활성화하려면 emailConsent를 y로 설정합니다.
+
+|   | crmId | 이름 | 성 | 이메일 | loyaltyStatus | 우편번호 | annualIncome | emailConsent |
+|---|--------|-----------|----------|-------------------------|---------------|---------|--------------|--------------|
+|   | FIN001 | 앨리스 | 웡 | alice.wong@example.com | 골드 | 92128 | 120000 | y |
+|   | FIN002 | Bob | Smith | bob.smith@example.com | 실버 | 92126 | 85000 | y |
+|   | FIN003 | 찰리 | 김 | charlie.kim@example.com | 플래티넘 | 60614 | 175000 | y |
+|   | FIN004 | 다이아나 | Lee | diana.lee@example.com | 골드 | 30303 | 98000 | y |
+|   | FIN005 | 이선 | 갈색 | ethan.brown@example.com | 브론즈 | 75201 | 60000 | y |
 
 ## CSV 파일 수집
 
 * 이전 단계에서 만든 **_FinWiseProfileSchema_**&#x200B;을(를) 기반으로 **_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;이라는 데이터 세트를 만듭니다
 
 * 연결 -> 소스 -> 로컬 시스템으로 이동합니다.
-* 로컬 파일 업로드에서 **_데이터 추가_**&#x200B;를 선택합니다. 대상 데이터 집합으로 _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_을(를) 선택하십시오.
+* 로컬 파일 업로드에서 **_데이터 추가_**&#x200B;를 선택합니다. 대상 데이터 집합으로 _**FinWiseCustomerDataSetWithAnnualIncome**_을(를) 선택하십시오.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * 다음 화면으로 이동합니다. [csv 파일](assets/finwise_profiles.csv)을 업로드하고 매핑을 확인하십시오
   ![매핑](assets/mappings.png)
