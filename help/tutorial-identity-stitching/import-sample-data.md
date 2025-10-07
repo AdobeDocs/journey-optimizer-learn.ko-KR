@@ -28,9 +28,9 @@ ID 결합을 시작하려면 샘플 CRM 프로필 데이터를 Adobe Experience 
 
 ## 프로필 활성화 스키마 만들기
 
-**_FinWiseProfileSchema_**이라는 개별 프로필 스키마를 만듭니다. annualIncome, email, firstName, lastName 및 loyaltyStatus와 같은 필드를 포함합니다.
-표시된 대로 ID 필드 **_crmid_**을(를) 추가합니다. crmid 필드를 ID 및 기본 필드로 표시합니다.
-_**동의 및 환경 설정 세부 정보**_ 필드 그룹을 스키마에 추가합니다. [동의 및 환경 설정](https://experienceleague.adobe.com/ko/docs/experience-platform/xdm/field-groups/profile/consents)은(는) 개별 고객에 대한 동의 및 환경 설정 정보를 캡처하는 XDM 개별 프로필 클래스의 표준 필드 그룹입니다.여기에 저장된 환경 설정이 채널 수준 통신 환경 설정을 결정합니다.
+**_FinWiseProfileSchema_**&#x200B;이라는 개별 프로필 스키마를 만듭니다. annualIncome, email, firstName, lastName 및 loyaltyStatus와 같은 필드를 포함합니다.
+표시된 대로 ID 필드 **_crmid_**&#x200B;을(를) 추가합니다. crmid 필드를 ID 및 기본 필드로 표시합니다.
+_&#x200B;**동의 및 환경 설정 세부 정보**&#x200B;_ 필드 그룹을 스키마에 추가합니다. [동의 및 환경 설정](https://experienceleague.adobe.com/ko/docs/experience-platform/xdm/field-groups/profile/consents)은(는) 개별 고객에 대한 동의 및 환경 설정 정보를 캡처하는 XDM 개별 프로필 클래스의 표준 필드 그룹입니다.여기에 저장된 환경 설정이 채널 수준 통신 환경 설정을 결정합니다.
 
 
 ![프로필 스키마](assets/finwise-profile-schema.png)
@@ -52,7 +52,7 @@ _**동의 및 환경 설정 세부 정보**_ 필드 그룹을 스키마에 추�
 * 이전 단계에서 만든 **_FinWiseProfileSchema_**&#x200B;을(를) 기반으로 **_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;이라는 데이터 세트를 만듭니다
 
 * 연결 -> 소스 -> 로컬 시스템으로 이동합니다.
-* 로컬 파일 업로드에서 **_데이터 추가_**&#x200B;를 선택합니다. 대상 데이터 집합으로 _**FinWiseCustomerDataSetWithAnnualIncome**_을(를) 선택하십시오.
+* 로컬 파일 업로드에서 **_데이터 추가_**&#x200B;를 선택합니다. 대상 데이터 집합으로 _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_을(를) 선택하십시오.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * 다음 화면으로 이동합니다. [csv 파일](assets/finwise_profiles.csv)을 업로드하고 매핑을 확인하십시오
   ![매핑](assets/mappings.png)
