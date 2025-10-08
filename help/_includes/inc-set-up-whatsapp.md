@@ -17,4 +17,4 @@ ht-degree: 0%
 
 고객 여정 내에 WhatsApp 메시지를 활성화하려는 마케터와 개발자에게 적합합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470275/?learn=on&enablevpops&captions=kor)

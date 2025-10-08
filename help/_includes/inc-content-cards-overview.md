@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # 컨텐츠 카드 - 개요
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460091/?learn=on&enablevpops&captions=kor){transcript=true}
 
 ## 뭔데?
 
