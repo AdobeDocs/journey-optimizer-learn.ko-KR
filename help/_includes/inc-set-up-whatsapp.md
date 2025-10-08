@@ -1,8 +1,8 @@
 ---
-source-git-commit: 261b26e38b627e26de619ef08fdba455ad486fd5
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 # WhatsApp 채널 설정
@@ -17,4 +17,4 @@ ht-degree: 100%
 
 고객 여정 내에 WhatsApp 메시지를 활성화하려는 마케터와 개발자에게 적합합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470275/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
