@@ -23,4 +23,4 @@ ht-degree: 100%
 
 트랜잭션 여정의 사용 사례를 이해하고 트랜잭션 여정을 작성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415685?quality=12&learn=on&captions=kor){transcript=true}

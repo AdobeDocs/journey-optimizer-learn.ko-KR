@@ -21,4 +21,4 @@ ht-degree: 66%
 
 여정의 다양한 상태와 게시의 영향을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427937?quality=12&learn=on&captions=kor){transcript=true}
