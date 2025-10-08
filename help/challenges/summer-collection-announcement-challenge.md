@@ -7,10 +7,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '1108'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 100%
 
 | 과제 | 여름 컬렉션 발표 만들기 |
 |---|---|
-| 담당자 | 여정 관리자 |
-| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ko)</li> |
+| 페르소나 | 여정 관리자 |
+| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | 다운로드할 자산 | [시즌 컬렉션 이메일 파일](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -142,19 +142,19 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 **이메일 메시지 #2 - Luma 남성 컬렉션**
 
-교정 보내기:
+나에게 교정쇄 보내기:
 
 1. 테스트 프로필 추가: Stanleigh Stooke:
    * ID 네임스페이스: *Luma CRM ID*
    * ID 값: `4f34057d9d9e792c28ba18ecae378e98`
 2. 테스트 프로필 Stanleigh Stooke를 선택합니다.
-3. 교정을 보냅니다.
+3. 나에게 교정쇄를 보냅니다.
 
 결과:\
 이메일을 받습니다. 제목란은 다음과 같아야 합니다. *Stanleigh 님, 새로운 남성용 운동복을 살펴보세요!* 그리고 이메일 본문은 미리 보기와 일치해야 합니다.
 
 >[!NOTE]
->교정을 받을 때까지 2분 정도 걸릴 수 있습니다.
+>교정쇄를 받을 때까지 2분 정도 걸릴 수 있습니다.
 
 **이메일 메시지 #3 - Luma 여성 컬렉션**
 
@@ -201,7 +201,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 두 번째 이메일을 열면 여정이 종료됩니다.
 1. 4단계를 반복할 수 있습니다. - 7. 3개 프로필 모두에 대해 분기가 올바르게 작동하는지 확인합니다.
 1. 시간 초과를 테스트하려면 대기 시간을 30초로 설정하고 시작을 다시 트리거합니다.
-1. 받은 이메일을 열지 말고(이메일을 미리 보지 마십시오(!)) 대기 시간이 지나도록 놔둡니다.
+1. 받은 이메일을 열지 말고(!) 이메일을 미리 보지 말고) 대기 시간이 경과하도록 하십시오.
 
 다음 이메일을 수신해야 합니다.
 

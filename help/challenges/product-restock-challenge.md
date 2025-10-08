@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '547'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 100%
 
 | 과제 | 제품 보충 |
 |---|---|
-| 담당자 | 여정 관리자 |
-| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=ko)</li> |
+| 페르소나 | 여정 관리자 |
+| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | 다운로드할 자산 | [제품 재입고 이메일 파일](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## 스토리
@@ -35,7 +35,7 @@ Luma는 Journey Optimizer에서 품절 상태였던 위시리스트 항목이 �
 
 >[!TAB 작업]
 
-## 1. 세그먼트 정의 - 품절된 위시리스트 품목
+## &#x200B;1. 세그먼트 정의 - 품절된 위시리스트 품목
 
 제품이 재입고되면 관심을 가질 만한 잠재 고객을 타겟팅하기 위해 다음과 같은 고객으로 구성된 대상자를 만듭니다.
 
@@ -49,7 +49,7 @@ Luma는 Journey Optimizer에서 품절 상태였던 위시리스트 항목이 �
 세그먼트 이름 지정: `Out-of-stock-Wishlist`
 
 
-### 2. 여정 만들기 - 제품 재입고 알림
+### &#x200B;2. 여정 만들기 - 제품 재입고 알림
 
 이전에 품절된 항목이 재입고되는 경우, 품절 항목을 추가한 고객에게 쇼핑을 시작하라는 호출을 보내 해당 항목이 재입고된 것을 알려줍니다.
 
