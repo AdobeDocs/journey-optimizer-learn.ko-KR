@@ -50,7 +50,7 @@ ht-degree: 2%
 >[!SUCCESS]
 >
 >이제 Campaign 속성 페이지에 있어야 합니다.
->> ![캠페인 속성](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+>&#x200B;> ![캠페인 속성](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## 연습 4.2 - 캠페인 구성
 
@@ -199,7 +199,7 @@ ht-degree: 2%
 > ![캠페인 상태](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > 상태가 처리에서 라이브, 완료로 변경됩니다. 이 작업은 2분 정도 걸릴 수 있습니다.
-> > 상태가 완료됨으로 변경된 후:
+> &#x200B;> 상태가 완료됨으로 변경된 후:
 >
 > ![푸시 결과](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 

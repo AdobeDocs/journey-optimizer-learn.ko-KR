@@ -166,7 +166,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
  *Louise Petti*&#x200B;의 테스트 프로필로 이메일 미리 보기.
 
-*   제목란은 다음과 같아야 합니다. *Louise 님, 20% 할인을 받으세요!*
+* 제목란은 다음과 같아야 합니다. *Louise 님, 20% 할인을 받으세요!*
 
 #### 여정 테스트
 
