@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 3558a9530827303a6597966e16ead1cfdee7576b
+workflow-type: tm+mt
+source-wordcount: '949'
+ht-degree: 98%
 
 ---
 
@@ -35,22 +35,23 @@ ht-degree: 100%
    + 오케스트레이션된 캠페인 {#orchestrated-campaigns}
       + [오케스트레이션된 캠페인 소개](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [관계형 저장소 기본 사항](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
-+ 여정 {#create-journeys}
-   + [여정 디자이너 - 개요](/help/create-journeys/journey-designer-overview.md)
-   + [새 여정 디자이너 살펴보기](/help/create-journeys/new-journey-designer.md)
-   + [여정 작성 소개](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [테스트 프로필 만들기](/help/create-journeys/test-a-journey.md)
-   + [여정 게시](/help/create-journeys/publish-a-journey.md)
-   + [사용 사례 - 트랜잭션 여정](/help/create-journeys/use-case-transactional-journey.md)
-   + [사용 사례 - 비즈니스 이벤트](/help/create-journeys/use-case-business-event.md)
-   + [사용 사례 - 대상자 읽기](/help/create-journeys/use-case-read-audience.md)
-   + [사용 사례 - 대상자 선별](/help/create-journeys/use-case-audience-qualification.md)
-   + [다중 속성 필터링 마스터하기](/help/create-journeys/mastering-multi-attribute-filtering.md)
-   + [여정 시험 실행으로 여정 논리의 유효성 검사](/help/create-journeys/journey-dry-run.md)
-   + [보조 ID로 여정 다시 시작](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
-   + [라이브 여정에서 콘텐츠 업데이트](/help/create-journeys/update-content-in-live-journey.md)
-   + [다른 샌드박스로 여정 복사](/help/create-journeys/copy-a-journey.md)
-   + [배치 세분화 후 일일 여정 실행 트리거](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
++ 여정 {#journeys}
+   + [여정 디자이너 - 개요](/help/journeys/journey-designer-overview.md)
+   + [Journey Agent - 개요](/help/ai-agents/journey-agent-overview.md)
+   + [새 여정 디자이너 살펴보기](/help/journeys/new-journey-designer.md)
+   + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
+   + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
+   + [여정 게시](/help/journeys/publish-a-journey.md)
+   + [사용 사례 - 트랜잭션 여정](/help/journeys/use-case-transactional-journey.md)
+   + [사용 사례 - 비즈니스 이벤트](/help/journeys/use-case-business-event.md)
+   + [사용 사례 - 대상자 읽기](/help/journeys/use-case-read-audience.md)
+   + [사용 사례 - 대상자 선별](/help/journeys/use-case-audience-qualification.md)
+   + [다중 속성 필터링 마스터하기](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [여정 시험 실행으로 여정 논리의 유효성 검사](/help/journeys/journey-dry-run.md)
+   + [보조 ID로 여정 다시 시작](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [라이브 여정에서 콘텐츠 업데이트](/help/journeys/update-content-in-live-journey.md)
+   + [다른 샌드박스로 여정 복사](/help/journeys/copy-a-journey.md)
+   + [배치 세분화 후 일일 여정 실행 트리거](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
    + [여정의 인바운드 동작 문제 해결](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + 충돌 관리 및 우선순위 지정 {#conflict-management}
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
@@ -139,6 +140,7 @@ ht-degree: 100%
 + 실험 {#experimentation}
    + [실험 소개](/help/experimentation/introduction-to-experimentation.md)
    + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/experimentation/content-experiments-for-emails.md)
+   + [실험용 에이전트](/help/ai-agents/experimentation-agent-overview.md)
 + 결정 기능{#decision-capabilities}
    + 결정 {#decisioning}
       + [의사 결정 소개](/help/decisioning/introduction-to-decisioning.md)
@@ -213,6 +215,9 @@ ht-degree: 100%
    + [데이터 사용 정책 만들기](/help/privacy/create-data-usage-policies.md)
    + [Journey Optimizer 채널에서 데이터 사용 정책 적용](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
++ AI 어시스턴트 {#ai-assistant}
+   + [AI 어시스턴트](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + 콘텐츠 생성을 위한 [AI 도우미](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
 + 사용 사례 및 모범 사례{#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
