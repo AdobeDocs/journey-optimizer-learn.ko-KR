@@ -22,4 +22,4 @@ ht-degree: 100%
 
 여정 캔버스에서 여정을 작성하는 기본적인 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430355?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}
