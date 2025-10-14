@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 9%
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 Adobe Experience Platform 태그는 ID 데이터를 브라우저에서 직접 전송하는 유연한 이벤트 기반 메커니즘을 제공하므로 CRMID를 Adobe Experience Platform(AEP)로 전송하는 데 사용됩니다. 사용자 로그인 후 CRMID를 전송하면 AEP이 알려진 CRM 프로필과 익명 ECID를 연결하여 정확한 ID 결합을 가능하게 합니다. 이러한 연결은 Adobe Journey Optimizer(AJO)에서 통합 고객 프로필을 구축하고, 대상자를 검증하고, 실시간 개인화된 경험을 제공하는 기반을 형성합니다.
 
-_&#x200B;**FinWise**&#x200B;_(이)라는 Experience Platform Tags 속성이 만들어졌습니다. 다음 확장이 태그 속성에 추가되었습니다
+_**FinWise**_(이)라는 Experience Platform Tags 속성이 만들어졌습니다. 다음 확장이 태그 속성에 추가되었습니다
 
 ![tags-extensions](assets/tags-extensions.png)
 
@@ -40,15 +40,15 @@ Experience Cloud ID 서비스 는 디버깅을 위해 태그 속성에 추가된
 
 ## 규칙 만들기
 
-다음 이벤트와 작업을 사용하여 userLoggedin이라는 규칙을 만듭니다
+다음 이벤트와 작업을 사용하여 LoginEvent라는 규칙을 만듭니다.
 
 이벤트
-![이벤트](assets/data-pushed-event.png)
+![이벤트](assets/data-pushed-event1.png)
 
 변수 업데이트 작업
-![update-variable](assets/update-variable.png)
+![update-variable](assets/update-variable1.png)
 이벤트 보내기 작업
-![이벤트 보내기](assets/send-event.png)
+![이벤트 보내기](assets/send-event1.png)
 
 ## 저장 및 빌드
 
