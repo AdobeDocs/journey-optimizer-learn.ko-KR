@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: f89cba65a472ea389ef0c8e974ddead6e4b2d24b
+source-git-commit: ce7c2d27c03f648960fa287120a6c552913c1568
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '960'
 ht-degree: 98%
 
 ---
@@ -57,6 +57,7 @@ ht-degree: 98%
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
    + [여정 빈도 상한 설정 및 우선 순위 지정](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
+   + [방해 금지 시간](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 프로필, 대상자, 구독 {#profiles-audiences-subscriptions}
    + [프로필 및 대상자 - 개요](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -216,10 +217,10 @@ ht-degree: 98%
    + [Journey Optimizer 채널에서 데이터 사용 정책 적용](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
 + AI 어시스턴트 {#ai-assistant}
-   + [AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [콘텐츠 생성용 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [실험 에이전트 - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [AI 어시스턴트](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [콘텐츠 생성용 AI 어시스턴트](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent - 개요](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [실험 에이전트 - 개요](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 사용 사례 및 모범 사례{#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
