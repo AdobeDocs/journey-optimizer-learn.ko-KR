@@ -66,7 +66,7 @@ Journey Optimizer 및 Experience Platform에서 모바일 채널을 구성하고
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="안내형 채널 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1755888511558" alt="안내형 채널 설정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449629/?captions=kor&format=jpeg&nocache=1755888511558" alt="안내형 채널 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
