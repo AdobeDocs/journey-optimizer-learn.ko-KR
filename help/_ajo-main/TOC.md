@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: ce7c2d27c03f648960fa287120a6c552913c1568
+source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
-source-wordcount: '960'
-ht-degree: 98%
+source-wordcount: '971'
+ht-degree: 97%
 
 ---
 
@@ -147,6 +147,7 @@ ht-degree: 98%
       + [의사 결정 소개](/help/decisioning/introduction-to-decisioning.md)
       + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
       + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
+      + [재사용 가능한 규칙](/help/decisioning/reusable-targeting-rules.md)
       + [실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + 의사 결정 관리 {#decision-management}
@@ -177,6 +178,7 @@ ht-degree: 98%
    + [라이브 보고서로 여정 모니터링 및 분석](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [여정 보고서로 여정 모니터링 및 분석](/help/report-and-monitor/journey-reports.md)
    + [채널 수준 보고서](/help/report-and-monitor/channel-level-reports.md)
+   + [모든 시간 보고서를 사용하여 여정의 전체 성능 분석](/help/report-and-monitor/all-time-reports.md)
    + [CSV 형식으로 보고서 내보내기](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [경고 사용](/help/administration/alerts.md)
    + [Customer Journey Analytics를 통한 향상된 보고 기능](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
@@ -217,10 +219,10 @@ ht-degree: 98%
    + [Journey Optimizer 채널에서 데이터 사용 정책 적용](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
 + AI 어시스턴트 {#ai-assistant}
-   + [AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [콘텐츠 생성용 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [실험 에이전트 - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [AI 어시스턴트](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [콘텐츠 생성용 AI 어시스턴트](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent - 개요](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [실험 에이전트 - 개요](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 사용 사례 및 모범 사례{#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
