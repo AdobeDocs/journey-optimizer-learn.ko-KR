@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -68,7 +68,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
       <p>
       <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko"> 세그먼트 만들기</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html">세그먼트 읽기</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=ko">세그먼트 읽기</li>
        <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ko">HTML 이메일 콘텐츠 가져오기</li>
   </td>
   </tr>
@@ -90,7 +90,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
     <p>
     <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko"> 세그먼트 만들기</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html">세그먼트 선별</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=ko">세그먼트 선별</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ko">HTML 이메일 콘텐츠 가져오기 및 작성</li>
   </td>
   </tr>

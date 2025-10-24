@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1108'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 | 과제 | 여름 컬렉션 발표 만들기 |
 |---|---|
 | 페르소나 | 여정 관리자 |
-| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
+| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=ko)</li> |
 | 다운로드할 자산 | [시즌 컬렉션 이메일 파일](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -166,7 +166,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
  *Louise Petti*&#x200B;의 테스트 프로필로 이메일 미리 보기.
 
-* 제목란은 다음과 같아야 합니다. *Louise 님, 20% 할인을 받으세요!*
+*   제목란은 다음과 같아야 합니다. *Louise 님, 20% 할인을 받으세요!*
 
 #### 여정 테스트
 
@@ -201,7 +201,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 두 번째 이메일을 열면 여정이 종료됩니다.
 1. 4단계를 반복할 수 있습니다. - 7. 3개 프로필 모두에 대해 분기가 올바르게 작동하는지 확인합니다.
 1. 시간 초과를 테스트하려면 대기 시간을 30초로 설정하고 시작을 다시 트리거합니다.
-1. 받은 이메일을 열지 말고(!) 이메일을 미리 보지 말고) 대기 시간이 경과하도록 하십시오.
+1. 받은 이메일을 열지 말고(이메일을 미리 보지 말고 (!)) 대기 시간이 경과하게 하세요.
 
 다음 이메일을 수신해야 합니다.
 

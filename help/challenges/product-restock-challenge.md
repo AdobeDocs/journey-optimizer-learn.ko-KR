@@ -9,9 +9,9 @@ hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '547'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 99%
 | 과제 | 제품 보충 |
 |---|---|
 | 페르소나 | 여정 관리자 |
-| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
+| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=ko)</li> |
 | 다운로드할 자산 | [제품 재입고 이메일 파일](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## 스토리
