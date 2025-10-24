@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
 source-wordcount: '971'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 97%
       + [관계형 저장소 기본 사항](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + 여정 {#journeys}
    + [여정 디자이너 - 개요](/help/journeys/journey-designer-overview.md)
-   + [Journey Agent - 개요](/help/ai-agents/journey-agent-overview.md)
+   + [Journey 에이전트 - 개요](/help/ai-agents/journey-agent-overview.md)
    + [새 여정 디자이너 살펴보기](/help/journeys/new-journey-designer.md)
    + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
    + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
@@ -141,7 +141,7 @@ ht-degree: 97%
 + 실험 {#experimentation}
    + [실험 소개](/help/experimentation/introduction-to-experimentation.md)
    + [이메일 캠페인에 대한 콘텐츠 실험 만들기](/help/experimentation/content-experiments-for-emails.md)
-   + [실험 에이전트 - 개요](/help/ai-agents/experimentation-agent-overview.md)
+   + [Experimentation Agent - 개요](/help/ai-agents/experimentation-agent-overview.md)
 + 결정 기능{#decision-capabilities}
    + 결정 {#decisioning}
       + [의사 결정 소개](/help/decisioning/introduction-to-decisioning.md)
@@ -221,8 +221,8 @@ ht-degree: 97%
 + AI 어시스턴트 {#ai-assistant}
    + [AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [콘텐츠 생성용 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [실험 에이전트 - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Journey 에이전트 - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Experimentation Agent - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 사용 사례 및 모범 사례{#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
