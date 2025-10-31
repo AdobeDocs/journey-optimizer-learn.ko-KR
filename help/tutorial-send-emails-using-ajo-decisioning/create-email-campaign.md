@@ -18,4 +18,4 @@ ht-degree: 0%
 
 이 비디오에서는 AJO Decisioning을 사용하여 이메일 캠페인을 만드는 방법을 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3476158/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476171/?captions=kor&learn=on)
