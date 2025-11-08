@@ -17,4 +17,4 @@ ht-degree: 0%
 # 오퍼, 선택 전략, 순위 공식 만들기
 
 이 비디오에서는 오퍼를 만드는 방법, 오퍼를 선택하는 선택 전략, 오퍼의 우선 순위를 지정하는 순위 공식을 알아봅니다
->[!VIDEO](https://video.tv.adobe.com/v/3476427/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476456/?captions=kor&learn=on)

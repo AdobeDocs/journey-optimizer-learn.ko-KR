@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이름, 이메일, 충성도 상태 및 연간 수입과 같은 주요 필드를 정의하고 실제 고객 데이터를 업로드한 다음 해당 데이터를 사용하여 가치가 높은 고객의 대상을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476445/?captions=kor&learn=on)
