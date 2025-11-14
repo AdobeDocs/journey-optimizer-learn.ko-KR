@@ -23,4 +23,4 @@ Adobe Journey Optimizer에서 액션 캠페인을 만들고 최적화하여 정�
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
-이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/campaigns/get-started-with-campaigns)를 참조하십시오.
