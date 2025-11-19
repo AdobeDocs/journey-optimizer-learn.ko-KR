@@ -4,16 +4,16 @@ description: Experience League LIVE는 Experience League 팀에서 제작한 라
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: f08715113ae0ff327873da5f2b96709827b99aa9
+source-git-commit: d605287648957dbe8f25ce71326abc832d79f34a
 workflow-type: tm+mt
-source-wordcount: '1261'
-ht-degree: 91%
+source-wordcount: '1263'
+ht-degree: 90%
 
 ---
 
 # Experience League LIVE 쇼
 
-Experience League LIVE는 Experience League 팀에서 제작한 라이브 스트리밍 쇼입니다. Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 유용한 팁과 요령, 전략을 배울 수 있는 기회입니다.
+Experience League LIVE는 디지털 경험 제품 지원 팀에서 제작한 라이브 스트리밍 쇼입니다. Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 유용한 팁과 요령, 전략을 배울 수 있는 기회입니다.
 
 ## 최근 에피소드
 
