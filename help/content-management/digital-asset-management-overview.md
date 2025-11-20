@@ -21,4 +21,4 @@ ht-degree: 26%
 
 Adobe Journey Optimizer이 임베드된 Adobe Experience Manager을 통해 저장소에서 직접 에셋을 검색, 탐색 및 소싱할 수 있도록 함으로써 디지털 에셋 관리를 간소화하는 방법에 대해 알아봅니다. 캠페인을 만들고, 기존 템플릿을 사용하여 이메일을 디자인하고, 에셋을 손쉽게 업로드 또는 편집하여 강력하고 영향력 있는 콘텐츠 제작 방법을 손쉽게 확인할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477018/?captions=kor&learn=on)
