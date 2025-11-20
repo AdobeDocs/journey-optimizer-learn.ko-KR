@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 100%
 
@@ -81,12 +81,10 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
     </div>
     <td>
     <div >
-      <a>
-    <strong><a href="loyalty-status-welcome-email-challenge.md">충성도 상태 환영 이메일 만들기 </strong>
-    </a>
+      <a><strong><a href="loyalty-status-welcome-email-challenge.md">로열티 상태 환영 이메일 만들기 </strong></a>
     </div>
     <p>
-    <em>충성 고객이 새로운 티어로 이동하면 축하와 함께 새로운 혜택을 알려주는 이메일을 보냅니다.</em>
+    <em>충성 고객이 새로운 등급으로 이동하면 축하와 함께 새로운 혜택을 알려주는 이메일을 보냅니다.</em>
     <p>
     <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko"> 세그먼트 만들기</li>
