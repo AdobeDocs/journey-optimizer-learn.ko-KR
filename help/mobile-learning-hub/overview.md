@@ -66,7 +66,7 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 ## 고객 사용 사례
 
-* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ko)
 
 
 ## 기반 구축
