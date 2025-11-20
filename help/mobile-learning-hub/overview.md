@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 1d79a2f916017e5f40f1629f0d1f534a37607a23
+source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Adobe Journey Optimizer(AJO)에서 모바일 채널을 시작 또는 레벨업�
 
 모범 사례를 살펴보고, 채택을 촉진하는 방법과 보고 기능을 마스터하는 방법을 한 곳에서 모두 알아봅니다. 이를 통해 팀은 언제 어디서나 사용자와 연결하는 효과적인 데이터 기반의 모바일 경험을 제공할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477005?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 모바일 채널 개요
@@ -63,12 +63,6 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 6. [코드 기반 경험](/help/mobile-learning-hub/channels/code-based-experience-overview.md)을 활용하여 사용자 동작 및 환경 설정을 기반으로 모든 메시지를 사용자 정의하여 채널 간에 진정한 개인화된 여정을 만들어 보세요.
 
-
-## 고객 사용 사례
-
-* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ko)
-
-
 ## 기반 구축
 
 개념 및 방법 알아보기
@@ -101,3 +95,7 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 | **상향 판매 및 교차 판매 캠페인** | 비헤이비어, 환경 설정 또는 구매 내역을 기반으로 기존 고객에 대한 추가 제품 또는 업그레이드를 홍보합니다. | - 푸시 알림은 관련 업셀 기회를 강조 표시합니다.<br> - 인앱 메시지 및 콘텐츠 카드에 보조 항목이 표시됩니다.<br>- SMS 캠페인은 전용 오퍼를 사용하여 세그먼트화된 대상자를 타겟팅합니다. |
 | **이탈 방지** | 이탈 위험이 있는 사용자를 식별하고 충성도를 유지하기 위한 개인화된 유지 전략에 참여합니다. | - 예측 분석은 위험이 있는 사용자에게 모바일 전달을 트리거합니다.<br>- 푸시 알림 및 SMS 오퍼 충성도 보상 또는 개인화된 콘텐츠.<br>- 인앱 설문 조사는 보존 전략을 개선하기 위해 피드백을 수집합니다. |
 | **다중 채널 메시징** | 여러 모바일 채널에서 일관된 메시지를 조율하여 사용자가 적시에 적절한 커뮤니케이션을 받을 수 있도록 합니다. | - 푸시, 인앱, SMS 및 이메일이 통합 메시징에 대해 조정됩니다.<br>- SDK를 사용하면 채널 전체에서 실시간 개인화가 가능합니다.<br>- 콘텐츠 카드는 세션 간에 유지되어 주요 메시지를 강화합니다. |
+
+## 고객 사용 사례
+
+* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
