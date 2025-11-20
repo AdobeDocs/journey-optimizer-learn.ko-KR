@@ -20,7 +20,7 @@ ht-degree: 17%
 
 Adobe Journey Optimizer 및 Adobe Experience Platform에서 모바일 채널을 구성하고, 모바일 앱과 통합하고, 마케팅 캠페인 실행에 대한 준비를 확인합니다.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Journey Optimizer 및 Experience Platform을 처음 사용하는 경우 다음 교육 과정을 통해 핵심 개념을 숙지하십시오.
 > - [Adobe Journey Optimizer 구성 및 관리](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*이 과정에서는 효율적이고 안전한 작업을 위해 사용자 역할, 권한, 샌드박스 및 이메일 채널을 포함하여 Journey Optimizer 환경을 구성하고 관리하는 방법을 배웁니다.*
