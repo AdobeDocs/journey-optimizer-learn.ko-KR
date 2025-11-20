@@ -107,7 +107,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
 
 [이 모바일 속성을 수동으로 만들고 구성](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property)하거나, Mobile In-App 및 Push의 경우 **[안내 채널 설정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)**&#x200B;을 사용하여 iOS 및 Android에 필요한 태그 속성, 데이터 스트림 및 채널 구성을 자동으로 만들 수 있습니다.
 
-> [!TIP]
+&#x200B;> [!TIP]
 >  
 > 새로운 구현의 경우 **[안내 채널 설정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)**&#x200B;이 권장되는 시작점입니다. 잘못 구성된 데이터스트림 또는 확장 누락의 위험을 줄이고 Assurance을 통한 SDK 유효성 검사를 안내합니다.
 
