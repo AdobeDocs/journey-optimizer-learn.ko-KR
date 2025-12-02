@@ -8,23 +8,24 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
-source-git-commit: d892f1115045e5bd1cc89dc75e34434b9b5954bd
+source-git-commit: 0b48363fbc33b74da422d4fe5da22c19881fc971
 workflow-type: tm+mt
-source-wordcount: '2561'
-ht-degree: 15%
+source-wordcount: '2429'
+ht-degree: 16%
 
 ---
 
 
 # 구성 및 실행
 
-Adobe Journey Optimizer 및 Adobe Experience Platform에서 모바일 채널을 구성하고, 모바일 앱과 통합하고, 마케팅 캠페인 실행에 대한 준비를 확인합니다.
+**관리자** 및 **모바일 앱 개발자**&#x200B;를 위해 이 섹션에서는 Adobe Journey Optimizer에서 모바일 및 웹 채널을 구성하고 시작하는 방법을 보여줍니다. 사전 요구 사항, 권한 및 플랫폼 지원에 대해 설명한 다음 앱별 구성을 만드는 과정을 안내합니다.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 > Journey Optimizer 및 Experience Platform을 처음 사용하는 경우 다음 교육 과정을 통해 Journey Optimizer의 데이터 관리 핵심 개념에 대해 숙지하십시오.
 >
-> [Adobe Journey Optimizer에서 지능형 여정 활성화를 위한 데이터 엔지니어](https://experienceleague.adobe.com/ko/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
+> [Adobe Journey Optimizer에서 지능형 여정 활성화를 위한 데이터 엔지니어](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
+>
 >*Experience Platform을 사용하여 Journey Optimizer에 대한 실시간 고객 프로필 데이터를 설정하고 관리하는 방법에 대해 알아봅니다. 데이터 모델링, ID 매핑 및 데이터 수집을 이해하여 개인화된 고객 여정을 위한 통합 프로필을 만듭니다.*
 
 
@@ -32,10 +33,20 @@ Adobe Journey Optimizer 및 Adobe Experience Platform에서 모바일 채널을 
 
 푸시 메시지, 인앱 메시지 및 콘텐츠 개인화를 포함하여 Adobe Journey Optimizer이 개발자, 마케터 및 제품 팀을 위해 제공하는 모바일 기능을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/344618?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
 
 
 ## 모바일 SDK 및 앱 구성
+
+>[!PREREQUISITES]
+>
+>다음을 수행해야 합니다.
+>
+> - Adobe Journey Optimizer(AJO)가 조직에 프로비저닝되었습니다.
+> - 데이터 수집 및 Journey Optimizer 권한을 사용하여 Adobe Experience Platform에 액세스합니다.
+> - 채널 및 구성 설정에 대한 AJO의 관리자 권한.
+> - 모바일 앱의 소스 코드(iOS, Android 또는 크로스 플랫폼 프레임워크)에 액세스합니다.
+> - 앱에서 필수 OS 수준 기능(예: 푸시 권한, 알림 서비스 확장, 백그라운드 모드)이 활성화되어 있습니다.
 
 Journey Optimizer의 모바일 구현은 앱에서 **Adobe Experience Platform Mobile SDK** 통합으로 시작합니다. SDK는 데이터 수집과 Adobe Experience Platform(AEP) 및 Adobe Journey Optimizer(AJO)과 같은 해당 애플리케이션과의 상호 작용에 필수적입니다.
 
@@ -52,17 +63,7 @@ Journey Optimizer의 모바일 구현은 앱에서 **Adobe Experience Platform M
 - 콘텐츠 카드를 렌더링하고 추적합니다.
 - 실시간 인앱 비헤이비어를 사용하여 여정을 트리거하고 경험을 개인화할 수 있습니다.
 
-
->[!PREREQUISITES]
->
->다음을 수행해야 합니다.
->
-> - Adobe Journey Optimizer(AJO)가 조직에 프로비저닝되었습니다.
-> - 데이터 수집 및 Journey Optimizer 권한을 사용하여 Adobe Experience Platform에 액세스합니다.
-> - 채널 및 구성 설정에 대한 AJO의 관리자 권한.
-> - 모바일 앱의 소스 코드(iOS, Android 또는 크로스 플랫폼 프레임워크)에 액세스합니다.
-> - 앱에서 필수 OS 수준 기능(예: 푸시 권한, 알림 서비스 확장, 백그라운드 모드)이 활성화되어 있습니다.
-
+[!BADGE 현재 SDK 버전]{type=Positive url="https://developer.adobe.com/client-sdks/home/current-sdk-versions/" tooltip="https://developer.adobe.com/client-sdks/home/current-sdk-versions으로 이동"}
 
 ### Journey Optimizer에 필요한 모바일 SDK 구성 요소
 
@@ -95,60 +96,38 @@ Journey Optimizer 모바일 채널(푸시, 인앱, 콘텐츠 카드, 코드 기�
 
 >[!ENDTABS]
 
-#### 모바일 태그 속성 및 구성
+### 모바일 태그 속성 설정
 
-AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/){target="_blank"}**&#x200B;에서 이러한 확장을 구성합니다.
+확장은 **데이터 수집**&#x200B;의 **모바일 태그 속성**&#x200B;에 구성되어 있습니다.
 
-이 속성은 다음을 제어합니다.
+속성 컨트롤은 다음과 같습니다.
 
 - 설치된 Mobile SDK 확장.
 - 앱에서 Edge Network 호출을 트리거하는 이벤트입니다.
 - 데이터가 XDM에 매핑되고 Adobe 솔루션(Journey Optimizer, Analytics 등)으로 전달되는 방법입니다.
 
-[이 모바일 속성을 수동으로 만들고 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/data-collection/tags/create-a-property){target="_blank"}하거나, Mobile In-App 및 Push의 경우 **[안내 채널 설정](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}**&#x200B;을 사용하여 iOS 및 Android에 필요한 태그 속성, 데이터 스트림 및 채널 구성을 자동으로 만들 수 있습니다.
+속성은 확장, 규칙, 데이터 요소 및 라이브러리로 채우는 컨테이너입니다. 이러한 리소스를 사용하려면 데이터 수집 UI에서 모바일 속성을 만들고 구성해야 합니다. 일반적으로 관리하려는 각 모바일 애플리케이션에 대해 모바일 속성을 만듭니다.
+
+
+[이 모바일 속성을 수동으로 만들고 구성할 수 있습니다](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property){target="_blank"}. 또는 **모바일 인앱 및 푸시에 대해 [안내 채널 설정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}**&#x200B;을 사용하여 iOS 및 Android에 필요한 태그 속성, 데이터스트림 및 채널 구성을 자동으로 만들 수 있습니다.
 
 >[!TIP]
 >  
-> 새로운 구현의 경우 **[안내 채널 설정](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}**&#x200B;이 권장되는 시작점입니다. 잘못 구성된 데이터스트림 또는 확장 누락의 위험을 줄이고 Assurance을 통한 SDK 유효성 검사를 안내합니다.
+> 새로운 구현의 경우 **[안내 채널 설정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}**&#x200B;이 권장되는 시작점입니다. 잘못 구성된 데이터스트림 또는 확장 누락의 위험을 줄이고 Assurance을 통한 SDK 유효성 검사를 안내합니다.
 
 #### 모바일 SDK 시작:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ko/docs/platform-learn/data-collection/mobile-sdk/overview
-    {description = Learn how Adobe Experience Platform Mobile SDK powers end-to-end engagement in your mobile applications.}
-* https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/overview
+* https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Experience Platform Mobile SDK overview">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/platform-learn/data-collection/mobile-sdk/overview" title="Adobe Experience Platform Mobile SDK 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/33547?captions=kor&format=jpeg&nocache=1763661968458" alt="Adobe Experience Platform Mobile SDK 개요"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" title="Adobe Experience Platform Mobile SDK 개요">Adobe Experience Platform Mobile SDK 개요</a>
-                    </p>
-                    <p class="is-size-6">Adobe Experience Platform Mobile SDK이 모바일 애플리케이션에서 전체적인 구현을 수행하는 방법에 대해 알아봅니다.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Implement Adobe Experience Cloud in mobile apps tutorial">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/overview" title="모바일 앱에서 Adobe Experience Cloud 구현 자습서" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="모바일 앱에서 Adobe Experience Cloud 구현 자습서"
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" title="모바일 앱에서 Adobe Experience Cloud 구현 자습서" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="모바일 앱에서 Adobe Experience Cloud 구현 자습서"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,11 +135,11 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="모바일 앱에서 Adobe Experience Cloud 구현 자습서">모바일 앱에서 Adobe Experience Cloud 구현 튜토리얼</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="모바일 앱에서 Adobe Experience Cloud 구현 자습서">모바일 앱에서 Adobe Experience Cloud 구현 튜토리얼</a>
                     </p>
                     <p class="is-size-6">Adobe Experience Cloud 모바일 애플리케이션을 구현하는 방법을 알아봅니다. 이 튜토리얼에서는 샘플 Swift 또는 Android 앱에서의 Experience Cloud 애플리케이션 구현을 안내합니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
@@ -171,156 +150,12 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
 
 #### 개발자 참조:
 
-<!-- CARDS
-* https://developer.adobe.com/client-sdks/home/
-* https://developer.adobe.com/client-sdks/home/current-sdk-versions/
-* https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/
-* https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/
-* https://developer.adobe.com/client-sdks/home/getting-started/track-events/
-* https://developer.adobe.com/client-sdks/home/base/assurance/
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mobile SDK overview">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://developer.adobe.com/client-sdks/home/" title="모바일 SDK 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://developer.adobe.com/shared/images/adobe-social-share.png" alt="모바일 SDK 개요"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/" target="_blank" rel="referrer" title="모바일 SDK 개요">모바일 SDK 개요</a>
-                    </p>
-                    <p class="is-size-6">Adobe Experience Platform Mobile SDK 설명서에 대한 개요 페이지입니다.</p>
-                </div>
-                <a href="https://developer.adobe.com/client-sdks/home/" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Current SDK versions">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://developer.adobe.com/client-sdks/home/current-sdk-versions/" title="현재 SDK 버전" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://developer.adobe.com/shared/images/adobe-social-share.png" alt="현재 SDK 버전"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/current-sdk-versions/" target="_blank" rel="referrer" title="현재 SDK 버전">현재 SDK 버전</a>
-                    </p>
-                    <p class="is-size-6">각 플랫폼에 대해 현재 사용 가능한 모바일 확장과 해당 버전을 표시하는 개요입니다.</p>
-                </div>
-                <a href="https://developer.adobe.com/client-sdks/home/current-sdk-versions/" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up a mobile property">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/" title="모바일 속성 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://developer.adobe.com/shared/images/adobe-social-share.png" alt="모바일 속성 설정"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/" target="_blank" rel="referrer" title="모바일 속성 설정">모바일 속성 설정</a>
-                    </p>
-                    <p class="is-size-6">속성을 만들고, 확장을 설치하고, 구성을 게시하여 모바일 속성을 설정하는 방법을 설명하는 안내서입니다. 이 프로세스를 완료하면 모바일 SDK을 사용할 수 있습니다.</p>
-                </div>
-                <a href="https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Get the Adobe Experience Platform Mobile SDK">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/" title="Adobe Experience Platform Mobile SDK 가져오기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://developer.adobe.com/shared/images/adobe-social-share.png" alt="Adobe Experience Platform Mobile SDK 가져오기"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/" target="_blank" rel="referrer" title="Adobe Experience Platform Mobile SDK 가져오기">Adobe Experience Platform Mobile SDK 가져오기</a>
-                    </p>
-                    <p class="is-size-6">애플리케이션에 Adobe Experience Platform Mobile SDK을 설치하는 방법을 설명하는 안내서입니다.</p>
-                </div>
-                <a href="https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Track events">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://developer.adobe.com/client-sdks/home/getting-started/track-events/" title="이벤트 추적" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://developer.adobe.com/shared/images/adobe-social-share.png" alt="이벤트 추적"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/getting-started/track-events/" target="_blank" rel="referrer" title="이벤트 추적">이벤트 추적</a>
-                    </p>
-                    <p class="is-size-6">Adobe Experience Platform Mobile SDK을 사용하여 이벤트를 추적하는 방법을 설명하는 안내서입니다.</p>
-                </div>
-                <a href="https://developer.adobe.com/client-sdks/home/getting-started/track-events/" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Experience Platform Assurance overview">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://developer.adobe.com/client-sdks/home/base/assurance/" title="Adobe Experience Platform Assurance 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://developer.adobe.com/shared/images/adobe-social-share.png" alt="Adobe Experience Platform Assurance 개요"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/base/assurance/" target="_blank" rel="referrer" title="Adobe Experience Platform Assurance 개요">Adobe Experience Platform Assurance 개요</a>
-                    </p>
-                    <p class="is-size-6">Adobe Experience Platform Assurance 모바일 확장 기능에 대한 개요입니다.</p>
-                </div>
-                <a href="https://developer.adobe.com/client-sdks/home/base/assurance/" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+- [Adobe Experience Platform Mobile SDK 가져오기](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk)
+  *Adobe Experience Platform SDK은 Cocoapods 및 Swift Package Manager를 통해 Apple iOS(iOS, iPadOS 및 tvOS 포함)에 사용할 수 있으며 Gradle을 통해 Google Android에 사용할 수 있습니다.*
+- [이벤트 추적](https://developer.adobe.com/client-sdks/home/getting-started/track-events)
+  *SDK에서는 보고, 세분화 및 기타 다양한 데이터 수집 사용 사례에 대한 이벤트를 기록하기 위해 세 가지 이벤트 추적 API를 제공합니다.*
+- [Adobe Experience Platform Assurance 개요](https://developer.adobe.com/client-sdks/home/base/assurance)
+  *특정 작업 및 경험이 의도한 대로 작동하는지 확인*
 
 >[!SUCCESS]
 >
@@ -337,14 +172,16 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
 
 ## Adobe Journey Optimizer 채널 구성
 
+
+
 ### 인앱, 푸시 및 WhatsApp
 
 안내가 있는 채널 설정 기능을 사용하여 **모바일 채널**&#x200B;을 구성하세요. **WhatsApp 채널**&#x200B;을 구성하는 방법을 이해합니다.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
  {description = Learn how to quickly set up and validate web and mobile channels across Experience Platform, Journey Optimizer, and Data Collection, and configure a push notification for a sample iOS marketing app.}
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -352,8 +189,8 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="가이드 채널 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449629/?captions=kor&format=jpeg&nocache=1763661970550" alt="가이드 채널 설정"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="가이드 채널 설정" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1764630461078" alt="가이드 채널 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -361,11 +198,11 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="가이드 채널 설정">가이드 채널 설정</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="가이드 채널 설정">가이드 채널 설정</a>
                     </p>
                     <p class="is-size-6">Experience Platform, Journey Optimizer 및 데이터 수집 전반에 걸쳐 웹 및 모바일 채널을 빠르게 설정하고 유효성을 검사하고 샘플 iOS 마케팅 앱에 대한 푸시 알림을 구성하는 방법에 대해 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -376,7 +213,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="WhatsApp 채널 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470275/?captions=kor&format=jpeg&nocache=1763661970579" alt="WhatsApp 채널 설정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1764630461113" alt="WhatsApp 채널 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -402,11 +239,11 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
 표준 공급자(Twilio, Synch 또는 Infobip)를 사용하거나 사용자 지정 SMS 공급자를 사용하여 **SMS/MMS/RCS 채널**&#x200B;을 구성합니다.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
 {description = Learn how to configure custom SMS providers in Journey Optimizer, set up API credentials and webhooks, manage opt-in/opt-out keywords, and launch personalized campaigns.}
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -414,8 +251,8 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="SMS API 자격 증명 및 채널 표면 구성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418547?captions=kor&format=jpeg&nocache=1763661971419" alt="SMS API 자격 증명 및 채널 표면 구성"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="SMS API 자격 증명 및 채널 표면 구성" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1764630461855" alt="SMS API 자격 증명 및 채널 표면 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -423,11 +260,11 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="SMS API 자격 증명 및 채널 표면 구성">SMS API 자격 증명 및 채널 표면 구성</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="SMS API 자격 증명 및 채널 표면 구성">SMS API 자격 증명 및 채널 표면 구성</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer를 SMS 서비스 공급자에 연결하는 방법과 SMS 채널 표면을 만드는 방법을 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -438,7 +275,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" title="사용자 정의 SMS 공급자 구성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431625/?format=jpeg&nocache=1763661971435" alt="사용자 정의 SMS 공급자 구성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431625/?format=jpeg&nocache=1764630461877" alt="사용자 정의 SMS 공급자 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -460,8 +297,8 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="MMS API 자격 증명 및 채널 표면 구성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438053/?captions=kor&format=jpeg&nocache=1763661971338" alt="MMS API 자격 증명 및 채널 표면 구성"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="MMS API 자격 증명 및 채널 표면 구성" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1764630461882" alt="MMS API 자격 증명 및 채널 표면 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -469,11 +306,11 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="MMS API 자격 증명 및 채널 표면 구성">MMS API 자격 증명 및 채널 표면 구성</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="MMS API 자격 증명 및 채널 표면 구성">MMS API 자격 증명 및 채널 표면 구성</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer를 MMS 서비스 제공자에 연결하는 방법과 MMS 채널 표면을 만드는 방법을 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -484,7 +321,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Journey Optimizer에서 RCS 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464762/?captions=kor&format=jpeg&nocache=1763661971296" alt="Journey Optimizer에서 RCS 설정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1764630461859" alt="Journey Optimizer에서 RCS 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -508,10 +345,10 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
 ## 개인 정보 보호 법률 및 플랫폼 지침을 준수하도록 합니다.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -519,7 +356,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Adobe Journey Optimizer의 개인 정보 기능" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Adobe Journey Optimizer의 개인 정보 기능" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="../mobile-learning-hub/assets/privacy.webp" alt="Adobe Journey Optimizer의 개인 정보 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -528,11 +365,11 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Adobe Journey Optimizer의 개인 정보 기능">Adobe Journey Optimizer의 개인 정보 보호 기능</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Adobe Journey Optimizer의 개인 정보 기능">Adobe Journey Optimizer의 개인 정보 보호 기능</a>
                     </p>
                     <p class="is-size-6">개인 정보 보호 요청 처리, 사용자 작업 감사, 동의 관리, 거버넌스 규칙 적용 및 고객 관리 키와 같은 고급 보안 옵션 활용 방법을 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
@@ -543,7 +380,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="데이터 거버넌스 프레임워크 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32135/?captions=kor&format=jpeg&nocache=1763661972554" alt="데이터 거버넌스 프레임워크 개요"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1764630462613" alt="데이터 거버넌스 프레임워크 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -566,7 +403,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="레이블을 사용한 데이터 분류" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422792?captions=kor&format=jpeg&nocache=1763661972557" alt="레이블을 사용한 데이터 분류"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1764630462612" alt="레이블을 사용한 데이터 분류"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -589,7 +426,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="데이터 사용 정책 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/37138/?captions=kor&format=jpeg&nocache=1763661972555" alt="데이터 사용 정책 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1764630462585" alt="데이터 사용 정책 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -676,7 +513,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
 - 데이터스트림 매핑(이벤트 → 이벤트 데이터 세트, 프로필 → 프로필 데이터 세트)을 수정합니다.
 - 임시 변경 사항 대신 가이드 채널 설정 또는 문서화된 데이터 스트림 단계를 선호합니다.
 
-참조: [Adobe Journey Optimizer의 푸시 알림 흐름](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
+참조: [Adobe Journey Optimizer의 푸시 알림 흐름](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
 </details>
 
@@ -704,7 +541,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
 - **Edge Network에 대한 동의**&#x200B;를 구현하고 앱의 동의 UI에 연결합니다.
 - 모든 관련 이벤트에 ID 및 동의가 나타날 때까지 Assurance에서 다시 테스트합니다.
 
-[Platform Mobile SDK 구현에 대한 동의 구현](https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}을 참조하세요.
+[Platform Mobile SDK 구현에 대한 동의 구현](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}을 참조하세요.
 
 </details>
 
@@ -732,7 +569,7 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
    - Mobile SDK을 통해 푸시 상호 작용 이벤트(열기, 닫기, 사용자 지정 작업)를 보냅니다.
 - Assurance을 사용하여 등록 및 추적 이벤트가 예상대로 실행되는지 확인합니다.
 
-참조: [Adobe Journey Optimizer의 푸시 알림 흐름](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
+참조: [Adobe Journey Optimizer의 푸시 알림 흐름](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
 </details>
 
@@ -764,8 +601,8 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
    - SDK을 통해 상호 작용을 다시 추적합니다.
 
 다음을 참조하십시오.
-- [인앱 메시지 만들기 및 보내기](https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
-- [모바일 SDK에서 콘텐츠 카드 지원 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
+- [인앱 메시지 만들기 및 보내기](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
+- [모바일 SDK에서 콘텐츠 카드 지원 구성](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
 </details>
 
@@ -783,5 +620,5 @@ AEP 데이터 수집 -> 태그의 **[모바일 태그 속성](https://developer.
 
 ## 블로그 게시물
 
-- [더 빠른 개인화를 위해 모바일에서 CDN 기반 클라이언트측 개인화(ODD)를 사용합니다.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=ko){target="_blank"}
-- [Adobe Experience Cloud용 Mobile Activation](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595?profile.language=ko){target="_blank"}
+- [더 빠른 개인화를 위해 모바일에서 CDN 기반 클라이언트측 개인화(ODD)를 사용합니다.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+- [Adobe Experience Cloud용 Mobile Activation](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595){target="_blank"}
