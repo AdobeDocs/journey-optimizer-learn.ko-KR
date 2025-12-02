@@ -24,7 +24,7 @@ ht-degree: 15%
 >
 > Journey Optimizer 및 Experience Platform을 처음 사용하는 경우 다음 교육 과정을 통해 Journey Optimizer의 데이터 관리 핵심 개념에 대해 숙지하십시오.
 >
-> [Adobe Journey Optimizer에서 지능형 여정 활성화를 위한 데이터 엔지니어](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
+> [Adobe Journey Optimizer에서 지능형 여정 활성화를 위한 데이터 엔지니어](https://experienceleague.adobe.com/ko/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
 >
 >*Experience Platform을 사용하여 Journey Optimizer에 대한 실시간 고객 프로필 데이터를 설정하고 관리하는 방법에 대해 알아봅니다. 데이터 모델링, ID 매핑 및 데이터 수집을 이해하여 개인화된 고객 여정을 위한 통합 프로필을 만듭니다.*
 
@@ -109,19 +109,19 @@ Journey Optimizer 모바일 채널(푸시, 인앱, 콘텐츠 카드, 코드 기�
 속성은 확장, 규칙, 데이터 요소 및 라이브러리로 채우는 컨테이너입니다. 이러한 리소스를 사용하려면 데이터 수집 UI에서 모바일 속성을 만들고 구성해야 합니다. 일반적으로 관리하려는 각 모바일 애플리케이션에 대해 모바일 속성을 만듭니다.
 
 
-[이 모바일 속성을 수동으로 만들고 구성](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property){target="_blank"}하거나, Mobile In-App 및 Push의 경우 [안내 채널 설정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}을 사용하여 iOS 및 Android에 필요한 태그 속성, 데이터 스트림 및 채널 구성을 자동으로 만들 수 있습니다.
+[이 모바일 속성을 수동으로 만들고 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/data-collection/tags/create-a-property){target="_blank"}하거나, Mobile In-App 및 Push의 경우 [안내 채널 설정](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}을 사용하여 iOS 및 Android에 필요한 태그 속성, 데이터 스트림 및 채널 구성을 자동으로 만들 수 있습니다.
 
 >[!TIP]
 >  
-> 새로운 모바일 인앱 및 푸시 구현의 경우 **[안내 채널 설정](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}**&#x200B;이 권장되는 시작점입니다. 잘못 구성된 데이터스트림 또는 확장 누락의 위험을 줄이고 Assurance을 통한 SDK 유효성 검사를 안내합니다.
+> 새로운 모바일 인앱 및 푸시 구현의 경우 **[안내 채널 설정](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}**&#x200B;이 권장되는 시작점입니다. 잘못 구성된 데이터스트림 또는 확장 누락의 위험을 줄이고 Assurance을 통한 SDK 유효성 검사를 안내합니다.
 
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
  {description = Learn how to quickly set up and validate web and mobile channels across Experience Platform, Journey Optimizer, and Data Collection, and configure a push notification for a sample iOS marketing app.}
  * https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk
  * https://developer.adobe.com/client-sdks/home/base/assurance
- * https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview 
+ * https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/overview 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -129,7 +129,7 @@ Journey Optimizer 모바일 채널(푸시, 인앱, 콘텐츠 카드, 코드 기�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="가이드 채널 설정" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="가이드 채널 설정" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1764708699246" alt="가이드 채널 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -138,11 +138,11 @@ Journey Optimizer 모바일 채널(푸시, 인앱, 콘텐츠 카드, 코드 기�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="가이드 채널 설정">가이드 채널 설정</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="가이드 채널 설정">가이드 채널 설정</a>
                     </p>
                     <p class="is-size-6">Experience Platform, Journey Optimizer 및 데이터 수집 전반에 걸쳐 웹 및 모바일 채널을 빠르게 설정하고 유효성을 검사하고 샘플 iOS 마케팅 앱에 대한 푸시 알림을 구성하는 방법에 대해 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -198,8 +198,8 @@ Journey Optimizer 모바일 채널(푸시, 인앱, 콘텐츠 카드, 코드 기�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" title="모바일 앱에서 Adobe Experience Cloud 구현 자습서" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="모바일 앱에서 Adobe Experience Cloud 구현 자습서"
+                    <a href="https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/overview" title="모바일 앱에서 Adobe Experience Cloud 구현 자습서" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="모바일 앱에서 Adobe Experience Cloud 구현 자습서"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -207,11 +207,11 @@ Journey Optimizer 모바일 채널(푸시, 인앱, 콘텐츠 카드, 코드 기�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="모바일 앱에서 Adobe Experience Cloud 구현 자습서">모바일 앱에서 Adobe Experience Cloud 구현 튜토리얼</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="모바일 앱에서 Adobe Experience Cloud 구현 자습서">모바일 앱에서 Adobe Experience Cloud 구현 튜토리얼</a>
                     </p>
                     <p class="is-size-6">Adobe Experience Cloud 모바일 애플리케이션을 구현하는 방법을 알아봅니다. 이 튜토리얼에서는 샘플 Swift 또는 Android 앱에서의 Experience Cloud 애플리케이션 구현을 안내합니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
@@ -260,7 +260,7 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
 
 <!-- CARDS
 
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -295,11 +295,11 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
 표준 공급자(Twilio, Synch 또는 Infobip)를 사용하거나 사용자 지정 SMS 공급자를 사용하여 **SMS/MMS/RCS 채널**&#x200B;을 구성합니다.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
 {description = Learn how to configure custom SMS providers in Journey Optimizer, set up API credentials and webhooks, manage opt-in/opt-out keywords, and launch personalized campaigns.}
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -307,7 +307,7 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="SMS API 자격 증명 및 채널 표면 구성" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="SMS API 자격 증명 및 채널 표면 구성" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1764708699948" alt="SMS API 자격 증명 및 채널 표면 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -316,11 +316,11 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="SMS API 자격 증명 및 채널 표면 구성">SMS API 자격 증명 및 채널 표면 구성</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="SMS API 자격 증명 및 채널 표면 구성">SMS API 자격 증명 및 채널 표면 구성</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer를 SMS 서비스 공급자에 연결하는 방법과 SMS 채널 표면을 만드는 방법을 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -353,7 +353,7 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="MMS API 자격 증명 및 채널 표면 구성" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="MMS API 자격 증명 및 채널 표면 구성" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1764708699939" alt="MMS API 자격 증명 및 채널 표면 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -362,11 +362,11 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="MMS API 자격 증명 및 채널 표면 구성">MMS API 자격 증명 및 채널 표면 구성</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="MMS API 자격 증명 및 채널 표면 구성">MMS API 자격 증명 및 채널 표면 구성</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer를 MMS 서비스 제공자에 연결하는 방법과 MMS 채널 표면을 만드는 방법을 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -401,10 +401,10 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
 ## 개인 정보 보호 법률 및 플랫폼 지침을 준수하도록 합니다.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -412,7 +412,7 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Adobe Journey Optimizer의 개인 정보 기능" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Adobe Journey Optimizer의 개인 정보 기능" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="../mobile-learning-hub/assets/privacy.webp" alt="Adobe Journey Optimizer의 개인 정보 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -421,11 +421,11 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Adobe Journey Optimizer의 개인 정보 기능">Adobe Journey Optimizer의 개인 정보 보호 기능</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Adobe Journey Optimizer의 개인 정보 기능">Adobe Journey Optimizer의 개인 정보 보호 기능</a>
                     </p>
                     <p class="is-size-6">개인 정보 보호 요청 처리, 사용자 작업 감사, 동의 관리, 거버넌스 규칙 적용 및 고객 관리 키와 같은 고급 보안 옵션 활용 방법을 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
@@ -569,7 +569,7 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
 - 데이터스트림 매핑(이벤트 → 이벤트 데이터 세트, 프로필 → 프로필 데이터 세트)을 수정합니다.
 - 임시 변경 사항 대신 가이드 채널 설정 또는 문서화된 데이터 스트림 단계를 선호합니다.
 
-참조: [Adobe Journey Optimizer의 푸시 알림 흐름](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
+참조: [Adobe Journey Optimizer의 푸시 알림 흐름](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
 </details>
 
@@ -597,7 +597,7 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
 - **Edge Network에 대한 동의**&#x200B;를 구현하고 앱의 동의 UI에 연결합니다.
 - 모든 관련 이벤트에 ID 및 동의가 나타날 때까지 Assurance에서 다시 테스트합니다.
 
-[Platform Mobile SDK 구현에 대한 동의 구현](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}을 참조하세요.
+[Platform Mobile SDK 구현에 대한 동의 구현](https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}을 참조하세요.
 
 </details>
 
@@ -625,7 +625,7 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
    - Mobile SDK을 통해 푸시 상호 작용 이벤트(열기, 닫기, 사용자 지정 작업)를 보냅니다.
 - Assurance을 사용하여 등록 및 추적 이벤트가 예상대로 실행되는지 확인합니다.
 
-참조: [Adobe Journey Optimizer의 푸시 알림 흐름](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
+참조: [Adobe Journey Optimizer의 푸시 알림 흐름](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
 </details>
 
@@ -657,8 +657,8 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
    - SDK을 통해 상호 작용을 다시 추적합니다.
 
 다음을 참조하십시오.
-- [인앱 메시지 만들기 및 보내기](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
-- [모바일 SDK에서 콘텐츠 카드 지원 구성](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
+- [인앱 메시지 만들기 및 보내기](https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
+- [모바일 SDK에서 콘텐츠 카드 지원 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
 </details>
 
@@ -676,5 +676,5 @@ Adobe Journey Optimizer에서 모바일 채널을 구성하면 푸시 알림과 
 
 ## 블로그 게시물
 
-- [더 빠른 개인화를 위해 모바일에서 CDN 기반 클라이언트측 개인화(ODD)를 사용합니다.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
-- [Adobe Experience Cloud용 Mobile Activation](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595){target="_blank"}
+- [더 빠른 개인화를 위해 모바일에서 CDN 기반 클라이언트측 개인화(ODD)를 사용합니다.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=ko){target="_blank"}
+- [Adobe Experience Cloud용 Mobile Activation](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595?profile.language=ko){target="_blank"}
