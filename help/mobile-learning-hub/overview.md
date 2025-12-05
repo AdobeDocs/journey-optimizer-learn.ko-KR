@@ -1,15 +1,15 @@
 ---
 title: 모바일 학습 허브
-description: 이는 개발자, 관리자, 마케터 및 데이터 분석가가 인바운드 및 아웃바운드 모바일 채널을 설정하는 것부터 강력한 캠페인으로 연결하는 것까지 모든 것을 발견할 수 있는 여정 공간입니다. 모범 사례를 살펴보고, 채택을 촉진하는 방법과 보고 기능을 마스터하는 방법을 한 곳에서 모두 알아봅니다. 이를 통해 팀은 언제 어디서나 사용자와 연결하는 효과적인 데이터 기반의 모바일 경험을 제공할 수 있습니다.
+description: Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작하거나 강화할 수 있습니다. 이 모바일 학습 허브는 개발자, 관리자, 마케터 및 분석가에게 인바운드 및 아웃바운드 모바일 채널을 구성하고 강력한 크로스채널 캠페인 및 여정에 원활하게 통합하는 데 필요한 모든 기능을 제공합니다. 모범 사례를 살펴보고, 채택을 유도하는 방법을 배우고, 중앙 집중식 보고 워크플로를 설정하여 언제 어디서나 고객에게 다가가는 영향력 있는 데이터 기반 모바일 경험을 제공합니다.
 feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-last-substantial-update: 2025-08-22T00:00:00Z
+last-substantial-update: 2025-12-05T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
+source-git-commit: 6faf1e92516a54afa9c987b693a27d2284726fff
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작
 
 모범 사례를 살펴보고, 채택을 유도하는 방법을 배우고, 중앙 집중식 보고 워크플로를 설정하여 언제 어디서나 고객에게 다가가는 영향력 있는 데이터 기반 모바일 경험을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477005?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 모바일 채널 개요
@@ -98,4 +98,4 @@ Adobe Journey Optimizer의 모든 아웃바운드 채널은 메시지 전송 시
 
 ## 고객 사용 사례
 
-* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ko)
+* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
