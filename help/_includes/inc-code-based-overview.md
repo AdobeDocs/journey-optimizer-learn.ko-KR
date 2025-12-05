@@ -1,16 +1,17 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 3%
+source-wordcount: '301'
+ht-degree: 2%
 
 ---
 # 코드 기반 경험 - 개요
 
 ## 무엇입니까?
 
-**코드 기반 경험**&#x200B;은(는) Adobe Journey Optimizer과 같은 플랫폼 내에서 사용자 지정 코드(JavaScript, API 또는 템플릿 언어)를 사용하여 구축된 개인화된 동적 콘텐츠 또는 메시지를 나타냅니다.\
-이를 통해 표준 끌어서 놓기 도구를 넘어 고도로 맞춤화된 데이터 기반 고객 여정 및 메시지를 만들 수 있습니다.
+코드 기반 경험을 사용하면 Adobe Journey Optimizer 내에서 JavaScript, API 또는 템플릿 언어와 같은 사용자 지정 코드를 사용하여 개인화된 동적 콘텐츠 및 메시지를 전달할 수 있습니다.
+
+이 채널은 표준 시각적 작성 도구(WYSIWYG 편집기)를 넘어 확장되는 고도로 맞춤화된 데이터 기반 상호 작용을 빌드하는 데 이상적이며, 개발자와 최적화 관리자에게 사용자 지정 개인화 논리 및 컨텐츠 레이아웃을 디자인할 수 있는 완전한 유연성을 제공합니다.
 
 예:
 

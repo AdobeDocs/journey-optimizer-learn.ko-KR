@@ -1,20 +1,19 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 # 컨텐츠 카드 - 개요
 
->[!VIDEO](https://video.tv.adobe.com/v/3460091/?learn=on&enablevpops&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## 뭔데?
 
-**콘텐츠 카드**&#x200B;는 앱 내의 전용 받은 편지함 또는 피드 내에 있는 지속적인 인앱 메시지입니다. 푸시 알림과 달리 사용자에게 방해가 되지 않고 사용자의 편의에 따라 볼 수 있다.\
-시간 경과에 따른 가시성으로 혜택을 주는 **급하지 않은**, **정보** 또는 **홍보 콘텐츠**&#x200B;를 제공하는 데 이상적입니다.
+**콘텐츠 카드**&#x200B;는 앱 내의 전용 받은 편지함 또는 피드에 표시되는 지속적인 인앱 메시지입니다. 푸시 알림과 달리 사용자에게 방해가 되지 않으며 사용자가 선택할 때마다 볼 수 있습니다.
 
-콘텐츠 카드를 인앱 &quot;메시지 센터&quot; 또는 개인화된 뉴스 피드로 생각해 보십시오.
+이 콘텐츠는 더 긴 가시성과 반복적인 노출로 혜택을 받는 **급하지 않은**, **정보** 또는 **홍보 콘텐츠**&#x200B;에 이상적입니다. 콘텐츠 카드를 사용자가 원하는 속도로 업데이트를 검색할 수 있는 인앱 &quot;메시지 센터&quot; 또는 개인화된 콘텐츠 피드로 생각해 보십시오.&quot;
 
 ### 예:
 

@@ -7,20 +7,20 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
 
 # Journey Optimizer - 모바일 학습 허브
 
-Adobe Journey Optimizer(AJO)에서 모바일 채널을 시작 또는 레벨업합니다. 이는 개발자, 관리자, 마케터 및 데이터 분석가가 인바운드 및 아웃바운드 모바일 채널 설정에서 강력한 캠페인으로 연결하는 모든 것을 발견할 수 있는 여정 공간입니다.
+Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작하거나 강화할 수 있습니다. 이 모바일 학습 허브는 개발자, 관리자, 마케터 및 분석가에게 인바운드 및 아웃바운드 모바일 채널을 구성하고 강력한 크로스채널 캠페인 및 여정에 원활하게 통합하는 데 필요한 모든 기능을 제공합니다.
 
-모범 사례를 살펴보고, 채택을 촉진하는 방법과 보고 기능을 마스터하는 방법을 한 곳에서 모두 알아봅니다. 이를 통해 팀은 언제 어디서나 사용자와 연결하는 효과적인 데이터 기반의 모바일 경험을 제공할 수 있습니다.
+모범 사례를 살펴보고, 채택을 유도하는 방법을 배우고, 중앙 집중식 보고 워크플로를 설정하여 언제 어디서나 고객에게 다가가는 영향력 있는 데이터 기반 모바일 경험을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477005?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 모바일 채널 개요
@@ -29,9 +29,9 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 ### 아웃바운드 채널
 
-아웃바운드 채널은 사전 상호 작용 없이 고객에게 **메시지를 사전 예방적으로 전달**&#x200B;하는 데 사용됩니다. 이는 캠페인, 프로모션 및 트랜잭션 커뮤니케이션에 이상적입니다.
+아웃바운드 채널을 사용하면 사전 상호 작용 없이 고객에게 메시지를 미리 전달할 수 있습니다. 이러한 상호 작용은 캠페인, 프로모션 또는 트랜잭션 이벤트에 이상적입니다.
 
-이러한 채널은 메시지 전송 시간에 **사용자 지정 동의 정책**&#x200B;을 적용합니다. 특정 마케팅 작업에 대한 동의가 부여되지 않으면 메시지가 게재되지 않도록 차단됩니다.
+Adobe Journey Optimizer의 모든 아웃바운드 채널은 메시지 전송 시간에 사용자 지정 동의 정책 을 적용합니다. 특정 마케팅 작업에 대한 동의가 부여되지 않은 경우 메시지가 자동으로 억제되어 호환 배달이 보장됩니다.
 
 | ![푸시 알림](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[푸시 알림](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
@@ -39,7 +39,7 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 ### 인바운드 채널
 
-인바운드 채널은 **고객이 시작한 상호 작용**&#x200B;을 위해 설계되어 사용자가 귀하의 브랜드에 참여할 때 개인화된 경험을 사용할 수 있습니다. 세분화 및 타깃팅을 위해 Adobe Experience Platform(AEP)에 공급되는 랜딩 페이지 양식과 같은 **실시간 개인화** 및 **데이터 캡처**&#x200B;를 지원합니다.
+인바운드 채널은 고객이 시작한 상호 작용을 지원하므로 사용자가 브랜드에 참여하는 순간 개인화된 경험을 제공할 수 있습니다. 이를 통해 여정 간 세그멘테이션, 타기팅 및 활성화를 위해 Adobe Experience Platform(AEP)에 직접 유입되는 실시간 개인화 및 데이터 캡처(예: 랜딩 페이지 양식 또는 온사이트 행동)를 사용할 수 있습니다.
 
 
 | ![인앱 메시지](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;,height=&quot;50%&quot;}<br> **[인앱 메시지](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![콘텐츠 카드](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[콘텐츠 카드](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![코드 기반 경험](/help/mobile-learning-hub/assets/code-based.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[코드 기반 경험](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
@@ -98,4 +98,4 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 ## 고객 사용 사례
 
-* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ko)
+* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
