@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Analytics를 통한 향상된 보고 기능
-description: 이제 Journey Optimizer의 보고 기능이 Customer Journey Analytics 기능과 완전히 통합되어 양 플랫폼의 보고를 표준화하고 데이터의 일관성과 안정성을 개선합니다. 이렇게 Journey Optimizer와 Customer Journey Analytics가 원활하게 통합됨으로써 사용자가 성과 지표를 보다 명확하게 확인하여 확실한 정보에 근거한 결정을 내릴 수 있습니다.
+description: 통합 지표 및 여정 시각화에서 사용자 지정 인사이트 및 고급 분석에 이르기까지 Adobe Journey Optimizer의 향상된 보고 도구를 탐색하는 방법을 단계별로 알아봅니다
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -9,16 +9,17 @@ duration: 22500
 last-substantial-update: 2025-01-27T00:00:00Z
 jira: KT-15774
 exl-id: 385f2f89-bef9-4a32-9ca1-4a2f4afb2c6a
-source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
-workflow-type: ht
-source-wordcount: '116'
-ht-degree: 100%
+source-git-commit: d869245cb8d9482776d901b9ad298914b3fa0c95
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 19%
 
 ---
 
 # Customer Journey Analytics를 통한 향상된 보고 기능
 
-이제 Journey Optimizer의 보고 기능이 Customer Journey Analytics 기능과 완전히 통합되어 양 플랫폼의 보고를 표준화하고 데이터의 일관성과 안정성을 개선합니다. 이렇게 Journey Optimizer와 Customer Journey Analytics가 원활하게 통합됨으로써 사용자가 성과 지표를 보다 명확하게 확인하여 더욱 정보에 근거한 결정을 내릴 수 있습니다.
-자세한 설명서는 [Customer Journey Analytics의 분석](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}을 참조하십시오.
+통합 지표 및 여정 시각화에서 사용자 지정 인사이트 및 고급 분석에 이르기까지 Adobe Journey Optimizer의 향상된 보고 도구를 탐색하는 방법을 단계별로 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3443158/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+
+자세한 설명서는 [Customer Journey Analytics에서 분석](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}을 참조하십시오.
