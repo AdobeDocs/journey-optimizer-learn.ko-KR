@@ -5,17 +5,17 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 066f1d44a778ee4075bdbf31b8fc5f4ebd162e65
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
-source-wordcount: '2012'
+source-wordcount: '2008'
 ht-degree: 0%
 
 ---
 
 
-# 제 2 조: Challenge-Based Loyness
+# 과제 기반 충성도
 
-## 과제 기반 충성도 — 장기적인 참여를 유도하는 행동 Gamification 시스템 설계
+## 장기적인 참여를 유도하는 행동 Gamification 시스템 디자인
 
 ### 실행 요약
 
