@@ -6,9 +6,9 @@ level: Beginner,Intermediate
 breadcrumb-title: 로열티 개러지 위크
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty-garage-week/overview
 auto-video-transcripts: true
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: daf558af80981d8442108cb97532020087a3c275
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
@@ -21,3 +21,4 @@ ht-degree: 0%
 + [과제 기반 충성도](/help/loyalty-garage-week/challenge-based-loyalty.md)
 + [옴니채널 세계에서의 충성도](/help/loyalty-garage-week/loyalty-in-an-omnichannel-world.md)
 + [정서적 충성도 및 커뮤니티 구축](/help/loyalty-garage-week/emotional-loyalty-and-community-building.md)
++ [현대 충성도 프로그램을 위한 재무 모델링](/help/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.md)
