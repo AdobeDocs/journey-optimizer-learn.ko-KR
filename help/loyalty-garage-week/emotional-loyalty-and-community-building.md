@@ -2,10 +2,10 @@
 title: 정서적 충성도 및 커뮤니티 구축
 description: 브랜드가 경험 기반 충성도를 통해 정체성, 소속성 및 지지를 생성하는 방법
 feature: Overview
-role: User, Admin, Developer
+role: User
 hide: true
 index: false
-source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
+source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%

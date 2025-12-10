@@ -2,10 +2,10 @@
 title: 과제 기반 충성도
 description: 장기적인 참여를 유도하는 행동 Gamification 시스템 디자인
 feature: Overview
-role: User, Admin, Developer
+role: User
 hide: true
 index: false
-source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
+source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
 workflow-type: tm+mt
 source-wordcount: '2008'
 ht-degree: 0%

@@ -2,10 +2,10 @@
 title: 옴니채널 세계에서의 충성도
 description: 모든 고객 접점에서 통일된 예측 실시간 충성도 경험을 구축합니다.
 feature: Overview
-role: User, Admin, Developer
+role: User
 hide: true
 index: false
-source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
+source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%

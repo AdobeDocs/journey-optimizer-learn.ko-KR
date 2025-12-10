@@ -2,10 +2,10 @@
 title: 현대 충성도 프로그램을 위한 재무 모델링
 description: 책임, 보상 경제성 및 점진적 가치를 예측하기 위한 포괄적이고 CFO에 대비한 프레임워크.
 feature: Overview
-role: User, Admin, Developer
+role: User
 hide: true
 index: false
-source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
+source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
 workflow-type: tm+mt
 source-wordcount: '1979'
 ht-degree: 0%
