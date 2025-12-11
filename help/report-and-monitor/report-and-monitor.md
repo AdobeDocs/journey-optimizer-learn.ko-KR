@@ -64,7 +64,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="라이브 보고서로 여정 모니터링 및 분석" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1764706279498" alt="라이브 보고서로 여정 모니터링 및 분석"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470842/?captions=kor&format=jpeg&nocache=1764706279498" alt="라이브 보고서로 여정 모니터링 및 분석"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +87,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" title="여정 보고서로 여정 모니터링 및 분석" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470710/?format=jpeg&nocache=1764706279432" alt="여정 보고서로 여정 모니터링 및 분석"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471470/?captions=kor&format=jpeg&nocache=1764706279432" alt="여정 보고서로 여정 모니터링 및 분석"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +110,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="채널 수준 보고서" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1764706279481" alt="채널 수준 보고서"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448046/?captions=kor&format=jpeg&nocache=1764706279481" alt="채널 수준 보고서"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +133,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="전체 기간 보고서를 사용하여 여정의 전체 성과 분석" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="전체 기간 보고서를 사용하여 여정의 전체 성과 분석"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475794/?captions=kor&format=jpeg&nocache=1764706279437" alt="전체 기간 보고서를 사용하여 여정의 전체 성과 분석"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="CSV 형식으로 보고서 내보내기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1764706279503" alt="CSV 형식으로 보고서 내보내기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439618/?captions=kor&format=jpeg&nocache=1764706279503" alt="CSV 형식으로 보고서 내보내기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts" title="경고 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/336218?format=jpeg&nocache=1764706279431" alt="경고 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3423921?captions=kor&format=jpeg&nocache=1764706279431" alt="경고 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Customer Journey Analytics를 통한 향상된 보고 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1764706279442" alt="Customer Journey Analytics를 통한 향상된 보고 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443158/?captions=kor&format=jpeg&nocache=1764706279442" alt="Customer Journey Analytics를 통한 향상된 보고 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
