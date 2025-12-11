@@ -1,6 +1,6 @@
 ---
 title: 보고 및 모니터링
-description: Adobe Journey Optimizer(AJO) 보고를 통해 고객 여정을 쉽게 추적, 분석 및 수행하는 방법을 알아봅니다. 이 튜토리얼을 통해 마케터와 분석가는 성능을 실시간으로 모니터링하고, 세부 여정 및 채널 통찰력을 분석하고, 데이터를 내보내고, 경고를 설정하고, 고급 분석을 활용하여 보다 현명한 결정을 내릴 수 있는 도구를 얻을 수 있습니다.
+description: Adobe Journey Optimizer(AJO) 보고를 통해 고객 여정을 쉽게 추적, 분석하고 이에 따라 대응하는 방법을 알아봅니다. 이 튜토리얼을 통해 마케터와 분석가는 성과를 실시간으로 모니터링하고, 자세한 여정 및 채널 인사이트를 분석하고, 데이터를 내보내고, 경고를 설정하고, 고급 분석을 활용하여 보다 현명한 결정을 내리기 위한 도구를 얻을 수 있습니다.
 feature: Reporting
 role: User
 level: Beginner, Intermediate
@@ -9,30 +9,30 @@ duration: 395
 last-substantial-update: 2025-08-28T00:00:00Z
 exl-id: 5bac9b73-9c68-4901-90f8-07949639bd69
 source-git-commit: b27e35e3dc07014caf115ec8cc057266858ddf7c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '585'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # 보고 및 모니터링
 
-Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석 및 수행하는 방법을 알아봅니다.
+Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석하고 이에 따라 대응하는 방법을 알아봅니다.
 
-이 튜토리얼을 통해 마케터는 성능을 실시간으로 모니터링하고, 세부 여정 및 채널 통찰력을 살펴보고, 데이터를 내보내고, 경고를 설정하고, 고급 분석을 활용하여 보다 현명한 결정을 내릴 수 있는 도구를 얻을 수 있습니다.
+이 튜토리얼을 통해 마케터는 성과를 실시간으로 모니터링하고, 자세한 여정 및 채널 인사이트를 분석하고, 데이터를 내보내고, 경고를 설정하고, 고급 분석을 활용하여 보다 현명한 결정을 내리기 위한 도구를 얻을 수 있습니다.
 
 
 ## 튜토리얼
 
 <!-- CARDS
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -49,7 +49,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" title="Adobe Journey Optimizer(AJO)의 보고 기능 소개">Adobe Journey Optimizer(AJO)에서 보고 소개</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" title="Adobe Journey Optimizer(AJO)의 보고 기능 소개">Adobe Journey Optimizer(AJO)의 보고 기능 소개</a>
                     </p>
                     <p class="is-size-6">Adobe Journey Optimizer(AJO)의 보고 기능에 대해 알아봅니다.</p>
                 </div>
@@ -64,7 +64,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="라이브 보고서로 여정 모니터링 및 분석" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470842/?captions=kor&format=jpeg&nocache=1764706279498" alt="라이브 보고서로 여정 모니터링 및 분석"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1764706279498" alt="라이브 보고서로 여정 모니터링 및 분석"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +87,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" title="여정 보고서로 여정 모니터링 및 분석" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471470/?captions=kor&format=jpeg&nocache=1764706279432" alt="여정 보고서로 여정 모니터링 및 분석"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470710/?format=jpeg&nocache=1764706279432" alt="여정 보고서로 여정 모니터링 및 분석"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +110,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="채널 수준 보고서" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448046/?captions=kor&format=jpeg&nocache=1764706279481" alt="채널 수준 보고서"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1764706279481" alt="채널 수준 보고서"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +133,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="전체 기간 보고서를 사용하여 여정의 전체 성과 분석" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475794/?captions=kor&format=jpeg&nocache=1764706279437" alt="전체 기간 보고서를 사용하여 여정의 전체 성과 분석"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="전체 기간 보고서를 사용하여 여정의 전체 성과 분석"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -141,7 +141,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" title="전체 기간 보고서를 사용하여 여정의 전체 성과 분석">모든 시간 보고서를 사용하여 여정의 전체 성능 분석</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" title="전체 기간 보고서를 사용하여 여정의 전체 성과 분석">전체 기간 보고서를 사용하여 여정의 전체 성과 분석</a>
                     </p>
                     <p class="is-size-6">이 비디오에서는 Adobe Journey Optimizer의 전체 기간 보고서를 효과적으로 사용하여 고객 여정, 캠페인, 채널 전반에서 장기적인 성과 인사이트를 얻는 방법을 알아봅니다. 주요 대시보드를 탐색하고, 필수 KPI를 해석하고, 필터와 날짜 범위를 적용하고, 여정 보고서, 캠페인 보고서, 인사이트 빌더와 같은 도구를 활용하여 심층 분석과 사용자 정의 보고를 수행하는 방법을 다룹니다. 이를 통해 마케터와 관리자가 데이터를 액션으로 전환할 수 있습니다.</p>
                 </div>
@@ -156,7 +156,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="CSV 형식으로 보고서 내보내기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439618/?captions=kor&format=jpeg&nocache=1764706279503" alt="CSV 형식으로 보고서 내보내기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1764706279503" alt="CSV 형식으로 보고서 내보내기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts" title="경고 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3423921?captions=kor&format=jpeg&nocache=1764706279431" alt="경고 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/336218?format=jpeg&nocache=1764706279431" alt="경고 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ Adobe Journey Optimizer 보고를 통해 고객 여정을 쉽게 추적, 분석 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Customer Journey Analytics를 통한 향상된 보고 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443158/?captions=kor&format=jpeg&nocache=1764706279442" alt="Customer Journey Analytics를 통한 향상된 보고 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1764706279442" alt="Customer Journey Analytics를 통한 향상된 보고 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
