@@ -10,7 +10,7 @@ jira: KT-14977
 thumbnail: KT-14977.jpeg
 last-substantial-update: 2024-03-26T00:00:00Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 랩 워크북
 
-![Adobe Summit - 대체 텍스트](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit - 대체 텍스트](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Adobe Journey Optimizer으로 개인화된 모바일 순간 구축
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 * 귀하의 좌석 번호를 알고 : 당신은 실험실 기계의 책상 위에서 귀하의 좌석 번호를 찾을 수 있습니다:
 
-![시트 번호](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![시트 번호](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 다음에 대한 액세스 권한이 필요합니다.
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - 로그인 세부 정보는 연습 중에 제공됩니다.

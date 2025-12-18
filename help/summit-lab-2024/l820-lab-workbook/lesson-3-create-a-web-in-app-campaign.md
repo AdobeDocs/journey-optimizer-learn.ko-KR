@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '699'
 ht-degree: 2%
@@ -34,7 +34,7 @@ ht-degree: 2%
 
 1. **캠페인 만들기**&#x200B;를 클릭합니다.
 
-   ![CreateCampaign](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
+   ![CreateCampaign](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
 
 1. **캠페인 만들기** 페이지의 **작업** 섹션에서 **인앱 메시지** 확인란을 선택하십시오.
 
@@ -42,7 +42,7 @@ ht-degree: 2%
 
 1. 다음 URL을 입력하십시오. **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *메시지가 표시될 웹 페이지입니다.*
 
-   ![인앱 URL](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![인앱 URL](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
@@ -60,7 +60,7 @@ ht-degree: 2%
    > 
    > 예를 들어 좌석 번호가 99인 경우: 
    >
-   > ![속성 이름](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![속성 이름](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 사용자 지정 트리거 규칙 설정
@@ -69,18 +69,18 @@ ht-degree: 2%
 
 1. **[!UICONTROL 트리거 섹션]**&#x200B;까지 아래로 스크롤한 다음 **[!UICONTROL 트리거 편집]**&#x200B;을 클릭합니다.
 
-   ![수정](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![수정](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. 규칙 빌더에서 **[!UICONTROL 응용 프로그램 실행]**&#x200B;을 클릭하고 드롭다운에서 *플랫폼으로 데이터 보내기*를 선택합니다.
-   ![트리거 이벤트 드롭다운](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![트리거 이벤트 드롭다운](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. **[!UICONTROL + 조건 추가]**&#x200B;를 클릭하여 조건을 추가합니다.
 
-   ![조건 추가 단추](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![조건 추가 단추](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. **[!UICONTROL 트레이트 선택]** 드롭다운에서 **[!UICONTROL XDM 이벤트 유형]**&#x200B;을 선택합니다.
 
-   ![XDM 이벤트 유형](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM 이벤트 유형](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
 1. 다음 텍스트 필드에 기억할 수 있는 *`<custom string value>`*&#x200B;을(를) 추가하고 **[!UICONTROL 추가]** `<custom string value>`을(를) 눌러 값을 저장합니다.
@@ -93,7 +93,7 @@ ht-degree: 2%
    > 예: `99web`
    > 
 
-   ![사용자 지정 트리거 문자열 값 추가](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![사용자 지정 트리거 문자열 값 추가](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
 1. 오른쪽 상단의 **[!UICONTROL 완료]** 단추를 누릅니다.
 
@@ -101,7 +101,7 @@ ht-degree: 2%
 >
 >이제 사용자 지정 트리거 이벤트를 사용하여 웹 인앱 메시지를 정의했습니다.
 >
->사용자 지정 트리거가 정의된 ![웹 캠페인](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
+>사용자 지정 트리거가 정의된 ![웹 캠페인](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
 ### 3.2.3 인앱 메시지의 콘텐츠 편집
@@ -110,7 +110,7 @@ ht-degree: 2%
 
 1. 작성 구문에 액세스하려면 **작업** 섹션에서 **콘텐츠 편집** 단추를 클릭하십시오.
 
-   ![콘텐츠 편집 단추](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+   ![콘텐츠 편집 단추](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. 작성 프로세스는 위의 모바일 인앱 연습에서 완료한 프로세스와 동일합니다. 자신의 제목, 본문 및 미디어 콘텐츠로 메시지를 자유롭게 편집할 수 있습니다.
 
@@ -128,13 +128,13 @@ ht-degree: 2%
 
 1. Fréscopa 웹 사이트로 이동하여 브라우저의 **연습** 페이지로 이동합니다.
 
-   ![웹 연습 링크](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![웹 연습 링크](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. 웹 페이지를 새로 고치십시오.
 
 1. 캠페인에 정의한 고유 문자열 값을 입력합니다.
 
-   ![연습 페이지](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
+   ![연습 페이지](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
 
 1. **[!UICONTROL 보내기]**&#x200B;를 클릭합니다.
 
@@ -154,7 +154,7 @@ ht-degree: 2%
 
 **제품 설명서:**
 
-* [인앱 채널 시작](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [웹 인앱 메시지 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [인앱 콘텐츠 디자인](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/design-in-app)
-* [인앱 알림 확인 및 보내기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/send-in-app)
+* [인앱 채널 시작](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [웹 인앱 메시지 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [인앱 콘텐츠 디자인](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [인앱 알림 확인 및 보내기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

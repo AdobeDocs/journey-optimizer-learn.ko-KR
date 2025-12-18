@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 654d7a7f66a75bf76f679eb18a441510eff7b56d
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '969'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [마케터를 위한 모바일 기능](/help/channels/mobile-capabilities.md)
    + [개발자를 위한 모바일 기능](/help/channels/mobile-capabilities-for-developers.md)
    + [AI 어시스턴트로 도움 받기](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - 모바일 학습 허브](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/mobile-learning-hub/overview)
++ [Journey Optimizer - 모바일 학습 허브](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
 + 캠페인 {#create-campaigns}
    + 액션 캠페인 {#action-campaigns}
       + [캠페인 만들기](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -64,7 +64,7 @@ ht-degree: 99%
    + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV 파일을 업로드하여 대상자 만들기](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [웹 SDK를 사용하여 대상자 만들기(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [온디맨드 대상자 평가](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [온디맨드 대상자 평가](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + 채널 {#channels}
    + [모바일 앱 최적화 - 개요](/help/channels/mobile-app-optimization-overview.md)
@@ -240,7 +240,7 @@ ht-degree: 99%
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
-      + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](/help/summit-labs/summit-lab-2024/l820-lab-workbook/lab-overview.md){target="_blank"}
-      + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](/help/summit-labs/summit-lab-2025/introduction.md){target="_blank"}
+      + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](/help/summit-lab-2024/l820-lab-workbook/lab-overview.md){target="_blank"}
+      + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](/help/summit-lab-2025/introduction.md){target="_blank"}
 + 라이브 세션 및 심층 조사 {#live-sessions-and-deep-dives}
    + [Experience League Live 쇼 녹화본](/help/_ajo-main/experience-league-live-show-recordings.md)

@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
 exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 1%
@@ -34,11 +34,11 @@ ht-degree: 1%
 
 1. Fréscopa 홈페이지에서 **[!UICONTROL 로그인]**&#x200B;을 클릭합니다.
 
-   ![Fréscopa 홈 페이지](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa 홈 페이지")
+   ![Fréscopa 홈 페이지](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa 홈 페이지")
 
 1. 로그인 페이지에서 **[!UICONTROL 계정 만들기]**&#x200B;를 선택합니다.
 
-   ![Fréscopa 로그인 페이지](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa 로그인")
+   ![Fréscopa 로그인 페이지](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa 로그인")
 
 1. 다음 페이지에서 세부 사항을 입력합니다.
 
@@ -57,19 +57,19 @@ ht-degree: 1%
 
    1. **좌석 번호**&#x200B;를 입력하세요. (랩 컴퓨터의 바탕 화면에서 찾을 수 있습니다.)
 
-      ![랩 컴퓨터 데스크톱](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+      ![랩 컴퓨터 데스크톱](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 
    1. Fréscopa 컴퓨터가 있는지 여부를 지정하려면 **예** 또는 **아니요**&#x200B;를 선택하세요.
 
 1. **등록**&#x200B;을 클릭합니다.
 
-   ![Fréscopa 등록 페이지](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
+   ![Fréscopa 등록 페이지](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
 ## 연습 1.2 - Fréscopa 앱 다운로드 및 설치
 
 등록할 때 받은 메시지 또는 아래에서 QR 코드를 스캔하여 iOS 또는 Android™ 디바이스에 모바일 앱을 설치합니다.
 
-![Fréscopa 모바일 앱 QR 코드](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa 모바일 앱 QR 코드")
+![Fréscopa 모바일 앱 QR 코드](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa 모바일 앱 QR 코드")
 
 장치별 설치:
 
@@ -83,23 +83,23 @@ ht-degree: 1%
 
 1. **설정** > **일반** > **VPN 및 장치 관리**(으)로 이동합니다.
 
-   ![장치 관리 설정 화면](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "장치 관리 설정 화면"){width="250" align="center" zoomable="yes"}
+   ![장치 관리 설정 화면](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "장치 관리 설정 화면"){width="250" align="center" zoomable="yes"}
 
 1. **Adobe Systems Inc** 및 **Adobe Systems Inc 신뢰**&#x200B;를 선택합니다.
 
-   ![Adobe 시스템 선택 화면](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe 시스템 선택 화면"){width="250" align="center" zoomable="yes"}
+   ![Adobe 시스템 선택 화면](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe 시스템 선택 화면"){width="250" align="center" zoomable="yes"}
    <br>
 
-   ![Adobe 시스템 신뢰 화면](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+   ![Adobe 시스템 신뢰 화면](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * 이제 iPhone에서 **Fréscopa 앱**&#x200B;을 시작할 수 있습니다. ![Fréscopa 앱 아이콘](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   * 이제 iPhone에서 **Fréscopa 앱**&#x200B;을 시작할 수 있습니다. ![Fréscopa 앱 아이콘](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
 1. 앱을 엽니다.
 
 1. 팝업에서 **허용**&#x200B;을 클릭하여 DX 데모 앱에서 알림을 보내도록 허용합니다.
 
-   ![알림 팝업](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
+   ![알림 팝업](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
@@ -107,11 +107,11 @@ ht-degree: 1%
 
 Android에서 여기에 표시된 경고 지침에 따라 APK를 다운로드하여 설치합니다.
 
-![Android 다운로드 화면](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android 다운로드 화면"){width="250" align="center" zoomable="yes"}
+![Android 다운로드 화면](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android 다운로드 화면"){width="250" align="center" zoomable="yes"}
 <br>
-![Android 설치 화면](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Android 설치 화면](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* 이제 Android 장치에서 **Fréscopa 앱**&#x200B;을 시작할 수 있습니다. ![Fréscopa 앱 아이콘](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+* 이제 Android 장치에서 **Fréscopa 앱**&#x200B;을 시작할 수 있습니다. ![Fréscopa 앱 아이콘](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
 
@@ -144,12 +144,12 @@ Android에서 여기에 표시된 경고 지침에 따라 APK를 다운로드하
 >
 >Frescopa 홈페이지에서 **Adobe Summit Lab Challenge 진행률**(페이지 하단)을 클릭합니다.
 > 
->  ![챌린지 진행 단추](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
+>  ![챌린지 진행 단추](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
 >
 > 획득한 배지를 확인할 수 있습니다.
 > 
-> ![배지](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
+> ![배지](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
 
 다음 단원에서는 Adobe Journey Optimizer에서 모바일 및 웹 경험을 만드는 방법을 배웁니다.
 
-[def]: /help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
+[def]: /help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
