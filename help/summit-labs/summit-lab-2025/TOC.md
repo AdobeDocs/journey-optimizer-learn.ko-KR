@@ -4,9 +4,9 @@ user-guide-description: 이 실습에서는 비즈니스 커뮤니케이션을 �
 role: User
 level: Beginner,Intermediate
 breadcrumb-title: omnichannel-engagement 확장
-breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/scaling-orchestration-to-omnichannel-engagement/introduction
 auto-video-transcripts: true
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+source-git-commit: 654d7a7f66a75bf76f679eb18a441510eff7b56d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 ---
 
 
-# 오케스트레이션을 옴니채널 참여로 확장{#scaling-orchestration-to-omnichannel-engagement}
+# 오케스트레이션을 옴니채널 참여로 확장 {#scaling-orchestration-to-omnichannel-engagement}
 
 + [소개](/help/summit-labs/summit-lab-2025/introduction.md)
 + [1과 - 여정 경험](/help/summit-labs/summit-lab-2025/lesson-1-experience-the-journey.md)
