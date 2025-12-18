@@ -139,7 +139,7 @@ Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="주요 기능 및 사용자 인터페이스" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1766091307034" alt="주요 기능 및 사용자 인터페이스"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430319?captions=kor&format=jpeg&nocache=1766091307034" alt="주요 기능 및 사용자 인터페이스"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -162,7 +162,7 @@ Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="여정 작성 소개" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1766091307020" alt="여정 작성 소개"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430355?captions=kor&format=jpeg&nocache=1766091307020" alt="여정 작성 소개"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -185,7 +185,7 @@ Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="규칙 빌더를 사용하여 대상자 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1766091307031" alt="규칙 빌더를 사용하여 대상자 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430333?captions=kor&format=jpeg&nocache=1766091307031" alt="규칙 빌더를 사용하여 대상자 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -218,7 +218,7 @@ Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1766091307809" alt="콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434642/?captions=kor&format=jpeg&nocache=1766091307809" alt="콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -264,7 +264,7 @@ Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="인앱 메시지에 대한 콘텐츠 실험 구성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1766091307812" alt="인앱 메시지에 대한 콘텐츠 실험 구성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445295/?captions=kor&format=jpeg&nocache=1766091307812" alt="인앱 메시지에 대한 콘텐츠 실험 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
