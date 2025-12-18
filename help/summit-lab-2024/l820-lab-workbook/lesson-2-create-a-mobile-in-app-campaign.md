@@ -189,7 +189,7 @@ ht-degree: 1%
 
    3. **설정 탭**
 
-      이 탭으로 전환하고 **[!UICONTROL 미리 보기]** 섹션에서 **앱 미리 보기**를 변경할 수 있습니다.
+      이 탭으로 전환하고 **[!UICONTROL 미리 보기]** 섹션에서 **앱 미리 보기**&#x200B;를 변경할 수 있습니다.
       <br>\
       ![설정 탭](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
       <br>
