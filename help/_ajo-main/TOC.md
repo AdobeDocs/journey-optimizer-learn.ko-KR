@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: c20d289f262d9c83aa5f4e102fee7fa547f66e9a
+source-git-commit: 45c7276e212f489c6d0a234d4e859bf94f188d6c
 workflow-type: tm+mt
 source-wordcount: '971'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [마케터를 위한 모바일 기능](/help/channels/mobile-capabilities.md)
    + [개발자를 위한 모바일 기능](/help/channels/mobile-capabilities-for-developers.md)
    + [AI 어시스턴트로 도움 받기](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - 모바일 학습 허브](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/mobile-learning-hub/overview)
++ [Journey Optimizer - 모바일 학습 허브](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
 + 캠페인 {#create-campaigns}
    + 액션 캠페인 {#action-campaigns}
       + [캠페인 만들기](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -64,7 +64,7 @@ ht-degree: 99%
    + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV 파일을 업로드하여 대상자 만들기](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [웹 SDK를 사용하여 대상자 만들기(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [온디맨드 대상자 평가](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [온디맨드 대상자 평가](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + 채널 {#channels}
    + [모바일 앱 최적화 - 개요](/help/channels/mobile-app-optimization-overview.md)
@@ -231,7 +231,7 @@ ht-degree: 99%
    + [오퍼 노출 및 클릭에 대한 보고서 생성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/exercises-and-challenges/summit-labs/introduction){target="_blank"}
+   + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + 사용 사례 플레이북 {#use-case-playbooks}
       + [개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
