@@ -19,7 +19,7 @@ ht-degree: 2%
 이벤트 스키마를 사용하여 Adobe Journey Optimizer에서 사용자 지정 이벤트를 정의합니다. 이 이벤트는 양식 제출 데이터가 Adobe Experience Platform에 도착하는 것을 수신합니다.
 
 **_InvestmentPreference_**(이)라는 사용자 지정 이벤트 정의
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478490?captions=kor)
 
 
 

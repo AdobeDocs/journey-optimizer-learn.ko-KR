@@ -19,7 +19,7 @@ ht-degree: 0%
 HTTP 기반 통합을 사용하여 실시간으로 제출 데이터를 Adobe Experience Platform으로 보내도록 양식을 구성하여 이벤트 페이로드가 스키마에 맞게 조정되도록 합니다.
 
 HTTP 스트리밍 끝점 정의
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478503?captions=kor)
 
 
 

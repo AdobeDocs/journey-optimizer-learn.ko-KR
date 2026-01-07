@@ -36,7 +36,7 @@ ht-degree: 4%
 * Adobe Experience Platform으로 양식 제출 데이터 보내기
 
 사용 사례 소개 및 이벤트 스키마 만들기
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478478?captions=kor)
 
 
 
