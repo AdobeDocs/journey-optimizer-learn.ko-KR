@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: f557bb5542f413be99ae0f578a18f4dec60f0e06
+source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
 workflow-type: tm+mt
 source-wordcount: '971'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [마케터를 위한 모바일 기능](/help/channels/mobile-capabilities.md)
    + [개발자를 위한 모바일 기능](/help/channels/mobile-capabilities-for-developers.md)
    + [AI 어시스턴트로 도움 받기](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - 모바일 학습 허브](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
++ [Journey Optimizer - 모바일 학습 허브](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + 캠페인 {#create-campaigns}
    + 액션 캠페인 {#action-campaigns}
       + [캠페인 만들기](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -64,7 +64,7 @@ ht-degree: 99%
    + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV 파일을 업로드하여 대상자 만들기](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [웹 SDK를 사용하여 대상자 만들기(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [온디맨드 대상자 평가](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [온디맨드 대상자 평가](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
 + 채널 {#channels}
    + [모바일 앱 최적화 - 개요](/help/channels/mobile-app-optimization-overview.md)
@@ -73,7 +73,7 @@ ht-degree: 99%
       + [코드 기반 경험 채널 템플릿에 양식 필드 추가](/help/channels/form-fields-in-code-based-experiences.md)
       + [코드 기반 채널에서 의사 결정 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + DM 채널{#direct-mail-channel}
-      + [DM 만들기](/help/channels/direct-mail.md)
+      + [다이렉트 메일 만들기](/help/channels/direct-mail.md)
    + 이메일 채널{#email-channel}
       + [이메일 채널 - 개요](/help/channels/email-channel-overview.md)
       + [이메일 디자인 및 개인화 - 개요](/help/channels/email-design-and-personalization-overview.md)
@@ -81,7 +81,7 @@ ht-degree: 99%
       + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
       + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
    + 콘텐츠 카드{#content-cards}
-      + [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
+      + [콘텐츠 템플릿 만들기](/help/channels/create-content-cards.md)
    + 인앱 채널{#in-app-channel}
       + [인앱 메시지 - 개요](/help/channels/in-app-messages-overview.md)
       + [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
@@ -124,7 +124,7 @@ ht-degree: 99%
    + 다국어 메시지 {#multilingual-messaging}
       + [다국어 메시지 설정](/help/content-management/set-up-multilingual-messages.md)
       + [다국어 메시지 만들기](/help/content-management/create-multilingual-messages.md)
-   + 콘텐츠 생성용 AI 어시스턴트 {#ai-assistant}
+   + 콘텐츠 생성을 위한 AI 어시스턴트 {#ai-assistant}
       + [콘텐츠 생성용 AI 어시스턴트 - 개요](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [브랜드 가이드라인 만들기 및 관리](/help/content-management/brand-guideline-creation-and-management.md)
@@ -156,11 +156,11 @@ ht-degree: 99%
       + [배치 만들기](/help/decision-management/create-placements.md)
       + [규칙 만들기](/help/decision-management/create-rules.md)
       + [태그 만들기](/help/decision-management/create-tags.md)
-      + [개인화된 오퍼 만들기](/help/decision-management/create-personalized-offers.md)
+      + [맞춤형 오퍼 만들기](/help/decision-management/create-personalized-offers.md)
       + [AI 모델 만들기](/help/decision-management/create-ai-models.md)
       + [대체 오퍼 만들기](/help/decision-management/create-fallback-offers.md)
       + [컬렉션 만들기](/help/decision-management/create-collections.md)
-      + [의사 결정 만들기](/help/decision-management/create-decisions.md)
+      + [결정 만들기](/help/decision-management/create-decisions.md)
       + [Decisions API를 사용하여 오퍼 제공](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [빈도 상한 설정](/help/decision-management/frequency-capping.md)
    + [의사 결정을 사용하여 웹 오퍼 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
@@ -197,7 +197,7 @@ ht-degree: 99%
          + [MMS API 자격 증명 및 채널 표면 구성](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
          + [RCS 설정](/help/set-up-channels/set-up-rcs.md)
       + 웹 채널 및 모바일 채널 {#web-and-mobile-channels}
-         + [안내형 채널 설정](/help/set-up-channels/guided-channel-setup.md)
+         + [가이드 채널 설정](/help/set-up-channels/guided-channel-setup.md)
       + WhatsApp 채널 {#whatsapp-channel}
          + [WhatsApp 채널 설정](/help/set-up-channels/set-up-whatsapp-channel.md)
    + 여정 구성 {#journey-configuration}
@@ -231,7 +231,7 @@ ht-degree: 99%
    + [오퍼 노출 및 클릭에 대한 보고서 생성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [순위 공식을 사용하여 Journey Optimizer에서 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [고객 참여도 향상](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+   + [오케스트레이션을 옴니채널 참여로 확장](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + 사용 사례 플레이북 {#use-case-playbooks}
       + [개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [플레이북 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
@@ -241,6 +241,6 @@ ht-degree: 99%
    + [과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
       + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+      + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 라이브 세션 및 심층 조사 {#live-sessions-and-deep-dives}
    + [Experience League Live 쇼 녹화본](/help/_ajo-main/experience-league-live-show-recordings.md)
