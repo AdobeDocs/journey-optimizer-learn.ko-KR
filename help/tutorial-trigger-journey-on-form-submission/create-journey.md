@@ -21,7 +21,7 @@ Adobe Experience Platform에서 **_AssetClassSelected_** 이벤트를 받을 때
 여정 만들기에는 다음 구성이 포함됩니다
 
 이메일 채널 구성 만들기
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478517?captions=kor)
 
 
 

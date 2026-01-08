@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 솔루션 테스트
->[!VIDEO](https://video.tv.adobe.com/v/3478546)
+>[!VIDEO](https://video.tv.adobe.com/v/3478553?captions=kor)
 
 ## 샘플 자산 배포
 
