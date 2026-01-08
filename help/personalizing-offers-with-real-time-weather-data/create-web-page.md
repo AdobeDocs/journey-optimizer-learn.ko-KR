@@ -9,16 +9,16 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # 솔루션 테스트
 
-솔루션을 완전히 테스트하려면 [weather-offers.html](assets/weather-offers.html) 및 [weather-related-offers-script.js](assets/weather-related-offers-script.js) 파일을 웹 서버나 Github Pages와 같은 공용 호스팅 서비스에서 호스팅해야 합니다. 이는 다음 이유 때문에 필요합니다.
+솔루션을 완전히 테스트하려면 [weather-offers.zip]에서 weather-offers.html 및 weather-related-offers-script.js를 추출하십시오.(assets/weather-offers.zip) 이러한 파일은 웹 서버나 Github Pages와 같은 공용 호스팅 서비스에서 호스팅되어야 합니다. 이는 다음 이유 때문에 필요합니다.
 - 브라우저의 지리적 위치 API는 HTTPS 또는 localhost를 통해서만 작동합니다
 
 항목을 정리하고 상대 경로가 올바르게 작동하도록 하려면 솔루션을 호스팅하기 위해 다음 폴더 구조를 사용하는 것이 좋습니다.
@@ -27,9 +27,8 @@ ht-degree: 0%
 
 ## 제공된 파일 다운로드
 
-[HTML 파일](assets/weather-offers.html)
+[weather-offers.zip]에서 HTML 및 Javascript 파일을 다운로드하여 추출하십시오.(assets/weather-offers.zip)
 
-[Javascript 파일](assets/weather-related-offers-script.js)
 
 
 ## Javascript 파일에서 표면 URL 업데이트
