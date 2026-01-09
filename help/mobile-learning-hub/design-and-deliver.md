@@ -112,7 +112,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
 
 #### 제품 설명서
 
-| ![푸시 만들기&#x200B;](./assets/configuration.svg)[**푸시 알림 만들기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![푸시 디자인&#x200B;](./assets/content-management.png){width="50"}[**푸시 알림 디자인**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![푸시 보내기&#x200B;](./assets/communication-channel.svg)[**푸시 알림 보내기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![푸시 만들기&#x200B;](./assets/configuration.svg) [**푸시 알림 만들기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![푸시 디자인&#x200B;](./assets/content-management.png){width="50"}[**푸시 알림 디자인**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![푸시 보내기&#x200B;](./assets/communication-channel.svg) [**푸시 알림 보내기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB 인앱]
@@ -192,7 +192,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
 
 #### 설명서
 
-| ![메시지 만들기&#x200B;](./assets/configuration.svg)[**모바일 인앱 메시지 만들기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![콘텐츠 디자인&#x200B;](./assets/content-management.png){width="50"}[**인앱 콘텐츠 디자인**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![알림 보내기&#x200B;](./assets/communication-channel.svg)[**인앱 알림 보내기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![메시지 만들기&#x200B;](./assets/configuration.svg) [**모바일 인앱 메시지 만들기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![콘텐츠 디자인&#x200B;](./assets/content-management.png){width="50"}[**인앱 콘텐츠 디자인**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![알림 보내기&#x200B;](./assets/communication-channel.svg) [**인앱 알림 보내기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB 콘텐츠 카드]
@@ -241,7 +241,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
 
 #### 제품 설명서
 
-| ![콘텐츠 카드 만들기 및 구성&#x200B;](./assets/configuration.svg)[**콘텐츠 카드 만들기 및 구성**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![콘텐츠 카드 디자인&#x200B;](./assets/content-management.png){width="50"}[**콘텐츠 카드 디자인**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![콘텐츠 카드 만들기 및 구성&#x200B;](./assets/configuration.svg) [**콘텐츠 카드 만들기 및 구성**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![콘텐츠 카드 디자인&#x200B;](./assets/content-management.png){width="50"}[**콘텐츠 카드 디자인**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -393,7 +393,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
 
 #### 제품 설명서
 
-| ![문자 메시지 시작&#x200B;](./assets/configuration.svg)[**문자 메시지 시작**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![콘텐츠 디자인&#x200B;](./assets/content-management.png){width="50"}[**SMS, MMS 및 RCS 메시지 만들기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![알림 보내기&#x200B;](./assets/communication-channel.svg)[**문자 메시지 확인 및 보내기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![문자 메시지 시작&#x200B;](./assets/configuration.svg) [**문자 메시지 시작**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![콘텐츠 디자인&#x200B;](./assets/content-management.png){width="50"}[**SMS, MMS 및 RCS 메시지 만들기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![알림 보내기&#x200B;](./assets/communication-channel.svg) [**문자 메시지 확인 및 보내기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB 코드 기반 경험]
@@ -535,7 +535,7 @@ Journey Optimizer이 지원하는 모바일 채널과 이러한 채널을 사용
 
 #### 제품 설명서
 
-| ![WhatsApp 메시지 만들기&#x200B;](./assets/configuration.svg)[*WhatsApp 메시지 만들기*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![WhatsApp 메시지 미리 보기, 유효성 검사 및 보내기&#x200B;](./assets/communication-channel.svg){width="50"}[**WhatsApp 메시지 미리 보기, 유효성 검사 및 보내기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![WhatsApp 메시지 만들기&#x200B;](./assets/configuration.svg) [*WhatsApp 메시지 만들기*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![WhatsApp 메시지 미리 보기, 유효성 검사 및 보내기&#x200B;](./assets/communication-channel.svg){width="50"}[**WhatsApp 메시지 미리 보기, 유효성 검사 및 보내기**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
