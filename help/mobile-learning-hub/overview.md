@@ -5,9 +5,10 @@ feature: Overview
 role: User, Admin, Developer
 hide: false
 index: true
+jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: c2f3040358442ac2bb78d02b2a210d93b327c3ee
+source-git-commit: 8a6ae2fa80db47751a864cc983446b306b6d8e7a
 workflow-type: tm+mt
 source-wordcount: '892'
 ht-degree: 0%
@@ -20,7 +21,7 @@ Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작
 
 모범 사례를 살펴보고, 채택을 유도하는 방법을 배우고, 중앙 집중식 보고 워크플로를 설정하여 언제 어디서나 고객에게 다가가는 영향력 있는 데이터 기반 모바일 경험을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477005?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 모바일 채널 개요
@@ -98,4 +99,4 @@ Adobe Journey Optimizer의 모든 아웃바운드 채널은 메시지 전송 시
 
 ## 고객 사용 사례
 
-* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ko)
+* [개인화를 통해 이동: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
