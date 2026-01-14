@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '971'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 99%
       + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
       + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
    + 콘텐츠 카드{#content-cards}
-      + [콘텐츠 템플릿 만들기](/help/channels/create-content-cards.md)
+      + [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
    + 인앱 채널{#in-app-channel}
       + [인앱 메시지 - 개요](/help/channels/in-app-messages-overview.md)
       + [인앱 캠페인 만들기](/help/channels/create-an-in-app-campaign.md)
