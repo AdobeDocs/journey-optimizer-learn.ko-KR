@@ -27,7 +27,7 @@ XDM 스키마를 만들려면
 - Adobe Experience Platform에 로그인
 - _&#x200B;**데이터 관리 -> 스키마 -> 스키마 만들기**&#x200B;_(으)로 이동
 
-- **_날씨 스키마_**&#x200B;라는 XDM 이벤트 기반 스키마를 만듭니다. 스키마 만들기에 익숙하지 않은 경우 이 [설명서](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)를 따르십시오.
+- **_날씨 스키마_**&#x200B;라는 XDM 이벤트 기반 스키마를 만듭니다. 스키마 만들기에 익숙하지 않은 경우 이 [설명서](https://experienceleague.adobe.com/ko/docs/experience-platform/xdm/tutorials/create-schema-ui)를 따르십시오.
 
 
 - 스키마에 적절한 데이터 유형이 있는 다음 필드가 있는지 확인합니다.
