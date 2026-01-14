@@ -20,6 +20,6 @@ ht-degree: 100%
 
 통합 지표 및 여정 시각화에서 사용자 지정 인사이트 및 고급 분석에 이르기까지 Adobe Journey Optimizer의 향상된 보고 도구를 탐색하는 방법을 단계별로 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443158/?captions=kor&learn=on)
 
 자세한 설명서는 [Customer Journey Analytics의 분석](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}을 참조하십시오.
