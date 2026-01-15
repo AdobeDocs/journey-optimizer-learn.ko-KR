@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: trigger-여정-on-form-submission
 breadcrumb-url: /docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction
 auto-video-transcripts: true
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 2%
@@ -22,4 +22,5 @@ ht-degree: 2%
 + [여정 만들기](./create-journey.md)
 + [솔루션 테스트](./test-solution.md)
 + [조회 데이터 세트 만들기](./lookup-dataset.md)
+
 
