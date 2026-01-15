@@ -37,7 +37,7 @@ ht-degree: 3%
 * 이메일에 참조 데이터를 포함하도록 데이터 세트 조회 구성
 
 사용 사례 소개 및 이벤트 스키마 만들기
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478478?captions=kor)
 
 
 
