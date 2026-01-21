@@ -31,7 +31,7 @@ ht-degree: 0%
 ## 오퍼에 추적 토큰 추가
 
 대체 오퍼를 추가하여 캠페인에 사용된 결정 정책 편집
-![대체 ](assets/fallback.png)
+![대체 &#x200B;](assets/fallback.png)
 
 왼쪽 탐색에서 결정 정책 아이콘을 클릭하고 결정 트리를 드릴다운하여 itemID 및 trackingToken을 선택하여 trackingToken 및 ItemID를 추가할 수 있습니다.
 
