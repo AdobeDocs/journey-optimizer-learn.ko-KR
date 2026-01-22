@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: ht
-source-wordcount: '971'
-ht-degree: 100%
+source-git-commit: 381e30632cbfd984dc5d8fb4d16f0291baeac04b
+workflow-type: tm+mt
+source-wordcount: '974'
+ht-degree: 99%
 
 ---
 
@@ -43,6 +43,7 @@ ht-degree: 100%
    + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
    + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
    + [여정 게시](/help/journeys/publish-a-journey.md)
+   + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
    + [사용 사례 - 트랜잭션 여정](/help/journeys/use-case-transactional-journey.md)
    + [사용 사례 - 비즈니스 이벤트](/help/journeys/use-case-business-event.md)
    + [사용 사례 - 대상자 읽기](/help/journeys/use-case-read-audience.md)
