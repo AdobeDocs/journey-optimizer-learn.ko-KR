@@ -151,7 +151,7 @@ ht-degree: 99%
       + [재사용 가능한 규칙](/help/decisioning/reusable-targeting-rules.md)
       + [실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [여정의 콘텐츠 결정 활동](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html)
+      + [여정의 콘텐츠 결정 활동](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html?lang=ko)
    + 의사 결정 관리 {#decision-management}
       + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
       + [의사 결정 관리 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
