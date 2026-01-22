@@ -10,7 +10,7 @@ last-substantial-update: 2026-01-22T00:00:00Z
 jira: KT-20141
 hide: true
 hidefromtoc: true
-source-git-commit: 381e30632cbfd984dc5d8fb4d16f0291baeac04b
+source-git-commit: 970590b0f40adb5d642c2d183d9c387dfe203251
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -22,4 +22,5 @@ ht-degree: 0%
 
 여정 캔버스에서 컨텐츠 의사 결정 활동을 통해 사용자가 개인화된 컨텐츠 오퍼에 AJO Decisioning을 활용하는 방법을 알아봅니다. 이 기능을 사용하여 검색된 오퍼를 기반으로 프로필을 라우팅하거나 외부 시스템에 오퍼를 전송하여 여정의 효율성과 개인화를 향상시킵니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479114/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+
