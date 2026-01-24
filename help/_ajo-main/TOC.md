@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
+source-git-commit: 05fc150f0e8463def80766bd0c64bad5541d9067
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '986'
 ht-degree: 99%
 
 ---
@@ -93,6 +93,7 @@ ht-degree: 99%
    + 푸시 채널{#push-channel}
       + [푸시 알림 - 개요](/help/channels/push-notifications-overview.md)
       + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
+      + [AJO Decisioning을 사용하여 푸시 알림 최적화](/help/decisioning/decisioning-in-push-notifications.md)
    + SMS / MMS 채널{#sms-channel}
       + [SMS/MMS 메시지 - 개요](/help/channels/sms-mms-messages-overview.md)
       + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
