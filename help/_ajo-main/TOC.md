@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 64b89b0766130778e5cd3e7702ab39f5dfaeda4e
+source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '980'
 ht-degree: 99%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 99%
       + [코드 기반 채널에서 의사 결정 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + DM 채널{#direct-mail-channel}
       + [다이렉트 메일 만들기](/help/channels/direct-mail.md)
+      + [여정을 통해 다이렉트 메일 메시지 보내기](/help/channels/direct-mail-in-journeys.md)
    + 이메일 채널{#email-channel}
       + [이메일 채널 - 개요](/help/channels/email-channel-overview.md)
       + [이메일 디자인 및 개인화 - 개요](/help/channels/email-design-and-personalization-overview.md)
