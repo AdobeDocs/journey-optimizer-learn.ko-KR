@@ -24,4 +24,4 @@ Adobe Journey Optimizer의 DM 채널을 활용하여 여정 내에서 DM 게재�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)를 참조하세요.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)를 참조하세요.
