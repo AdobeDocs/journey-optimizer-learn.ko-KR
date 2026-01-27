@@ -8,9 +8,9 @@ doc-type: Feature Video
 duration: 188
 last-substantial-update: 2026-01-24T00:00:00Z
 jira: KT-20176
-hide: true
-hidefromtoc: true
-source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
+hide: false
+hidefromtoc: false
+source-git-commit: 31a43b91fe3281a7de2aacb04e7714106d43cf89
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 20%
@@ -24,4 +24,4 @@ Adobe Journey Optimizer의 DM 채널을 활용하여 여정 내에서 DM 게재�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)를 참조하세요.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)를 참조하세요.
