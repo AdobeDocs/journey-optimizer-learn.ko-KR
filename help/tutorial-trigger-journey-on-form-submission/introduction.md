@@ -38,7 +38,7 @@ ht-degree: 3%
 
 **사용 사례 소개 및 이벤트 스키마 만들기**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478478?captions=kor)
 
 
 

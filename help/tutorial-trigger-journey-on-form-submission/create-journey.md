@@ -22,7 +22,7 @@ Adobe Experience Platform에서 **_AssetClassSelected_** 이벤트를 받을 때
 
 **전자 메일 채널 구성을 만드는 중**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478517?captions=kor)
 
 
 

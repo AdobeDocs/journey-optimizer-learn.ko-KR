@@ -20,7 +20,7 @@ ht-degree: 0%
 
 **_InvestmentPreference_**(이)라는 사용자 지정 이벤트 정의
 
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478490?captions=kor)
 
 
 

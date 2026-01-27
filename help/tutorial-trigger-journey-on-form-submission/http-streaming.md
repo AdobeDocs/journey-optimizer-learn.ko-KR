@@ -20,7 +20,7 @@ HTTP 기반 통합을 사용하여 실시간으로 제출 데이터를 Adobe Exp
 
 **HTTP 스트리밍 끝점 정의**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478503?captions=kor)
 
 
 
