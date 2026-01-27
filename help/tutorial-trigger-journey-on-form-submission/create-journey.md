@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 18%
@@ -20,12 +20,14 @@ Adobe Experience Platform에서 **_AssetClassSelected_** 이벤트를 받을 때
 
 여정 만들기에는 다음 구성이 포함됩니다
 
-이메일 채널 구성 만들기
->[!VIDEO](https://video.tv.adobe.com/v/3478517?captions=kor)
+**전자 메일 채널 구성을 만드는 중**
+
+>[!VIDEO](https://video.tv.adobe.com/v/3478510)
 
 
 
-여정 만들기
+**여정 만들기**
+
 >[!VIDEO](https://video.tv.adobe.com/v/3478558)
 
 

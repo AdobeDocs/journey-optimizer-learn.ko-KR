@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -36,8 +36,9 @@ ht-degree: 3%
 * Adobe Experience Platform으로 양식 제출 데이터 보내기
 * 이메일에 참조 데이터를 포함하도록 데이터 세트 조회 구성
 
-사용 사례 소개 및 이벤트 스키마 만들기
->[!VIDEO](https://video.tv.adobe.com/v/3478478?captions=kor)
+**사용 사례 소개 및 이벤트 스키마 만들기**
+
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 
