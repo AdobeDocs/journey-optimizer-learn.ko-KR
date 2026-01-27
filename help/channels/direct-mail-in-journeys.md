@@ -22,6 +22,6 @@ ht-degree: 20%
 
 Adobe Journey Optimizer의 DM 채널을 활용하여 여정 내에서 DM 게재를 자동화하고 예약하는 방법을 살펴봅니다. 파일 라우팅 설정을 찾고, 만들기 빈도를 구성하고, 여정 캔버스에서 DM 작업을 활용할 수 있습니다. 이 비디오에서는 AJO이 참가자를 큐에 넣고 일정한 간격으로 타임스탬프가 지정된 파일을 생성한 다음 활성화하면 자동으로 전송하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479169/?captions=kor&learn=on&enablevpops)
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)를 참조하세요.
