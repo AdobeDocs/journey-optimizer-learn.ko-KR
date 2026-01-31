@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 90ee8c4fb752538b138ac1931041358ee336dd25
+source-git-commit: c0b8e392d176d48550d71edae1dbea0c4f2ce028
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1007'
 ht-degree: 97%
 
 ---
@@ -151,11 +151,12 @@ ht-degree: 97%
       + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
       + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
       + [재사용 가능한 규칙](/help/decisioning/reusable-targeting-rules.md)
-      + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [전자 메일 채널에서 의사 결정 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [전자 메일 채널에서 의사 결정 사용](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [푸시 알림에서 의사 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
+      + [및 SMS 메시지에서 의사 결정 사용](/help/decisioning/use-decisioning-in-an-SMS-message.md)
    + 의사 결정 관리 {#decision-management}
       + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
       + [의사 결정 관리 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
