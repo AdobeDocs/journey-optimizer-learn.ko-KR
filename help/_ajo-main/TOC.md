@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 35b3b53670af62bb4f52c6df06834038ae9f7eba
 workflow-type: tm+mt
 source-wordcount: '1007'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -154,8 +154,8 @@ ht-degree: 97%
       + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [전자 메일 채널에서 의사 결정 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
-      + [푸시 알림에서 의사 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
+      + [이메일 채널에서 결정 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [푸시 알림에서 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
       + [SMS 메시지에서 의사 결정 사용](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + 의사 결정 관리 {#decision-management}
       + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
