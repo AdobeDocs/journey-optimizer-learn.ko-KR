@@ -22,6 +22,6 @@ ht-degree: 7%
 
 이 보고서는 문제를 식별하고 여정 성능을 향상시키며 원활하게 작동하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479548/?captions=kor&learn=on&enablevpops)
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)를 참조하세요.
