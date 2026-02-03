@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 35b3b53670af62bb4f52c6df06834038ae9f7eba
+source-git-commit: f86113c8c01964d306d24b7cdb8c881432084d66
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1011'
 ht-degree: 99%
 
 ---
@@ -185,6 +185,7 @@ ht-degree: 99%
    + [라이브 보고서로 여정 모니터링 및 분석](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [여정 보고서로 여정 모니터링 및 분석](/help/report-and-monitor/journey-reports.md)
    + [채널 수준 보고서](/help/report-and-monitor/channel-level-reports.md)
+   + [사용자 정의 액션 모니터링](/help/report-and-monitor/custom-action-monitoring-report.md)
    + [전체 기간 보고서를 사용하여 여정의 전체 성과 분석](/help/report-and-monitor/all-time-reports.md)
    + [CSV 형식으로 보고서 내보내기](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [경고 사용](/help/administration/alerts.md)
