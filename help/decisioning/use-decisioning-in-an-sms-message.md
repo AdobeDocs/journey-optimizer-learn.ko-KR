@@ -6,11 +6,11 @@ role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 187
-last-substantial-update: 2026-01-30T00:00:00Z
+last-substantial-update: 2026-02-03T00:00:00Z
 jira: KT-20237
 hidefromtoc: false
 hide: false
-source-git-commit: cc0ab0135d37aec03da53d5e0c452ad62100ce2a
+source-git-commit: 48396b23d2b7f78d42813e368869a78e80f126fd
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 AJO Decisioning을 사용하여 SMS 콘텐츠를 개인화하고 최적화하는 방법을 알아봅니다. SMS 메시지를 개선하여 참여를 향상시키고 비즈니스 목표를 달성할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479536/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
