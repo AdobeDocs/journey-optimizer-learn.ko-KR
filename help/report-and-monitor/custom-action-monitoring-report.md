@@ -24,4 +24,4 @@ ht-degree: 16%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-이 기능에 관한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)를 참고하십시오.
+이 기능에 관한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)를 참고하십시오.
