@@ -23,6 +23,6 @@ ht-degree: 98%
 
 Journey Optimizer 채널에서 데이터 사용 정책을 적용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434912/?captions=kor&learn=on)
 
 Journey Optimizer의 [데이터 거버넌스](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/action-privacy-restricted) 및 [동의 정책을 사용하는](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/consent/consent) 방법에 대한 자세한 내용은 제품 설명서를 참조하십시오.
