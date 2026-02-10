@@ -96,11 +96,11 @@ JavaScript은 사용자의 위치에 따라 날씨 정보를 동적으로 가져
 
 6. **오퍼 검색 및 렌더링**
 
-* AJO Decisioning에서 반환된 오퍼를 받습니다.
+&#x200B;* AJO Decisioning에서 반환된 오퍼를 받습니다.
 
-* HTML 콘텐츠를 디코딩합니다.
+&#x200B;* HTML 콘텐츠를 디코딩합니다.
 
-* 에 오퍼를 동적으로 주입 <div id="offerContainer"> 요소를 생성하지 않습니다.
+&#x200B;* 에 오퍼를 동적으로 주입 <div id="offerContainer"> 요소를 생성하지 않습니다.
 
 ## 다음 단계
 
