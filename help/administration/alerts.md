@@ -30,4 +30,4 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}를 참조하세요.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}를 참조하세요.

@@ -30,4 +30,4 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Journey Optimizer의 [동의 정책을 사용하는](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) 방법에 대한 자세한 내용은 제품 설명서를 참조하십시오.
+Journey Optimizer의 [동의 정책을 사용하는](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/consent/consent) 방법에 대한 자세한 내용은 제품 설명서를 참조하십시오.
