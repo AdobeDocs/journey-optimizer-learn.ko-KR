@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
+exl-id: 52a506d0-cc1b-4d8d-a634-b66c7c7673ed
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -22,9 +23,7 @@ ht-degree: 3%
 ## 이 자습서의 사전 요구 사항
 
 * Experience Platform 액세스
-
 * Experience Platform 개념(프로필, 대상, 데이터 세트)에 대한 기본 이해
-
 * Journey Optimizer 친숙도
 
 ## 구현 단계
@@ -38,7 +37,4 @@ ht-degree: 3%
 
 **사용 사례 소개 및 이벤트 스키마 만들기**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478478?captions=kor)
-
-
-
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
