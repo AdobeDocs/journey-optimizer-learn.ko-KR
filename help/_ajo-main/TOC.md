@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Journey Optimizer 자습서입니다.
 auto-video-transcripts: true
-source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
+source-git-commit: afcdfe125025a480f5af9dc947889081b5690462
 workflow-type: tm+mt
 source-wordcount: '1001'
 ht-degree: 98%
@@ -250,4 +250,5 @@ ht-degree: 98%
       + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 라이브 세션 및 심층 조사 {#live-sessions-and-deep-dives}
    + [Experience League Live 쇼 녹화본](/help/_ajo-main/experience-league-live-show-recordings.md)
+
 
