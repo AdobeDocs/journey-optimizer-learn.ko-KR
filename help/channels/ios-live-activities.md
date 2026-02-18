@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer을 사용하여 iOS 라이브 활동 을 구성하여 iPhone 잠금 화면 및 Dynamic Island에서 다양한 실시간 업데이트를 제공하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479871/?captions=kor&learn=on&enablevpops)
