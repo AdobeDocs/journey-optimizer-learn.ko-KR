@@ -24,4 +24,4 @@ ht-degree: 1%
 
 작업, 보상 및 일정을 설정하여 충성도 문제를 만드는 방법에 대해 알아봅니다. 백그라운드에서 전체 고객 여정이 자동으로 생성되는 동안 콘텐츠, 메시징 및 대상을 구성하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480333/?captions=kor&learn=on&enablevpops)
