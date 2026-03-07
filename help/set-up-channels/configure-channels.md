@@ -20,6 +20,6 @@ ht-degree: 100%
 
 채널 구성의 정의와 Adobe Journey Optimizer에서 이를 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433124/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480458/?captions=kor&learn=on)
 
 채널 구성을 설정하는 방법에 대한 자세한 내용은 [제품 설명서를 참조](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces)하십시오.
