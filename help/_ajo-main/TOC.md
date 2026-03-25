@@ -1,11 +1,11 @@
 ---
 user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Journey Optimizer 자습서입니다.
+user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
+source-git-commit: c0f6193e71c14c947f0d884328e58dd8c7d75a0c
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1020'
 ht-degree: 97%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 97%
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
    + [여정 빈도 상한 설정 및 우선 순위 지정](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
+   + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
    + [방해 금지 시간](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 프로필, 대상자, 구독 {#profiles-audiences-subscriptions}
    + [프로필 및 대상자 - 개요](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
