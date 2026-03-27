@@ -28,7 +28,7 @@ ID 결합을 시작하려면 샘플 CRM 프로필 데이터를 Adobe Experience 
 
 ## 프로필 활성화 스키마 만들기
 
-**_FinWiseProfileSchema_**이라는 개별 프로필 스키마를 만듭니다. annualIncome, email, firstName, lastName 및 loyaltyStatus와 같은 필드를 포함합니다.
+**_FinWiseProfileSchema_**&#x200B;이라는 개별 프로필 스키마를 만듭니다. annualIncome, email, firstName, lastName 및 loyaltyStatus와 같은 필드를 포함합니다.
 표시된 대로 ID 필드 **_crmid_**&#x200B;을(를) 추가합니다. crmid 필드를 ID 및 기본 필드로 표시합니다.
 
 
@@ -51,7 +51,7 @@ ID 결합을 시작하려면 샘플 CRM 프로필 데이터를 Adobe Experience 
 * 이전에 만든 **_FinWiseProfileSchema_**&#x200B;을(를) 기반으로 **_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;이라는 데이터 세트를 만듭니다.프로필에 대해 데이터 세트가 활성화되어 있는지 확인하십시오.
 
 * 연결 -> 소스 -> 로컬 시스템으로 이동합니다.
-* 로컬 파일 업로드에서 **_데이터 추가_**&#x200B;를 선택합니다. 대상 데이터 집합으로 _**FinWiseCustomerDataSetWithAnnualIncome**_을(를) 선택하십시오.
+* 로컬 파일 업로드에서 **_데이터 추가_**&#x200B;를 선택합니다. 대상 데이터 집합으로 _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_을(를) 선택하십시오.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * 다음 화면으로 이동합니다. [csv 파일](assets/finwise_profiles.csv)을 업로드하고 매핑을 확인하십시오
   ![매핑](assets/mappings.png)
