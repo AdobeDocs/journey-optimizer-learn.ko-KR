@@ -19,7 +19,7 @@ ht-degree: 100%
 
 + [교육 샌드박스 구성](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
 + 1단계: 데이터 구조 설정 및 샘플 데이터 가져오기 {#set-up-data-structure-and-ingest-data}
-   + [Postman을 사용하여 데이터 구조를 설정하고 샘플 데이터를 가져오기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html)
+   + [Postman을 사용하여 데이터 구조를 설정하고 샘플 데이터를 가져오기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=ko)
    + [데이터 구조 설정(수동)](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
    + [샘플 데이터 가져오기(수동)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [2단계: 이벤트 구성](/help/tutorial-configure-a-training-sandbox/configure-events.md)
