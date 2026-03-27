@@ -12,8 +12,8 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: 4d2ec542-e148-4ee3-ba7f-99296b581c37
-source-git-commit: d92b5fff7209b341204b3ff1549c7530d4e060e6
-workflow-type: ht
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 미리 정의된 코드 샘플을 활용하고, 더미 프로필 페이로드를 편집하고, 개인화 코드의 출력을 실시간으로 미리 보는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475959/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)

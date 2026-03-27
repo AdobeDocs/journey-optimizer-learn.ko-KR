@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: 28e2477974df6d22cff87eb9c242657e23569b15
+exl-id: 4c7f43cb-1157-4e94-9db9-d6346001af6a
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-
 # 콘텐츠 카드에 대한 향후 개선 사항
 
 새로운 템플릿, 메시지 받은 편지함 등을 포함하여 콘텐츠 카드의 예정된 기능을 간단히 살펴보십시오.
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3460327/?learn=on&enablevpops=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)

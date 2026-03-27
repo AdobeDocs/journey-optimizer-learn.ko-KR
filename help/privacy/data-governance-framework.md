@@ -2,7 +2,7 @@
 title: 데이터 거버넌스 프레임워크 개요
 description: Adobe Experience Platform의 거버넌스 기능을 이해합니다.
 feature: Governance, Privacy
-role: Data Architect, User
+role: Developer, User
 level: Intermediate
 doc-type: Feature Video
 duration: 474
@@ -10,19 +10,19 @@ last-substantial-update: 2024-10-01T00:00:00Z
 jira: KT-16263
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+exl-id: e78350c0-543e-4a68-9551-df0c7d9a7be0
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
 ---
 
-
 # 데이터 거버넌스 프레임워크 개요
 
 Adobe Experience Platform의 데이터 거버넌스 프레임워크를 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32135/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
 Journey Optimizer의 [데이터 거버넌스](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/action-privacy-restricted)에 대한 자세한 내용은 제품 설명서를 참조하십시오.
 

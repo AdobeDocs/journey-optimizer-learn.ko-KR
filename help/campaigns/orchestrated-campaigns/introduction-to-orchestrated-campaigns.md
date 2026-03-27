@@ -2,15 +2,15 @@
 title: Adobe Journey Optimizer의 오케스트레이션된 캠페인 소개
 description: Adobe Journey Optimizer의 오케스트레이션된 캠페인을 통해 마케터가 고급 데이터 관리 기능을 사용하여 브랜드에서 시작한 대상자 기반 캠페인을 관리하는 방법을 알아봅니다.
 feature: Campaigns
-role: Data Engineer, User
+role: Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
 duration: 595
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18514
 exl-id: 25a130e4-571a-402c-bfc8-c801b0f3dc24
-source-git-commit: 197b10514b5662d357e6c79c73c521434d1c7263
-workflow-type: ht
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 

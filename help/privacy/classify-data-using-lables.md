@@ -2,15 +2,16 @@
 title: 레이블을 사용한 데이터 분류
 description: 스키마 및 데이터 세트에 레이블을 적용하는 방법에 대해 알아봅니다.
 feature: Governance, Privacy, Data Management, Access Management
-role: Data Architect, Admin
+role: Developer, Admin
 level: Beginner
 jira: KT-16266
 thumbnail: 29709.jpg
 last-substantial-update: 2024-10-01T00:00:00Z
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+exl-id: 52930777-3231-4156-b1fe-a2d82003629a
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 
@@ -24,4 +25,4 @@ ht-degree: 100%
 >
 >이 비디오에서는 Adobe Experience Platform 사용자 인터페이스 내에서 이 기능을 설명합니다. Journey Optimizer에서도 왼쪽 탐색 메뉴의 데이터 관리 섹션을 통해 동일한 기능을 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422792?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)
