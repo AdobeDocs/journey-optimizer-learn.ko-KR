@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
+source-git-commit: 104f7ca9f80139719b42d49b96ea5c2ea34570bc
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 97%
@@ -41,6 +41,7 @@ ht-degree: 97%
    + [Journey 에이전트 - 개요](/help/ai-agents/journey-agent-overview.md)
    + [새 여정 디자이너 살펴보기](/help/journeys/new-journey-designer.md)
    + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
+   + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
    + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
    + [여정 게시](/help/journeys/publish-a-journey.md)
    + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
@@ -60,7 +61,7 @@ ht-degree: 97%
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
    + [여정 빈도 상한 설정 및 우선 순위 지정](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
+
    + [방해 금지 시간](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 프로필, 대상자, 구독 {#profiles-audiences-subscriptions}
    + [프로필 및 대상자 - 개요](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
