@@ -7,7 +7,7 @@ solution: Journey Optimizer
 role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/ajo-web-push/introduction
-source-git-commit: cd96c5cce9682807d453159898ad94e9ca7575b8
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 7%
@@ -18,9 +18,9 @@ ht-degree: 7%
 # Adobe Journey Optimizer의 웹 푸시{#ajo-web-push}
 
 + [소개](./introduction.md)
-+ [로컬 설정](./run-application-locally.md)
 + [푸시 구성 만들기](./create-push-configuration.md)
 + [데이터스트림 만들기](./create-data-stream.md)
++ [로컬 설정](./run-application-locally.md)
 + [사용자 권한 캡처](./capture-user-persmission.md)
 + [대상자 만들기](./create-audience.md)
 + [캠페인 만들기](./create-campaign.md)

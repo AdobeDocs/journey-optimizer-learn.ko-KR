@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -56,8 +57,4 @@ ht-degree: 1%
 
 ## 캠페인 테스트
 
-캠페인을 테스트하려면 먼저 메시지가 표시되면 [을(를) 선택하여 &#x200B;](http://localhost:3000)웹 페이지에서 알림을 활성화하십시오. 옵트인한 후에는 예약된 시간에 캠페인이 실행될 때까지 기다리십시오. 캠페인이 실행되면 브라우저에서 푸시 알림을 수신해야 합니다.
-
-
-
-
+캠페인을 테스트하려면 먼저 메시지가 표시되면 [을(를) 선택하여 ](http://localhost:3000)웹 페이지에서 알림을 활성화하십시오. 옵트인한 후에는 예약된 시간에 캠페인이 실행될 때까지 기다리십시오. 캠페인이 실행되면 브라우저에서 푸시 알림을 수신해야 합니다.
