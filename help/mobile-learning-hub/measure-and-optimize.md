@@ -9,10 +9,10 @@ index: true
 jira: KT-19871
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: fb06f781-3370-4825-a815-14ef33ad2322
-source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 70%
+source-wordcount: '307'
+ht-degree: 81%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 70%
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
 {description = Journey Optimizer reporting is now fully integrated with Customer Journey Analytics capabilities, standardizing reporting across both platforms and improving data consistency and reliability. This seamless integration between Journey Optimizer and Customer Journey Analytics provides a clearer view of performance metrics, enabling users to make more informed decisions.}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -61,7 +61,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="채널 수준 보고서" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448046/?captions=kor&format=jpeg&nocache=1755729019635" alt="채널 수준 보고서"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1755729019635" alt="채널 수준 보고서"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,7 +84,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Customer Journey Analytics를 통한 향상된 보고 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443158/?captions=kor&format=jpeg&nocache=1755729019655" alt="Customer Journey Analytics를 통한 향상된 보고 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1755729019655" alt="Customer Journey Analytics를 통한 향상된 보고 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

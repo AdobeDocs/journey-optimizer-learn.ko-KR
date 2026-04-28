@@ -12,10 +12,10 @@ hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
 exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 98%
+source-wordcount: '81'
+ht-degree: 87%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 98%
 
 Journey Optimizer 채널에서 데이터 사용 정책을 적용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434912/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Journey Optimizer의 [데이터 거버넌스](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/action-privacy-restricted) 및 [동의 정책을 사용하는](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/consent/consent) 방법에 대한 자세한 내용은 제품 설명서를 참조하십시오.
+Journey Optimizer의 [데이터 거버넌스](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/action-privacy-restricted) 및 [동의 정책을 사용하는](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) 방법에 대한 자세한 내용은 제품 설명서를 참조하십시오.
