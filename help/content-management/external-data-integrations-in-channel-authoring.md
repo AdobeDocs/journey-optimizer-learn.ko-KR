@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-자세한 내용은 Adobe Journey Optimizer [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration)를 참조하세요.
+자세한 내용은 Adobe Journey Optimizer [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/combine/vendor-integration)를 참조하세요.
