@@ -22,4 +22,4 @@ ht-degree: 100%
 
 AJO Decisioning을 사용하여 푸시 알림을 대상자에게 맞게 개인화하는 방법을 알아봅니다. 수신자 프로필을 기반으로 매력적인 오퍼를 만들어 판매를 유도합니다. 결정 전략을 이해하고, 캠페인을 테스트하고, 지표를 분석하여 효과적인 커뮤니케이션을 수행할 수 있습니다. 참여도를 향상시키고 고객에게 가장 관련성이 높은 프로모션을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479217/?captions=kor&learn=on&enablevpops)

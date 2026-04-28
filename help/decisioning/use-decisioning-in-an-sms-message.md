@@ -22,4 +22,4 @@ ht-degree: 0%
 
 AJO Decisioning을 사용하여 SMS 콘텐츠를 개인화하고 최적화하는 방법을 알아봅니다. SMS 메시지를 개선하여 참여를 향상시키고 비즈니스 목표를 달성할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479536/?captions=kor&learn=on&enablevpops)

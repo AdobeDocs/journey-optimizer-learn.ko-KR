@@ -21,7 +21,7 @@ Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작
 
 Explore best practices, learn how to drive adoption, and setup centralized reporting workflows — all in one place — to deliver impactful, data-driven mobile experiences that reach customers anytime, anywhere.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477005?captions=kor&quality=12&learn=on){transcript=true}
 
 
 ## Mobile channel overview
