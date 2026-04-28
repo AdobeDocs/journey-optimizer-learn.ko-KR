@@ -99,4 +99,4 @@ Learn the concepts and how to
 
 ## 고객 사용 사례
 
-* [개인화를 통한 비행: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [개인화를 통한 비행: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ko)
