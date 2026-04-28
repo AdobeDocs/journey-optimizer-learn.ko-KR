@@ -2,13 +2,13 @@
 title: 채널 작성에서 데이터 통합 활성화
 description: 외부 데이터를 Adobe Journey Optimizer에 통합하여 아웃바운드 채널 전반에서 개인화를 향상시키는 방법에 대해 알아봅니다.
 feature: Personalization, API, Channel Configuration
-role: Developer, User
+role: Admin, User
 level: Intermediate
 doc-type: Feature Video
 duration: 212
 last-substantial-update: 2026-04-28T00:00:00Z
 jira: KT-20916
-source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
+source-git-commit: 6c565229f501200ec39d334ab7a1b03e6d7be00c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-자세한 내용은 Adobe Journey Optimizer [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/combine/vendor-integration)를 참조하세요.
+자세한 내용은 Adobe Journey Optimizer [제품 설명서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration)를 참조하세요.
