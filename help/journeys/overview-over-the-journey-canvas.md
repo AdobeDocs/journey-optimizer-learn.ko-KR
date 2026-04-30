@@ -21,4 +21,4 @@ ht-degree: 100%
 
 여정 캔버스의 기능 및 성능을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342099?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344635?captions=kor&quality=12&learn=on){transcript=true}
