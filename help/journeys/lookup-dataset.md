@@ -23,4 +23,4 @@ ht-degree: 100%
 
 **조회 데이터 세트 만들기**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478767?captions=kor)

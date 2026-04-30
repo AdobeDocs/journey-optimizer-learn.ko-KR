@@ -20,4 +20,4 @@ ht-degree: 100%
 
 라이브 여정에서 콘텐츠를 업데이트하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439615/?captions=kor&learn=on)

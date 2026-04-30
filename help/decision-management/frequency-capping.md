@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Offer Decisioning에 대한 빈도 상한 설정의 작동 방식을 이해합니다. 사용자 정의 이벤트에 대한 빈도 상한 설정을 구성하는 방법과 빈도를 정의하여 간격을 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422164/?captions=kor&quality=12&learn=on){transcript=true}
