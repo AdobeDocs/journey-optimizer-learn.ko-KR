@@ -1,5 +1,5 @@
 ---
-title: Sinch 및 Infobip에 대한 이중 옵트인
+title: Sinch 및 Infobip에 대한 중복 옵트인
 description: SMS에 대한 이중 옵트인을 구성하는 방법에 대해 알아보십시오.
 feature: SMS
 role: User
@@ -11,14 +11,14 @@ jira: KT-14850
 thumbnail: 3427129.jpeg
 exl-id: 1c4440f4-c7f4-46f5-9a66-273f657833ae
 source-git-commit: 527b6b1b442cae49970e8bfc73a63229927b6665
-workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 57%
+workflow-type: ht
+source-wordcount: '32'
+ht-degree: 100%
 
 ---
 
-# Sinch 및 Infobip에 대한 이중 옵트인
+# Sinch 및 Infobip에 대한 중복 옵트인
 
 SMS에 대한 이중 옵트인을 구성하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440286/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)

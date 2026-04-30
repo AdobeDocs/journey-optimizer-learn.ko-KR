@@ -9,9 +9,9 @@ jira: KT-9894
 thumbnail: 3422017.jpeg
 exl-id: 2920a913-116b-4f76-9916-b268a9e95bde
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '24'
+ht-degree: 100%
 
 ---
 

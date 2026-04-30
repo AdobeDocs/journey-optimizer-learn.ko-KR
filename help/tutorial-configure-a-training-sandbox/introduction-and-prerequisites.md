@@ -1,6 +1,6 @@
 ---
 title: 교육 샌드박스 구성 - 소개
-description: 교육용 샌드박스를 구성하는 방법을 알아봅니다. 스키마를 구성하고 샘플 데이터를 수집하고 이벤트를 만드는 데 필요한 단계를 수행합니다.
+description: 교육용 샌드박스를 구성하는 방법에 대해 알아봅니다. 스키마를 구성하고, 샘플 데이터를 수집하고, 이벤트를 생성하는 데 필요한 단계를 설명합니다.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 jira: KT-9382
@@ -9,8 +9,8 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: tm+mt
-source-wordcount: '305'
+workflow-type: ht
+source-wordcount: '353'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 이 튜토리얼을 마칠 때 사용자는 [Journey Optimizer 과제](/help/challenges/introduction-and-prerequisites.md) 섹션의 실습에서 다루는 [!DNL Luma] 사용 사례를 지원할 샌드박스를 가지게 됩니다.
 
-## 사전 요구 사항
+## 전제 조건
 
 교육 샌드박스 설정을 시작하려면 먼저 다음 사항을 준비해야 합니다.
 

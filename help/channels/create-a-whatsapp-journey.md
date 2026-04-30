@@ -11,7 +11,7 @@ jira: KT-18659
 exl-id: ec2df062-4c43-4afc-9ae4-ae98f8c106af
 source-git-commit: 20e0da0799956b246370aa04dabec958ff6b51ae
 workflow-type: ht
-source-wordcount: '92'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 WhatsApp을 통해 개인화된 고객 참여를 자동화하려는 마케터에게 적합합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470289/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)

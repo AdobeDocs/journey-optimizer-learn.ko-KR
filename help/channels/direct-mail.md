@@ -10,7 +10,7 @@ jira: KT-10585
 thumbnail: 3422019.jpeg
 exl-id: 8e620838-315d-42c2-a6e4-0e581055e582
 source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 DM(다이렉트 메일) 채널을 설정하는 방법과 DM 캠페인을 만들고 미리 보는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449361/?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}

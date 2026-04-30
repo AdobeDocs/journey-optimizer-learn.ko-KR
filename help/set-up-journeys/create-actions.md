@@ -11,8 +11,8 @@ role: Admin, Developer
 level: Beginner
 exl-id: 45206e23-46bf-4aaf-8d45-012ea0e64e92
 source-git-commit: f273f8f14dc42c65e4989142d16ac967cb0cc26c
-workflow-type: tm+mt
-source-wordcount: '67'
+workflow-type: ht
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 작업이 무엇인지, Journey Optimizer에서 프로필 편집 및 이동 작업을 사용하는 방법과 사용자 정의 작업을 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430279?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
 
-[사용자 정의 작업 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}에 대한 자세한 내용은 제품 설명서를 참조하십시오.
+[사용자 정의 액션 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"} 방법에 대한 자세한 내용은 제품 설명서를 참고하십시오.

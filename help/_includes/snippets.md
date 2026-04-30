@@ -1,7 +1,7 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: ht
-source-wordcount: '178'
+source-wordcount: '221'
 ht-degree: 100%
 
 ---
@@ -31,13 +31,13 @@ Experience League LIVE:
 
 >[!NOTE]
 >
->이 기능은 현재 일부 조직(제한된 가용성)에서만 사용할 수 있습니다. 권한을 얻으려면 Adobe 담당자에게 문의하십시오.
+>이 기능은 현재 일부 조직(제한된 가용성)에서만 사용할 수 있습니다. 액세스 권한을 받으려면 Adobe 담당자에게 문의하십시오.
 
 ## Beta {#beta}
 
 >[!AVAILABILITY]
 >
->이 기능은 현재 beta 버전으로 beta 고객에게만 제공됩니다. Beta 프로그램에 참여하려면 Adobe 고객 지원 센터에 문의해 주십시오.
+>이 기능은 현재 Beta 버전으로 Beta 고객에게만 제공됩니다. Beta 프로그램에 참여하려면 Adobe 고객 지원 센터에 문의해 주십시오.
 
 ## Platform 비디오 - 정책(#platform-video)
 

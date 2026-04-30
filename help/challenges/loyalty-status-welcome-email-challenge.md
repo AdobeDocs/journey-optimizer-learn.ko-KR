@@ -1,6 +1,6 @@
 ---
-title: 충성도 상태 환영 이메일 만들기 - 과제
-description: 고객이 충성 티어에 도달하면 자동으로 환영 이메일을 보내는 여정을 작성합니다.
+title: 로열티 상태 환영 이메일 만들기 - 과제
+description: 고객이 로열티 등급에 도달하면 자동으로 환영 이메일을 보내는 여정을 작성합니다.
 jira: KT-8109
 feature: Journeys
 role: User
@@ -9,17 +9,17 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: ht
-source-wordcount: '403'
+source-wordcount: '443'
 ht-degree: 100%
 
 ---
 
-# 충성도 상태 환영 이메일 만들기 - 과제
+# 로열티 상태 환영 이메일 만들기 - 과제
 
-| 과제 | 충성도 상태 환영 이메일 만들기 |
+| 과제 | 로열티 상태 환영 이메일 만들기 |
 |---|---|
 | 페르소나 | 여정 관리자 |
-| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li> <li>[세그먼트 선별](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=ko)</li><li>[HTML 콘텐츠 가져오기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ko)</li></ul> |
+| 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li> <li>[세그먼트 선별](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=ko)</li><li>[HTML 콘텐츠 가져오기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
 | 다운로드할 자산 | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}
@@ -38,7 +38,7 @@ Luma는 고객을 유치하고 유지하기 위한 방법으로 충성도 프로
 
 >[!TAB 작업]
 
-충성 고객이 플래티넘 티어가 되면 축하와 함께 새로운 혜택을 알려주는 이메일을 받아야 합니다. 크리에이티브 팀에서 이메일 본문이 있는 **[Luma - 상태 업그레이드 - 환영 이메일](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** HTML 파일을 제공했습니다.
+로열티 고객이 플래티넘 등급이 되면 축하와 함께 새로운 혜택을 알려주는 이메일을 받아야 합니다. 크리에이티브 팀에서 이메일 본문이 있는 **[Luma - 상태 업그레이드 - 환영 이메일](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** HTML 파일을 제공했습니다.
 
 1. Journey Optimizer에서 `Luma - platinum status`(이)라는 [!UICONTROL 세그먼트] 만들기
 
