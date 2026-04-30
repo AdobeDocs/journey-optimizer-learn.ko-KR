@@ -14,7 +14,7 @@ exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 93%
 
 샘플 iOS 모바일 마케팅 앱에서 푸시 채널 알림을 설정하고 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449629/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 자세한 내용은 다음 제품 설명서를 참조하십시오.
 
-* [가이드 채널 설정 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=ko){target="_blank"}
+* [안내형 채널 설정 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=ko){target="_blank"}
 * [채널 설정 만들기](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=ko){target="_blank"}
