@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
+source-git-commit: d394b0e73b0606d68c19bc97e40869a4e41c4dde
 workflow-type: tm+mt
-source-wordcount: '1380'
-ht-degree: 99%
+source-wordcount: '1422'
+ht-degree: 96%
 
 ---
 
@@ -45,23 +45,25 @@ ht-degree: 99%
    + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
    + [여정 게시](/help/journeys/publish-a-journey.md)
    + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
-   + [사용 사례 - 트랜잭션 여정](/help/journeys/use-case-transactional-journey.md)
-   + [사용 사례 - 비즈니스 이벤트](/help/journeys/use-case-business-event.md)
-   + [사용 사례 - 대상자 읽기](/help/journeys/use-case-read-audience.md)
-   + [사용 사례 - 대상자 선별](/help/journeys/use-case-audience-qualification.md)
    + [다중 속성 필터링 마스터하기](/help/journeys/mastering-multi-attribute-filtering.md)
    + [여정 시험 실행으로 여정 논리의 유효성 검사](/help/journeys/journey-dry-run.md)
    + [보조 ID로 여정 다시 시작](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [라이브 여정에서 콘텐츠 업데이트](/help/journeys/update-content-in-live-journey.md)
    + [다른 샌드박스로 여정 복사](/help/journeys/copy-a-journey.md)
    + [배치 세분화 후 일일 여정 실행 트리거](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [사용 사례] {#use-cases}
+      + [사용 사례 - 트랜잭션 여정](/help/journeys/use-case-transactional-journey.md)
+      + [사용 사례 - 비즈니스 이벤트](/help/journeys/use-case-business-event.md)
+      + [사용 사례 - 대상자 읽기](/help/journeys/use-case-read-audience.md)
+      + [사용 사례 - 대상자 선별](/help/journeys/use-case-audience-qualification.md)
+   + [튜토리얼]{#tutorials}
+      + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + 충성도 {#loyalty}
    + [충성도 챌린지 만들기](/help/loyalty/create-a-loyalty-challenge.md)
 + 충돌 관리 및 우선순위 지정 {#conflict-management}
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
    + [여정 빈도 상한 설정 및 우선 순위 지정](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-
    + [방해 금지 시간](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 프로필, 대상자, 구독 {#profiles-audiences-subscriptions}
    + [프로필 및 대상자 - 개요](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
@@ -153,17 +155,22 @@ ht-degree: 99%
    + [Experimentation Agent - 개요](/help/ai-agents/experimentation-agent-overview.md)
 + 결정 기능{#decision-capabilities}
    + 결정 {#decisioning}
-      + [의사 결정 소개](/help/decisioning/introduction-to-decisioning.md)
-      + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
-      + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
-      + [재사용 가능한 규칙](/help/decisioning/reusable-targeting-rules.md)
-      + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-      + [실시간 날씨 데이터로 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [AI 모델 인사이트](/help/decisioning/ai-model-insights.md)
-      + [이메일 채널에서 의사 결정 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
-      + [푸시 알림에서 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
-      + [SMS 메시지에서 의사 결정 사용](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + 의사 결정 기본 사항 {#fundamentals}
+         + [의사 결정 소개](/help/decisioning/introduction-to-decisioning.md)
+         + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
+         + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
+         + [재사용 가능한 규칙](/help/decisioning/reusable-targeting-rules.md)
+         + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+         + [AI 모델 인사이트](/help/decisioning/ai-model-insights.md)
+      + 의사 결정을 적용하여 메시지 개인화 {#content-and-offers}
+         + [이메일의 의사 결정 소개](/help/decisioning/introduction-to-decisioning-in-emails.md)
+         + [의사 결정을 사용하여 이메일 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+         + [푸시 알림에서 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
+         + [SMS 메시지에서 의사 결정 사용](/help/decisioning/use-decisioning-in-an-sms-message.md)
+         + [의사 결정을 사용하여 웹 오퍼 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+      + 외부 트리거 및 상호 작용에서 의사 결정 트리거
+         + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+         + [실시간 날씨 데이터를 통해 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + 의사 결정 관리 {#decision-management}
       + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
       + [의사 결정 관리 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -177,7 +184,6 @@ ht-degree: 99%
       + [결정 만들기](/help/decision-management/create-decisions.md)
       + [Decisions API를 사용하여 오퍼 제공](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [빈도 상한 설정](/help/decision-management/frequency-capping.md)
-   + [의사 결정을 사용하여 웹 오퍼 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + 데이터 관리 {#data-management}
    + [개요](/help/data-management/set-up-data-overview.md)
    + [스키마 만들기](/help/data-management/create-schema.md)
