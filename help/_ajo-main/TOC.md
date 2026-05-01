@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: d394b0e73b0606d68c19bc97e40869a4e41c4dde
+source-git-commit: 1a5852226764c45bbcc4c7e2a9c698d3d6447e9b
 workflow-type: tm+mt
 source-wordcount: '1422'
 ht-degree: 96%
@@ -168,7 +168,7 @@ ht-degree: 96%
          + [푸시 알림에서 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
          + [SMS 메시지에서 의사 결정 사용](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [의사 결정을 사용하여 웹 오퍼 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-      + 외부 트리거 및 상호 작용에서 의사 결정 트리거
+      + 외부 트리거 및 상호 작용에서 의사 결정 트리거 {#triggers}
          + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
          + [실시간 날씨 데이터를 통해 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + 의사 결정 관리 {#decision-management}
