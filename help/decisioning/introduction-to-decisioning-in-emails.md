@@ -24,4 +24,4 @@ Decisioning이 캠페인의 이메일 개인화를 변환하는 방법에 대해
 
 이 강력한 도구는 고객 참여를 향상시키고 효과적인 비즈니스 성과를 창출합니다. 자세한 연습은 포함된 비디오를 시청하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486201/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486208/?captions=kor&learn=on&enablevpops)
