@@ -20,6 +20,6 @@ ht-degree: 0%
 
 외부 데이터 및 콘텐츠를 Adobe Journey Optimizer에 통합하는 방법을 살펴보십시오. 이를 통해 개인화를 향상시키고 아웃바운드 채널의 참여를 개선할 수 있습니다. 자세한 내용은 아래 비디오를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484125/?captions=kor&learn=on&enablevpops)
 
 자세한 내용은 Adobe Journey Optimizer [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/combine/vendor-integration)를 참조하세요.
