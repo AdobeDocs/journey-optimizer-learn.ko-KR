@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
+source-git-commit: 5952c9421ea5138783bc6493a7b79c0494936b45
 workflow-type: tm+mt
 source-wordcount: '1434'
 ht-degree: 96%
@@ -164,7 +164,7 @@ ht-degree: 96%
          + [재사용 가능한 규칙](/help/decisioning/reusable-targeting-rules.md)
          + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
          + [AI 모델 인사이트](/help/decisioning/ai-model-insights.md)
-      + 의사 결정을 적용하여 메시지 개인화 {#content-and-offers}
+      + 의사 결정을 사용하여 메시지 개인화 {#use-decisioning}
          + [이메일의 의사 결정 소개](/help/decisioning/introduction-to-decisioning-in-emails.md)
          + [의사 결정을 사용하여 이메일 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
          + [푸시 알림에서 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
