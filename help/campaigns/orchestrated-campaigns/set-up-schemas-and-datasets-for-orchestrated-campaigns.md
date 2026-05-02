@@ -2,19 +2,19 @@
 title: 캠페인에 대한 스키마 및 데이터 세트 설정
 description: Adobe Journey Optimizer 캠페인에 대한 스키마를 정의하고, 데이터를 수집하고, 데이터 세트의 유효성을 검사하는 방법에 대해 알아봅니다. 개인화 및 실행에 대한 통찰력을 몇 분 안에 얻을 수 있습니다.
 feature: Campaigns
-role: Data Engineer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 502
 last-substantial-update: 2026-05-02T00:00:00Z
 jira: KT-20979
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
+exl-id: 4ff6cf29-181e-4e43-9ad7-922bc0d93304
+source-git-commit: 5f75345cf169e36ae2f1aff577e00df5feed82df
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # 캠페인에 대한 스키마 및 데이터 세트 설정
 
