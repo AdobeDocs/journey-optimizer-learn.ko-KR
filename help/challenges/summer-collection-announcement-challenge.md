@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
 
@@ -117,9 +117,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
          * 제목란: *(수신인 이름) 님, Luma의 여성 컬렉션을 살펴보세요!*
          * 이메일 본문: `WomensCollectionEmail.html`
       * 다른 고객은 **Luma - 20% 할인 컬렉션** 이메일을 받습니다.
-      * 메시지 제목: *Luma - 20% 할인 컬렉션*
-      * 제목란: *(수신인 이름) 님, 20% 할인을 받으세요!*
-      * 이메일 본문: `20OOffCollectionEmail.html`
+         * 메시지 제목: *Luma - 20% 할인 컬렉션*
+         * 제목란: *(수신인 이름) 님, 20% 할인을 받으세요!*
+         * 이메일 본문: `20OOffCollectionEmail.html`
    1. 상단의 타겟팅된 이메일을 보낸 후 이메일이 열릴 때까지 2일 기다립니다.
    1. 타겟팅된 이메일이 2일 이내에 열리지 않으면 최종 재타겟팅 시도로서 **Luma - 20 % 할인 컬렉션 이메일**&#x200B;을 보냅니다.
 

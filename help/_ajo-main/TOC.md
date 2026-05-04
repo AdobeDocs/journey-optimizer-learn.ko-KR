@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 5952c9421ea5138783bc6493a7b79c0494936b45
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
 workflow-type: tm+mt
 source-wordcount: '1434'
 ht-degree: 96%
@@ -162,17 +162,17 @@ ht-degree: 96%
          + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
          + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
          + [재사용 가능한 규칙](/help/decisioning/reusable-targeting-rules.md)
-         + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+         + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
          + [AI 모델 인사이트](/help/decisioning/ai-model-insights.md)
       + 의사 결정을 사용하여 메시지 개인화 {#use-decisioning}
          + [이메일의 의사 결정 소개](/help/decisioning/introduction-to-decisioning-in-emails.md)
-         + [의사 결정을 사용하여 이메일 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+         + [의사 결정을 사용하여 이메일 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
          + [푸시 알림에서 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
          + [SMS 메시지에서 의사 결정 사용](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [의사 결정을 사용하여 웹 오퍼 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + 외부 트리거 및 상호 작용에서 의사 결정 트리거 {#trigger}
-         + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-         + [실시간 날씨 데이터를 통해 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+         + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
+         + [실시간 날씨 데이터를 통해 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + 의사 결정 관리 {#decision-management}
       + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
       + [의사 결정 관리 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -260,7 +260,7 @@ ht-degree: 96%
       + [플레이북 인스턴스 만들기 및 게시](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 연습, 랩, 과제 {#exercises-and-challenges}
    + [교육 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-   + [과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+   + [과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
    + Summit Labs {#summit-labs}
       + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
