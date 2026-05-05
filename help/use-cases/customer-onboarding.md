@@ -9,15 +9,15 @@ duration: 505
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16344
 exl-id: 9237122b-cd98-4ad0-bd64-7a3407116f86
-source-git-commit: efe6a95b3b0ae1694c85b3868a3270b255d3dac7
-workflow-type: ht
+source-git-commit: 3ed6505fc7ecdb073d8f365d49eeadc0d934e6bb
+workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
-# 사용 사례 - 고객 온보딩(튜토리얼)
+# 고객 온보딩 여정 구현
 
 Journey Optimizer에서 고객 온보딩 여정을 구현하는 방법을 알아봅니다. 이 프로세스는 새로운 로열티 멤버를 타겟팅하고 개인화된 이메일과 SMS를 전달하여 앱 다운로드를 장려합니다. 여기에는 환영 이메일 보내기, 앱 설치 확인, 알림을 통한 후속 작업이 포함됩니다. 이 튜토리얼에서는 AI 콘텐츠 어시스턴트를 사용하여 콘텐츠를 만들고 개인화하는 방법도 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440657/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
