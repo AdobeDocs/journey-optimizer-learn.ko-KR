@@ -1,24 +1,23 @@
 ---
-title: Journey 에이전트 개요
-description: Journey 에이전트는 AI를 사용하여 대화형 인터페이스를 통해 B2B/B2C 여정을 생성, 분석 및 최적화합니다.
-feature: AI Assistant, Journeys
-feature-set: Journey Optimizer, Experience Platform
-role: User, Developer, Leader, Admin
+title: AI 기반 Journey Agent을 사용하여 여정 분석
+description: Adobe Journey Optimizer의 Journey Agent이 실행 가능한 통찰력을 통해 라이브 여정을 분석하고, 문제를 식별하고, 다단계 여정을 빌드하는 방법을 알아봅니다.
+feature: null
+role: User
 level: Beginner
-last-substantial-update: 2025-10-08T00:00:00Z
-jira: KT-19109
-exl-id: 96202701-aa2f-4d6a-816e-c9a8cc433278
-source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
-workflow-type: ht
-source-wordcount: '96'
-ht-degree: 100%
+doc-type: Feature Video
+duration: 308
+last-substantial-update: 2026-05-05T00:00:00Z
+jira: KT-21114
+source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# Journey 에이전트 개요
 
-Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics와 같은 Adobe Experience Platform 기반 애플리케이션에서 AI 어시스턴트로 무엇을 할 수 있는지 알아보십시오.
+# Journey Agent을 사용하여 여정 분석 및 빌드
 
->[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
+Adobe Journey Optimizer에 내장된 AI 기반 도우미인 Journey Agent을 사용하여 라이브 여정을 분석하고, 대상 충돌 및 프로필 폴아웃을 식별하며, 자연어를 사용하여 완전한 여러 단계 여정을 만드는 방법에 대해 알아봅니다. 이 비디오에서는 Journey Agent이 투명한 통찰력, 실행 가능한 권장 사항 및 안내식 승인을 제공하여 AI 어시스턴트를 종료하지 않고도 기존 여정 문제를 해결하고 새로운 문제를 더 빠르게 구축하는 방법을 소개합니다
 
-Journey Optimizer에서 지원되는 사용 사례에 대한 자세한 내용은 [AI 어시스턴트 사용 작업](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/get-started/ai-assistant)을 참조하세요. 자세한 내용은 [Adobe Experience Platform의 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/experience-platform/ai-assistant/home) 설명서를 참조하세요.
+>[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
