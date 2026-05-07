@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 26f6ddfc8a6395635038d0efdce9aa5c23122bca
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '1448'
-ht-degree: 93%
+ht-degree: 91%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 93%
    + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 소개](/help/introduction/introduction.md)
    + [주요 기능 및 사용자 인터페이스](/help/introduction/key-capabilities-and-user-interface.md)
-   + [아키텍처](/help/introduction/architecture.md)
+   + {hide-from-toc}[아키텍쳐](/help/introduction/architecture.md)
    + [마케터를 위한 모바일 기능](/help/channels/mobile-capabilities.md)
    + [개발자를 위한 모바일 기능](/help/channels/mobile-capabilities-for-developers.md)
    + [AI 어시스턴트로 도움 받기](/help/ai-agents/ai-assistant.md)
@@ -41,7 +41,7 @@ ht-degree: 93%
 + 여정 {#journeys}
    + [여정 디자이너 - 개요](/help/journeys/journey-designer-overview.md)
    + [Journey Agent을 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
-   + [새 여정 디자이너 살펴보기](/help/journeys/new-journey-designer.md)
+   + {hide-from-toc}[새 여정 Designer 검색](/help/journeys/new-journey-designer.md)
    + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
    + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
    + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
@@ -61,7 +61,7 @@ ht-degree: 93%
    + 튜토리얼{#tutorials}
       + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + 충성도 {#loyalty}
-   + [충성도 챌린지 만들기](/help/loyalty/create-a-loyalty-challenge.md)
+   + {hide-from-toc}[충성도 챌린지 만들기](/help/loyalty/create-a-loyalty-challenge.md)
 + 충돌 관리 및 우선순위 지정 {#conflict-management}
    + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
    + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
@@ -69,7 +69,7 @@ ht-degree: 93%
    + [방해 금지 시간](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 프로필, 대상자, 구독 {#profiles-audiences-subscriptions}
    + [프로필 및 대상자 - 개요](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
-   + [통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + {hide-from-toc}[통합 프로필 및 세분화 - 개요](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [규칙 빌더를 사용하여 대상자 만들기](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [CSV 파일을 업로드하여 대상자 만들기](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [웹 SDK를 사용하여 대상자 만들기(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
@@ -115,7 +115,7 @@ ht-degree: 93%
       + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + [WhatsApp 시작(엔드투엔드)](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[WhatsApp 시작(전체)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp 채널 소개](/help/channels/whatsapp-introduction.md)
       + [WhatsApp 채널 설정](/help/channels/set-up-whatsapp.md)
       + [WhatsApp 여정 만들기](/help/channels/create-a-whatsapp-journey.md)
@@ -230,9 +230,9 @@ ht-degree: 93%
    + 비즈니스 규칙 {#business-rules}
       + [빈도 설정 규칙 구성](/help/business-rules/configure-frequency-capping-rules.md)
       + [규칙 세트 작업](/help/business-rules/work-with-rule-sets.md)
-      + [빈도 규칙 테스트 및 보고](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + {hide-from-toc}[빈도 규칙 테스트 및 보고](/help/business-rules/test-and-report-on-frequency-rules.md)
 + 액세스 제어 {#access-control}
-   + [액세스 관리](/help/set-up-access/access-management.md)
+   + {hide-from-toc}[액세스 관리](/help/set-up-access/access-management.md)
    + [속성 기반 액세스 제어 구성](/help/administration/attribute-based-access-control.md)
    + [샌드박스 사용](/help/set-up-access/create-and-manage-sandboxes.md)
 + 데이터 거버넌스 및 개인 정보 보호 {#data-governance-and-privacy}

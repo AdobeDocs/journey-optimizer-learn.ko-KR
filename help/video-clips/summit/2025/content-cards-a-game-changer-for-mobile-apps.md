@@ -1,23 +1,22 @@
 ---
-title: Content Cards - A Game-Changer for Mobile Apps
-description: Discover how Content Cards in Adobe Journey Optimizer can deliver personalized, non-intrusive content directly within your app to drive engagement and conversions.
+title: 컨텐츠 카드 - 모바일 앱의 게임 체인저
+description: Adobe Journey Optimizer의 Content Card가 앱 내에 침입되지 않는 개인화된 콘텐츠를 직접 전달하여 참여 및 전환을 유도하는 방법을 알아봅니다.
 doc-type: Short Video
 duration: 59
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: a93ea591-0746-40ec-9139-ac6b826c72e9
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# Content Cards: A Game-Changer for Mobile Apps
+# 콘텐츠 카드: 모바일 앱의 게임 체인저
 
-Discover how Content Cards in Adobe Journey Optimizer can deliver personalized, non-intrusive content directly within your app to drive engagement and conversions.
+Adobe Journey Optimizer의 Content Card가 앱 내에 침입되지 않는 개인화된 콘텐츠를 직접 전달하여 참여 및 전환을 유도하는 방법을 알아봅니다.
 
 <!-- 62_S603_3442534_58_content-cards-a-gamechanger-for-mobile-apps -->
 >[!VIDEO](https://video.tv.adobe.com/v/3460091/?captions=kor&learn=on&enablevpops=true)

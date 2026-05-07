@@ -6,10 +6,10 @@ level: Beginner,Intermediate
 breadcrumb-title: AJO 모바일 학습 허브
 breadcrumb-url: /docs/journey-optimizer-learn/mobile-learning-hub/overview
 auto-video-transcripts: true
-source-git-commit: 1c44d2997df09292a21e4b6a0cbff8901d4f1a08
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 17%
+source-wordcount: '42'
+ht-degree: 30%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 17%
 + [구성 및 실행](/help/mobile-learning-hub/configure-and-launch.md)
 + [디자인 및 게재](/help/mobile-learning-hub/design-and-deliver.md)
 + [측정 및 최적화](/help/mobile-learning-hub/measure-and-optimize.md)
-+ [사용 사례](/help/mobile-learning-hub/use-cases.md)
++ {hide-from-toc}[사용 사례](/help/mobile-learning-hub/use-cases.md)
 
 
