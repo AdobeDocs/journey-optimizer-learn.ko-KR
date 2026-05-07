@@ -8,10 +8,9 @@ doc-type: Feature Video
 duration: 337
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16041
-hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
@@ -24,7 +23,7 @@ ht-degree: 100%
 
 샘플 iOS 모바일 마케팅 앱에서 푸시 채널 알림을 설정하고 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449629/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 자세한 내용은 다음 제품 설명서를 참조하십시오.
 

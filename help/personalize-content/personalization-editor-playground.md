@@ -8,11 +8,10 @@ doc-type: Feature Video
 duration: 210
 last-substantial-update: 2025-04-28T00:00:00Z
 jira: KT-17185
-hidefromtoc: false
 hide: false
 index: true
 exl-id: 4d2ec542-e148-4ee3-ba7f-99296b581c37
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -25,4 +24,4 @@ ht-degree: 100%
 
 미리 정의된 코드 샘플을 활용하고, 더미 프로필 페이로드를 편집하고, 개인화 코드의 출력을 실시간으로 미리 보는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475959/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)

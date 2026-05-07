@@ -9,9 +9,8 @@ duration: 209
 last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
-hidefromtoc: false
 exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
@@ -28,6 +27,6 @@ ht-degree: 100%
 >
 >Journey Optimizer 채널에서 정책이 어떻게 적용되는지 이해하려면 이 [튜토리얼](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)을 시청하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/37138/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
 Journey Optimizer의 [동의 정책을 사용하는](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/privacy/consent/consent) 방법에 대한 자세한 내용은 제품 설명서를 참조하십시오.

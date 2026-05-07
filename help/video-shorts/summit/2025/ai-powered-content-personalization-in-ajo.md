@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 98
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 78baa928-62e5-4454-b43f-aa8e71343fd6
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 Adobe Journey Optimizer을 GenStudio 및 Experience Manager과 같은 도구와 통합하여 AI 기반의 브랜드에 따른 개인화된 콘텐츠를 제공하는 방법에 대해 알아봅니다.
 
 <!-- 62_S520_3442520_97_aipowered-content-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3460154/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458183/?learn=on&enablevpops=true)

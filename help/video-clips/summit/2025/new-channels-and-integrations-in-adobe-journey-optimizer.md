@@ -1,23 +1,22 @@
 ---
-title: New Channels and Integrations in Adobe Journey Optimizer
-description: Explore the latest channel innovations and integrations in Adobe Journey Optimizer, including WhatsApp, iOS Live Activities, and RCS messaging, to enhance customer engagement.
+title: Adobe Journey Optimizer의 새로운 채널 및 통합
+description: WhatsApp, iOS 라이브 활동, RCS 메시징 등 Adobe Journey Optimizer의 최신 채널 혁신 및 통합을 살펴보고 고객 참여를 향상시키십시오.
 doc-type: Short Video
 duration: 208
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: c14e8b09-b6d5-41e9-8fb3-cd7b55692687
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# New Channels and Integrations in Adobe Journey Optimizer
+# Adobe Journey Optimizer의 새로운 채널 및 통합
 
-Explore the latest channel innovations and integrations in Adobe Journey Optimizer, including WhatsApp, iOS Live Activities, and RCS messaging, to enhance customer engagement.
+WhatsApp, iOS 라이브 활동, RCS 메시징 등 Adobe Journey Optimizer의 최신 채널 혁신 및 통합을 살펴보고 고객 참여를 향상시키십시오.
 
 <!-- 62_S520_3442520_207_new-channels-and-integrations-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460349/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458234/?learn=on&enablevpops=true)

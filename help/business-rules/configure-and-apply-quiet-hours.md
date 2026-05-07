@@ -9,10 +9,9 @@ duration: 158
 last-substantial-update: 2025-10-15T00:00:00Z
 jira: KT-19403
 hide: false
-hidefromtoc: false
 index: true
 exl-id: 2505ef58-0df4-470b-a318-6146e66af32e
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
@@ -23,4 +22,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer의 방해 금지 시간 기능을 사용하여 지정된 시간 동안 고객에게 메시지가 전송되지 않도록 함으로써 마케터가 부적절한 시간에 메시지를 보내지 않고 고객 참여를 개선할 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475859/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

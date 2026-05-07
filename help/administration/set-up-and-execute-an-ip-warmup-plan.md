@@ -5,13 +5,12 @@ feature: IP Warmup Plans
 role: Admin
 level: Beginner
 doc-type: Feature Video
-hidefromtoc: false
 hide: false
 duration: 741
 last-substantial-update: 2024-08-14T00:00:00Z
 jira: KT-14602
 exl-id: ff238ed8-dfc3-4b66-85cb-f4d8a656815a
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
@@ -22,7 +21,7 @@ ht-degree: 100%
 
 IP 준비가 무엇인지 이해하고 Adobe Journey Optimizer에서 IP 준비 계획을 설정 및 실행하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453847/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
 [전달성 모범 사례 안내서](https://experienceleague.adobe.com/ko/docs/deliverability-learn/deliverability-best-practice-guide/introduction)에서 [타기팅 기준](https://experienceleague.adobe.com/ko/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [IP 준비 중 ISP 관련 고려 사항](https://experienceleague.adobe.com/ko/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming), IP 준비 중 [볼륨](https://experienceleague.adobe.com/ko/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume)에 대한 모범 사례를 확인할 수 있습니다.
 

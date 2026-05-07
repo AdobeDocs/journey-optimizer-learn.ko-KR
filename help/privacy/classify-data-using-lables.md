@@ -8,9 +8,8 @@ jira: KT-16266
 thumbnail: 29709.jpg
 last-substantial-update: 2024-10-01T00:00:00Z
 hide: false
-hidefromtoc: false
 exl-id: 52930777-3231-4156-b1fe-a2d82003629a
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 100%
@@ -25,4 +24,4 @@ ht-degree: 100%
 >
 >이 비디오에서는 Adobe Experience Platform 사용자 인터페이스 내에서 이 기능을 설명합니다. Journey Optimizer에서도 왼쪽 탐색 메뉴의 데이터 관리 섹션을 통해 동일한 기능을 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422792?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)

@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 83
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 1b1b2b1f-c6e7-4afd-bb6f-39de2f93857c
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 Adobe Journey Optimizer(AJO)가 실시간 고객 데이터를 활용하여 채널 간에 일관되고 관련 있는 경험을 제공하는 방법에 대해 알아봅니다.
 
 <!-- 62_S522_3442522_82_understanding-the-core-of-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460493/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458249/?learn=on&enablevpops=true)
