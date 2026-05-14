@@ -9,9 +9,13 @@ team: PM
 role: User
 level: Beginner
 exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
-source-wordcount: '40'
+autotag-review: '2026-05-14T18:07:25.454Z'
+TQID: 'https://experienceleague.adobe.com/NdRKXbaniOrLV9IBv1pKX0SY-3wY4E0er2P34zaIaQY'
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
+workflow-type: tm+mt
+source-wordcount: 40
 ht-degree: 100%
 
 ---
@@ -20,4 +24,4 @@ ht-degree: 100%
 
 Journey Optimizer에서 메시지에 의사 결정 관리 구성 요소를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415690?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on){transcript=true}
