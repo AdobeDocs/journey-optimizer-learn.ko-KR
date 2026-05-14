@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer Decisioning에서 오퍼, 컬렉션 및 자격 규칙을 구성하여 어떤 고객이 어떤 제품 오퍼에 대한 자격이 있는지 제어하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491097/?captions=kor&learn=on&enablevpops)

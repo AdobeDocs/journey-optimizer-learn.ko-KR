@@ -36,4 +36,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer에서 오케스트레이션한 실시간 SMS를 트리거하는 대출 애플리케이션을 통해 익명의 방문자에서 개인화된 제품 오퍼가 있는 등록된 사용자에 이르기까지 SecurFinancial 데모 사이트에서 전체적인 고객 경험을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3489999/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3490192/?captions=kor&learn=on&enablevpops)
