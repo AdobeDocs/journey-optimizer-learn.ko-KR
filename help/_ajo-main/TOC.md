@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1453'
 ht-degree: 91%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 91%
    + [라이브 여정에서 콘텐츠 업데이트](/help/journeys/update-content-in-live-journey.md)
    + [다른 샌드박스로 여정 복사](/help/journeys/copy-a-journey.md)
    + [배치 세분화 후 일일 여정 실행 트리거](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [여정 노드를 조각으로 저장](/help/journeys/journey-fragments.md)
    + 사용 사례 {#use-cases}
       + [사용 사례 - 트랜잭션 여정](/help/journeys/use-case-transactional-journey.md)
       + [사용 사례 - 비즈니스 이벤트](/help/journeys/use-case-business-event.md)
@@ -244,7 +245,7 @@ ht-degree: 91%
 + AI 지원 및 에이전트 {#ai-assistant}
    + [AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [콘텐츠 생성을 위한 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent을 사용하여 여정 분석 및 구축](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Journey Agent을 사용하여 여정 분석 및 구축](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 사용 사례 및 모범 사례{#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
