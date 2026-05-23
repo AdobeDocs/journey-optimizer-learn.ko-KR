@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer Decisioning에서 오퍼 풀 및 컬렉션부터 자격 필터링 및 순위, 선택 전략 및 의사 결정 정책에 이르기까지 각 고객에게 가장 관련성이 높은 오퍼를 선택하고 제공하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3490205/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3490217/?captions=kor&learn=on&enablevpops)
