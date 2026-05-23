@@ -24,7 +24,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: cb02fd66d9e499a6c7031684c946a19492cf0788
+source-git-commit: 72df947889d1727ae571c9fb82d68060744ca360
 workflow-type: tm+mt
 source-wordcount: 52
 ht-degree: 0%
@@ -34,6 +34,6 @@ ht-degree: 0%
 
 # 강의 2 - 등급 방법 이해
 
-AI 최적화 모델 및 규칙 기반 등급 공식을 포함하여 Adobe Journey Optimizer Decisioning에서 사용할 수 있는 다양한 등급 방법에 대해 알아봅니다.
+규칙 기반 등급 수식 및 AI 최적화 모델을 포함하여 Adobe Journey Optimizer Decisioning에서 사용할 수 있는 다양한 등급 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491465/?learn=on&enablevpops)
