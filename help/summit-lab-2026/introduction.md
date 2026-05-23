@@ -35,6 +35,6 @@ ht-degree: 0%
 
 5가지 연습 과정에서 Adobe Journey Optimizer을 사용하여 SecurFinancial에 대한 의사 결정 시스템을 구성하는 방법을 배웁니다. 재무 프로필 및 실시간 작업을 기반으로 고객당 가장 적합한 제품 오퍼를 식별하는 논리를 구성한 다음 웹 배너 및 SMS를 통해 일관되게 배포합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3489058/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3489065/?captions=kor&learn=on&enablevpops)
 
 [여기](https://adobelabs.dev/developers/l610/)에서 통합 문서를 봅니다.
