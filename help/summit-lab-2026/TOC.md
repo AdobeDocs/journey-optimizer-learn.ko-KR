@@ -16,7 +16,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-12T21:22:53.986Z'
-source-git-commit: cb02fd66d9e499a6c7031684c946a19492cf0788
+source-git-commit: 1407603a3f81764185a3f0cab4684544ee9a361a
 workflow-type: tm+mt
 source-wordcount: 116
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 + [연습 1 - 고객 여정 경험](/help/summit-lab-2026/exercise-1-experience-the-customer-journey.md)
 + [강의 1 - Experience Decisioning 작동 방식](/help/summit-lab-2026/lecture-1-how-experience-decisioning-works.md)
 + [연습 2 - 후드에서 - 오퍼, 컬렉션 및 의사 결정 규칙](/help/summit-lab-2026/exercise-2-under-the-hood.md)
-+ [강의 3 - 등급 방법 이해](/help/summit-lab-2026/lecture-2-understand-ranking-methods.md)
++ [강의 2 - 등급 방법 이해](/help/summit-lab-2026/lecture-2-understand-ranking-methods.md)
 + [연습 3 - 등급 방법 및 선택 전략 만들기](/help/summit-lab-2026/exercise-3-create-a-ranking-method-and-selection-strategy.md)
 + [연습 문제 4 - 캠페인 만들기](/help/summit-lab-2026/exercise-4-create-a-campaign.md)
 + [연습 문제 5 - 여정 만들기](/help/summit-lab-2026/exercise-5-create-a-journey.md)
