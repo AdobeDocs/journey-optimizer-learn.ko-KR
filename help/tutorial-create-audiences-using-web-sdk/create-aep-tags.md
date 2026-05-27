@@ -9,10 +9,10 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 3%
+source-wordcount: '514'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Adobe Experience Platform 태그(이전의 Adobe Launch)를 사용하면 사이트 코드를 변경하지 않고도 웹 사이트에서 marketing 및 analytics 기술을 관리 및 배포*할 수 있습니다.
 
-이 [비디오에서는 Adobe Experience Tags를 만드는 과정을 설명합니다](https://experienceleague.adobe.com/ko/playlists/experience-platform-get-started-with-tags)
+이 [비디오에서는 Adobe Experience Tags를 만드는 과정을 설명합니다](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * 데이터 수집에 로그인
 * Tags -> New Property 클릭
@@ -80,14 +80,17 @@ Adobe Experience Platform 태그의 규칙 빌더 를 사용하면 사용자 비
 
 
 * 아래 표시된 대로 선택된 기본 에셋 클래스 라는 이벤트 구성을 만듭니다. 이 이벤트는 assetClassSelection 이벤트를 수신합니다.
-  ![rule-event](assets/rule-event.png)
+
+![rule-event](assets/rule-event.png)
 
 
 * 업데이트된 XDM 스키마를 AEP으로 보내는 작업 만들기
-  ![이벤트 보내기](assets/rule-send-event.png)
+
+![이벤트 보내기](assets/rule-send-event.png)
 
 * 최종 규칙은 다음과 같아야 합니다
-  ![final-rule](assets/final-rule.png)
+
+![final-rule](assets/final-rule.png)
 
 ## AEP 태그 작성 및 배포
 
@@ -108,7 +111,7 @@ Adobe Experience Platform 태그의 규칙 빌더 를 사용하면 사용자 비
 
 ## HTML 페이지에 AEP 태그 포함
 
-AEP Tags 속성을 게시하면 Adobe에서 HTML ``` <head>``` 내부 또는 ``` <body>``` 태그의 맨 아래에 배치해야 하는 스크립트 태그를 제공합니다.
+AEP Tags 속성을 게시하면 Adobe에서 HTML ` <head>` 내부 또는 `<body>` 태그의 맨 아래에 배치해야 하는 스크립트 태그를 제공합니다.
 
 * Tags(Financial Advisor) 속성으로 이동합니다.
 
