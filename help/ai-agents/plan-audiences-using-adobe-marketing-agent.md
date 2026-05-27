@@ -37,5 +37,5 @@ Adobe Marketing Agent for Microsoft 365 Copilot이 Microsoft Teams 내에서 직
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491171/?learn=on&enablevpops)
 
-시작하는 방법에 대한 자세한 내용은 [Adobe Marketing Agent for Microsoft 365 Copilot 시작하기](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}를 시청하십시오.
-마케터가 Adobe Marketing Agent for Microsoft 365 Copilot을 사용하여 캠페인을 계획하고, 성과를 검토하고, 진행 중인 여정을 모니터링하는 방법은 [Adobe Marketing Agent for Microsoft 365 Copilot을 사용한 마케팅 워크플로](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}를 시청하는 것입니다.
+시작하는 방법에 대한 자세한 내용은 [Adobe Marketing Agent for Microsoft 365 Copilot 시작하기](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}를 시청하십시오.
+마케터가 Adobe Marketing Agent for Microsoft 365 Copilot을 사용하여 캠페인을 계획하고, 성과를 검토하고, 진행 중인 여정을 모니터링하는 방법은 [Adobe Marketing Agent for Microsoft 365 Copilot을 사용한 마케팅 워크플로](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}를 시청하는 것입니다.
