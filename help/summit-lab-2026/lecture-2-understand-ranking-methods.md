@@ -36,4 +36,4 @@ ht-degree: 0%
 
 규칙 기반 등급 수식 및 AI 최적화 모델을 포함하여 Adobe Journey Optimizer Decisioning에서 사용할 수 있는 다양한 등급 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491472/?captions=kor&learn=on&enablevpops)
