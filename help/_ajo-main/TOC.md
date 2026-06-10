@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
+source-git-commit: 8d3931426cb20a64fabf3f4cb61b1ee9e3d2eba7
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1475'
 ht-degree: 90%
 
 ---
@@ -172,6 +172,7 @@ ht-degree: 90%
          + [푸시 알림에서 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
          + [SMS 메시지에서 의사 결정 사용](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [의사 결정을 사용하여 웹 오퍼 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+         + [Decisioning에서 Experience Manager 콘텐츠 조각 사용](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
       + 외부 트리거 및 상호 작용에서 의사 결정 트리거 {#trigger}
          + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
          + [실시간 날씨 데이터를 통해 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
@@ -246,7 +247,7 @@ ht-degree: 90%
 + AI 지원 및 에이전트 {#ai-assistant}
    + [AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [콘텐츠 생성을 위한 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent을 사용하여 여정 분석 및 구축](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Journey Agent을 사용하여 여정 분석 및 구축](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [Adobe Marketing Agent을 사용하여 대상자 계획](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + 사용 사례 및 모범 사례{#use-cases}
