@@ -31,5 +31,5 @@ ht-degree: 10%
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}를 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491840/?captions=kor&learn=on)
 
