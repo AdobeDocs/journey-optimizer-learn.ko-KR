@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
+source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
 workflow-type: tm+mt
-source-wordcount: '1459'
-ht-degree: 91%
+source-wordcount: '1468'
+ht-degree: 90%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 91%
    + [여정 게시](/help/journeys/publish-a-journey.md)
    + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
    + [다중 속성 필터링 마스터하기](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [여정에서 Federated Audiences와 함께 다중 엔티티 타깃팅 사용](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [여정 시험 실행으로 여정 논리의 유효성 검사](/help/journeys/journey-dry-run.md)
    + [보조 ID로 여정 다시 시작](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [라이브 여정에서 콘텐츠 업데이트](/help/journeys/update-content-in-live-journey.md)
@@ -75,7 +76,7 @@ ht-degree: 91%
    + [CSV 파일을 업로드하여 대상자 만들기](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [웹 SDK를 사용하여 대상자 만들기(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [온디맨드 대상자 평가](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
-   + [구독 및 랜딩 페이지](/help/subscriptions-and-landing-pages.md)
+   + [구독 및 랜딩 페이지](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + 채널 {#channels}
    + [모바일 앱 최적화 - 개요](/help/channels/mobile-app-optimization-overview.md)
    + 코드 기반 경험 채널{#code-based-experience-channel}
@@ -245,7 +246,7 @@ ht-degree: 91%
 + AI 지원 및 에이전트 {#ai-assistant}
    + [AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [콘텐츠 생성을 위한 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent을 사용하여 여정 분석 및 구축](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Journey Agent을 사용하여 여정 분석 및 구축](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [Adobe Marketing Agent을 사용하여 대상자 계획](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + 사용 사례 및 모범 사례{#use-cases}
@@ -268,5 +269,3 @@ ht-degree: 91%
       + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 라이브 세션 및 심층 조사 {#live-sessions-and-deep-dives}
    + [Experience League Live 쇼 녹화본](/help/_ajo-main/experience-league-live-show-recordings.md)
-
-
