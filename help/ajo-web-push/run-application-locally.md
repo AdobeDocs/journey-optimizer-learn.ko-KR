@@ -8,10 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
 exl-id: 2635641b-5ae2-4303-bac7-02c3702950f0
-source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
+source-git-commit: 108686aa75358f940b5d7d83e7f04bf55f72978f
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '147'
+ht-degree: 2%
 
 ---
 
@@ -30,20 +30,20 @@ ht-degree: 0%
 
 설치 확인
 
-```node -v```
+`node -v`
 
-```npm -v```
+`npm -v`
 
 
 ## &#x200B;2. 저장소 복제
 
-```git clone https://github.com/gbedekar489/ajo-web-push.git```
+`git clone https://github.com/gbedekar489/ajo-web-push.git`
 
-```cd ajo-web-push```
+`cd ajo-web-push`
 
 ## &#x200B;3. 종속성 설치
 
-```npm install```
+`npm install`
 
 ## &#x200B;4. 환경 변수 구성
 
