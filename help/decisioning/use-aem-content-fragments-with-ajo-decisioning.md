@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Adobe Experience Manager 콘텐츠 조각을 Adobe 여정과 함께 사용하여 애자일 통신에서 콘텐츠를 개인화하고 최적화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492220/?captions=kor&learn=on&enablevpops)
