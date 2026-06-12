@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
+source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
 workflow-type: tm+mt
 source-wordcount: '1484'
 ht-degree: 89%
@@ -248,7 +248,7 @@ ht-degree: 89%
 + AI 지원 및 에이전트 {#ai-assistant}
    + [AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [콘텐츠 생성을 위한 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent을 사용하여 여정 분석 및 구축](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Journey Agent을 사용하여 여정 분석 및 구축](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [Adobe Marketing Agent을 사용하여 대상자 계획](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + 사용 사례 및 모범 사례{#use-cases}
