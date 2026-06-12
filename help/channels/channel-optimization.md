@@ -1,6 +1,6 @@
 ---
 title: 프로필 환경 설정 또는 성향 점수를 기반으로 채널 최적화
-description: Adobe Journey Optimizer의 채널 최적화 기능을 통해 수동 우선 순위, 프로필 속성 또는 Adobe의 AI 모델 등 가장 효과적인 채널에서 고객에게 도달하여 각 고객이 참여할 가능성이 가장 높은 위치에 메시지가 전달되도록 하는 방법에 대해 알아봅니다.
+description: Adobe Journey Optimizer의 채널 최적화 기능을 통해 수동 우선 순위, 프로필 속성 또는 Adobe의 AI 모델을 사용하여 가장 효과적인 채널을 통해 고객에게 도달하여 각 고객이 참여할 수 있는 메시지가 표시되는 방법에 대해 알아봅니다.
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -25,9 +25,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
+source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: 96
 ht-degree: 2%
 
 ---
@@ -37,6 +37,6 @@ ht-degree: 2%
 
 {{limited-availability}}
 
-Adobe Journey Optimizer의 채널 최적화 기능을 통해 수동 우선 순위, 프로필 속성 또는 Adobe의 AI 모델 등 가장 효과적인 채널에서 고객에게 도달하여 각 고객이 참여할 가능성이 가장 높은 위치에 메시지가 전달되도록 하는 방법에 대해 알아봅니다.
+Adobe Journey Optimizer의 채널 최적화 기능을 통해 수동 우선 순위, 프로필 속성 또는 Adobe의 AI 모델을 사용하여 가장 효과적인 채널을 통해 고객에게 도달하여 각 고객이 참여할 수 있는 메시지가 표시되는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492137/?captions=kor&learn=on&enablevpops)
