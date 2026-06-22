@@ -1,6 +1,6 @@
 ---
-title: Journey Optimizer Decisioning에서 Experience Manager 콘텐츠 조각을 사용하는 방법
-description: Adobe Experience Manager 콘텐츠 조각을 Adobe 여정과 함께 사용하여 애자일 통신에서 콘텐츠를 개인화하고 최적화하는 방법에 대해 알아봅니다.
+title: Journey Optimizer 의사결정에서 Experience Manager 콘텐츠 조각을 사용하는 방법
+description: Adobe Journey에서 Adobe Experience Manager 콘텐츠 조각을 사용하여 민첩한 커뮤니케이션의 콘텐츠를 개인화하고 최적화하는 방법을 알아봅니다.
 feature: Decisioning
 role: User
 level: Beginner, Intermediate
@@ -23,15 +23,15 @@ topic_v2:
   - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
 source-git-commit: 56a1d7868c410dc2f9811194c52cffc5c627b461
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 66
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Journey Optimizer Decisioning에서 Experience Manager 콘텐츠 조각을 사용하는 방법
+# Journey Optimizer 의사결정에서 Experience Manager 콘텐츠 조각을 사용하는 방법
 
-Adobe Experience Manager 콘텐츠 조각을 Adobe 여정과 함께 사용하여 애자일 통신에서 콘텐츠를 개인화하고 최적화하는 방법에 대해 알아봅니다.
+Adobe Journey에서 Adobe Experience Manager 콘텐츠 조각을 사용하여 민첩한 커뮤니케이션의 콘텐츠를 개인화하고 최적화하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492220/?captions=kor&learn=on&enablevpops)

@@ -14,7 +14,7 @@ product_v2:
 autotag-review: '2026-05-14T17:54:05.354Z'
 usetq: true
 source-git-commit: c38ca8d42c50403a496f54f40043ef40ba0e44ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 72
 ht-degree: 100%
 

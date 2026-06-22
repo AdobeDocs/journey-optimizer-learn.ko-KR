@@ -12,7 +12,7 @@ last-substantial-update: 2026-02-18T00:00:00Z
 jira: KT-20313
 exl-id: cd486a89-f97a-4d53-86f1-f66dc64d5f5e
 source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 

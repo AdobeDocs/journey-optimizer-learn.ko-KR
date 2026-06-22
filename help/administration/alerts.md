@@ -24,7 +24,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 114
 ht-degree: 100%
 

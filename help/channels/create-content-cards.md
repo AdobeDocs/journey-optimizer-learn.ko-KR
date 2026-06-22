@@ -11,7 +11,7 @@ jira: KT-15791
 hide: false
 exl-id: 404b9b9d-1f68-40a9-a960-26640aacd154
 source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
 ht-degree: 100%
 

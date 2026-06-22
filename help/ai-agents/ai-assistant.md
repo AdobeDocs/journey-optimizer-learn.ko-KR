@@ -18,7 +18,7 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 104
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
 # AI 어시스턴트
 
-Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics 같은 Adobe Experience Platform 기반 애플리케이션에서 AI 어시스턴트로 할 수 있는 기능을 알아보세요.
+Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics와 같은 Adobe Experience Platform 기반 애플리케이션에서 AI 어시스턴트로 무엇을 할 수 있는지 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
