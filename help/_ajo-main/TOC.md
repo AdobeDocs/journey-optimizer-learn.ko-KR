@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 3bd73234af9246e6ea0b7c3cf3b18aad5389d2ac
 workflow-type: tm+mt
 source-wordcount: '1484'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -40,15 +40,15 @@ ht-degree: 89%
       + [오케스트레이션된 캠페인 구축](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + 여정 {#journeys}
    + [여정 디자이너 - 개요](/help/journeys/journey-designer-overview.md)
-   + [Journey Agent을 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
-   + {hide-from-toc}[새 여정 Designer 검색](/help/journeys/new-journey-designer.md)
+   + [Journey Agent를 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
+   + {hide-from-toc}[새 여정 디자이너 살펴보기](/help/journeys/new-journey-designer.md)
    + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
    + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
    + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
    + [여정 게시](/help/journeys/publish-a-journey.md)
    + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
    + [다중 속성 필터링 마스터하기](/help/journeys/mastering-multi-attribute-filtering.md)
-   + [여정에서 Federated Audiences와 함께 다중 엔티티 타깃팅 사용](/help/journeys/multi-entity-targeting-in-journeys.md)
+   + [여정에서 페더레이션된 대상자를 통해 다중 엔티티 타겟팅 활용](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [여정 시험 실행으로 여정 논리의 유효성 검사](/help/journeys/journey-dry-run.md)
    + [보조 ID로 여정 다시 시작](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [라이브 여정에서 콘텐츠 업데이트](/help/journeys/update-content-in-live-journey.md)
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [웹 캠페인 작성](/help/channels/author-a-web-campaign.md)
       + [웹 편집기에서 SPA 지원](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + {hide-from-toc}[WhatsApp 시작(전체)](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[WhatsApp 시작(엔드투엔드)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp 채널 소개](/help/channels/whatsapp-introduction.md)
       + [WhatsApp 채널 설정](/help/channels/set-up-whatsapp.md)
       + [WhatsApp 여정 만들기](/help/channels/create-a-whatsapp-journey.md)
@@ -160,23 +160,23 @@ ht-degree: 89%
    + [Experimentation Agent - 개요](/help/ai-agents/experimentation-agent-overview.md)
 + 결정 기능{#decision-capabilities}
    + 결정 {#decisioning}
-      + 의사 결정 기본 사항 {#fundamentals}
+      + 결정 기본 사항 {#fundamentals}
          + [의사 결정 소개](/help/decisioning/introduction-to-decisioning.md)
          + [결정 시작부터 끝까지 둘러보기](/help/decisioning/decisioning-end-to-end.md)
          + [공식 빌더 인터페이스 탐색](/help/decisioning/formula-builder-ui.md)
          + [재사용 가능한 규칙](/help/decisioning/reusable-targeting-rules.md)
          + [순위 공식을 사용하여 개인화된 오퍼 게재](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
          + [AI 모델 인사이트](/help/decisioning/ai-model-insights.md)
-      + 의사 결정을 사용하여 메시지 개인화 {#use-decisioning}
-         + [이메일의 의사 결정 소개](/help/decisioning/introduction-to-decisioning-in-emails.md)
-         + [의사 결정을 사용하여 이메일 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
+      + 결정을 사용하여 메시지 개인화 {#use-decisioning}
+         + [이메일 결정 소개](/help/decisioning/introduction-to-decisioning-in-emails.md)
+         + [결정을 활용한 이메일 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
          + [푸시 알림에서 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
          + [SMS 메시지에서 의사 결정 사용](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [의사 결정을 사용하여 웹 오퍼 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-         + [Decisioning에서 Experience Manager 콘텐츠 조각 사용](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
-      + 외부 트리거 및 상호 작용에서 의사 결정 트리거 {#trigger}
+         + [결정과 함께 Experience Manager 콘텐츠 조각 사용](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
+      + 외부 트리거 및 상호 작용을 통한 결정 트리거 {#trigger}
          + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
-         + [실시간 날씨 데이터를 통해 오퍼 개인화](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+         + [실시간 날씨 데이터를 활용한 맞춤형 오퍼 제공](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + 의사 결정 관리 {#decision-management}
       + [의사 결정 관리 소개](/help/decision-management/introduction-to-decision-management.md)
       + [의사 결정 관리 기능 데모](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -245,12 +245,12 @@ ht-degree: 89%
    + [데이터 사용 정책 만들기](/help/privacy/create-data-usage-policies.md)
    + [Journey Optimizer 채널에서 데이터 사용 정책 적용](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [메시지의 데이터 마스킹](/help/privacy/mask-data-in-messages.md)
-+ AI 지원 및 에이전트 {#ai-assistant}
++ AI 어시스턴트 및 에이전트 {#ai-assistant}
    + [AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [콘텐츠 생성을 위한 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent을 사용하여 여정 분석 및 구축](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Journey Agent를 사용하여 여정 분석 및 구축](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
    + [Experimentation Agent - 개요](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
-   + [Adobe Marketing Agent을 사용하여 대상자 계획](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
+   + [Adobe Marketing Agent를 사용한 대상자 계획](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + 사용 사례 및 모범 사례{#use-cases}
    + [고객 온보딩](/help/use-cases/customer-onboarding.md)
    + [포기한 장바구니](/help/use-cases/abandoned-cart.md)
