@@ -30,5 +30,5 @@ ht-degree: 100%
 
 Adobe Journey Optimizer에서 재사용 가능한 여정 조각을 만드는 방법을 알아봅니다. 이 기능을 사용하면 여정 노드 세트를 조각으로 저장하여 다른 여정에서 빠르게 재사용할 수 있습니다. 조각을 사용하면 시간을 절약하고 워크플로를 간소화하며 여러 여정에서 일관성을 유지할 수 있습니다. 자세한 안내와 실제 예시는 포함된 비디오를 시청하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491387/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491394/?captions=kor&learn=on&enablevpops)
 

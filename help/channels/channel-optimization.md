@@ -39,4 +39,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer의 채널 최적화 기능을 활용하여 수동 우선순위 설정, 프로필 속성 또는 Adobe의 AI 모델을 통해 고객에게 가장 효과적인 채널로 메시지를 전달하는 방법을 알아보세요. 이렇게 하면 각 고객이 가장 관심을 가질 만한 곳에 메시지를 전달할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492137/?captions=kor&learn=on&enablevpops)

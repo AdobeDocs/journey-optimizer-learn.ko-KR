@@ -24,4 +24,4 @@ ht-degree: 100%
 
 이 강력한 도구는 고객 참여를 향상하고 비즈니스에 큰 영향을 미칩니다. 자세한 내용은 포함된 비디오를 시청하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486201/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486208/?captions=kor&learn=on&enablevpops)

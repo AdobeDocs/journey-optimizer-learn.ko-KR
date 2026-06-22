@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer에 내장된 AI 기반 어시스턴트인 Journey Agent를 사용하여 실시간 여정을 분석하고, 대상자 충돌 및 프로필 오류를 식별하며, 자연어를 사용하여 완벽한 다단계 여정을 구축하는 방법을 알아봅니다. 이 비디오에서는 Journey 에이전트가 투명한 인사이트, 실행 가능한 권장 사항, 안내형 승인 기능을 제공하여 AI 어시스턴트를 벗어나지 않고도 기존 여정의 문제를 해결하고 새로운 여정을 더 빠르게 구축할 수 있도록 지원하는 방법을 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486301/?captions=kor&learn=on&enablevpops)

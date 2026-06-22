@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Adobe Journey에서 Adobe Experience Manager 콘텐츠 조각을 사용하여 민첩한 커뮤니케이션의 콘텐츠를 개인화하고 최적화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492220/?captions=kor&learn=on&enablevpops)
