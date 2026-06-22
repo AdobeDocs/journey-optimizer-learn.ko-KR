@@ -1,8 +1,8 @@
 ---
 source-git-commit: 906e7a0f1f258d53605d1a155214c61a5335285b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 # 기여자 문서
@@ -47,7 +47,7 @@ Adobe Experience Cloud 솔루션 제품 팀의 테크니컬 라이터, 프로그
 
 ## Markdown을 사용하여 주제 서식을 지정하는 방법
 
-이 저장소의 모든 문서는 GitHub 버전의 Markdown을 사용합니다. Markdown에 익숙하지 않은 경우 다음을 참조하십시오.
+이 저장소의 모든 문서는 GitHub 버전의 Markdown을 사용합니다. 마크다운에 익숙하지 않은 경우 다음을 참조하십시오.
 
 * [Markdown 기본 사항](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 * [인쇄 가능한 Markdown 치트 시트](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)

@@ -11,14 +11,10 @@ jira: KT-15789
 exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
 autotag-review: '2026-05-18T17:14:46.340Z'
 TQID: 'https://experienceleague.adobe.com/8RiX51WRVl6eua18TfPLGgNgWB3Eh1rURNxGQ52KXp4'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 104
 ht-degree: 100%
 
@@ -26,7 +22,7 @@ ht-degree: 100%
 
 # AI 어시스턴트
 
-Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics 같은 Adobe Experience Platform 기반 애플리케이션에서 AI 어시스턴트로 할 수 있는 기능을 알아보세요.
+Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics와 같은 Adobe Experience Platform 기반 애플리케이션에서 AI 어시스턴트로 무엇을 할 수 있는지 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 

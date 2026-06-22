@@ -13,18 +13,13 @@ hide: true
 exl-id: 82c24bdc-4b7b-4220-8b58-c3ddea1afd5f
 autotag-review: '2026-05-18T17:32:12.150Z'
 TQID: 'https://experienceleague.adobe.com/85VExXKbqJlN6QzDwI1speZRF73-JmOxFEAbcuNe7UE'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2:
-  - id: d556b755-390a-43f0-be32-a08cf6236126
-subfeature_v2:
-  - id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: d556b755-390a-43f0-be32-a08cf6236126
+subfeature_v2: id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 54
 ht-degree: 100%
 
@@ -34,4 +29,4 @@ ht-degree: 100%
 
 빈도 규칙을 테스트하고 보고하는 방법을 알아봅니다. 메시지에 대해 상속될 빈도 규칙을 결정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411125?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12&learn=on){transcript=true}

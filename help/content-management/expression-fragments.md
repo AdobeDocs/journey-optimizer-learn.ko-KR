@@ -11,7 +11,7 @@ jira: KT-14043
 thumbnail: 3424587.jpeg
 exl-id: e97ad4be-0d42-4516-8c20-948c604c61a3
 source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '22'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 표현식 조각을 만들고 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438924/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424587/?learn=on)

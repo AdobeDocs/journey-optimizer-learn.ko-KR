@@ -1,6 +1,6 @@
 ---
 title: 프로필 환경 설정 또는 성향 점수를 기반으로 채널 최적화
-description: Adobe Journey Optimizer의 채널 최적화 기능을 통해 수동 우선 순위, 프로필 속성 또는 Adobe의 AI 모델을 사용하여 가장 효과적인 채널을 통해 고객에게 도달하여 각 고객이 참여할 수 있는 메시지가 표시되는 방법에 대해 알아봅니다.
+description: Adobe Journey Optimizer의 채널 최적화 기능을 활용하여 수동 우선순위 설정, 프로필 속성 또는 Adobe의 AI 모델을 통해 고객에게 가장 효과적인 채널로 메시지를 전달하는 방법을 알아보세요. 이렇게 하면 각 고객이 가장 관심을 가질 만한 곳에 메시지를 전달할 수 있습니다.
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -11,24 +11,16 @@ jira: KT-21571
 badge: label="제한된 가용성" type="Informative"
 autotag-review: '2026-06-12T00:19:06.963Z'
 TQID: 'https://experienceleague.adobe.com/3p9EfRhGcN1zvrp0YdrSDI-WgCBMync0g2PZ33Z6EiY'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2:
-  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
-subfeature_v2:
-  - id: ee6666fc-bb5e-43bc-8838-5da8973fddf0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+subfeature_v2: id: ee6666fc-bb5e-43bc-8838-5da8973fddf0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5id: d378ca77-2da1-4f39-ad92-1917fe974a38id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 96
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
@@ -37,6 +29,6 @@ ht-degree: 2%
 
 {{limited-availability}}
 
-Adobe Journey Optimizer의 채널 최적화 기능을 통해 수동 우선 순위, 프로필 속성 또는 Adobe의 AI 모델을 사용하여 가장 효과적인 채널을 통해 고객에게 도달하여 각 고객이 참여할 수 있는 메시지가 표시되는 방법에 대해 알아봅니다.
+Adobe Journey Optimizer의 채널 최적화 기능을 활용하여 수동 우선순위 설정, 프로필 속성 또는 Adobe의 AI 모델을 통해 고객에게 가장 효과적인 채널로 메시지를 전달하는 방법을 알아보세요. 이렇게 하면 각 고객이 가장 관심을 가질 만한 곳에 메시지를 전달할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492137/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)

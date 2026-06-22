@@ -9,7 +9,7 @@ thumbnail: 342114.jpg
 hide: true
 exl-id: 53c853d7-c12e-4e77-aed3-c34039a13c5c
 source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -19,4 +19,4 @@ ht-degree: 100%
 
 고객 여정을 개인화하기 위해 통합 프로필을 만든 다음 프로필 속성을 기반으로 세그먼트를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345515?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}

@@ -11,7 +11,7 @@ jira: KT-20141
 hide: false
 exl-id: 4455d0d1-b6d5-4407-8dd7-7b1dc7f336dd
 source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 
@@ -21,5 +21,5 @@ ht-degree: 100%
 
 여정 캔버스에서 컨텐츠 의사 결정 활동을 통해 사용자가 개인화된 컨텐츠 오퍼에 Adobe Journey Optimizer Decisioning을 활용하는 방법을 알아봅니다. 이 기능을 사용하여 검색된 오퍼를 기반으로 프로필을 라우팅하거나 외부 시스템에 오퍼를 전송하여 여정의 효율성과 개인화를 향상시킵니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479114/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 
