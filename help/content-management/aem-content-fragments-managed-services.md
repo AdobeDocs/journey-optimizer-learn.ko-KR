@@ -34,4 +34,4 @@ Journey Optimizer에서 Adobe Experience Manager(AEM) Managed Services 통합을
 
 이 튜토리얼에서는 저장소 연결 설정, 콘텐츠 관리자를 사용하여 구성 유효성 검사, 개인화 편집기 내에서 직접 콘텐츠 조각 선택 등의 작업을 수행하여 마케터가 캠페인 내에서 AEM 콘텐츠를 효율적으로 재사용하고 미리 볼 수 있도록 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492534/?captions=kor&learn=on&enablevpops)
