@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
+source-git-commit: 776a68854ccfb6b0f170d1f984e89809493a9fef
 workflow-type: tm+mt
-source-wordcount: '1490'
-ht-degree: 99%
+source-wordcount: '1507'
+ht-degree: 98%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 99%
       + [푸시 알림 - 개요](/help/channels/push-notifications-overview.md)
       + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
       + [웹 푸시 알림 만들기](/help/channels/create-web-push-notifications.md)
+      + [웹 푸시 엔드투엔드 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + SMS / MMS 채널{#sms-channel}
       + [SMS/MMS 메시지 - 개요](/help/channels/sms-mms-messages-overview.md)
       + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
