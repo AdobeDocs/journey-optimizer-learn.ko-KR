@@ -106,7 +106,7 @@ ht-degree: 98%
       + [푸시 알림 - 개요](/help/channels/push-notifications-overview.md)
       + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
       + [웹 푸시 알림 만들기](/help/channels/create-web-push-notifications.md)
-      + [웹 푸시 엔드투엔드 튜토리얼](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [웹 푸시 엔드투엔드 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + SMS / MMS 채널{#sms-channel}
       + [SMS/MMS 메시지 - 개요](/help/channels/sms-mms-messages-overview.md)
       + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
