@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 776a68854ccfb6b0f170d1f984e89809493a9fef
+source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
 workflow-type: tm+mt
 source-wordcount: '1507'
 ht-degree: 98%
@@ -106,7 +106,7 @@ ht-degree: 98%
       + [푸시 알림 - 개요](/help/channels/push-notifications-overview.md)
       + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
       + [웹 푸시 알림 만들기](/help/channels/create-web-push-notifications.md)
-      + [웹 푸시 엔드투엔드 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [웹 푸시 엔드투엔드 튜토리얼](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + SMS / MMS 채널{#sms-channel}
       + [SMS/MMS 메시지 - 개요](/help/channels/sms-mms-messages-overview.md)
       + [SMS 메시지 구성, 작성, 전달](/help/channels/author-sms-messages.md)
@@ -272,4 +272,4 @@ ht-degree: 98%
       + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 라이브 세션 및 심층 조사 {#live-sessions-and-deep-dives}
-   + [Experience League Live 쇼 녹화본](/help/_ajo-main/experience-league-live-show-recordings.md)
+   + [Experience League LIVE 쇼 녹화본](/help/_ajo-main/experience-league-live-show-recordings.md)
