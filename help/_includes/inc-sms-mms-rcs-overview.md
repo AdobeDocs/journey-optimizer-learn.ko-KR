@@ -1,7 +1,7 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '404'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 이러한 채널은 장치 전용이며 가시성이 높고 광범위하게 액세스할 수 있습니다. 이 솔루션은 즉시 배달되거나, 도달하거나, 배달이 보장될 때 이상적입니다.
 
-예:
+예
 
 * 은행이 SMS를 통해 사기 경보를 보냅니다.
 * retailer은 MMS를 통해 쿠폰 이미지를 공유합니다.
