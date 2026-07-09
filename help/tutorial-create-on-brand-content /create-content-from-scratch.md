@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 비디오에서는 템플릿에서 시작하고, 브랜드 지침을 적용하고, 간단한 프롬프트를 사용하여 이메일, 푸시 알림 및 인앱 메시지를 처음부터 만드는 방법을 보여 줍니다. AI 기반 변형 및 점수를 사용하여 톤, 이미지 및 메시지를 구체화하는 방법도 살펴볼 수 있습니다. 이렇게 하면 옴니채널 경험 전반에 걸쳐 고품질의 일관된 콘텐츠를 신속하게 만들 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434642/?captions=kor&learn=on&enablevpops)
