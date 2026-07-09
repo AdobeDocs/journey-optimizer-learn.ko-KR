@@ -4,11 +4,11 @@ user-guide-description: 이 튜토리얼에서는 브랜드 지침을 작성 및
 role: User
 level: Internediate
 breadcrumb-title: brand-on-content 만들기
-breadcrumb-url: /docs/journey-optimizer-learn/reate-on-brand-content/introduction
+breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: 8a5f2a79a6f7ad8e0d42d5d148ea5a2434e67b26
+source-git-commit: f9fe2ea192af9c163f032f9161002a6577b06d2d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 
 # Journey Optimizer에서 브랜드 내 컨텐츠 만들기 {#create-on-brand-content}
 
++ [Journey Optimizer에서 브랜드 내 컨텐츠 만들기](./overview.md)
 + 소개 및 브랜드 설정 {#introduction-and-brand-setup}
    + [소개](./introduction.md)
    + [브랜드 구성](./configure-brands.md)
@@ -26,6 +27,4 @@ ht-degree: 0%
    + [시각적 콘텐츠 향상](./enhance-your-visual-content.md)
    + [콘텐츠의 다국어 버전 만들기 및 세분화](./create-and-refine-multilingual-content.md)
 + [품질, 브랜드 정렬 및 거버넌스 보장](./quality-brand-alignment-and-governance.md)
-
-
 
