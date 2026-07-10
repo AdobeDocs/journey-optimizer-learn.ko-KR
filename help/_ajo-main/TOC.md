@@ -147,7 +147,7 @@ ht-degree: 98%
    + [프로필 환경 설정 또는 성향 점수를 기반으로 채널 최적화](/help/channels/channel-optimization.md)
    + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
    + [채널 작성에서 외부 데이터 통합 활성화](/help/content-management/external-data-integrations-in-channel-authoring.md)
-   + [Journey Optimizer에서 온브랜드 콘텐츠 만들기 - 자습서](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+   + [Journey Optimizer에서 온브랜드 콘텐츠 만들기 - 자습서](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 콘텐츠 개인화 {#personalize-content}
    + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
    + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
