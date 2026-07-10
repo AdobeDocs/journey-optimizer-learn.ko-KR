@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1552'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -85,8 +85,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" title="시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 확인하는 방법" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492438/?format=jpeg&nocache=1782495512850" alt="시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 확인하는 방법"
+                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" title="시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 유효성 검사하는 방법" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492438/?format=jpeg&nocache=1782495512850" alt="시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 유효성 검사하는 방법"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,11 +94,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" title="시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 확인하는 방법">시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 확인하는 방법</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" title="시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 유효성 검사하는 방법">시작하기 전에 여정을 효율적으로 테스트, 시뮬레이션 및 유효성 검사하는 방법</a>
                     </p>
-                    <p class="is-size-6">이 Experience League 라이브 세션에서는 Adobe Journey Optimizer의 여정 테스트 및 유효성 검사 도구에 대해 자세히 살펴보기 때문에 안심하고 라이브로 진행할 수 있습니다.</p>
+                    <p class="is-size-6">이번 Experience League 라이브 세션에서는 Adobe Journey Optimizer의 여정 테스트 및 유효성 검사 도구를 자세히 살펴보고 자신 있게 시작할 수 있도록 지원합니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 
             </div>

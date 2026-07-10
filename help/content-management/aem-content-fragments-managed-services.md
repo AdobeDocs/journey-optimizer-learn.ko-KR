@@ -1,6 +1,6 @@
 ---
-title: Journey Optimizer에서 AEM 컨텐츠 조각(Managed Services) 사용
-description: Journey Optimizer에서 Adobe Experience Manager(AEM) Managed Services 통합을 구성하고 사용하여 컨텐츠 조각을 작성 워크플로우에 통합하는 방법을 알아봅니다. 이 튜토리얼에서는 저장소 연결 설정, 콘텐츠 관리자를 사용하여 구성 유효성 검사, 개인화 편집기 내에서 직접 콘텐츠 조각 선택 등의 작업을 수행하여 마케터가 캠페인 내에서 AEM 콘텐츠를 효율적으로 재사용하고 미리 볼 수 있도록 합니다.
+title: Journey Optimizer에서 AEM 콘텐츠 조각(Managed Services) 사용
+description: Journey Optimizer에서 Adobe Experience Manager(AEM) Managed Services 통합을 구성하고 사용하여 콘텐츠 조각을 제작 워크플로에 통합하는 방법을 알아봅니다. 이 튜토리얼에서는 저장소 연결 설정, 콘텐츠 어드바이저를 사용한 구성 검증, 개인화 편집기에서 직접 콘텐츠 조각을 선택하는 방법을 안내합니다. 마케터는 이 작업을 통해 캠페인 내에서 AEM 콘텐츠를 효율적으로 재사용하고 미리 볼 수 있습니다.
 feature: Integrations, Fragments
 topic: Content Management, Integrations
 role: User
@@ -22,16 +22,16 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 136
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Journey Optimizer에서 AEM 컨텐츠 조각(Managed Services) 사용
+# Journey Optimizer에서 AEM 콘텐츠 조각(Managed Services) 사용
 
-Journey Optimizer에서 Adobe Experience Manager(AEM) Managed Services 통합을 구성하고 사용하여 컨텐츠 조각을 작성 워크플로우에 통합하는 방법을 알아봅니다.
+Journey Optimizer에서 Adobe Experience Manager(AEM) Managed Services 통합을 구성하고 사용하여 콘텐츠 조각을 제작 워크플로에 통합하는 방법을 알아봅니다.
 
-이 튜토리얼에서는 저장소 연결 설정, 콘텐츠 관리자를 사용하여 구성 유효성 검사, 개인화 편집기 내에서 직접 콘텐츠 조각 선택 등의 작업을 수행하여 마케터가 캠페인 내에서 AEM 콘텐츠를 효율적으로 재사용하고 미리 볼 수 있도록 합니다.
+이 튜토리얼에서는 저장소 연결 설정, 콘텐츠 어드바이저를 사용한 구성 검증, 개인화 편집기에서 직접 콘텐츠 조각을 선택하는 방법을 안내합니다. 마케터는 이 작업을 통해 캠페인 내에서 AEM 콘텐츠를 효율적으로 재사용하고 미리 볼 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492534/?captions=kor&learn=on&enablevpops)
