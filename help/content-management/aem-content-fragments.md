@@ -14,20 +14,14 @@ hide: false
 index: true
 autotag-review: '2026-05-18T17:12:02.826Z'
 TQID: 'https://experienceleague.adobe.com/63IDjz7UPLn4lqObJDQhry7qGM4xg59q-93KxHYdBi0'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2:
-  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
-subfeature_v2:
-  - id: c6e980f5-2d4f-494f-beef-186b9ecf1513
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: dc22c819-3f29-4e91-8b7d-5c6719831141
+subfeature_v2: id: c6e980f5-2d4f-494f-beef-186b9ecf1513
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 958ce38b6f7ed8243c314627a2fd8d03c99c8009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 178
 ht-degree: 100%
 
@@ -37,7 +31,7 @@ ht-degree: 100%
 
 Adobe Experience Manager(AEM)를 Adobe Journey Optimizer와 원활하게 통합하여 콘텐츠 관리를 간소화하고 여러 채널에서 브랜드의 일관성을 보장하는 방법을 살펴봅니다. 콘텐츠 조각을 만들고 승인하고 렌더링하고, 간편하게 콘텐츠를 바꾸고 새 콘텐츠를 시뮬레이션하는 방법에 대해 알아봅니다. 효율적인 콘텐츠 관리와 일관된 브랜딩을 원하는 사용자에게 적합합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463129/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
 
 Experience League LIVE - [AEM 콘텐츠 조각 및 Dynamic Media로 Journey Optimizer에서 개인화된 콘텐츠 강화](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 
