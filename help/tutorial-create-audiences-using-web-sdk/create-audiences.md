@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
 jira: KT-17923
-source-git-commit: ba83be3caf214d2daaa8c99556d246686ff3f0cb
+exl-id: d90f1868-0514-49b2-832d-82460883b6e4
+source-git-commit: 073d4a99b74a0bc341117e83a66747aed02648bf
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -53,5 +54,3 @@ Adobe Experience Platform의 대상은 개인화된 경험을 제공하기 위�
 
 
 ![toggle-full-xdm-schema](assets/show-custom-fields.png)
-
-
