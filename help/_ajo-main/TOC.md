@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 0069f593c0a73f0d7b25421cfd5fb72c99032110
+source-git-commit: 07ded5be8302aeb2df77ecafb8f1bfdd747702a1
 workflow-type: tm+mt
-source-wordcount: '1527'
-ht-degree: 98%
+source-wordcount: '1546'
+ht-degree: 97%
 
 ---
 
@@ -92,6 +92,7 @@ ht-degree: 98%
       + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
       + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
       + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
+      + [AI 기반, 온브랜드 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
    + 콘텐츠 카드{#content-cards}
       + [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
    + 인앱 채널{#in-app-channel}
