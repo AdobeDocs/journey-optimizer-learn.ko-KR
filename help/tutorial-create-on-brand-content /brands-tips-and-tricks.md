@@ -1,24 +1,24 @@
 ---
-title: Adobe 도구에 대한 브랜드 지침 팁
-description: Journey Optimizer을 넘어 GenStudio 및 Adobe Express과 같은 도구로 브랜드 지침을 확장하기 위한 실용적인 팁을 살펴보십시오.
+title: 크리에이티브 도구 전반에서 브랜드 지침 확장
+description: Adobe Journey Optimizer에 구성된 브랜드를 GenStudio 및 Adobe Express과 같은 다른 Adobe 도구에 적용하는 방법에 대해 알아봅니다.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 216
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20382
-source-git-commit: 4d2ce3bb5093deefdf317200a60628949d53eeb0
+source-git-commit: e998ff7cc7d2e977c507974e2c765507e7f1d788
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 
-# Adobe 도구에 대한 브랜드 지침 팁
+# 크리에이티브 도구 전반에서 브랜드 지침 확장
 
-Journey Optimizer을 넘어 GenStudio 및 Adobe Express과 같은 도구로 브랜드 지침을 확장하는 동시에 쓰기 스타일, 시각적 요소 및 AI 지원 출력을 개선하는 실용적인 팁을 살펴보십시오. 이 비디오에서는 세부 브랜드 사양을 만들고, 예제를 사용하여 콘텐츠 생성을 안내하며, 여러 브랜드를 관리하여 다양한 팀과 커뮤니케이션 전략을 지원하는 방법도 보여 줍니다.
+이 단계에서는 Adobe Journey Optimizer에 구성된 브랜드를 GenStudio 및 Adobe Express과 같은 다른 Adobe 도구에 적용하는 방법을 알아봅니다. 작성 스타일 설정 및 시각적 사양을 세분화하고 텍스트 및 이미지 예제를 Adobe Journey Optimizer에서 직접 추가하여 AI가 생성한 컨텐츠와 자동화된 품질 검사를 개선할 수 있습니다. 여러 브랜드를 관리하여 다양한 부서 및 커뮤니케이션 전략을 지원할 수도 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494287/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on)
