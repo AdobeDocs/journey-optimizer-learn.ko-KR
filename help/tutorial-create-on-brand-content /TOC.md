@@ -6,9 +6,9 @@ level: Intermediate
 breadcrumb-title: brand-on-content 만들기
 breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: 8b1bcb574398f3d904ab0aefd26e6267d247b15d
+source-git-commit: 2f53d4498236daab8f982aff4aa5211d70c6f4aa
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 + 소개 및 브랜드 설정 {#introduction-and-brand-setup}
    + [AI를 사용하여 브랜드 내 이메일 콘텐츠 만들기](./introduction.md)
    + [AI 기반 콘텐츠에 대한 브랜드 구성](./configure-brands.md)
-   + [브랜드 지침 팁](./brands-tips-and-tricks.md)
+   + [크리에이티브 도구 전반에서 브랜드 지침 확장](./brands-tips-and-tricks.md)
 + AI를 사용하여 콘텐츠 생성 {#generate-content}
    + [처음부터 콘텐츠 만들기](./create-content-from-scratch.md)
    + [섹션 콘텐츠 편집 및 개인화](./edit-and-personalize-section-content.md)
