@@ -6,9 +6,9 @@ level: Intermediate
 breadcrumb-title: brand-on-content 만들기
 breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: 5c1f080220f2571ec8cfb5330dc761a065c7d843
+source-git-commit: 6d13297a6b1a8220ce9a55c70bdf0ea5b19e4e26
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -18,12 +18,13 @@ ht-degree: 0%
 
 + [마케터를 위한 Adobe Journey Optimizer의 AI 기반 온브랜드 콘텐츠 제작](./overview.md)
 + 소개 및 브랜드 설정 {#introduction-and-brand-setup}
-   + [소개](./introduction.md)
-   + [브랜드 구성](./configure-brands.md)
-   + [브랜드 지침 팁](./brands-tips-and-tricks.md)
+   + [AI를 사용하여 브랜드 내 이메일 콘텐츠 만들기](./introduction.md)
+   + [Adobe Journey Optimizer에서 AI 기반 컨텐츠에 대한 브랜드 구성](./configure-brands.md)
+   + [크리에이티브 도구 전반에서 브랜드 지침 확장](./brands-tips-and-tricks.md)
 + AI를 사용하여 콘텐츠 생성 {#generate-content}
-   + [처음부터 콘텐츠 만들기](./create-content-from-scratch.md)
+   + [처음부터 옴니채널 콘텐츠 만들기](./create-content-from-scratch.md)
    + [섹션 콘텐츠 편집 및 개인화](./edit-and-personalize-section-content.md)
-   + [시각적 콘텐츠 향상](./enhance-your-visual-content.md)
+   + [AI를 통해 시각적 콘텐츠 향상](./enhance-your-visual-content.md)
    + [콘텐츠의 다국어 버전 만들기 및 세분화](./create-and-refine-multilingual-content.md)
-+ [품질, 브랜드 정렬 및 거버넌스](./quality-brand-alignment-and-governance.md)
++ [컨텐츠 품질, 브랜드 정렬 및 거버넌스 보장](./quality-brand-alignment-and-governance.md)
+
