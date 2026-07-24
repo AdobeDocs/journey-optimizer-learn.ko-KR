@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 40ceb7f4414af6b2d311491f03be4daff1c72c19
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1550'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + 여정 {#journeys}
   + [여정 디자이너 - 개요](/help/journeys/journey-designer-overview.md)
   + [새 여정 캔버스 소개](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Journey Agent를 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[새 여정 디자이너 살펴보기](/help/journeys/new-journey-designer.md)
   + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
-  + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
+  + [AI를 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
   + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
+  + [외부 대상자와 여정 시뮬레이션](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [여정 게시](/help/journeys/publish-a-journey.md)
   + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
-  + [다중 속성 필터링 마스터하기](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
+  + [기본 다중 속성 필터링](/help/journeys/mastering-multi-attribute-filtering.md)
   + [여정에서 페더레이션된 대상자를 통해 다중 엔티티 타겟팅 활용](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [여정 시험 실행으로 여정 논리의 유효성 검사](/help/journeys/journey-dry-run.md)
   + [보조 ID로 여정 다시 시작](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -93,7 +93,7 @@ ht-degree: 97%
     + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
     + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
     + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
-    + [AI 기반, 온브랜드 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AI 기반, 온브랜드 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + 콘텐츠 카드{#content-cards}
     + [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
   + 인앱 채널{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 97%
   + [프로필 환경 설정 또는 성향 점수를 기반으로 채널 최적화](/help/channels/channel-optimization.md)
   + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
   + [채널 작성에서 외부 데이터 통합 활성화](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Journey Optimizer에서 온브랜드 콘텐츠 만들기 - 자습서](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Journey Optimizer에서 온브랜드 콘텐츠 만들기 - 자습서](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 콘텐츠 개인화 {#personalize-content}
   + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
   + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
