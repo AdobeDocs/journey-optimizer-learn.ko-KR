@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1562'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + 여정 {#journeys}
   + [여정 디자이너 - 개요](/help/journeys/journey-designer-overview.md)
   + [새 여정 캔버스 소개](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Journey Agent를 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[새 여정 디자이너 살펴보기](/help/journeys/new-journey-designer.md)
   + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
-  + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
+  + [AI를 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
   + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
+  + {hide-from-toc}[외부 대상자와 여정 시뮬레이션](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [여정 게시](/help/journeys/publish-a-journey.md)
   + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
-  + [다중 속성 필터링 마스터하기](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
+  + [기본 다중 속성 필터링](/help/journeys/mastering-multi-attribute-filtering.md)
   + [여정에서 페더레이션된 대상자를 통해 다중 엔티티 타겟팅 활용](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [여정 시험 실행으로 여정 논리의 유효성 검사](/help/journeys/journey-dry-run.md)
   + [보조 ID로 여정 다시 시작](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -124,6 +124,7 @@ ht-degree: 97%
     + [WhatsApp 채널 소개](/help/channels/whatsapp-introduction.md)
     + [WhatsApp 채널 설정](/help/channels/set-up-whatsapp.md)
     + [WhatsApp 여정 만들기](/help/channels/create-a-whatsapp-journey.md)
+  + {hide-from-toc}[사용자 지정 채널 구성 및 사용](/help/channels/configure-and-use-custom-channels.md)
 + 콘텐츠 관리{#content-management}
   + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
   + 자산 관리 {#assets}
@@ -177,6 +178,7 @@ ht-degree: 97%
       + [결정을 활용한 이메일 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [푸시 알림에서 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
       + [SMS 메시지에서 의사 결정 사용](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[웹 비주얼 편집기 내에서 의사 결정 사용](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [의사 결정을 사용하여 웹 오퍼 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [결정과 함께 Experience Manager 콘텐츠 조각 사용](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 외부 트리거 및 상호 작용을 통한 결정 트리거 {#trigger}
