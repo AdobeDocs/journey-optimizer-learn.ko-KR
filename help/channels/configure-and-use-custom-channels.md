@@ -31,4 +31,4 @@ Slack, WeChat, Telegram 또는 자체 소유 플랫폼과 같은 Adobe Journey O
 
 이 비디오는 사용자 지정 아웃바운드 채널을 처음부터 끝까지 빌드하여 여정에서 사용하는 과정을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496291/?captions=kor&learn=on&enablevpops)

@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer의 새로운 여정 캔버스 경험을 살펴보십시오. 이 업데이트에서는 오케스트레이션된 캠페인 및 대상 구성에 이미 사용된 경험에 맞춰 여정 캔버스를 구동하는 최신 렌더링 엔진을 도입합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496198/?captions=kor&learn=on&enablevpops)
