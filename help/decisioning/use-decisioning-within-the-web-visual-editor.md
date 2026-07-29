@@ -30,4 +30,4 @@ ht-degree: 0%
 
 의사 결정을 사용하여 웹 비주얼 편집기 내에서 웹 페이지를 개인화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496308/?captions=kor&learn=on&enablevpops)
