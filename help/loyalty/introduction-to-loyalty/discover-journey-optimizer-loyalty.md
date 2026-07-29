@@ -19,4 +19,4 @@ ht-degree: 0%
 
 참여 및 충성도 결과를 도출하는 AI 기반 인사이트, 적응형 gamification 및 통합 고객 프로필을 통해 Adobe Journey Optimizer 충성도 데이터를 개인화된 경험으로 변환하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496441/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496456/?captions=kor&learn=on&enablevpops)
