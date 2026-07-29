@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
+source-git-commit: b8b058d92e642d5a7787115b3ee7218d5d12c46f
 workflow-type: tm+mt
-source-wordcount: '1562'
-ht-degree: 95%
+source-wordcount: '1557'
+ht-degree: 94%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 95%
   + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
   + [AI를 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
   + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
-  + {hide-from-toc}[외부 대상자와 여정 시뮬레이션](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [외부 대상자와 여정 시뮬레이션](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [여정 게시](/help/journeys/publish-a-journey.md)
   + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
   + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
@@ -63,8 +63,6 @@ ht-degree: 95%
     + [사용 사례 - 대상자 선별](/help/journeys/use-case-audience-qualification.md)
   + 튜토리얼{#tutorials}
     + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ 충성도 {#loyalty}
-  + {hide-from-toc}[충성도 챌린지 만들기](/help/loyalty/create-a-loyalty-challenge.md)
 + 충돌 관리 및 우선순위 지정 {#conflict-management}
   + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
   + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
@@ -124,7 +122,7 @@ ht-degree: 95%
     + [WhatsApp 채널 소개](/help/channels/whatsapp-introduction.md)
     + [WhatsApp 채널 설정](/help/channels/set-up-whatsapp.md)
     + [WhatsApp 여정 만들기](/help/channels/create-a-whatsapp-journey.md)
-  + {hide-from-toc}[사용자 지정 채널 구성 및 사용](/help/channels/configure-and-use-custom-channels.md)
+  + [사용자 지정 채널 구성 및 사용](/help/channels/configure-and-use-custom-channels.md)
 + 콘텐츠 관리{#content-management}
   + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
   + 자산 관리 {#assets}
