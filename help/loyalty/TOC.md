@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 충성도
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 579c0852d1157519780768270521029879d52d30
+source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 + 충성도 소개 {#introduction-to-loyalty}
   + [Journey Optimizer 충성도 알아보기](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + 과제 구성 {#configure-your-challenge}
-  + [첫 번째 충성도 과제 만들기 및 게시](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
+  + [충성도 과제 설정](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [충성도 문제를 위한 작업 만들기](./configure-your-challenge/create-tasks.md)
   + [충성도 문제에 대한 보상 구성](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
   + [로열티 AI 에이전트를 통해 문제 해결 및 통찰력 확보](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)

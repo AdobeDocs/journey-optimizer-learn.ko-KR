@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 35dcb7e021fa57e88131d1ea1fd47112a22674f5
+source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -37,8 +37,8 @@ Journey Optimizer 충성도가 무엇인지, AJO에서 차지하는 위치와 �
 
 이 모듈에서는 유형, 구조 및 일정, 작업 및 보상 등 충성도 과제를 만들고 구성하는 과정을 안내합니다.
 
-* [첫 번째 충성도 챌린지 만들기 및 게시](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
-유형(표준/연속/순차적), 구조 및 일정, 저장 및 게시(여정 없음) 중에서 챌린지를 만드는 방법을 알아봅니다.
+* [충성도 챌린지 설정](./configure-your-challenge/set-up-a-loyalty-challenge.md)
+올바른 과제 유형을 선택하고, 대상과 일정을 구성하고, 참여 규칙을 정의하고, 진행 상황을 추적하고 보상받는 방식을 제어하여 충성도 과제를 설정하는 방법을 알아봅니다.
 * [충성도 챌린지에 대한 작업 설정](./configure-your-challenge/create-tasks.md)
 구매 및 지출, 수량, 적격 품목 및 제외, 재사용 등의 작업을 설정하는 방법에 대해 알아봅니다.
 * [충성도 챌린지에 대한 보상 구성](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
