@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
+source-git-commit: 375545aa89523d2e9b6a8975b0f2a459274fb2b4
 workflow-type: tm+mt
 source-wordcount: '1562'
 ht-degree: 95%
@@ -44,7 +44,7 @@ ht-degree: 95%
   + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
   + [AI를 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
   + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
-  + {hide-from-toc}[외부 대상자와 여정 시뮬레이션](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [외부 대상자와 여정 시뮬레이션](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [여정 게시](/help/journeys/publish-a-journey.md)
   + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
   + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
@@ -93,7 +93,7 @@ ht-degree: 95%
     + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
     + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
     + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
-    + [AI 기반, 온브랜드 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AI 기반, 온브랜드 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + 콘텐츠 카드{#content-cards}
     + [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
   + 인앱 채널{#in-app-channel}
@@ -124,7 +124,7 @@ ht-degree: 95%
     + [WhatsApp 채널 소개](/help/channels/whatsapp-introduction.md)
     + [WhatsApp 채널 설정](/help/channels/set-up-whatsapp.md)
     + [WhatsApp 여정 만들기](/help/channels/create-a-whatsapp-journey.md)
-  + {hide-from-toc}[사용자 지정 채널 구성 및 사용](/help/channels/configure-and-use-custom-channels.md)
+  + [사용자 지정 채널 구성 및 사용](/help/channels/configure-and-use-custom-channels.md)
 + 콘텐츠 관리{#content-management}
   + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
   + 자산 관리 {#assets}
@@ -150,7 +150,7 @@ ht-degree: 95%
   + [프로필 환경 설정 또는 성향 점수를 기반으로 채널 최적화](/help/channels/channel-optimization.md)
   + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
   + [채널 작성에서 외부 데이터 통합 활성화](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Journey Optimizer에서 온브랜드 콘텐츠 만들기 - 자습서](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Journey Optimizer에서 온브랜드 콘텐츠 만들기 - 자습서](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 콘텐츠 개인화 {#personalize-content}
   + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
   + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
