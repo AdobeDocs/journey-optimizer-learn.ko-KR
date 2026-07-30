@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 283c626c96cd675549425af430b7db463b2fa0ad
+source-git-commit: 22b92b46ddf2d970ddb37bccd4de9ec289cd5ed8
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 11%
@@ -36,7 +36,7 @@ Journey Optimizer 충성도가 무엇인지, AJO에서 차지하는 위치와 �
 구매 및 지출, 수량, 적격 품목 및 제외, 재사용 등의 작업을 설정하는 방법에 대해 알아봅니다.
 * [충성도 챌린지에 대한 보상 구성](./configure-your-challenge/configure-rewards.md)
 보상 구성 방법: 공급자, 마일스톤 대 완료 게재, 보상 유형 및 쿠폰
-* [충성도 AI 에이전트를 사용하여 문제를 만들고 통찰력을 얻으십시오.](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
+* [충성도 AI 에이전트를 사용하여 문제를 만들고 통찰력을 얻으십시오.](./configure-your-challenge/create-a-challenge-and-get-insights-with-with-cx-enterprise-coworker.md)
 충성도 AI 에이전트를 사용하여 문제를 만들고 통찰력을 얻는 방법을 알아봅니다.
 
 ## 과제 적용 및 표시
