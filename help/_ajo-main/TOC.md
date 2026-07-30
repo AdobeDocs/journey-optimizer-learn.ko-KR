@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: b8b058d92e642d5a7787115b3ee7218d5d12c46f
+source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1567'
 ht-degree: 94%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 94%
     + [사용 사례 - 대상자 선별](/help/journeys/use-case-audience-qualification.md)
   + 튜토리얼{#tutorials}
     + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
++ [충성도](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/overview)
 + 충돌 관리 및 우선순위 지정 {#conflict-management}
   + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
   + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)

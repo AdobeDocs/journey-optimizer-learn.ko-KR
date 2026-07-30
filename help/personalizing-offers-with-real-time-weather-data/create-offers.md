@@ -11,7 +11,7 @@ jira: KT-18258
 exl-id: ee940654-6c6c-42d2-8c33-e0b1dfa5c3ed
 source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ### 컬렉션 만들기
 
-**_의사 결정 -> 카탈로그 ->컬렉션->컬렉션 만들기_**(으)로 이동합니다.
+**_Decisioning -> Catalogs ->Collection->Create collection으로 이동_**
 컬렉션 이름을 **날씨 관련 오퍼**&#x200B;로 지정합니다.
 
 규칙 빌더를 사용하여 이 컬렉션에서 이러한 오퍼를 그룹화합니다.
