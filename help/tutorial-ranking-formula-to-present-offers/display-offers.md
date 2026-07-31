@@ -11,7 +11,7 @@ recommendations: noDisplay, noCatalog
 exl-id: 6b1eec78-153c-4ea5-acfe-2dcc6f1e6078
 source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,9 @@ ht-degree: 0%
 * [제공된 파일을 이 순위 수식 폴더로 압축 해제합니다.](assets/ranking-formula.zip)
 
 * 폴더로 이동하고 서버를 시작하여 앱을 실행합니다.
-   * `cd ranking-formula`
+  * `cd ranking-formula`
 
-   * `node server.js`
+  * `node server.js`
 
 
 * 브라우저를 열고 http://localhost:3000/formula.html으로 이동합니다.
