@@ -19,4 +19,4 @@ ht-degree: 0%
 
 CX Enterprise Coworker를 사용하여 대상, 보상, 일정, 자동화된 여정 설정 등 자연어를 사용하여 충성도 문제를 생성하고 구성하고 시작하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496543/?captions=kor&learn=on&enablevpops)

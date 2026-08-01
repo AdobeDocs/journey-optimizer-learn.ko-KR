@@ -19,4 +19,4 @@ ht-degree: 8%
 
 주요 이정표 또는 과제 완료 시 보상 유형을 선택하고, 전달 방법을 정의하고, 참여자에게 보상하여 과제 보상을 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496481/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496486/?captions=kor&learn=on&enablevpops)
