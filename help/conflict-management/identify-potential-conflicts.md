@@ -30,6 +30,6 @@ ht-degree: 100%
 
 중복되는 대상자, 동시 발생 타임라인, 공유된 커뮤니케이션 채널, 여정과 캠페인 전반의 빈도 제한 등 잠재적 갈등을 식별 및 관리하고, 원활하면서 고객 친화적인 커뮤니케이션 경험을 보장하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445651/?captions=kor&learn=on&enablevpops)
 
 [여정과 캠페인에서 잠재적인 충돌을 감지](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/conflict-prioritization/conflicts)하는 방법에 대한 자세한 내용은 제품 설명서를 참조하세요.
