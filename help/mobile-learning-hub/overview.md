@@ -21,7 +21,7 @@ Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작
 
 모범 사례를 살펴보고, 채택을 유도하는 방법을 배우고, 중앙 집중식 보고 워크플로를 설정하여 언제 어디서나 고객에게 다가가는 영향력 있는 데이터 기반 모바일 경험을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477005?captions=kor&quality=12&learn=on){transcript=true}
 
 
 ## 모바일 채널 개요
