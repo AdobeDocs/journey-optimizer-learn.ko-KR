@@ -10,8 +10,8 @@ last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '2669'
-ht-degree: 53%
+source-wordcount: '3509'
+ht-degree: 68%
 
 ---
 
@@ -122,7 +122,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="AJO Decisioning을 사용한 푸시 알림 최적화">AJO Decisioning으로 푸시 알림 최적화</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="AJO Decisioning을 사용한 푸시 알림 최적화">AJO Decisioning을 사용한 푸시 알림 최적화</a>
                     </p>
                     <p class="is-size-6">AJO Decisioning을 사용하여 개인화된 푸시 알림으로 참여도를 향상시킵니다. 맞춤형 오퍼를 만들고 캠페인 성과를 분석합니다.</p>
                 </div>
@@ -342,8 +342,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Sinch 및 Infobip에 대한 이중 옵트인" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440286/?captions=kor&format=jpeg&nocache=1770071085934" alt="Sinch 및 Infobip에 대한 이중 옵트인"
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Sinch 및 Infobip에 대한 중복 옵트인" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440286/?captions=kor&format=jpeg&nocache=1770071085934" alt="Sinch 및 Infobip에 대한 중복 옵트인"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -351,7 +351,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Sinch 및 Infobip에 대한 이중 옵트인">Sinch 및 Infobip에 대한 이중 옵트인</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Sinch 및 Infobip에 대한 중복 옵트인">Sinch 및 Infobip에 대한 이중 옵트인</a>
                     </p>
                     <p class="is-size-6">SMS에 대한 이중 옵트인을 구성하는 방법에 대해 알아보십시오.</p>
                 </div>
@@ -588,7 +588,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" title="잠재적 충돌 확인" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435528/?format=jpeg&nocache=1770071087955" alt="잠재적 충돌 확인"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445651/?captions=kor&format=jpeg&nocache=1770071087955" alt="잠재적 충돌 확인"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
