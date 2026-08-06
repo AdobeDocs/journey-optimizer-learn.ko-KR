@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1567'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -44,11 +44,11 @@ ht-degree: 94%
   + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
   + [AI를 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
   + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
-  + [외부 대상자와 여정 시뮬레이션](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [외부 대상자를 대상으로 여정 시뮬레이션](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [여정 게시](/help/journeys/publish-a-journey.md)
   + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
   + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
-  + [기본 다중 속성 필터링](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [다중 속성 필터링 마스터하기](/help/journeys/mastering-multi-attribute-filtering.md)
   + [여정에서 페더레이션된 대상자를 통해 다중 엔티티 타겟팅 활용](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [여정 시험 실행으로 여정 논리의 유효성 검사](/help/journeys/journey-dry-run.md)
   + [보조 ID로 여정 다시 시작](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -92,7 +92,7 @@ ht-degree: 94%
     + [이메일 디자이너를 사용하여 콘텐츠 만들기](/help/channels/create-content-with-the-email-designer.md)
     + [HTML 이메일 콘텐츠 가져오기 및 작성](/help/channels/import-and-author-html-email-content.md)
     + [미리 보기, 교정 및 게시](/help/channels/preview-proof-and-publish.md)
-    + [AI 기반, 온브랜드 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AI 기반의 브랜드에 맞는 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + 콘텐츠 카드{#content-cards}
     + [콘텐츠 카드 만들기](/help/channels/create-content-cards.md)
   + 인앱 채널{#in-app-channel}
@@ -123,7 +123,7 @@ ht-degree: 94%
     + [WhatsApp 채널 소개](/help/channels/whatsapp-introduction.md)
     + [WhatsApp 채널 설정](/help/channels/set-up-whatsapp.md)
     + [WhatsApp 여정 만들기](/help/channels/create-a-whatsapp-journey.md)
-  + [사용자 지정 채널 구성 및 사용](/help/channels/configure-and-use-custom-channels.md)
+  + [사용자 정의 채널 구성 및 사용](/help/channels/configure-and-use-custom-channels.md)
 + 콘텐츠 관리{#content-management}
   + [메시지 작성 - 개요](/help/content-management/message-authoring-overview.md)
   + 자산 관리 {#assets}
@@ -149,7 +149,7 @@ ht-degree: 94%
   + [프로필 환경 설정 또는 성향 점수를 기반으로 채널 최적화](/help/channels/channel-optimization.md)
   + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
   + [채널 작성에서 외부 데이터 통합 활성화](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Journey Optimizer에서 온브랜드 콘텐츠 만들기 - 자습서](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Journey Optimizer에서 브랜드에 맞는 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 콘텐츠 개인화 {#personalize-content}
   + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
   + [프로필 및 대상자 멤버십 기반 개인화](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
