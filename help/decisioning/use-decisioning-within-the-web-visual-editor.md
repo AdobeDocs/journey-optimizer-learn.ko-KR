@@ -1,5 +1,5 @@
 ---
-title: 의사 결정을 사용하여 웹 비주얼 편집기 내에서 웹 페이지를 개인화합니다.
+title: 의사 결정을 사용하여 웹 비주얼 편집기 내에서 웹 페이지를 개인화하세요.
 description: 의사 결정을 사용하여 웹 비주얼 편집기 내에서 웹 페이지를 개인화하는 방법을 알아봅니다.
 feature: Decisioning, Web Channel
 role: User
@@ -19,14 +19,14 @@ feature_v2:
 subfeature_v2:
   - id: c618a0dc-1818-4c6d-9916-0d92e6796f24
 source-git-commit: 0e0dc8b1e62c73e3597c8f62cffc71e3be35aa14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 54
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 의사 결정을 사용하여 웹 비주얼 편집기 내에서 웹 페이지를 개인화합니다.
+# 의사 결정을 사용하여 웹 비주얼 편집기 내에서 웹 페이지를 개인화하세요.
 
 의사 결정을 사용하여 웹 비주얼 편집기 내에서 웹 페이지를 개인화하는 방법을 알아봅니다.
 

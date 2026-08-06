@@ -1,6 +1,6 @@
 ---
 title: 새 여정 캔버스 소개
-description: Adobe Journey Optimizer의 새로운 여정 캔버스 경험을 살펴보십시오. 이 업데이트에서는 오케스트레이션된 캠페인 및 대상 구성에 이미 사용된 경험에 맞춰 여정 캔버스를 구동하는 최신 렌더링 엔진을 도입합니다.
+description: Adobe Journey Optimizer의 새로운 여정 캔버스 경험을 살펴봅니다. 이번 업데이트에서는 여정 캔버스를 구동하는 최신 렌더링 엔진이 도입되어 오케스트레이션 캠페인과 대상자 컴포지션에서 이미 사용되는 환경과 일치하게 되었습니다.
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -15,15 +15,15 @@ product_v2:
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
 source-git-commit: aada6451a411d6e29f34399dc1cb8f397f71029b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 82
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # 새 여정 캔버스 소개
 
-Adobe Journey Optimizer의 새로운 여정 캔버스 경험을 살펴보십시오. 이 업데이트에서는 오케스트레이션된 캠페인 및 대상 구성에 이미 사용된 경험에 맞춰 여정 캔버스를 구동하는 최신 렌더링 엔진을 도입합니다.
+Adobe Journey Optimizer의 새로운 여정 캔버스 경험을 살펴봅니다. 이번 업데이트에서는 여정 캔버스를 구동하는 최신 렌더링 엔진이 도입되어 오케스트레이션 캠페인과 대상자 컴포지션에서 이미 사용되는 환경과 일치하게 되었습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496198/?captions=kor&learn=on&enablevpops)
