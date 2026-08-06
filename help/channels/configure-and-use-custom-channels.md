@@ -31,4 +31,4 @@ ht-degree: 100%
 
 이 비디오에서는 사용자 정의 아웃바운드 채널을 처음부터 끝까지 구축하고 여정에서 사용하는 방법을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496291/?captions=kor&learn=on&enablevpops)

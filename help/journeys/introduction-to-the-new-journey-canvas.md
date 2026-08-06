@@ -26,4 +26,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer의 새로운 여정 캔버스 경험을 살펴봅니다. 이번 업데이트에서는 여정 캔버스를 구동하는 최신 렌더링 엔진이 도입되어 오케스트레이션 캠페인과 대상자 컴포지션에서 이미 사용되는 환경과 일치하게 되었습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496198/?captions=kor&learn=on&enablevpops)
