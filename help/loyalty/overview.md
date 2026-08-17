@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 6313b2380e7b9a1cdd7b3ad1ba4b877fcc304000
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 12%
+source-wordcount: '396'
+ht-degree: 10%
 
 ---
 
@@ -25,6 +25,13 @@ ht-degree: 12%
 
 * [Journey Optimizer 충성도 살펴보기](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 Journey Optimizer 충성도가 무엇인지, AJO에서 차지하는 위치와 과제 라이프사이클을 이해합니다.
+
+## 충성도 설정
+
+이 섹션에서는 문제 만들기를 시작하기 전에 필요한 초기 1회 설정에 대해 설명합니다.
+
+* [충성도 보상 공급자 설정](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+Adobe Journey Optimizer이 외부 보상 시스템을 통해 충성도 보상을 발행할 수 있도록 보상 제공자를 설정하고, 보상 정의를 만들고, 보상 페이로드를 구성하는 방법에 대해 알아봅니다.
 
 ## 과제 구성
 
@@ -45,3 +52,5 @@ CX Enterprise Coworker를 사용하여 대상, 보상, 일정, 자동화된 여�
 
 * [챌린지 콘텐츠 카드 만들기](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 옵트인, 진행 상황, 완료된 단계 전반에 걸친 옵트인 및 동적 진행 상황, 보상과 채널 구성을 다루는 챌린지 콘텐츠 카드/코드 기반 경험을 구축하는 방법을 알아봅니다.
+* [문제에 대한 라이프사이클 메시지 설정](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
+초대 및 참여 메시지에서 완료 및 보상 알림에 이르기까지 충성도 챌린지의 모든 단계에 대해 멀티채널 메시지를 구성하는 방법에 대해 알아봅니다.

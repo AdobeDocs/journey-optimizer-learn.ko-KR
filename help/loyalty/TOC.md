@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 충성도
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: fce0679771726c36f758ae8c244d6691be71a573
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 0%
 
 + [마케터를 위한 Journey Optimizer 충성도 시작](./overview.md)
 + [Journey Optimizer 충성도 살펴보기](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
++ 충성도 설정 {#set-up-loyality}
+  + [충성도 보상 제공자 설정](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + 과제 구성 {#configure-your-challenge}
   + [충성도 과제 설정](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [충성도 문제를 위한 작업 만들기](./configure-your-challenge/create-tasks.md)
@@ -25,5 +27,6 @@ ht-degree: 0%
   + [로열티 AI 에이전트를 통해 문제 해결 및 통찰력 확보](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + 과제 적용 및 표시 {#apply-and-display-your-challenge}
   + [코드 기반 경험을 사용하여 과제 콘텐츠 카드 구축](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [문제에 대한 라이프사이클 메시지 설정](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + 분석 및 보고 {#analyze-and-report}
   + {hide-from-toc}[도전 보고서를 사용하여 성과 추적](./analyze-and-report/track-performance-with-the-challenge-report.md)
