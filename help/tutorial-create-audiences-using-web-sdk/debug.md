@@ -9,9 +9,9 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+source-git-commit: 'null'
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ### ECID 가져오기
 
-ECID(Experience Cloud ID)는 Experience Cloud 솔루션 및 세션에서 사용자를 인식하고 통합하는 데 사용되는 Adobe의 고유한 영구 식별자입니다.
+ECID(Experience Cloud ID)는 Adobe 솔루션 및 세션에서 사용자를 인식하고 통합하는 데 사용되는 Experience Cloud의 고유한 영구 식별자입니다.
 
 * Chrome 개발자 도구 → 네트워크 탭
 
