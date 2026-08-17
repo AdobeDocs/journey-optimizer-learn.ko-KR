@@ -1,7 +1,7 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '275'
 ht-degree: 3%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 3%
 **WhatsApp**&#x200B;은(는) 기업에서 WhatsApp Business API를 사용하여 개인화된 대화 메시지를 통해 고객 참여를 유도하는 인기 있는 메시징 앱입니다.\
 Adobe Journey Optimizer 내에서 WhatsApp은 사용자의 WhatsApp 계정에 직접 제공되는 풍부한 대화형 마케팅 및 고객 서비스 메시지를 활성화합니다.
 
-예:
+예
 
 * 주문 업데이트 또는 게재 알림 보내기.
 * 채팅을 통해 고객 지원 제공.
