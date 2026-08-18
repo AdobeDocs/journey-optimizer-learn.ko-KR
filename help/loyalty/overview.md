@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 6313b2380e7b9a1cdd7b3ad1ba4b877fcc304000
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '393'
 ht-degree: 10%
 
 ---
@@ -51,6 +51,6 @@ CX Enterprise Coworker를 사용하여 대상, 보상, 일정, 자동화된 여�
 이 섹션에서는 콘텐츠 카드 및 코드 기반 경험을 통해 고객에게 도전하는 방법을 보여줍니다.
 
 * [챌린지 콘텐츠 카드 만들기](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
-옵트인, 진행 상황, 완료된 단계 전반에 걸친 옵트인 및 동적 진행 상황, 보상과 채널 구성을 다루는 챌린지 콘텐츠 카드/코드 기반 경험을 구축하는 방법을 알아봅니다.
+옵트인, 진행 상황, 완료된 단계 전반에 걸친 동적 진행 상황, 보상 및 채널 구성을 다루는 과제 콘텐츠 카드를 만드는 방법을 알아봅니다.
 * [문제에 대한 라이프사이클 메시지 설정](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 초대 및 참여 메시지에서 완료 및 보상 알림에 이르기까지 충성도 챌린지의 모든 단계에 대해 멀티채널 메시지를 구성하는 방법에 대해 알아봅니다.
