@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 충성도
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: fce0679771726c36f758ae8c244d6691be71a573
+source-git-commit: 9cf282f2c9f448648852931bfe0f3f7bb789205d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
   + [충성도 문제에 대한 보상 구성](./configure-your-challenge/configure-rewards.md)
   + [로열티 AI 에이전트를 통해 문제 해결 및 통찰력 확보](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + 과제 적용 및 표시 {#apply-and-display-your-challenge}
-  + [코드 기반 경험을 사용하여 과제 콘텐츠 카드 구축](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [과제 콘텐츠 카드 작성](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   + [문제에 대한 라이프사이클 메시지 설정](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + 분석 및 보고 {#analyze-and-report}
   + {hide-from-toc}[도전 보고서를 사용하여 성과 추적](./analyze-and-report/track-performance-with-the-challenge-report.md)
