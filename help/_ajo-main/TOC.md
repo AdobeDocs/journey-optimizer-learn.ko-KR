@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 9a3164399d0a0e0f1434650e1f7a7bca55eb9793
+source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
 workflow-type: tm+mt
 source-wordcount: '1573'
 ht-degree: 99%
@@ -64,7 +64,7 @@ ht-degree: 99%
     + [사용 사례 - 대상자 선별](/help/journeys/use-case-audience-qualification.md)
   + 튜토리얼{#tutorials}
     + [양식 제출 시 여정 트리거](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [충성도](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/overview)
++ [충성도](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
 + 충돌 관리 및 우선순위 지정 {#conflict-management}
   + [잠재적 충돌 확인](/help/conflict-management/identify-potential-conflicts.md)
   + [우선 순위 점수 할당](/help/conflict-management/assign-priority-score.md)
@@ -178,7 +178,7 @@ ht-degree: 99%
       + [결정을 활용한 이메일 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [푸시 알림에서 결정 사용](/help/decisioning/decisioning-in-push-notifications.md)
       + [SMS 메시지에서 의사 결정 사용](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + {hide-from-toc}[웹 비주얼 편집기 내에서 의사 결정 사용](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [웹 비주얼 편집기 내에서 의사 결정 사용](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [의사 결정을 사용하여 웹 오퍼 개인화(튜토리얼)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [결정과 함께 Experience Manager 콘텐츠 조각 사용](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 외부 트리거 및 상호 작용을 통한 결정 트리거 {#trigger}
