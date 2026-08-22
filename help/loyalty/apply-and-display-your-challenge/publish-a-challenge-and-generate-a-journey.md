@@ -30,4 +30,4 @@ ht-degree: 0%
 
 여정을 게시하고 자동으로 게시를 생성하는 방법을 알아봅니다. 과제 커뮤니케이션이 여정 오케스트레이션으로 변환되는 방법을 알아보고, 생성된 여정 구조를 검토하고, 추가 조건, 의사 결정 또는 최적화 논리를 사용하여 이를 사용자 지정합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498577/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3498582/?captions=kor&learn=on&enablevpops)
