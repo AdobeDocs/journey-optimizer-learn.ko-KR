@@ -25,4 +25,4 @@ ht-degree: 0%
 
 초대 및 참여 메시지에서 완료 및 보상 알림에 이르기까지 충성도 챌린지의 모든 단계에 대해 멀티채널 메시지를 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497455/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497460/?captions=kor&learn=on&enablevpops)

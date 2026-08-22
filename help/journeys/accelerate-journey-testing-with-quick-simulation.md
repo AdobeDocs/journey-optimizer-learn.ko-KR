@@ -19,4 +19,4 @@ ht-degree: 0%
 
 빠른 시뮬레이션은 주요 프로세스를 자동화하여 고객 여정 테스트를 간소화합니다. 테스트 프로필을 생성하고, 이벤트를 조정하고, 대기 시간을 단축하고, 시나리오를 검증합니다. 이 도구를 사용하면 복잡한 여정이 게시 전에 의도한 대로 작동하여 시간을 절약하고 정확도를 향상시킬 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497475/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497480/?captions=kor&learn=on&enablevpops)

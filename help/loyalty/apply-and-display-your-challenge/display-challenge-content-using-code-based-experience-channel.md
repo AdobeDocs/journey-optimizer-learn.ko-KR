@@ -28,4 +28,4 @@ ht-degree: 0%
 
 코드 기반 경험을 사용하여 충성도 문제를 홍보하고, 과제 진행 상황을 표시하며, HTML 또는 JSON을 사용하여 앱 내에 개인화된 콘텐츠를 전달하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497470/?captions=kor&learn=on&enablevpops)
