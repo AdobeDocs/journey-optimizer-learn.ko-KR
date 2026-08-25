@@ -31,4 +31,4 @@ ht-degree: 0%
 
 과제 보고서 및 성과 대시보드를 사용하여 참여도, 완료율, 매출 기여도 분석 및 전체 충성도 프로그램 성과를 측정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497564/?captions=kor&learn=on&enablevpops)

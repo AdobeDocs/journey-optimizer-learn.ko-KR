@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer이 외부 보상 시스템을 통해 충성도 보상을 발행할 수 있도록 보상 제공자를 설정하고, 보상 정의를 만들고, 보상 페이로드를 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497346/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497414/?captions=kor&learn=on&enablevpops)

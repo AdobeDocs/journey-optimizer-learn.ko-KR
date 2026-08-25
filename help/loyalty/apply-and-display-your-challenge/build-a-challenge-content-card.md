@@ -32,4 +32,4 @@ ht-degree: 0%
 
 사전 제작된 템플릿, 이미지, 단추 및 앱 구성을 사용하여 챌린지 콘텐츠 카드를 제작하여 충성도 문제를 홍보하고 앱의 참가자 진행률을 표시하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496534/?captions=kor&learn=on&enablevpops)

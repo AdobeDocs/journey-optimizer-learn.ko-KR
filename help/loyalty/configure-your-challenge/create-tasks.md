@@ -31,4 +31,4 @@ ht-degree: 0%
 
 자격 규칙, 제외 및 재사용 가능한 작업 템플릿을 포함하여 구매, 지출 및 사용자 지정 이벤트 활동을 사용하여 충성도 챌린지 작업을 만들고 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496442/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496447/?captions=kor&learn=on&enablevpops)
