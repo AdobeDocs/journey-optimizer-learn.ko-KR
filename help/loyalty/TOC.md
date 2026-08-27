@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 충성도
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
+source-git-commit: 87eb262cf409e11959c177a54e43b3be4e16395b
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,4 @@ ht-degree: 0%
   + [과제 게시 및 여정 생성](./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md)
 + 분석 및 보고 {#analyze-and-report}
   + [과제 보고서를 통해 과제 성과 측정](./analyze-and-report/measure-performance-with-challenge-reports.md)
+  + [충성도 통찰력 대시보드를 사용하여 충성도 성과 분석](./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md)
