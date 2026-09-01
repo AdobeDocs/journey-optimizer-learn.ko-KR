@@ -31,4 +31,4 @@ ht-degree: 0%
 
 과제 보고서 및 대시보드를 사용하여 충성도 프로그램의 기여도, 완료율 및 매출을 측정합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497564/?captions=kor&learn=on&enablevpops)
