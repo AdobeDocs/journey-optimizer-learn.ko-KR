@@ -54,7 +54,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="Journey Optimizer 충성도 살펴보기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496441/?format=jpeg&nocache=1787869052840" alt="Journey Optimizer 충성도 살펴보기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496456/?captions=kor&format=jpeg&nocache=1787869052840" alt="Journey Optimizer 충성도 살펴보기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +94,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/set-up-a-loyalty-reward-provider.md" title="충성도 보상 제공자 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497346/?format=jpeg&nocache=1787869053174" alt="충성도 보상 제공자 설정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497414/?captions=kor&format=jpeg&nocache=1787869053174" alt="충성도 보상 제공자 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +140,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/set-up-a-loyalty-challenge.md" title="충성도 과제 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496471/?format=jpeg&nocache=1787869053564" alt="충성도 과제 설정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496476/?captions=kor&format=jpeg&nocache=1787869053564" alt="충성도 과제 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +163,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-tasks.md" title="충성도 문제를 위한 작업 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496442/?format=jpeg&nocache=1787869053552" alt="충성도 문제를 위한 작업 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496447/?captions=kor&format=jpeg&nocache=1787869053552" alt="충성도 문제를 위한 작업 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/configure-rewards.md" title="보상 구성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496481/?format=jpeg&nocache=1787869053558" alt="보상 구성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496486/?captions=kor&format=jpeg&nocache=1787869053558" alt="보상 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="CX Enterprise Coworker를 통해 충성도 관련 과제 및 현장 통찰력 확보" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496528/?format=jpeg&nocache=1787869053547" alt="CX Enterprise Coworker를 통해 충성도 관련 과제 및 현장 통찰력 확보"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496543/?captions=kor&format=jpeg&nocache=1787869053547" alt="CX Enterprise Coworker를 통해 충성도 관련 과제 및 현장 통찰력 확보"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -253,7 +253,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/build-a-challenge-content-card.md" title="과제 콘텐츠 카드 작성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496529/?format=jpeg&nocache=1787869053793" alt="과제 콘텐츠 카드 작성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496534/?captions=kor&format=jpeg&nocache=1787869053793" alt="과제 콘텐츠 카드 작성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -276,7 +276,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md" title="코드 기반 경험 채널을 사용하여 과제 콘텐츠 표시" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497465/?format=jpeg&nocache=1787869053789" alt="코드 기반 경험 채널을 사용하여 과제 콘텐츠 표시"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497470/?captions=kor&format=jpeg&nocache=1787869053789" alt="코드 기반 경험 채널을 사용하여 과제 콘텐츠 표시"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -299,7 +299,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md" title="문제에 대한 라이프사이클 메시지 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497455/?format=jpeg&nocache=1787869053804" alt="문제에 대한 라이프사이클 메시지 설정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497460/?captions=kor&format=jpeg&nocache=1787869053804" alt="문제에 대한 라이프사이클 메시지 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -322,7 +322,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md" title="과제 게시 및 여정 생성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498577/?format=jpeg&nocache=1787869053798" alt="과제 게시 및 여정 생성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498582/?captions=kor&format=jpeg&nocache=1787869053798" alt="과제 게시 및 여정 생성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -363,7 +363,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./analyze-and-report/measure-performance-with-challenge-reports.md" title="과제 보고서를 통해 과제 성과 측정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497534/?format=jpeg&nocache=1787869054075" alt="과제 보고서를 통해 과제 성과 측정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497564/?captions=kor&format=jpeg&nocache=1787869054075" alt="과제 보고서를 통해 과제 성과 측정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
