@@ -1,6 +1,6 @@
 ---
 title: 과제 보고서를 통해 과제 성과 측정
-description: 과제 보고서 및 성과 대시보드를 사용하여 참여도, 완료율, 매출 기여도 분석 및 전체 충성도 프로그램 성과를 측정하는 방법을 알아봅니다.
+description: 과제 보고서 및 대시보드를 사용하여 충성도 프로그램의 기여도, 완료율 및 매출을 측정합니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -19,9 +19,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6494b51da77e23e184d33e235fd612700b2a801d
 workflow-type: tm+mt
-source-wordcount: 54
+source-wordcount: 44
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 # 과제 보고서를 통해 과제 성과 측정
 
-과제 보고서 및 성과 대시보드를 사용하여 참여도, 완료율, 매출 기여도 분석 및 전체 충성도 프로그램 성과를 측정하는 방법을 알아봅니다.
+과제 보고서 및 대시보드를 사용하여 충성도 프로그램의 기여도, 완료율 및 매출을 측정합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497564/?captions=kor&learn=on&enablevpops)

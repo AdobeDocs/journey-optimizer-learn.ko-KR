@@ -1,36 +1,22 @@
 ---
-title: 충성도 통찰력 대시보드를 사용하여 충성도 성과 분석
-description: 충성도 인사이트 대시보드를 살펴보고 AI 생성 인사이트가 충성도 프로그램 성과의 중요한 변경 사항을 식별하고, 비즈니스 KPI를 기반으로 결과의 우선 순위를 지정하고, 가장 중요한 지표를 해결하는 데 어떻게 도움이 되는지 알아봅니다.
+title: 인사이트 대시보드로 충성도 성과 분석
+description: AI 생성 인사이트가 중요한 변경 사항을 표시하고 KPI별로 결과 우선 순위를 지정하는 충성도 인사이트 대시보드를 살펴보십시오.
 role: User
 level: Beginner
 doc-type: Feature Video
 duration: 201
-last-substantial-update: '2026-08-27T00:00:00.000Z'
+last-substantial-update: 2026-08-27T00:00:00Z
 jira: KT-21771
-autotag-review: '2026-08-27T22:18:01.534Z'
-TQID: 'https://experienceleague.adobe.com/THYMO-t-IzY4zrgLU-XSOkTk5Vox9ck41HCHOiVUx28'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2:
-  - id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
-subfeature_v2:
-  - id: d48edf2f-7bae-4df0-a9d4-7cabfb867d23
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 356f2f8512bc4be640f00d5e9cbdd45d2ddb007c
+source-git-commit: 6494b51da77e23e184d33e235fd612700b2a801d
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 
-# 충성도 통찰력 대시보드를 사용하여 충성도 성과 분석
+# 인사이트 대시보드로 충성도 성과 분석
 
-충성도 인사이트 대시보드를 살펴보고 AI 생성 인사이트가 충성도 프로그램 성과의 중요한 변경 사항을 식별하고, 비즈니스 KPI를 기반으로 결과의 우선 순위를 지정하고, 가장 중요한 지표를 해결하는 데 어떻게 도움이 되는지 알아봅니다.
+AI 생성 인사이트가 중요한 변경 사항을 표시하고 KPI별로 결과 우선 순위를 지정하는 충성도 인사이트 대시보드를 살펴보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3502413/?learn=on&enablevpops)
