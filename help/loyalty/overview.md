@@ -24,9 +24,9 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fe7c7987788fc67bb5c7a58f61fa829f9e6146c1
+source-git-commit: 8b6b00c0ce8aabe6e683005a283ff219487bf6b4
 workflow-type: tm+mt
-source-wordcount: 1405
+source-wordcount: 1519
 ht-degree: 43%
 
 ---
@@ -53,8 +53,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="Journey Optimizer 충성도 살펴보기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496456/?captions=kor&format=jpeg&nocache=1787869052840" alt="Journey Optimizer 충성도 살펴보기"
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Journey Optimizer 충성도 살펴보기" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496456/?captions=kor&format=jpeg&nocache=1789156823533" alt="Journey Optimizer 충성도 살펴보기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,11 +62,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Journey Optimizer 충성도 살펴보기">Journey Optimizer Loyalty 검색</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Journey Optimizer 충성도 살펴보기">Journey Optimizer Loyalty 검색</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer 충성도가 무엇인지, AJO에서 차지하는 위치와 과제 라이프사이클을 이해합니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -94,7 +94,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/set-up-a-loyalty-reward-provider.md" title="충성도 보상 제공자 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497414/?captions=kor&format=jpeg&nocache=1787869053174" alt="충성도 보상 제공자 설정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497414/?captions=kor&format=jpeg&nocache=1789156823971" alt="충성도 보상 제공자 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +140,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/set-up-a-loyalty-challenge.md" title="충성도 과제 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496476/?captions=kor&format=jpeg&nocache=1787869053564" alt="충성도 과제 설정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496476/?captions=kor&format=jpeg&nocache=1789156824314" alt="충성도 과제 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +163,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-tasks.md" title="충성도 문제를 위한 작업 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496447/?captions=kor&format=jpeg&nocache=1787869053552" alt="충성도 문제를 위한 작업 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496447/?captions=kor&format=jpeg&nocache=1789156824304" alt="충성도 문제를 위한 작업 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/configure-rewards.md" title="보상 구성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496486/?captions=kor&format=jpeg&nocache=1787869053558" alt="보상 구성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496486/?captions=kor&format=jpeg&nocache=1789156824293" alt="보상 구성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="CX Enterprise Coworker를 통해 충성도 관련 과제 및 현장 통찰력 확보" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496543/?captions=kor&format=jpeg&nocache=1787869053547" alt="CX Enterprise Coworker를 통해 충성도 관련 과제 및 현장 통찰력 확보"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496543/?captions=kor&format=jpeg&nocache=1789156824322" alt="CX Enterprise Coworker를 통해 충성도 관련 과제 및 현장 통찰력 확보"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -241,6 +241,8 @@ CARDS
   {description = Learn how to build a challenge content card / code-based experience, covering opt-in and dynamic progress across the opt-in, progress, and completed stages, plus rewards and channel configuration.}
 * ./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md
   {description = Learn how to use code-based experiences to promote loyalty challenges, display challenge progress, and deliver personalized content within your app using HTML or JSON.}
+* ./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md
+  {description = Learn how to retrieve challenge data with a custom action and use it to dynamically personalize content cards and code-based experiences based on each member's challenge progress and rewards.}
 * ./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md
   {description = Learn how to configure multi-channel messaging for every stage of a loyalty challenge, from invitations and engagement messages to completion and reward notifications.}
 * ./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md
@@ -253,7 +255,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/build-a-challenge-content-card.md" title="과제 콘텐츠 카드 작성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496534/?captions=kor&format=jpeg&nocache=1787869053793" alt="과제 콘텐츠 카드 작성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496534/?captions=kor&format=jpeg&nocache=1789156824978" alt="과제 콘텐츠 카드 작성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -276,7 +278,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md" title="코드 기반 경험 채널을 사용하여 과제 콘텐츠 표시" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497470/?captions=kor&format=jpeg&nocache=1787869053789" alt="코드 기반 경험 채널을 사용하여 과제 콘텐츠 표시"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497470/?captions=kor&format=jpeg&nocache=1789156824965" alt="코드 기반 경험 채널을 사용하여 과제 콘텐츠 표시"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -294,12 +296,35 @@ CARDS
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Personalize content with challenge attributes using custom actions">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" title="사용자 지정 작업을 사용하여 과제 속성으로 콘텐츠 개인화" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503375/?format=jpeg&nocache=1789156824989" alt="사용자 지정 작업을 사용하여 과제 속성으로 콘텐츠 개인화"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" target="_blank" rel="referrer" title="사용자 지정 작업을 사용하여 과제 속성으로 콘텐츠 개인화">사용자 지정 작업을 사용하여 도전 특성을 사용하여 콘텐츠 개인화</a>
+                    </p>
+                    <p class="is-size-6">사용자 지정 작업으로 과제 데이터를 검색하고 이를 사용하여 각 구성원의 과제 진행 상황 및 보상에 따라 콘텐츠 카드 및 코드 기반 경험을 동적으로 개인화하는 방법에 대해 알아봅니다.</p>
+                </div>
+                <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up lifecycle messaging for your challenge">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md" title="문제에 대한 라이프사이클 메시지 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497460/?captions=kor&format=jpeg&nocache=1787869053804" alt="문제에 대한 라이프사이클 메시지 설정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497460/?captions=kor&format=jpeg&nocache=1789156824972" alt="문제에 대한 라이프사이클 메시지 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -322,7 +347,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md" title="과제 게시 및 여정 생성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498582/?captions=kor&format=jpeg&nocache=1787869053798" alt="과제 게시 및 여정 생성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498582/?captions=kor&format=jpeg&nocache=1789156824984" alt="과제 게시 및 여정 생성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -363,7 +388,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./analyze-and-report/measure-performance-with-challenge-reports.md" title="과제 보고서를 통해 과제 성과 측정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497564/?captions=kor&format=jpeg&nocache=1787869054075" alt="과제 보고서를 통해 과제 성과 측정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497564/?captions=kor&format=jpeg&nocache=1789156825529" alt="과제 보고서를 통해 과제 성과 측정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -381,12 +406,12 @@ CARDS
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyze loyalty performance using the loyalty insights dashboard">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyze loyalty performance with the insights dashboard">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" title="충성도 통찰력 대시보드를 사용하여 충성도 성과 분석" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502413/?format=jpeg&nocache=1787869054083" alt="충성도 통찰력 대시보드를 사용하여 충성도 성과 분석"
+                    <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" title="인사이트 대시보드로 충성도 성과 분석" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502413/?format=jpeg&nocache=1789156825538" alt="인사이트 대시보드로 충성도 성과 분석"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -394,7 +419,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" target="_blank" rel="referrer" title="충성도 통찰력 대시보드를 사용하여 충성도 성과 분석">충성도 통찰력 대시보드를 사용하여 충성도 성과 분석</a>
+                        <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" target="_blank" rel="referrer" title="인사이트 대시보드로 충성도 성과 분석">인사이트 대시보드로 충성도 성과 분석</a>
                     </p>
                     <p class="is-size-6">충성도 인사이트 대시보드를 살펴보고 AI 생성 인사이트가 충성도 프로그램 성과의 중요한 변경 사항을 식별하고, 비즈니스 KPI를 기반으로 결과의 우선 순위를 지정하고, 가장 중요한 지표를 해결하는 데 어떻게 도움이 되는지 알아봅니다.</p>
                 </div>

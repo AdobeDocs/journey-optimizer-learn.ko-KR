@@ -1,24 +1,24 @@
 ---
-user-guide-title: Journey Optimizer 충성도 시작
-user-guide-description: Adobe Journey Optimizer 충성도에 온보딩하고, 문제를 구성하고, 적용하고, 표시하며, 성능을 분석하는 방법에 대해 알아봅니다.
+user-guide-title: Journey Optimizer Loyalty 시작
+user-guide-description: Adobe Journey Optimizer Loyalty에 온보딩하고, 문제를 구성하고, 적용하고, 표시하며, 성능을 분석하는 방법에 대해 알아봅니다.
 role: User
 level: Beginner
 breadcrumb-title: 충성도
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 3062d3cfc74a3e6c578d9c5282ec2ac07185033a
+source-git-commit: b812dd2c5228314771c572a184ae396aa400d524
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 
-# Journey Optimizer 충성도 시작 {#loyalty}
+# Journey Optimizer Loyalty 시작 {#loyalty}
 
-+ [마케터를 위한 Journey Optimizer 충성도 시작](./overview.md)
++ [마케팅 담당자를 위한 Journey Optimizer Loyalty 시작](./overview.md)
 + 충성도 소개 {#introduction}
-  + [Journey Optimizer 충성도 살펴보기](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [Journey Optimizer Loyalty 살펴보기](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + 충성도 설정 {#set-up-loyality}
   + [충성도 보상 제공자 설정](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + 과제 구성 {#configure-your-challenge}
@@ -29,6 +29,7 @@ ht-degree: 0%
 + 과제 적용 및 표시 {#apply-and-display-your-challenge}
   + [과제 콘텐츠 카드 작성](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   + [코드 기반 경험 채널을 사용하여 과제 콘텐츠 표시](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
+  + [사용자 지정 작업을 사용하여 과제 속성으로 콘텐츠 개인화](./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md)
   + [문제에 대한 라이프사이클 메시지 설정](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
   + [과제 게시 및 여정 생성](./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md)
 + 분석 및 보고 {#analyze-and-report}
