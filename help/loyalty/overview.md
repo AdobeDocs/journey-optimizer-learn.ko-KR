@@ -301,7 +301,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" title="사용자 지정 작업을 사용하여 과제 속성으로 콘텐츠 개인화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503375/?format=jpeg&nocache=1789156824989" alt="사용자 지정 작업을 사용하여 과제 속성으로 콘텐츠 개인화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503389/?captions=kor&format=jpeg&nocache=1789156824989" alt="사용자 지정 작업을 사용하여 과제 속성으로 콘텐츠 개인화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
