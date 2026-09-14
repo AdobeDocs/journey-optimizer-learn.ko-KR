@@ -35,4 +35,4 @@ ht-degree: 0%
 
 사용자 지정 작업으로 과제 데이터를 검색하고 이를 사용하여 각 구성원의 과제 진행 상황 및 보상에 따라 콘텐츠 카드 및 코드 기반 경험을 동적으로 개인화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503375/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503389/?captions=kor&learn=on&enablevpops)
