@@ -1,24 +1,23 @@
 ---
-user-guide-title: Journey Optimizer Loyalty 시작
-user-guide-description: Adobe Journey Optimizer Loyalty에 온보딩하고, 문제를 구성하고, 적용하고, 표시하며, 성능을 분석하는 방법에 대해 알아봅니다.
+user-guide-title: Journey Optimizer 충성도 시작
+user-guide-description: Adobe Journey Optimizer 충성도에 온보딩하고, 문제를 구성하고, 적용하고, 표시하며, 성능을 분석하는 방법에 대해 알아봅니다.
 role: User
 level: Beginner
 breadcrumb-title: 충성도
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: b812dd2c5228314771c572a184ae396aa400d524
+source-git-commit: 46d45d93310e930dff2cc491b76b19658630811f
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '149'
 ht-degree: 0%
-
 ---
 
-
-# Journey Optimizer Loyalty 시작 {#loyalty}
+# Journey Optimizer 충성도 시작 {#loyalty}
 
 + [마케팅 담당자를 위한 Journey Optimizer Loyalty 시작](./overview.md)
 + 충성도 소개 {#introduction}
-  + [Journey Optimizer Loyalty 살펴보기](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [Journey Optimizer 충성도 살펴보기](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [충성도 과제 개념 이해](./help/loyalty/introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + 충성도 설정 {#set-up-loyality}
   + [충성도 보상 제공자 설정](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + 과제 구성 {#configure-your-challenge}
