@@ -50,9 +50,9 @@ ht-degree: 43%
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
+* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
   {description = Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.}
-* https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts
+* https://experienceleague.adobe.com/ko/slides/understand-loyalty-challenge-concepts
     {decription = Before you build anything in Adobe Journey Optimizer Loyalty, it helps to understand what a loyalty challenge is and the few pieces it's made of.}
 
 -->
@@ -62,7 +62,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Journey Optimizer 충성도 살펴보기" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Journey Optimizer 충성도 살펴보기" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496441/?format=jpeg&nocache=1789773692859" alt="Journey Optimizer 충성도 살펴보기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -71,11 +71,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Journey Optimizer 충성도 살펴보기">Journey Optimizer Loyalty 검색</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Journey Optimizer 충성도 살펴보기">Journey Optimizer Loyalty 검색</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer 충성도가 무엇인지, AJO에서 차지하는 위치와 과제 라이프사이클을 이해합니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -85,8 +85,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" title="충성도 과제 개념 이해" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/slides/media_1f770caceb9f5f729468044b7d16782f0857bc158.png?width=400&format=pjpg&optimize=medium" alt="충성도 과제 개념 이해"
+                    <a href="https://experienceleague.adobe.com/ko/slides/understand-loyalty-challenge-concepts" title="충성도 과제 개념 이해" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/slides/media_1f770caceb9f5f729468044b7d16782f0857bc158.png?width=400&format=pjpg&optimize=medium" alt="충성도 과제 개념 이해"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,11 +94,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="충성도 과제 개념 이해">충성도 과제 개념 이해</a>
+                        <a href="https://experienceleague.adobe.com/ko/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="충성도 과제 개념 이해">충성도 과제 개념 이해</a>
                     </p>
                     <p class="is-size-6">Adobe Journey Optimizer Loyalty에서 항목을 작성하기 전에 충성도 문제가 무엇인지, 그리고 몇 가지 항목으로 구성되어 있는지 이해하는 것이 도움이 됩니다. ...</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
