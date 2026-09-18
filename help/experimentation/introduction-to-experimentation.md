@@ -9,7 +9,7 @@ duration: 89
 last-substantial-update: 2024-10-08
 jira: KT-16298
 exl-id: 016488db-6ecb-4bab-a9b2-c65f1075411a
-source-git-commit: 46d45d93310e930dff2cc491b76b19658630811f
+source-git-commit: b01ac079dd907d420e91dae44e47d11660587e2d
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -22,4 +22,4 @@ Journey Optimizer에서 테스트 및 시뮬레이션을 실행하여 데이터 
 
 자세한 내용은 [콘텐츠 실험 시작](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/content-experiment/get-started-experiment)을 참조하십시오.
 
->[!SLIDE](understand-loyalty-challenge-concepts)
+>[!SLIDE](experimentation-agent-overview)
