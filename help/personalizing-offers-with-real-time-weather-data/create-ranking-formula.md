@@ -5,16 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 23a9d36f-ac2c-42a5-b08d-79c7118920c9
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
-
 ---
-
 # 순위 공식 만들기
 
 Adobe Journey Optimizer의 순위 공식은 Offer Decisioning 중에 사용되며, 특히 적격 오퍼의 우선 순위를 결정하기 위한 선택 전략 내에서 사용됩니다. 여러 오퍼가 주어진 프로필에 적합하지만 비즈니스 논리 또는 프로필 컨텍스트를 기반으로 최상위 오퍼(또는 일부)만 표시되어야 하는 경우 자격 필터링 후에 순위 공식이 적용됩니다.

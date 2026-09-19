@@ -1,20 +1,19 @@
 ---
 title: Adobe Web SDK을 사용하여 Adobe Journey Optimizer 여정 트리거
-description: Adobe Experience Platform 태그를 통해 구성된 AEP Web SDK을 활용하여 사용자 로그인과 같은 사이트 이벤트에서 Adobe Journey Optimizer 여정을 시작하는 방법에 대해 알아봅니다
+description: Adobe Experience Platform 태그를 통해 구성된 AEP Web SDK를 활용하여 사용자 로그인과 같은 사이트 이벤트에서 Adobe Journey Optimizer 여정을 시작하는 방법 알아보기
 feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24T00:00:00Z
+last-substantial-update: 2025-09-24
 recommendations: noDisplay, noCatalog
 jira: KT-19287
-source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
+exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 0%
-
+source-wordcount: '290'
+ht-degree: 10%
 ---
-
 # Adobe Web SDK을 사용하여 Adobe Journey Optimizer 여정 트리거
 
 ID 결합 자습서의 이 확장에서 결합된 프로필을 사용하여 로그인한 사용자에게 이메일을 보내는 Adobe Journey Optimizer 여정이 트리거됩니다. **이 문서에서는 사용자가 전자 메일 채널 및 전자 메일 채널에 대한 콘텐츠를 만드는 방법을 잘 알고 있다고 가정합니다.**
@@ -53,7 +52,3 @@ ID 결합 자습서의 이 확장에서 결합된 프로필을 사용하여 로�
 
 * 여정 보고서를 보고 이를 확인합니다
 * ![여정-보고서](assets/journey-triggered-report.png)
-
-
-
-

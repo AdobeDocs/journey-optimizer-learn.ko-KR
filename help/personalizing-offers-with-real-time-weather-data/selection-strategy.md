@@ -5,16 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 0a249214-b6a1-4e71-99d9-8a9da0322b15
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 0%
-
 ---
-
 # 선택 전략 만들기
 
 선택 전략은 의사 결정 정책에 전략을 사용할 때 표시되는 오퍼를 결정하기 위해 오퍼 컬렉션과 자격 규칙 및 순위 방법을 결합한 재사용 가능한 구성입니다.
