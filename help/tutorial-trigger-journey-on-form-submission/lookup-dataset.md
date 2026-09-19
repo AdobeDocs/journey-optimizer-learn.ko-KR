@@ -21,6 +21,6 @@ ht-degree: 86%
 
 **조회 데이터 세트 만들기**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478767?captions=kor)
 
 이전 단계에서 양식 설정을 제출하여 데이터 세트 조회 필드를 테스트합니다
