@@ -1,19 +1,18 @@
 ---
-title: Web SDK을 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화
-description: '이 자습서에서는 실시간 컨텍스트 데이터와 Adobe Web SDK Personalization API를 사용하여 Adobe Journey Optimizer에서 동적 날씨 인식 오퍼를 제공하는 방법을 보여줍니다. 웹 사이트의 날씨 속성(예: 온도 및 조건)을 Adobe Experience Platform에 전달하고, 이벤트 스키마에 매핑하며, 의사 결정 규칙 및 등급 공식에 사용하여 페이지 로드 시 오퍼를 개인화하는 방법을 알아봅니다. 실시간 환경 컨텍스트를 통해 디지털 경험을 향상하고자 하는 마케터와 개발자에게 이상적입니다.'
+title: Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화
+description: '이 튜토리얼에서는 실시간 상황별 데이터와 Adobe Web SDK 개인화 API를 사용하여 Adobe Journey Optimizer에서 날씨에 따른 동적인 혜택을 제공하는 방법을 설명합니다. 웹 사이트의 날씨 속성(예: 온도 및 조건)을 Adobe Experience Platform에 전달하고 이벤트 스키마에 매핑한 뒤 결정 규칙 및 순위 공식에 사용하여 페이지 로드 시 오퍼를 개인화하는 방법을 알아봅니다. 실시간 환경 컨텍스트로 디지털 경험을 향상시키고자 하는 마케터와 개발자에게 적합합니다.'
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 jira: KT-18258
-source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
+exl-id: f40dd541-470c-4f42-8181-eb1c277ebaa3
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 0%
-
+source-wordcount: '230'
+ht-degree: 42%
 ---
-
 # 사용 사례 설명
 
 Adobe Journey Optimizer(AJO)의 날씨 관련 데이터를 사용하여 서비스를 제공하면 기업이 실제 실시간 환경 조건을 기반으로 고객 경험을 개인화할 수 있습니다. 날씨는 강력한 상황적 신호입니다. 날씨에 따라 사람들의 요구와 행동이 달라진다. 날씨 데이터를 사용하여:

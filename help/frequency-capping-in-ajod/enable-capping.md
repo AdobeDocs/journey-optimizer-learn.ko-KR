@@ -5,15 +5,14 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21
 jira: KT-18526
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+exl-id: 34027499-0037-4ea1-813b-51be15eafe24
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '230'
 ht-degree: 0%
-
 ---
-
 # AJO 캠페인에 대한 빈도 제한 활성화
 
 오퍼에 빈도 제한을 적용하려면 다음 단계를 완료하십시오.
@@ -31,7 +30,7 @@ ht-degree: 0%
 ## 오퍼에 추적 토큰 추가
 
 대체 오퍼를 추가하여 캠페인에 사용된 결정 정책 편집
-![대체 &#x200B;](assets/fallback.png)
+![대체 ](assets/fallback.png)
 
 왼쪽 탐색에서 결정 정책 아이콘을 클릭하고 결정 트리를 드릴다운하여 itemID 및 trackingToken을 선택하여 trackingToken 및 ItemID를 추가할 수 있습니다.
 
@@ -47,5 +46,3 @@ ht-degree: 0%
 ## 노출 및 추적 이벤트 보내기
 
 기존 JavaScript 코드를 수정하여 Adobe Web SDK을 사용하여 오퍼 노출 및 상호 작용 이벤트를 캡처하고 Adobe Experience Platform에 보냅니다. 여기에 제공된 [샘플 코드를 참조하세요.](capture-impression-click-events.md)
-
-

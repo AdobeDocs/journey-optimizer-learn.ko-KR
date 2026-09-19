@@ -5,17 +5,16 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-10-31T00:00:00Z
+last-substantial-update: 2025-10-31
 jira: KT-19414
-source-git-commit: b70717bd66deb3c070c6dd155f13f8cb72fce7c3
+exl-id: 80c86b66-876e-4040-a141-7a9c12391007
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
-
 ---
-
 # AJO Decisioning을 사용하여 이메일 캠페인 만들기
 
 이 비디오에서는 AJO Decisioning을 사용하여 이메일 캠페인을 만드는 방법을 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3476171/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476158/?learn=on)

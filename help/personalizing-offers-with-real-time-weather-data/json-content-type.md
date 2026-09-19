@@ -1,20 +1,19 @@
 ---
 title: Adobe Journey Optimizer에서 JSON 콘텐츠를 사용하여 Personalization 게재
-description: Adobe Journey Optimizer(AJO)의 JSON 콘텐츠 유형을 활용하여 유연한 데이터 기반 개인화 경험을 구축합니다.
+description: Adobe Journey Optimizer(AJO)의 JSON 콘텐츠 유형을 활용하여 유연하고 데이터 기반의 개인화 경험을 구축하십시오.
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-18T00:00:00Z
+last-substantial-update: 2025-06-18
 jira: KT-18387
 recommendations: noDisplay, noCatalog
-source-git-commit: 9f5b52063605832a9b00c05fb1a93bf60ec7686f
+exl-id: a09beca4-9266-4004-9831-d3c706b631a5
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 0%
-
+source-wordcount: '501'
+ht-degree: 3%
 ---
-
 # Adobe Journey Optimizer에서 JSON 콘텐츠를 사용하여 Personalization 게재
 
 이 섹션은 프런트엔드에서 오퍼가 렌더링되는 방식을 보다 세밀하게 제어하려는 고급 사용자를 위한 추가 리소스로 제공됩니다.
