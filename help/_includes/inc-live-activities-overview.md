@@ -15,7 +15,7 @@ Adobe Journey Optimizer은 두 주요 모바일 플랫폼에서 라이브 활동
 * **[iOS 라이브 활동](/help/channels/ios-live-activities.md)** - iPhone 잠금 화면 및 Dynamic Island의 풍부한 실시간 업데이트.
 * **[Android 라이브 업데이트](/help/channels/android-live-updates.md)** - Android 알림 음영에서 실시간으로 지속되는 업데이트.
 
-Mobile SDK을 구성하고 API를 사용하여 고객 여정에서 라이브 경험을 시작, 업데이트 및 종료하려면 [라이브 활동 구성](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}을 참조하세요.
+Mobile SDK을 구성하고 API를 사용하여 고객 여정에서 라이브 경험을 시작, 업데이트 및 종료하려면 [라이브 활동 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}을 참조하세요.
 
 ## 사용 사례
 
