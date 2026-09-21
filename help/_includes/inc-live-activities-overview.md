@@ -1,5 +1,5 @@
 ---
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+source-git-commit: fc279f2ff41f624e4a6a0c4c930cedfcc2745dc5
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 3%
@@ -8,14 +8,14 @@ ht-degree: 3%
 
 ## 무엇입니까?
 
-**라이브 활동**&#x200B;을 통해 준비 중인 주문, 전송 중인 배송 또는 이동 중인 승차과 같은 활동이 진행됨에 따라 고객에게 지속적으로 정보를 제공하는 실시간 업데이트를 제공할 수 있습니다. 모든 업데이트에 대해 새 알림을 보내는 대신 단일 라이브 활동이 만들어졌다가 활동이 발전함에 따라 업데이트되고 종료되어 고객의 잠금 화면 또는 알림 음영이 현재 상황과 계속 동기화됩니다.
+**라이브 활동**&#x200B;을 사용하면 준비 중인 주문, 전송 중인 배달 또는 진행 중인 승차와 같은 활동이 진행됨에 따라 고객에게 지속적으로 정보를 제공하는 실시간 업데이트를 제공할 수 있습니다. 모든 업데이트에 대해 새 알림을 보내는 대신 단일 라이브 활동이 만들어졌다가 활동이 발전함에 따라 업데이트되고 종료되어 고객의 잠금 화면 또는 알림 음영이 현재 상황과 계속 동기화됩니다.
 
 Adobe Journey Optimizer은 두 주요 모바일 플랫폼에서 라이브 활동을 지원합니다.
 
-* **[iOS 라이브 활동](/help/channels/ios-live-activities.md)** - iPhone 잠금 화면 및 Dynamic Island의 풍부한 실시간 업데이트.
-* **[Android 라이브 업데이트](/help/channels/android-live-updates.md)** - Android 알림 음영에서 실시간으로 지속되는 업데이트.
+* **[iOS 라이브 활동](/help/channels/ios-live-activities.md)**: iPhone 잠금 화면 및 Dynamic Island의 풍부한 실시간 업데이트.
+* **[Android 실시간 업데이트](/help/channels/android-live-updates.md)**: Android 알림 음영에서 실시간 영구 업데이트.
 
-Mobile SDK을 구성하고 API를 사용하여 고객 여정에서 라이브 경험을 시작, 업데이트 및 종료하려면 [라이브 활동 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}을 참조하세요.
+Mobile SDK을 구성하고 API를 사용하여 고객 여정에서 라이브 경험을 시작, 업데이트 및 종료하려면 [라이브 활동 구성](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}을 참조하세요.
 
 ## 사용 사례
 
@@ -30,7 +30,7 @@ Mobile SDK을 구성하고 API를 사용하여 고객 여정에서 라이브 경
 
 ## 라이브 활동을 사용할 *not*&#x200B;인 경우
 
-* 명확한 종료가 없는 장기 실행 또는 끝이 열린 상태의 경우 — 기본 프로세스가 완료되면 활동을 종료합니다.
-* 프로모션 또는 마케팅 콘텐츠의 경우 — 대신 푸시 알림, 인앱 메시지 또는 콘텐츠 카드를 사용하십시오.
-* 업데이트 케이던스가 매우 높으면 자주 업데이트되는 작업이 OS에 의해 제한되거나 사용자에게 소음이 느껴질 수 있습니다.
+* 명확한 종료가 없는 장기 실행 또는 끝이 열린 상태의 경우 - 기본 프로세스가 완료되면 활동을 종료합니다.
+* 프로모션 또는 마케팅 콘텐츠의 경우 - 대신 푸시 알림, 인앱 메시지 또는 콘텐츠 카드를 사용하십시오.
+* 업데이트 케이던스가 매우 높은 경우 - 빈번한 업데이트는 OS에 의해 조절되거나 사용자에게 소음이 느껴질 수 있습니다.
 * 앱이 iOS Live 활동 또는 Android Live 업데이트에 필요한 최소 OS 버전을 지원하지 않는 경우
