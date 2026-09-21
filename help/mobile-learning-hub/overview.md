@@ -6,22 +6,20 @@ role: User, Admin, Developer
 hide: false
 index: true
 jira: KT-19860
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '973'
 ht-degree: 5%
-
 ---
-
 # Journey Optimizer - 모바일 학습 허브
 
-Adobe Journey Optimizer을 사용하여 모바일 참여 전략을 바로 시작하거나 강화할 수 있습니다. 모바일 학습 허브는 개발자, 관리자, 마케터 및 분석가가 인바운드 및 아웃바운드 모바일 채널을 구성하고 강력한 크로스채널 캠페인 및 여정에 원활하게 통합하는 데 필요한 모든 역량을 갖추도록 지원합니다.
+Adobe Journey Optimizer를 사용하여 모바일 참여 전략을 바로 시작하거나 강화할 수 있습니다. 모바일 학습 허브는 개발자, 관리자, 마케터 및 분석가가 인바운드 및 아웃바운드 모바일 채널을 구성하고 강력한 크로스채널 캠페인 및 여정에 원활하게 통합하는 데 필요한 모든 역량을 갖추도록 지원합니다.
 
 모범 사례를 살펴보고, 채택을 유도하는 방법을 배우고, 중앙 집중식 보고 워크플로를 설정하여 언제 어디서나 고객에게 다가가는 영향력 있는 데이터 기반 모바일 경험을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477005?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 모바일 채널 개요
@@ -34,9 +32,9 @@ Journey Optimizer은 인바운드 및 아웃바운드 모바일 채널을 모두
 
 Adobe Journey Optimizer의 모든 아웃바운드 채널은 메시지 전송 시간에 사용자 지정 동의 정책 을 적용합니다. 특정 마케팅 작업에 대한 동의가 부여되지 않은 경우 메시지가 자동으로 억제되어 호환 배달이 보장됩니다.
 
-| ![푸시 알림](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[푸시 알림](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
-|-------------------------------------|------------------------------------|-------------------------------|
-| 앱 외부로 보낸 푸시 메시지는 즉시 주의를 사로잡습니다. 시간에 민감한 업데이트와 사용자가 앱으로 돌아가도록 유도하는 데 이상적입니다. | 앱이 필요 없이 사용자의 휴대폰으로 보낸 다이렉트 메시지. 긴급한 알림, 미리 알림 및 이미지나 비디오와 같은 리치 미디어 콘텐츠에 적합합니다. | 널리 사용되는 메시징 앱을 통한 대화형 채널을 통해 개인화된 양방향 커뮤니케이션 및 대화형 캠페인을 수행할 수 있습니다. |
+| ![푸시 알림](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[푸시 알림](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![라이브 활동](/help/mobile-learning-hub/assets/live-activities.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[라이브 활동](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
+|-------------------------------------|------------------------------------|-------------------------------|-------------------------------|
+| 앱 외부로 보낸 푸시 메시지는 즉시 주의를 사로잡습니다. 시간에 민감한 업데이트와 사용자가 앱으로 돌아가도록 유도하는 데 이상적입니다. | 앱이 필요 없이 사용자의 휴대폰으로 보낸 다이렉트 메시지. 긴급한 알림, 미리 알림 및 이미지나 비디오와 같은 리치 미디어 콘텐츠에 적합합니다. | 널리 사용되는 메시징 앱을 통한 대화형 채널을 통해 개인화된 양방향 커뮤니케이션 및 대화형 캠페인을 수행할 수 있습니다. | 활동이 진행됨에 따라 고객에게 계속 정보를 제공하는 잠금 화면, 동적 섬 또는 알림 음영에 대한 실시간 지속 업데이트. |
 
 ### 인바운드 채널
 
@@ -99,4 +97,4 @@ Adobe Journey Optimizer의 모든 아웃바운드 채널은 메시지 전송 시
 
 ## 고객 사용 사례
 
-* [개인화를 통한 비행: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=ko)
+* [개인화를 통한 비행: 항공사가 Adobe Journey Optimizer(블로그)를 통해 오퍼를 향상시키는 방법](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
