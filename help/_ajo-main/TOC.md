@@ -3,13 +3,11 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
+source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
 workflow-type: tm+mt
-source-wordcount: '1573'
-ht-degree: 99%
-
+source-wordcount: '1579'
+ht-degree: 98%
 ---
-
 
 # Journey Optimizer 튜토리얼 {#tutorials}
 
@@ -104,6 +102,7 @@ ht-degree: 99%
     + [인앱 메시지에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-in-app-messages.md)
   + 라이브 활동 {#live-activities}
     + [iOS 라이브 활동](/help/channels/ios-live-activities.md)
+    + [Android에 대한 라이브 업데이트 설정](/help/channels/android-live-updates.md)
   + 푸시 채널{#push-channel}
     + [푸시 알림 - 개요](/help/channels/push-notifications-overview.md)
     + [푸시 캠페인 구성 및 보내기](/help/channels/create-a-push-campaign.md)
@@ -147,7 +146,7 @@ ht-degree: 99%
     + [콘텐츠 생성용 AI 어시스턴트 - 개요](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [브랜드 가이드라인 만들기 및 관리](/help/content-management/brand-guideline-creation-and-management.md)
-  + [프로필 환경 설정 또는 성향 점수를 기반으로 채널 최적화](/help/channels/channel-optimization.md)
+  + [프로필 선호도 또는 성향 점수를 기반으로 채널 최적화](/help/channels/channel-optimization.md)
   + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
   + [채널 작성에서 외부 데이터 통합 활성화](/help/content-management/external-data-integrations-in-channel-authoring.md)
   + [Journey Optimizer에서 브랜드에 맞는 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)

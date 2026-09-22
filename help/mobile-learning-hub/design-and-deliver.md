@@ -6,15 +6,13 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19870
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '3509'
-ht-degree: 68%
-
+source-wordcount: '3622'
+ht-degree: 67%
 ---
-
 # 디자인 및 게재
 
 Adobe Journey Optimizer을 사용하여 효과적인 모바일 커뮤니케이션을 구축하고 제공하는 방법에 대해 알아보십시오. 푸시 알림, 인앱 메시지, 콘텐츠 카드, SMS/MMS/RCS, WhatsApp 마케팅 메시지, 대상에 맞게 조정되고 모바일 참여에 최적화된 코드 기반 경험 등 다양한 메시지 유형을 만들고 디자인하고 전송하는 방법에 대해 알아봅니다.
@@ -272,6 +270,32 @@ CARDS
 
 | ![콘텐츠 카드 만들기 및 구성&#x200B;](./assets/configuration.svg) [**콘텐츠 카드 만들기 및 구성**](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![콘텐츠 카드 디자인&#x200B;](./assets/content-management.png){width="50"}[**콘텐츠 카드 디자인**](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+>[!TAB 라이브 활동]
+
+### 라이브 활동
+
+>[!PREREQUISITES]
+>
+> 1. 앱이 Mobile SDK과 통합되고 라이브 활동 확장으로 구성되었는지 확인합니다([라이브 활동 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} 참조).
+> 2. 고객 프로필 및 대상자 세그먼트가 타깃팅할 준비가 되었는지 확인합니다.
+
+#### iOS 라이브 활동
+
+Adobe Journey Optimizer로 iOS 라이브 활동을 구성하여 iPhone 잠금 화면 및 Dynamic Island에서 다양한 실시간 업데이트를 제공하는 방법에 대해 알아봅니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3479871/?captions=kor&learn=on&enablevpops)
+
+#### Android 라이브 업데이트
+
+Adobe Journey Optimizer에서 Android 라이브 업데이트를 만들고 전달하여 활동 진행 상황에 따라 사용자에게 계속 정보를 제공하는 실시간 영구 고객 경험을 활성화하는 방법에 대해 알아봅니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+
+#### 제품 설명서
+
+| ![라이브 활동 구성&#x200B;](./assets/configuration.svg) [**라이브 활동 구성**](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
 

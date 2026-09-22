@@ -7,15 +7,13 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19869
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '2976'
-ht-degree: 23%
-
+source-wordcount: '3810'
+ht-degree: 35%
 ---
-
 
 # 구성 및 실행
 
@@ -279,6 +277,29 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+### 라이브 활동
+
+라이브 활동은 활동 진행(예: 준비 중인 주문 또는 전송 중인 게재)에 따라 iOS 잠금 화면/동적 섬 및 Android의 알림 음영에 대한 실시간 지속적인 업데이트를 제공합니다.
+
+>[!PREREQUISITES]
+>
+>**iOS**
+>
+> * 기본 라이브 활동용 iOS 16.1+, Push-to-Start 지원용 iOS 17.2+, 브로드캐스트 채널 지원용 iOS 18+.
+> * Xcode 14.0+ 및 Swift 5.7+.
+> * AEP Mobile SDK: iOS Messaging 5.11.0 이상, **AEPMessagingLiveActivity** 확장 및 Apple의 **ActivityKit**.
+
+라이브 활동에 대한 Mobile SDK을 구성하려면 다음 작업을 수행하십시오.
+
+1. **AEPMessaging**, **AEPMessagingLiveActivity** 및 **ActivityKit** 프레임워크를 iOS 프로젝트로 가져옵니다.
+2. `LiveActivityAttributes`을(를) 준수하는 구조체에 `liveActivityData` 속성(개별 사용자의 경우 `liveActivityID`, 브로드캐스트의 경우 `channelID`)과 시간이 지남에 따라 업데이트되는 다이내믹 컨텐츠에 대한 `ContentState` 구조를 사용하여 활동의 특성을 정의합니다.
+3. 토큰 컬렉션 및 수명 주기 관리를 사용하려면 SDK 초기화 후 AppDelegate에서 `Messaging.registerLiveActivity()`을(를) 호출하십시오.
+4. `ActivityConfiguration`을(를) 구현하여 잠금 화면 및 동적 아일랜드에 대한 위젯 UI를 정의합니다.
+5. 필요한 경우 Journey Optimizer에서 원격으로 시작, 업데이트 및 종료할 뿐만 아니라 앱 코드에서 로컬로 활동을 트리거합니다.
+6. 필요한 경우 `LiveActivityAssuranceDebuggable`을(를) 구현하여 Adobe Assurance에서 라이브 활동을 디버깅합니다.
+
+Android 설정을 포함한 전체 구성 참조에 대해서는 [라이브 활동 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}을 참조하십시오.
+
 ### WhatsApp
 
 **WhatsApp 채널**&#x200B;을 구성하는 방법을 이해합니다.
@@ -349,7 +370,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="SMS API 자격 증명 및 채널 표면 구성">SMS API 자격 증명 및 채널 표면 구성</a>
                     </p>
-                    <p class="is-size-6">Journey Optimizer를 SMS 서비스 공급자에 연결하는 방법과 SMS 채널 표면을 만드는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">Journey Optimizer를 SMS 서비스 제공자에 연결하는 방법과 SMS 채널 표면을 만드는 방법을 알아봅니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -594,8 +615,8 @@ CARDS
 
 * 안내 채널 설정에 필요한 최소 **Mobile Core** 및 **Journey Optimizer** 확장 버전을 사용 중입니까?
 * **Assurance**&#x200B;의 확장 및 이벤트 아래에서 다음을 수행합니다.
-   * 예상 확장이 로드되었습니까?
-   * 이벤트가 Edge Network으로 전송되고 승인됩니까?
+  * 예상 확장이 로드되었습니까?
+  * 이벤트가 Edge Network으로 전송되고 승인됩니까?
 
 **해결 방법**
 
@@ -617,8 +638,8 @@ CARDS
 
 * Journey Optimizer 추적에 대해 만든 **시스템 스키마 또는 데이터 세트**&#x200B;를 변경한 사람이 있습니까?
 * **데이터스트림**&#x200B;에서:
-   * 경험 이벤트가 **이벤트 데이터 세트**&#x200B;에 매핑됩니까?
-   * 프로필 특성이 **프로필 데이터 세트**&#x200B;에 매핑됩니까?
+  * 경험 이벤트가 **이벤트 데이터 세트**&#x200B;에 매핑됩니까?
+  * 프로필 특성이 **프로필 데이터 세트**&#x200B;에 매핑됩니까?
 
 **해결 방법**
 
@@ -642,8 +663,8 @@ CARDS
 * **Edge Network용 ID**&#x200B;를 구현하고 안정적인 기본 ID(예: 로그인 ID)를 전송합니까?
 * 환경 설정이 변경될 때 **Edge Network에 대한 동의**&#x200B;가 구현되고 업데이트됩니까?
 * **Assurance**&#x200B;에서:
-   * 아웃바운드 이벤트에는 동의 값이 포함됩니까?
-   * 여기에 ECID와 기본 ID가 일관되게 포함됩니까?
+  * 아웃바운드 이벤트에는 동의 값이 포함됩니까?
+  * 여기에 ECID와 기본 ID가 일관되게 포함됩니까?
 
 **해결 방법**
 
@@ -664,16 +685,16 @@ CARDS
 **확인할 내용**
 
 * 앱이 Journey Optimizer 확장에 푸시 토큰을 등록합니까?
-   * 처음 설치 시?
-   * 각 앱 업데이트 후?
-   * OS가 토큰을 새로 고칠 때마다?
+  * 처음 설치 시?
+  * 각 앱 업데이트 후?
+  * OS가 토큰을 새로 고칠 때마다?
 * 사용자가 알림을 열거나 취소하면 Assurance에서 이벤트 추적이 표시됩니까?
 
 **해결 방법**
 
 * 다음 코드를 추가하거나 수정합니다.
-   * 토큰을 만들거나 새로 고칠 때마다 Journey Optimizer 모바일 확장을 통해 토큰을 등록합니다.
-   * Mobile SDK을 통해 푸시 상호 작용 이벤트(열기, 닫기, 사용자 지정 작업)를 보냅니다.
+  * 토큰을 만들거나 새로 고칠 때마다 Journey Optimizer 모바일 확장을 통해 토큰을 등록합니다.
+  * Mobile SDK을 통해 푸시 상호 작용 이벤트(열기, 닫기, 사용자 지정 작업)를 보냅니다.
 * Assurance을 사용하여 등록 및 추적 이벤트가 예상대로 실행되는지 확인합니다.
 
 참조: [Adobe Journey Optimizer의 푸시 알림 흐름](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
@@ -690,19 +711,19 @@ CARDS
 
 * **Journey Optimizer 모바일 메시징/인앱 확장 기능** 및 **메시징 SDK**&#x200B;이(가) 앱에 설치 및 등록되어 있습니까?
 * **태그** 구성에서:
-   * 올바른 이벤트(예: 화면 보기 또는 사용자 지정 이벤트)에 대한 요청을 트리거하는 규칙이 있습니까?
+  * 올바른 이벤트(예: 화면 보기 또는 사용자 지정 이벤트)에 대한 요청을 트리거하는 규칙이 있습니까?
 * **Assurance**&#x200B;에서:
-   * 이러한 이벤트가 발생하면 인앱 또는 콘텐츠 카드 결정 요청이 표시됩니까?
-   * Edge Network에서 응답이 돌아온 것을 보시나요?
+  * 이러한 이벤트가 발생하면 인앱 또는 콘텐츠 카드 결정 요청이 표시됩니까?
+  * Edge Network에서 응답이 돌아온 것을 보시나요?
 
 **해결 방법**
 
 * 필요한 메시징 확장을 설치하고 등록합니다.
 * 대상 이벤트(화면, 사용자 지정 이벤트)에 대한 결정을 트리거하는 규칙을 추가하거나 수정합니다.
 * 콘텐츠 카드의 경우 다음을 확인하십시오.
-   * 메시징 SDK API를 통해 카드를 가져옵니다.
-   * UI에서 렌더링합니다.
-   * SDK을 통해 상호 작용을 다시 추적합니다.
+  * 메시징 SDK API를 통해 카드를 가져옵니다.
+  * UI에서 렌더링합니다.
+  * SDK을 통해 상호 작용을 다시 추적합니다.
 
 다음을 참조하십시오.
 * [인앱 메시지 만들기 및 보내기](https://experienceleague.adobe.com/ko/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
