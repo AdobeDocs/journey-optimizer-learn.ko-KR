@@ -5,17 +5,15 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
 source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # ID 결합 테스트
 
 이 샘플 애플리케이션은 CRM ID가 Adobe Experience Platform(AEP)로 전송되기 전에 서버측에서 사용자 자격 증명의 유효성을 검사하는 실제 로그인 흐름을 시뮬레이션합니다. 로컬 Node.js 서버는 웹 페이지를 안전하게 제공하고, 기본 인증 논리를 처리하며, Adobe Launch 또는 Web SDK 기능을 방해할 수 있는 브라우저 제한(예: 차단된 로컬 파일 액세스 또는 CORS 헤더 누락)을 방지하는 데 사용됩니다. 이 설정을 사용하면 경험이 실제 프로덕션 환경에 더 가깝게 유지됩니다.
