@@ -290,7 +290,7 @@ Adobe Journey Optimizer로 iOS 라이브 활동을 구성하여 iPhone 잠금 �
 
 Adobe Journey Optimizer에서 Android 라이브 업데이트를 만들고 전달하여 활동 진행 상황에 따라 사용자에게 계속 정보를 제공하는 실시간 영구 고객 경험을 활성화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503651/?captions=kor&learn=on&enablevpops)
 
 #### 제품 설명서
 

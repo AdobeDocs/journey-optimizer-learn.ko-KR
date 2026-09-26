@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer에서 Android 라이브 업데이트를 만들고 전달하여 활동 진행 상황에 따라 사용자에게 계속 정보를 제공하는 실시간 영구 고객 경험을 활성화하는 방법에 대해 알아봅니다. 이 튜토리얼에서는 Android 라이브 업데이트 채널을 구성하고, 캠페인을 만들고, 활성화하고, API를 사용하여 고객 여정 전반에서 라이브 경험을 시작, 업데이트 및 종료하는 방법을 보여 줍니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503651/?captions=kor&learn=on&enablevpops)
