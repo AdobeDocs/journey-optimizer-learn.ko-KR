@@ -10,15 +10,13 @@ role: User
 level: Beginner
 duration: 471
 exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
-last-substantial-update: 2026-09-10T00:00:00Z
+last-substantial-update: 2026-09-10
 hide: false
 source-git-commit: 9512b40dc6fa99c5ffa3cb63dfbc1d61def2a2cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
 ht-degree: 100%
-
 ---
-
 # 사용 사례 - 트랜잭션 여정
 
 트랜잭션 여정의 사용 사례를 이해하고 트랜잭션 여정을 작성하는 방법을 알아봅니다.

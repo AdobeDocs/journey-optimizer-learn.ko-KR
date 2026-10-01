@@ -1,19 +1,17 @@
 ---
 title: 빠른 시뮬레이션으로 여정 테스트 가속화
-description: 빠른 시뮬레이션이 게시하기 전에 고객 여정을 효율적으로 테스트하는 데 어떻게 도움이 되는지 알아보십시오.
+description: 게시하기 전에 빠른 시뮬레이션이 고객 여정을 효율적으로 테스트하는 데 어떻게 도움이 되는지 알아보세요.
 role: User
 level: Beginner
 doc-type: Feature Video
 duration: 217
-last-substantial-update: 2026-08-18T00:00:00Z
+last-substantial-update: 2026-08-18
 jira: KT-22362
 source-git-commit: 9a3164399d0a0e0f1434650e1f7a7bca55eb9793
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
-
+ht-degree: 100%
 ---
-
 
 # 빠른 시뮬레이션으로 여정 테스트 가속화
 
