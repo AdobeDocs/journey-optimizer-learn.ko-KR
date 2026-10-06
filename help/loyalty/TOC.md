@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 충성도
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 76bddb8b4e71ed4a059ec8bf808bc98a31377e28
+source-git-commit: c6d18e0a5cc1f80affb52852be6d7fcc6c832fe1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
   + 충성도 데이터 수집 설정 {#set-up-loyalty-data-ingestion}
     + [프로필 및 이벤트 스키마 및 데이터 세트 만들기](./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md)
     + [HTTP API 소스 구성 및 충성도 데이터 매핑](./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md)
-    + [충성도 데이터 수집 테스트](./set-up-loyalty/test-loyalty-data-ingestion.md)
+    + [충성도 데이터 확인 및 성능 보고 구성](./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md)
   + [충성도 보상 제공자 설정](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + 과제 구성 {#configure-your-challenge}
   + [충성도 과제 설정](./configure-your-challenge/set-up-a-loyalty-challenge.md)
