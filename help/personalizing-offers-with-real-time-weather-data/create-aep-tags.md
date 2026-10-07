@@ -36,8 +36,8 @@ Adobe Experience Platform 태그(이전의 Adobe Launch)를 사용하면 사이�
 이 [비디오에서는 Adobe Experience Tags를 만드는 과정을 설명합니다](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * 데이터 수집에 로그인
-* _**태그 -> 새 속성**&#x200B;을 클릭합니다
-* _**기상 시 개인화**_&#x200B;라는 Adobe Experience Platform 태그를 만듭니다.
+* _&#x200B;**태그 -> 새 속성**&#x200B;을 클릭합니다
+* _&#x200B;**기상 시 개인화**&#x200B;_&#x200B;라는 Adobe Experience Platform 태그를 만듭니다.
 * 태그에 다음 확장 추가
 
 ![tags-extensions](assets/tags-extensions1.png)
