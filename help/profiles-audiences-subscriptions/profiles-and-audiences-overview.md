@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer가 고객 데이터를 통합하고 드래그 앤 드롭 인터페이스를 통해 대상자 작성을 간소화하며, 개인화된 참여를 위해 프로필을 보강하고, 정확한 타기팅을 위해 대상자의 우선순위를 지정하고, 강력한 거버넌스 도구를 통해 개인 정보 보호를 보장하여 모든 채널에서 보다 효과적인 캠페인을 만들 수 있도록 지원하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476993/?captions=kor&learn=on)
