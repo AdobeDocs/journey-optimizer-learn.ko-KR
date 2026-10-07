@@ -65,7 +65,7 @@ price.drop 이벤트에서 트리거되는 여정을 만들려면 다음 단계�
 메시지 작성을 시작하려면 `Content`을(를) 클릭하여 콘텐츠 탭을 엽니다. 이 탭에서 고정 텍스트와 이벤트 데이터에서 파생된 동적 필드를 모두 정의할 수 있습니다.
 ![content-push](assets/compose-message.png)
 
-푸시 메시지의 제목을 지정한 다음 개인화 편집기를 열어 메시지 본문을 구성합니다. 콘텐츠에는 가격이 하락한 제품의 이름이 동적으로 포함됩니다. 이렇게 하려면 각 [도우미 함수를 사용하세요.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+푸시 메시지의 제목을 지정한 다음 개인화 편집기를 열어 메시지 본문을 구성합니다. 콘텐츠에는 가격이 하락한 제품의 이름이 동적으로 포함됩니다. 이렇게 하려면 각 [도우미 함수를 사용하세요.](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 제품 목록을 반복하고 메시지 내에서 해당 이름을 렌더링합니다.
 
 ## 메시지 본문 구성

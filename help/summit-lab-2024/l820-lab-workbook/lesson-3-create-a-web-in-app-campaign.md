@@ -167,7 +167,7 @@ ht-degree: 5%
 
 **제품 설명서:**
 
-* [인앱 채널 시작하기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [웹 인앱 메시지 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [인앱 콘텐츠 디자인](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [인앱 알림 확인하고 보내기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [인앱 채널 시작하기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [웹 인앱 메시지 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [인앱 콘텐츠 디자인](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/design-in-app)
+* [인앱 알림 확인하고 보내기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/send-in-app)
