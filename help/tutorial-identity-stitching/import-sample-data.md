@@ -5,17 +5,30 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '305'
 ht-degree: 4%
-
 ---
-
 # 샘플 CRM 데이터를 AEP 프로필 데이터 세트로 가져오기
 
 ID 결합을 시작하려면 샘플 CRM 프로필 데이터를 Adobe Experience Platform의 프로필 활성화 스키마에 연결된 데이터 세트로 가져옵니다
@@ -28,7 +41,7 @@ ID 결합을 시작하려면 샘플 CRM 프로필 데이터를 Adobe Experience 
 
 ## 프로필 활성화 스키마 만들기
 
-**_FinWiseProfileSchema_**&#x200B;이라는 개별 프로필 스키마를 만듭니다. annualIncome, email, firstName, lastName 및 loyaltyStatus와 같은 필드를 포함합니다.
+**_FinWiseProfileSchema_**이라는 개별 프로필 스키마를 만듭니다. annualIncome, email, firstName, lastName 및 loyaltyStatus와 같은 필드를 포함합니다.
 표시된 대로 ID 필드 **_crmid_**&#x200B;을(를) 추가합니다. crmid 필드를 ID 및 기본 필드로 표시합니다.
 
 
@@ -51,7 +64,7 @@ ID 결합을 시작하려면 샘플 CRM 프로필 데이터를 Adobe Experience 
 * 이전에 만든 **_FinWiseProfileSchema_**&#x200B;을(를) 기반으로 **_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;이라는 데이터 세트를 만듭니다.프로필에 대해 데이터 세트가 활성화되어 있는지 확인하십시오.
 
 * 연결 -> 소스 -> 로컬 시스템으로 이동합니다.
-* 로컬 파일 업로드에서 **_데이터 추가_**&#x200B;를 선택합니다. 대상 데이터 집합으로 _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_을(를) 선택하십시오.
+* 로컬 파일 업로드에서 **_데이터 추가_**&#x200B;를 선택합니다. 대상 데이터 집합으로 _**FinWiseCustomerDataSetWithAnnualIncome**_을(를) 선택하십시오.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * 다음 화면으로 이동합니다. [csv 파일](assets/finwise_profiles.csv)을 업로드하고 매핑을 확인하십시오
   ![매핑](assets/mappings.png)

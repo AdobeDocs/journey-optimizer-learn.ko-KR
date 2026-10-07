@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-05T00:00:00Z
+last-substantial-update: 2025-05-05T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 6823ce13-bc77-4e2b-89e0-606e403c15f2
-source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
-
 ---
-
 # Adobe Experience Platform 태그 만들기
 
 Experience Platform 태그는 Adobe Experience Platform Web SDK을 로드하도록 웹 페이지에 구성되어 있으므로 sendEvent API 호출이 개인화된 경험을 트리거할 수 있습니다. 이 설정을 사용하면 필요한 클라이언트측 라이브러리가 올바르게 초기화되어 오퍼 전달을 위해 Adobe Journey Optimizer과 실시간 상호 작용할 수 있습니다.
@@ -35,7 +48,7 @@ Adobe 클라이언트 데이터 레이어 및 코어 확장에 대한 추가 구
 
 ## 데이터 요소 만들기
 
-Experience Platform 태그의 ECID 데이터 요소는 디버깅 및 테스트 목적으로만 만들어집니다. 데이터 요소를 사용하면 개발자가 사용자의 브라우저 세션에 할당된 Experience Cloud ID를 볼 수 있으므로 ID 결합의 유효성을 검사하고 `sendEvent` 호출이 올바른 프로필과 연결되어 있는지 확인할 수 있습니다. 이 요소는 개인화가 작동하는 데 필요하지 않지만 구현 및 QA 중에 유용합니다
+Experience Platform 태그의 ECID 데이터 요소는 디버깅 및 테스트 목적으로만 만들어집니다. 데이터 요소를 사용하여 개발자는 사용자의 브라우저 세션에 할당된 Experience Cloud ID를 볼 수 있습니다. 이 ID는 ID 결합의 유효성을 검사하고 `sendEvent` 호출이 올바른 프로필과 연결되어 있는지 확인하는 데 도움이 됩니다. 이 요소는 개인화가 작동하는 데 필요하지 않지만 구현 및 QA 중에 유용합니다
 
 ![ecid](assets/ecid-data-element.png)
 

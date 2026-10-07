@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
-source-git-commit: 136459518341f00af69fcbf2e629bf0ccc2bd27f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
-
 ---
-
 # 캠페인 만들기
 
 이 단계에서는 Adobe Journey Optimizer에서 캠페인을 만들어 옵트인한 사용자에게 예약된 웹 푸시 알림을 보냅니다. 캠페인은 적격 대상자를 타겟팅하고 사전 정의된 시간에 메시지를 전달하여 계획 및 대상자 기반 참여를 활성화합니다.
@@ -56,4 +66,4 @@ ht-degree: 1%
 
 ## 캠페인 테스트
 
-캠페인을 테스트하려면 먼저 메시지가 표시되면 [&#128279;](http://localhost:3000)을(를) 선택하여 웹 페이지에서 알림을 활성화하십시오. 옵트인한 후에는 예약된 시간에 캠페인이 실행될 때까지 기다리십시오. 캠페인이 실행되면 브라우저에서 푸시 알림을 수신해야 합니다.
+캠페인을 테스트하려면 먼저 메시지가 표시되면 ](http://localhost:3000)을(를) 선택하여 [웹 페이지에서 알림을 활성화하십시오. 옵트인한 후에는 예약된 시간에 캠페인이 실행될 때까지 기다리십시오. 캠페인이 실행되면 브라우저에서 푸시 알림을 수신해야 합니다.

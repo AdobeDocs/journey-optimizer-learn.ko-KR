@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-07-18T00:00:00Z
+last-substantial-update: 2025-07-18T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18526
 exl-id: 6b6c66d3-218d-4f5b-adb0-a2eca05989ab
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '241'
 ht-degree: 0%
-
 ---
-
 # 솔루션 테스트
 
 ## 샘플 자산 배포
@@ -51,7 +64,7 @@ Node.js가 설치되어 있지 않으면 다운로드한 후 [여기에서 설�
 
 ## Javascript 파일에서 표면 URL 업데이트
 
-`frequency-capping.js`에 있는 `public\scripts`을(를) 열고 캠페인에 사용된 채널 구성과 일치하도록 표면 속성을 업데이트합니다.
+`public\scripts`에 있는 `frequency-capping.js`을(를) 열고 캠페인에 사용된 채널 구성과 일치하도록 표면 속성을 업데이트합니다.
 
 ## 노드 js 서버 시작
 
@@ -60,7 +73,7 @@ Node.js가 설치되어 있지 않으면 다운로드한 후 [여기에서 설�
 
 ## Adobe Experience Platform 태그 속성 업데이트
 
-텍스트 편집기의 `frequency-capping.html` 폴더에 있는 `public` 파일을 열고 스크립트 태그를 이 자습서의 이전 단계에서 만든 Adobe Experience Platform 태그 속성의 스크립트 태그로 바꿉니다. 파일을 저장해야 합니다.
+텍스트 편집기의 `public` 폴더에 있는 `frequency-capping.html` 파일을 열고 스크립트 태그를 이 자습서의 이전 단계에서 만든 Adobe Experience Platform 태그 속성의 스크립트 태그로 바꿉니다. 파일을 저장해야 합니다.
 
 ```
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>

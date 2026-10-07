@@ -7,16 +7,17 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 5c24536a-60ff-4448-b195-bb3cc73b52a4
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
-
 ---
-
 # AJO의 AI 의사 결정 및 다음 모범 사례
 
 Adobe Journey Optimizer이 AI를 사용하여 개인화된 고객 경험을 위한 여정, 경로 및 채널을 최적화하는 방법에 대해 알아봅니다.
 
 <!-- 62_S520_3442520_184_ai-decisioning-and-next-best-actions-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3460238/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458188/?learn=on&enablevpops=true)

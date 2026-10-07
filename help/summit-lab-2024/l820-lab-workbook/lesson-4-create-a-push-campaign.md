@@ -9,13 +9,23 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 2%
-
+source-wordcount: '825'
+ht-degree: 4%
 ---
-
 # 4과 - 푸시 캠페인 만들기
 
 이전 연습에서는 커피 마니아인 Fréscopa 고객이었습니다. 당신은 그들의 웹 사이트 및 Fréscopa 앱을 통해 브랜드와 상호 작용하고 많은 트랜잭션 메시지를 받았습니다. 이러한 메시지는 웹 사이트 또는 애플리케이션과 사용자의 상호 작용을 통해 트리거됩니다.
@@ -147,7 +157,7 @@ ht-degree: 2%
 
 #### 수신자의 이름을 추가하여 보내는 메시지 개인화
 
-1. **본문** 필드 옆에 있는 **[!UICONTROL 개인화 대화 상자]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL 본문]** 필드 옆에 있는 **개인화 대화 상자**&#x200B;를 클릭합니다.
 
    ![개인화 단추](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
 
@@ -211,7 +221,7 @@ ht-degree: 2%
 
 **제품 설명서:**
 
-* [푸시 알림 시작](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/push/get-started-push)
-* [푸시 알림 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/push/create-push)
-* [푸시 알림 디자인](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/push/design-push)
-* [푸시 알림 확인 및 보내기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/push/send-push)
+* [푸시 알림 시작](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [푸시 알림 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [푸시 알림 디자인](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [푸시 알림 확인하고 보내기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

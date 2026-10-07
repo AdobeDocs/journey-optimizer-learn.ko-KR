@@ -5,20 +5,33 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '473'
 ht-degree: 0%
-
 ---
-
 # 솔루션 테스트
 
-솔루션을 완전히 테스트하려면 [weather-offers.zip]에서 weather-offers.html 및 weather-related-offers-script.js를 추출하십시오.(assets/weather-offers.zip) 이러한 파일은 웹 서버나 Github Pages와 같은 공용 호스팅 서비스에서 호스팅되어야 합니다. 이는 다음 이유 때문에 필요합니다.
+솔루션을 완전히 테스트하려면 [weather-offers.zip].(assets/weather-offers.zip)에서 weather-offers.html 및 weather-related-offers-script.js를 추출하십시오. 이러한 파일은 웹 서버 또는 Github Pages와 같은 공용 호스팅 서비스에서 호스팅되어야 합니다. 이는 다음 이유 때문에 필요합니다.
 - 브라우저의 지리적 위치 API는 HTTPS 또는 localhost를 통해서만 작동합니다
 
 항목을 정리하고 상대 경로가 올바르게 작동하도록 하려면 솔루션을 호스팅하기 위해 다음 폴더 구조를 사용하는 것이 좋습니다.
@@ -96,13 +109,13 @@ JavaScript은 사용자의 위치에 따라 날씨 정보를 동적으로 가져
 
 6. **오퍼 검색 및 렌더링**
 
-&#x200B;* AJO Decisioning에서 반환된 오퍼를 받습니다.
+* AJO Decisioning에서 반환된 오퍼를 받습니다.
 
-&#x200B;* HTML 콘텐츠를 디코딩합니다.
+* HTML 콘텐츠를 디코딩합니다.
 
-&#x200B;* 에 오퍼를 동적으로 주입 <div id="offerContainer"> 요소를 생성하지 않습니다.
+* 에 오퍼를 동적으로 주입 <div id="offerContainer"> 요소를 생성하지 않습니다.
 
 ## 다음 단계
 
-[AJO Decisioning의 영향을 측정하고 보고합니다.](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[AJO Decisioning의 영향을 측정하고 보고합니다.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 

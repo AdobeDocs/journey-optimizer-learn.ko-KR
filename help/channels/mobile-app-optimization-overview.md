@@ -1,23 +1,38 @@
 ---
 title: 모바일 앱 최적화 - 개요
-description: Adobe Journey Optimizer의 모바일 앱 기능이 실시간으로 제공되는 개인화된 경험을 사용하여 고객 참여의 방식을 전환하는 방법을 살펴봅니다.
+description: Adobe Journey Optimizer의 모바일 앱 기능이 실시간으로 제공되는 개인화된 경험을 통해 고객 참여를 혁신하는 방식을 살펴봅니다.
 feature: In App, Push
 role: User
 level: Beginner
 doc-type: Feature Video
 duration: 108
-last-substantial-update: 2024-10-08T00:00:00Z
+last-substantial-update: 2024-10-08T00:00:00.000Z
 jira: KT-16309
 exl-id: d52bd1f3-3c47-4401-97b1-8b2bc4308363
-source-git-commit: a5a5323e1325c056fb79f8875fd5208715661f1a
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 100%
-
 ---
-
 # 모바일 앱 최적화 - 개요
 
 Adobe Journey Optimizer의 모바일 앱 기능이 실시간으로 제공되는 개인화된 경험을 사용하여 고객 참여의 방식을 전환하는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477005/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)

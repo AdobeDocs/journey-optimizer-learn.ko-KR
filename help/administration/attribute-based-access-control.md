@@ -12,21 +12,28 @@ autotag-review: '2026-05-14T18:14:40.767Z'
 TQID: 'https://experienceleague.adobe.com/YBYN8Yt-f3p0qd4BimojR9hGU5R066QD2dP6q8fIrtM'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: b856530c-d60b-42d8-a19d-df2dfd7fe62a
+    internal-label: Access control
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+subfeature_v2:
+  - id: d712382d-29ef-487a-93a7-cbebdd2ef24a
+    internal-label: Access management
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
-workflow-type: ht
-source-wordcount: 60
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
-
 ---
-
 # 속성 기반 액세스 제어 구성
 
 특정 Experience Platform 리소스에 대한 액세스를 제한하기 위해 속성 기반 액세스 제어를 구성하는 방법에 대해 알아봅니다. 자세한 내용은 [액세스 제어 설명서](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html?lang=ko)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451845?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345641?learn=on)

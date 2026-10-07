@@ -7,16 +7,17 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 1b1b2b1f-c6e7-4afd-bb6f-39de2f93857c
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
-
 ---
-
 # Adobe Journey Optimizer의 핵심 이해
 
 Adobe Journey Optimizer(AJO)가 실시간 고객 데이터를 활용하여 채널 간에 일관되고 관련 있는 경험을 제공하는 방법에 대해 알아봅니다.
 
 <!-- 62_S522_3442522_82_understanding-the-core-of-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460493/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458249/?learn=on&enablevpops=true)

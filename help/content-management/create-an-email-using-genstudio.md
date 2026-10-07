@@ -1,22 +1,41 @@
 ---
 title: GenStudio for PeM을 사용하여 이메일 만들기
-description: Journey Optimizer에서 GenStudio for Performance Marketing으로 이메일 템플릿을 내보내고, GenStudio에서 템플릿을 사용하여 브랜드 양식을 준수하는 이메일을 작성하고, 이를 Journey Optimizer로 원활하게 다시 가져오는 과정을 살펴봅니다.
+description: Journey Optimizer에서 GenStudio for Performance Marketing으로 이메일 템플릿을 내보내고, GenStudio에서 템플릿을 사용하여 브랜드 가이드라인을 준수하는 이메일을 작성한 다음, 이를 Journey Optimizer로 원활하게 다시 가져오는 과정을 살펴봅니다.
 feature: Email Design, Templates
 topic: Content Management
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video
 duration: 324
-last-substantial-update: 2025-03-28T00:00:00Z
+last-substantial-update: 2025-03-28T00:00:00.000Z
 jira: KT-17531
 exl-id: 6503a468-b089-4bd1-b8a5-310077cbc43b
-source-git-commit: 6d09250d40f71ec8e64894e8283b22a91e8cd133
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+    internal-label: Content management
+subfeature_v2:
+  - id: ee5bb250-0884-4d71-86eb-d8489e8bcadd
+    internal-label: Email design
+  - id: d595a60b-bcf5-4a63-a189-66a0be755cc7
+    internal-label: Templates
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
-
 ---
-
 # GenStudio for Performance Marketing을 사용하여 이메일 만들기
 
 >[!AVAILABILITY]
@@ -27,6 +46,6 @@ ht-degree: 100%
 
 [!DNL Journey Optimizer]에서 [!DNL GenStudio for Performance Marketing]으로 이메일 템플릿을 내보내고, [!DNL GenStudio]에서 템플릿을 사용하여 브랜드 양식을 준수하는 이메일을 작성하고, 이를 [!DNL Journey Optimizer]로 원활하게 다시 가져오는 과정을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3456056/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
 [!DNL GenStudio for Performance Marketing]에 대해 자세히 알아보려면 [[!DNL Adobe GenStudio for Performance Marketing] 사용 안내서](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}를 확인하거나 [Adobe GenStudio for Performance Marketing 튜토리얼](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing-learn/tutorials/overview)을 참조하십시오.

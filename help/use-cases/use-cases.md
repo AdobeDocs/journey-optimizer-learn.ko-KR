@@ -1,18 +1,32 @@
 ---
 title: 사용 사례
-description: Adobe Journey Optimizer를 기반으로 한 실제 마케팅 시나리오를 살펴봅니다. 이 사용 사례에서는 브랜드가 온보딩 및 재참여부터 개인화된 오퍼 및 크로스 채널 오케스트레이션에 이르기까지 보다 스마트한 고객 여정을 구축하는 방법을 보여줍니다. 각 예제마다 전략을 실제 실행 연습과 연결하므로 실제 비즈니스 목표에 제품 기능을 적용하는 데 도움이 됩니다.
+description: Adobe Journey Optimizer를 기반으로 한 실제 마케팅 시나리오를 살펴봅니다. 이 사용 사례에서는 브랜드가 온보딩 및 재참여부터 개인화된 오퍼 및 크로스 채널 오케스트레이션에 이르기까지 보다 스마트한 고객 여정을 구축하는 방법을 보여줍니다. 각 예제는 전략과 실제 실행을 연결하여 실제 비즈니스 목표에 제품 기능을 적용하는 데 도움이 됩니다.
 feature: Use Cases
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Overview
-last-substantial-update: 2025-08-28T00:00:00Z
-source-git-commit: 1c8bcba7b46b6fc88ba93b2bad7ca3ed5f621e86
-workflow-type: ht
-source-wordcount: '895'
+last-substantial-update: 2025-08-28T00:00:00.000Z
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
+    internal-label: Use cases
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '1168'
 ht-degree: 100%
-
 ---
-
 
 # 사용 사례
 
@@ -20,13 +34,13 @@ Adobe Journey Optimizer를 기반으로 한 실제 마케팅 시나리오를 살
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
-* https://experienceleague.adobe.com/ko/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
-* https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
+* https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -35,7 +49,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="사용 사례 - 고객 온보딩(튜토리얼)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440657/?captions=kor&format=jpeg&nocache=1770161593376" alt="사용 사례 - 고객 온보딩(튜토리얼)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1770161593376" alt="사용 사례 - 고객 온보딩(튜토리얼)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -45,7 +59,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" title="사용 사례 - 고객 온보딩(튜토리얼)">사용 사례 - 고객 온보딩(튜토리얼)</a>
                     </p>
-                    <p class="is-size-6">Adobe Journey Optimizer(AJO)에서 고객 온보딩 여정을 구현하는 방법을 알아봅니다. 이 프로세스에서는 새로운 충성 멤버를 타깃으로 개인화된 이메일과 SMS를 게재하여 앱 다운로드를 유도합니다. 여기에는 환영 이메일 전송, 앱 설치 확인, 알림을 통한 후속 작업이 포함됩니다. 이 튜토리얼에서는 AI 콘텐츠 어시스턴트를 사용하여 콘텐츠를 만들고 개인화하는 방법도 보여 줍니다.</p>
+                    <p class="is-size-6">Adobe Journey Optimizer(AJO)에서 고객 온보딩 여정을 구현하는 방법을 알아봅니다. 이 프로세스에서는 새로운 로열티 멤버를 타깃으로 개인화된 이메일과 SMS를 게재하여 앱 다운로드를 유도합니다. 여기에는 환영 이메일 전송, 앱 설치 확인, 알림을 통한 후속 작업이 포함됩니다. 이 튜토리얼에서는 AI 콘텐츠 어시스턴트를 사용하여 콘텐츠를 만들고 개인화하는 방법도 보여 줍니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -58,7 +72,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="사용 사례 플레이북 - 미완료 장바구니" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443971/?captions=kor&format=jpeg&nocache=1770161593189" alt="사용 사례 플레이북 - 미완료 장바구니"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1770161593189" alt="사용 사례 플레이북 - 미완료 장바구니"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +95,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="지능형 재참여 Luma 예시" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454280/?captions=kor&format=jpeg&nocache=1770161592925" alt="지능형 재참여 Luma 예시"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1770161592925" alt="지능형 재참여 Luma 예시"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -104,7 +118,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction" title="Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="Web SDK를 사용하여 Adobe Journey Optimizer에서 실시간 날씨 데이터로 오퍼 개인화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

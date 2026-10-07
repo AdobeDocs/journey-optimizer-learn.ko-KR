@@ -7,16 +7,17 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: b2cf5965-611b-4731-8154-1348028bb2ec
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
-
 ---
-
 # 규모에 따른 실험의 장벽 극복
 
 Adobe이 플랫폼 기반 솔루션을 사용하여 관념화에서 실행에 이르기까지 확장 실험에 대한 주요 장벽을 식별하고 해결하는 방법을 알아봅니다.
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3460382/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)

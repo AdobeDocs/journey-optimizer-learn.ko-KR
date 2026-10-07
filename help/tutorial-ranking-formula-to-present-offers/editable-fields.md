@@ -1,21 +1,34 @@
 ---
 title: AJO 코드 기반 경험에서 편집 가능한 양식 필드 사용
-description: Adobe Journey Optimizer의 코드 기반 경험 템플릿에서 인라인 양식 필드를 사용하여 편집 가능한 콘텐츠 블록을 생성하여 마케터에게 동적이고 재사용 가능한 캠페인 콘텐츠를 제공하는 방법에 대해 알아봅니다.
+description: Adobe Journey Optimizer의 코드 기반 경험 템플릿에서 인라인 양식 필드를 사용하여 편집 가능한 콘텐츠 블록을 생성하여 마케터에게 동적이고 재사용 가능한 캠페인 콘텐츠를 제공하는 방법을 알아봅니다.
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-22T00:00:00Z
+last-substantial-update: 2025-06-22T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18416
 exl-id: 0ba695d6-becb-440d-b0d0-de5b51b42562
-source-git-commit: 65d91d4fb0e978e62e5d95bf40355dcb8d27efb9
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 1%
-
+source-wordcount: '221'
+ht-degree: 22%
 ---
-
 # AJO 코드 기반 경험에서 편집 가능한 양식 필드 사용
 
 많은 마케팅 여정, 특히 규제 대상 산업에서는 캠페인, 지역 또는 제품에 따라 달라질 수 있는 법적 면책조항을 포함해야 합니다. AJO Personalization 편집기에서 직접 [편집 가능한 필드](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)를 사용하면 마케터와 법률팀이 개발자를 참여시키거나 결정 논리를 수정하지 않고도 면책조항 텍스트에 대한 모든 권한을 유지할 수 있습니다.
@@ -25,9 +38,9 @@ ht-degree: 1%
 ## 개인화 편집기에 편집 가능한 필드 삽입
 
 - 이전 단계에서 만든 캠페인을 엽니다.
-- _&#x200B;**캠페인 수정**&#x200B;_ 클릭
-- _&#x200B;**콘텐츠**&#x200B;_ 탭으로 이동
-- _&#x200B;**코드 편집**&#x200B;_&#x200B;을 클릭하고 개인화 편집기에서 다음 구문을 사용하여 기본값이 포함된 legalDisclaimer라는 편집 가능한 필드를 삽입합니다
+- _**캠페인 수정**_ 클릭
+- _**콘텐츠**_ 탭으로 이동
+- _**코드 편집**_&#x200B;을 클릭하고 개인화 편집기에서 다음 구문을 사용하여 기본값이 포함된 legalDisclaimer라는 편집 가능한 필드를 삽입합니다
 
 - `{{#inline "legalDisclaimer" name="Legal Disclaimer"}} Legal Disclaimer will go here {{/inline}}`
 

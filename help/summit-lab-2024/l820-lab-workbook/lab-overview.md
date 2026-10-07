@@ -8,15 +8,28 @@ doc-type: Tutorial
 duration: 0
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-last-substantial-update: 2024-03-26T00:00:00Z
+last-substantial-update: 2024-03-26T00:00:00.000Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '505'
 ht-degree: 0%
-
 ---
-
 # 랩 워크북
 
 ![Adobe Summit - 대체 텍스트](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
@@ -35,11 +48,11 @@ ht-degree: 0%
 >참여자는 개인 또는 단체에 비밀정보를 복제, 사용, 전파 또는 공개할 수 없다.
 >제품 공시는 정보용으로만 제공되며 향후 어떤 기능이나 기능도 보장하지 않으며 언제든지 변경될 수 있습니다. 이와 같이 이러한 제품 기능 또는 기능은 Adobe과의 계약에 포함되어 있지 않거나 어떤 방식으로든 귀하에게 약정되지 않습니다.
 ><br>
->**면책조항**
+>**면책 조항**
 >Adobe은 생성 AI 기술을 활용하는 기능에 대한 조기 액세스를 제공합니다. 이러한 기능은 아직 개발 중이며 예기치 않거나 정확하지 않은 응답을 생성할 수 있습니다. 이 기능을 시장에 출시할 때 귀하의 피드백을 환영합니다.
 
 
-### 주요 개선 사항
+### 주요 학습 사항
 
 * 지원되는 다양한 모바일 경험을 이해합니다.
 * 푸시 캠페인을 구성합니다.
@@ -51,7 +64,7 @@ ht-degree: 0%
 
 * 귀하의 좌석 번호를 알고 : 당신은 실험실 기계의 책상 위에서 귀하의 좌석 번호를 찾을 수 있습니다:
 
-![시트 번호](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![자리 번호](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 다음에 대한 액세스 권한이 필요합니다.
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - 로그인 세부 정보는 연습 중에 제공됩니다.

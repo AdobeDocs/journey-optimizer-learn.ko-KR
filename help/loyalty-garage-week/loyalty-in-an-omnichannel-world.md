@@ -6,13 +6,23 @@ role: User
 hide: true
 index: false
 exl-id: 73603f31-b60f-4062-8de2-636b20d2c039
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '2186'
 ht-degree: 0%
-
 ---
-
 # 옴니채널 세계에서의 충성도
 
 ## 모든 고객 접점에서 통일된 예측 실시간 충성도 경험 구축
@@ -117,4 +127,4 @@ ID, 데이터, 의사 결정, 오케스트레이션, 경험과 같은 5계층 �
 
 ## &#x200B;8. 결론: 전략적 자산으로서의 옴니채널 충성도
 
-Omnichannel loyalty is no longer an optional enhancement—it is a competitive necessity. Brands that deliver consistent, continuous, personalized loyalty experiences across channels outperform those that rely on isolated campaigns or disconnected touchpoints. By investing in the architecture, governance, orchestration, and AI capabilities required for omnichannel excellence, enterprise loyalty leaders can transform their programs into engines of long-term revenue, engagement, and emotional attachment.
+옴니채널 충성도는 더 이상 선택 사항이 아니며, 이는 경쟁사의 필수 사항입니다. 여러 채널에서 일관되고 지속적이며 개인화된 충성도 경험을 제공하는 브랜드는 분리된 캠페인이나 연결되지 않은 터치포인트에 의존하는 브랜드보다 뛰어난 성과를 제공합니다. 엔터프라이즈 충성도 리더는 옴니채널 우수성에 필요한 아키텍처, 거버넌스, 오케스트레이션 및 AI 기능에 투자함으로써 프로그램을 장기 수익, 참여 및 정서적 애착의 엔진으로 전환할 수 있습니다.

@@ -5,15 +5,25 @@ jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 100%
-
 ---
-
 
 # 주문 확인 이메일 만들기
 
@@ -47,9 +57,9 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
 
    * `Luma - Order summary` 템플릿을 사용하고 수정하십시오.
 
-      * `You may also like` 섹션 제거
+     * `You may also like` 섹션 제거
 
-      * 이메일 아래쪽에 구독 취소 링크 추가
+     * 이메일 아래쪽에 구독 취소 링크 추가
 
 이메일을 다음과 같이 구조화해야 합니다.
 
@@ -86,7 +96,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
   </td>
  <td>
   <div>
-     <strong> 배송지 섹션</strong>
+     <strong> 배송처 섹션</strong>
       </div>
       <p>
       <li>이름과 성은 프로필에서 가져온 것입니다.
@@ -109,12 +119,12 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
       </p><br>
       <p><b>팁:</b>
       <li>이 섹션에 <b>1:2열 왼쪽</b> 구조 구성 요소 사용
-      <li>컨텍스트 기반 이벤트 정보입니다.
+      <li>상황별 이벤트 정보입니다.
       <li>[!UICONTROL helper function] 사용: [!UICONTROL Each]
-      <li>코드 편집기 형식으로 전환하여 컨텍스트 데이터를 추가합니다.
+      <li>코드 편집기 형식으로 전환하여 상황별 데이터를 추가합니다.
   </td>
   <td>
-    <strong>머리글</strong>
+    <strong>Header</strong>
     <p>
   주문: <em>{purchaseOrderNumber}</em>
     </p>
@@ -156,7 +166,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
    * `State`: CA
    * `Street:` 245 Park Avenue
 
-사용자가 개인화된 구매 확인 이메일을 받게 됩니다.
+개인화된 구매 확인 이메일을 받게 됩니다.
 
 * 제목란에는 테스트 프로필 이름인 &quot;Leora&quot;가 있어야 합니다.
 

@@ -7,16 +7,17 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 591d06fb-4537-4103-bc35-670564f9465e
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
-
 ---
-
 # Adobe 에이전트를 통한 목표 기반 대상 생성
 
 Adobe의 Audience Agent이 AI를 사용하여 실시간 데이터와 머신 러닝 모델을 활용하여 정밀하고 목표 중심의 대상자를 생성하는 방법을 살펴보십시오.
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3460304/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)

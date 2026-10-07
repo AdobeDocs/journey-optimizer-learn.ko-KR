@@ -7,18 +7,31 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 300
-last-substantial-update: 2025-03-27T00:00:00Z
+last-substantial-update: 2025-03-27T00:00:00.000Z
 jira: KT-17529
 hide: false
 index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
-source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+    internal-label: Content management
+subfeature_v2:
+  - id: 76ce9c27-4cb0-5f07-ad92-959506fdee70
+    internal-label: Assets
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
-
 ---
-
 # Adobe Express를 사용한 자산 편집
 
 >[!AVAILABILITY]
@@ -27,6 +40,6 @@ ht-degree: 100%
 
 Adobe Express 도구를 사용하여 Adobe Journey Optimizer에서 자산을 편집하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455530/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
 콘텐츠 편집기에서 이 기능에 액세스하는 자세한 방법은 [Journey Optimizer 제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/assets-images/express)를 참조하십시오. Adobe Express에 대한 자세한 내용은 [이 설명서](https://helpx.adobe.com/kr/express/user-guide.html)를 참조하십시오.

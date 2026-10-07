@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '481'
 ht-degree: 0%
-
 ---
-
 # 여정 만들기
 
 이 단계에서는 사용자 지정 price.drop 이벤트에 의해 트리거되는 Adobe Journey Optimizer의 여정을 만듭니다. 이 이벤트가 수신되면 여정이 실시간으로 시작되고, 옵트인한 사용자에게 푸시 알림이 전송되어 이벤트 기반 참여가 활성화됩니다.
@@ -55,7 +65,7 @@ price.drop 이벤트에서 트리거되는 여정을 만들려면 다음 단계�
 메시지 작성을 시작하려면 `Content`을(를) 클릭하여 콘텐츠 탭을 엽니다. 이 탭에서 고정 텍스트와 이벤트 데이터에서 파생된 동적 필드를 모두 정의할 수 있습니다.
 ![content-push](assets/compose-message.png)
 
-푸시 메시지의 제목을 지정한 다음 개인화 편집기를 열어 메시지 본문을 구성합니다. 콘텐츠에는 가격이 하락한 제품의 이름이 동적으로 포함됩니다. 이렇게 하려면 각 [도우미 함수를 사용하세요.](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+푸시 메시지의 제목을 지정한 다음 개인화 편집기를 열어 메시지 본문을 구성합니다. 콘텐츠에는 가격이 하락한 제품의 이름이 동적으로 포함됩니다. 이렇게 하려면 각 [도우미 함수를 사용하세요.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 제품 목록을 반복하고 메시지 내에서 해당 이름을 렌더링합니다.
 
 ## 메시지 본문 구성

@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 2%
-
+source-wordcount: '778'
+ht-degree: 5%
 ---
-
 # 3과 - 웹 인앱 캠페인 만들기
 
 앱에 대한 모바일 경험을 만들었으므로 이 단원에서는 Fréscopa 웹 사이트에서 본 경험 중 하나를 만듭니다. 웹 인앱 캠페인을 만듭니다. 메시지를 디자인하고 사용자 정의하고 메시지를 실행하는 트리거를 정의합니다.
@@ -154,7 +167,7 @@ ht-degree: 2%
 
 **제품 설명서:**
 
-* [인앱 채널 시작](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [웹 인앱 메시지 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [인앱 콘텐츠 디자인](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/design-in-app)
-* [인앱 알림 확인 및 보내기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/send-in-app)
+* [인앱 채널 시작하기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [웹 인앱 메시지 만들기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [인앱 콘텐츠 디자인](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [인앱 알림 확인하고 보내기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

@@ -7,16 +7,17 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 733b2ab9-6fc1-41ce-8773-d41539cf07c2
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
-
 ---
-
 # Adobe Journey Optimizer Experimentation Accelerator 소개
 
 테스트를 최적화하고, 통찰력을 제공하고, 비즈니스 영향을 유도하도록 설계된 새로운 GenAI 기반의 Experimentation Accelerator을 살펴보십시오.
 
 <!-- 62_S531_3442531_100_introducing-the-adobe-journey-optimizer-experimentation-accelerator -->
->[!VIDEO](https://video.tv.adobe.com/v/3460360/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458230/?learn=on&enablevpops=true)
