@@ -5,17 +5,30 @@ role: User
 level: Beginner
 doc-type: Tutorial
 feature: Decisioning
-last-substantial-update: 2025-05-05T00:00:00Z
+last-substantial-update: 2025-05-05T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '223'
 ht-degree: 0%
-
 ---
-
 # 솔루션을 테스트할 웹 페이지 만들기
 
 이 웹 페이지는 Adobe Journey Optimizer Decisioning을 통해 제공되는 개인화된 오퍼를 테스트하기 위해 만들어졌습니다. 또한 sendEvent 호출을 트리거하고 반환된 오퍼 컨텐츠를 렌더링할 수 있는 제어된 환경을 제공하여 전체적인 개인화 설정을 확인하고 의사 결정이 예상대로 작동하는지 확인하는 데 도움이 됩니다.

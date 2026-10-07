@@ -1,22 +1,39 @@
 ---
-title: 여름 컬렉션 공지 만들기 - 과제
+title: 여름 컬렉션 공지 만들기 - 챌린지
 description: 새로운 Luma 여름 컬렉션을 홍보하기 위해 기존 고객으로 이루어진 대상자에게 여름 컬렉션 공지를 보냅니다.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: fda7be7c-b81e-42c0-95a9-616e5b893c03
+    internal-label: Build expressions
+subfeature_v2:
+  - id: a9db6739-b0ee-4ac1-bf1b-d880e21c6a00
+    internal-label: Segments
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
-
 ---
+# 여름 컬렉션 공지 만들기 - 챌린지
 
-# 여름 컬렉션 공지 만들기 - 과제
-
-| 과제 | 여름 컬렉션 발표 만들기 |
+| 과제 | 여름 컬렉션 공지 만들기 |
 |---|---|
 | 페르소나 | 여정 관리자 |
 | 필요한 기술 | <ul><li>[세그먼트 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko)</li><li> [HTML 이메일 콘텐츠 가져오기 및 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=ko)</li><li>[사용 사례 - 세그먼트 읽기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=ko)</li> |
@@ -57,7 +74,7 @@ Luma 마케팅 팀이 Journey Optimizer에서 여름 컬렉션 마케팅 캠페�
 
 **자격을 갖춘 프로필이 세그먼트에 추가되었습니다.**
 
-세그먼트 세부 사항 보기에 나열된 프로필 중 하나로 이동하여 세그먼트 자격에 추가된 프로필을 확인할 수 있습니다.
+세그먼트 세부 정보 보기에 나열된 프로필 중 하나로 이동하여 세그먼트에 추가될 자격이 있는 프로필을 확인할 수 있습니다.
 
 프로필 페이지에서 [!UICONTROL 속성] 탭을 사용하여 자격이 있는지 확인합니다. 티어는 실버, 골드, 플래티넘 또는 다이아몬드여야 합니다.
 
@@ -84,13 +101,13 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >[!ENDTABS]
 
 
-### 2단계: 여정 만들기 - 여름 컬렉션 발표
+### 2단계: 여정 만들기 - 여름 컬렉션 공지
 
 >[!BEGINTABS]
 
 >[!TAB 작업]
 
-#### 여름 컬렉션 발표 보내기
+#### 여름 컬렉션 공지 보내기
 
 에이전시가 이메일 디자인이 포함된 4개의 HTML 파일을 제공했습니다.
 
@@ -109,17 +126,17 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
       * 제공된 HTML 파일 `SeasonalCollectionEmail.html`을 이메일 본문에 사용합니다.
    1. 이틀 동안 기다렸다가 더 많은 타겟팅된 컨텐츠가 있는 후속 이메일 메시지를 보냅니다.
       * 남성 고객은 **Luma 남성 컬렉션** 이메일을 받습니다.
-         * 메시지 제목: *Luma 남성 컬렉션*
-         * 제목란: *(수신인 이름) 님, 새로운 남성용 운동복을 살펴보세요!*
-         * 이메일 본문: `MensCollectionEmail.html` 이메일 본문에 사용됩니다.
+        * 메시지 제목: *Luma 남성 컬렉션*
+        * 제목란: *(수신인 이름) 님, 새로운 남성용 운동복을 살펴보세요!*
+        * 이메일 본문: `MensCollectionEmail.html` 이메일 본문에 사용됩니다.
       * 여성 고객은 **Luma 여성 컬렉션** 이메일을 받습니다.
-         * 메시지 제목: *Luma 여성 컬렉션*
-         * 제목란: *(수신인 이름) 님, Luma의 여성 컬렉션을 살펴보세요!*
-         * 이메일 본문: `WomensCollectionEmail.html`
+        * 메시지 제목: *Luma 여성 컬렉션*
+        * 제목란: *(수신인 이름) 님, Luma의 여성 컬렉션을 살펴보세요!*
+        * 이메일 본문: `WomensCollectionEmail.html`
       * 다른 고객은 **Luma - 20% 할인 컬렉션** 이메일을 받습니다.
-         * 메시지 제목: *Luma - 20% 할인 컬렉션*
-         * 제목란: *(수신인 이름) 님, 20% 할인을 받으세요!*
-         * 이메일 본문: `20OOffCollectionEmail.html`
+        * 메시지 제목: *Luma - 20% 할인 컬렉션*
+        * 제목란: *(수신인 이름) 님, 20% 할인을 받으세요!*
+        * 이메일 본문: `20OOffCollectionEmail.html`
    1. 상단의 타겟팅된 이메일을 보낸 후 이메일이 열릴 때까지 2일 기다립니다.
    1. 타겟팅된 이메일이 2일 이내에 열리지 않으면 최종 재타겟팅 시도로서 **Luma - 20 % 할인 컬렉션 이메일**&#x200B;을 보냅니다.
 
@@ -177,7 +194,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >1. [!UICONTROL 세그먼트 활동 읽기]에 **Luma CRM ID(lumaCrmId)**&#x200B;로 설정된 네임스페이스가 있는지 확인합니다.
 >1. 각각의 이메일에 대해 자신의 이메일 주소로 전송할 수 있도록 기본 이메일 매개 변수를 재정의합니다.
 >    * 눈 기호를 클릭하여 숨겨진 값을 표시합니다.
->    * 이메일 매개 변수에서 T 기호를 클릭합니다(매개 변수 재정의 활성화).
+>    * 이메일 매개변수에서 T 기호를 클릭합니다(매개변수 재정의 활성화).
 >
 >      ![이메일 매개 변수 재정의](/help/challenges/assets/c3-override-email-paramters.jpg)
 > 
@@ -190,26 +207,26 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 여정을 테스트 모드로 전환합니다.
 1. **[!UICONTROL 한 번에 하나의 프로필]**&#x200B;을 선택합니다.
 1. 대기 시간: 타이머를 120초로 설정합니다(필드에 입력).
-1. 프로필 시작 트리거
+1. 프로필 진입 트리거
 1. 다음 *Luma CRM ID* 중 하나를 프로필 식별자로서 사용하여 각 분기를 테스트할 수 있습니다.
    * 여성: Leora Dietsche, ID 값:`a8f14eab3b483c2b96171b575ecd90b1`
    * 남성: Stanleigh Stooke, ID 값: `4f34057d9d9e792c28ba18ecae378e98`
    * 성별 미지정: Louise Petti, ID 값: `d1f132f9f9502bba047a6ec86c4b61f9`
 
-1. 프로필 시작을 트리거하면 첫 번째 이메일을 받게 됩니다. 헤더는 사용자가 선택한 프로필에 따라 개인화되어야 합니다.
+1. 프로필 진입을 트리거하면 첫 번째 이메일을 받게 됩니다. 헤더는 사용자가 선택한 프로필에 따라 개인화되어야 합니다.
 1. 여정은 각 분기로 계속 실행되어야 하며 사용자는 관련된 이메일을 받게 됩니다(예: *Jenna*&#x200B;를 선택한 경우, *Luma 여성 컬렉션* 이메일 수신).
 1. 두 번째 이메일을 열면 여정이 종료됩니다.
 1. 4단계를 반복할 수 있습니다. - 7. 3개 프로필 모두에 대해 분기가 올바르게 작동하는지 확인합니다.
-1. 시간 초과를 테스트하려면 대기 시간을 30초로 설정하고 시작을 다시 트리거합니다.
-1. 받은 이메일을 열자 마십시오(이메일을 미리 보지 마십시오(!)) 대기 시간이 경과하게 하세요.
+1. 시간 초과를 테스트하려면 대기 시간을 30초로 설정하고 항목을 다시 트리거합니다.
+1. 받은 이메일을 열지 마십시오(이메일을 미리 보지 마십시오(!)) 대기 시간이 경과하게 하세요.
 
 다음 이메일을 수신해야 합니다.
 
-* Luma - 새로운 시즌 컬렉션 발표
+* Luma - 새로운 시즌 컬렉션 공지
 * 사용한 테스트 프로필에 따라 다음 이메일 중 하나를 수신해야 합니다.
-   * Leora: Luma 여성 컬렉션
-   * Stanleigh: Luma 남성 컬렉션
-   * Louise: Luma - 20% 할인 컬렉션
+  * Leora: Luma 여성 컬렉션
+  * Stanleigh: Luma 남성 컬렉션
+  * Louise: Luma - 20% 할인 컬렉션
 * 두 번째 이메일을 열지 않은 경우: Luma - 20% 할인 컬렉션
 
 >[!TAB 작업 확인]

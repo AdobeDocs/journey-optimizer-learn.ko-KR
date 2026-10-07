@@ -8,15 +8,29 @@ doc-type: feature video
 team: TM
 role: User
 level: Beginner, Intermediate, Experienced
-last-substantial-update: 2022-09-21T00:00:00Z
+last-substantial-update: 2022-09-21T00:00:00.000Z
 exl-id: 17c56468-0fad-4717-bde7-78c12639c67a
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 9bb0ff1a-29d5-5edf-a6a2-8ec9c30e28c8
+    internal-label: Privacy
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
-
 ---
-
 # 메시지의 데이터 마스킹
 
 데이터 마스킹의 의미와 데이터를 마스크해야 하는 시기 및 이유를 파악합니다. Journey Optimizer 메시지에서 데이터를 마스킹하는 방법을 알아봅니다.

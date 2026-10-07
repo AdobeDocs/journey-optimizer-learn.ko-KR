@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: d8daab7e-7cfd-4943-98a7-f37a0f46adce
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
-
 ---
-
 # Adobe Journey Optimizer의 AI 기반 의사 결정
 
 Adobe Journey Optimizer이 AI 및 머신 러닝을 활용하여 최적의 다음 작업, 여정 최적화 및 의사 결정을 통해 개인화된 고객 경험을 제공하는 방법에 대해 알아봅니다.

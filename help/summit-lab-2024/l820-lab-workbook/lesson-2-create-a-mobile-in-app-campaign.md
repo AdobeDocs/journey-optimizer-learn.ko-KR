@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '1432'
-ht-degree: 1%
-
+source-wordcount: '1520'
+ht-degree: 2%
 ---
-
 # 단원 2 - 모바일 인앱 캠페인 만들기
 
 이 단원에서는 모바일 인앱 메시지를 만들고 트리거합니다.
@@ -33,7 +46,7 @@ ht-degree: 1%
 2. 다음 세부 정보를 사용하여 로그인합니다.
    <br>
    **사용자 이름:** L820+**`<your seat number>`**@adobeeventlab.com
-   **암호:**   Adobe2024!
+   **암호:** Adobe2024!
    <br>
 로그인에 대한 자세한 내용은 랩 컴퓨터 바탕 화면에서 확인할 수 있습니다. Adobe ID 및 암호를 사용합니다.
    ![데스크톱](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
@@ -147,9 +160,9 @@ ht-degree: 1%
 
 #### 2.3.3.2 메시지 작성 및 캠페인 게시
 
-1. 미디어 섹션에서 다음 URL에 붙여 넣습니다. `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
+1. 미디어 섹션에서 다음 URL에 붙여 넣습니다.  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
-값 필드 바깥쪽을 클릭하면 이미지가 표시됩니다.
+   값 필드 바깥쪽을 클릭하면 이미지가 표시됩니다.
 
    미리 보기에 ![미디어가 표시됨](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
@@ -320,7 +333,7 @@ ht-degree: 1%
 
 **제품 설명서:**
 
-* [인앱 채널 시작](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [인앱 채널 시작하기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/get-started-in-app)
 * [모바일 인앱 메시지 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/create-in-app)
 * [인앱 콘텐츠 디자인](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/design-in-app)
-* [인앱 알림 확인 및 보내기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/send-in-app)
+* [인앱 알림 확인하고 보내기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/in-app/send-in-app)

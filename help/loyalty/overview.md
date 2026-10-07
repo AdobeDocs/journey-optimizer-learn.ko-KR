@@ -1,6 +1,6 @@
 ---
-title: Journey Optimizer 충성도 시작
-description: Adobe Journey Optimizer 충성도에 온보딩하고, 문제를 구성하고, 적용하고, 표시하며, 성능을 분석하는 방법에 대해 알아봅니다.
+title: Journey Optimizer Loyalty 시작
+description: Adobe Journey Optimizer Loyalty에 온보딩하고, 문제를 구성하고, 적용하고, 표시하며, 성능을 분석하는 방법에 대해 알아봅니다.
 topic: Get Started
 role: User
 level: Beginner
@@ -33,13 +33,13 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 15d0be3f2fb94737746f3f7fb2d668838c124d36
+source-git-commit: a07c147cfaeb33372c1626a2c23b54c77c28f637
 workflow-type: tm+mt
-source-wordcount: '1658'
-ht-degree: 42%
+source-wordcount: '1946'
+ht-degree: 43%
 ---
 
-# Journey Optimizer 충성도 시작
+# Journey Optimizer Loyalty 시작
 
 충성도 챌린지를 사용하면 고객 행동을 유도하고 브랜드 관계를 심화하는 매력적이고 게임화된 충성도 프로그램을 만들 수 있습니다. 구매 및 리뷰 작성부터 소셜 미디어 참여 및 친구 추천에 이르기까지 특정 작업에 대해 고객에게 보상해 주는 문제를 구축하십시오.
 
@@ -63,8 +63,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Journey Optimizer 충성도 살펴보기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496456/?captions=kor&format=jpeg&nocache=1789777079801" alt="Journey Optimizer 충성도 살펴보기"
+                    <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Journey Optimizer Loyalty 살펴보기" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496456/?captions=kor&format=jpeg&nocache=1789777079801" alt="Journey Optimizer Loyalty 살펴보기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -72,9 +72,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Journey Optimizer 충성도 살펴보기">Journey Optimizer Loyalty 검색</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Journey Optimizer Loyalty 살펴보기">Journey Optimizer Loyalty 검색</a>
                     </p>
-                    <p class="is-size-6">Journey Optimizer 충성도가 무엇인지, AJO에서 차지하는 위치와 과제 라이프사이클을 이해합니다.</p>
+                    <p class="is-size-6">Journey Optimizer Loyalty이 무엇인지, AJO에서 어떤 위치에 있는지, 과제 라이프사이클을 이해합니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -110,18 +110,93 @@ CARDS
 
 ## 충성도 설정
 
-이 섹션에서는 문제 만들기를 시작하기 전에 필요한 일회성 설정에 대해 설명합니다.
+이 섹션에서는 충성도 데이터 수집, 성과 보고 및 보상 제공자를 포함하여 과제 생성을 시작하기 전에 필요한 일회성 설정에 대해 설명합니다.
 
 
 <!--
 CARDS
 
+* ./set-up-loyalty/prepare-loyalty-data-structures.md
+    {description = Learn how to create XDM schemas and profile-enabled datasets in Adobe Experience Platform to receive loyalty member profile data and loyalty event data.}
+* ./set-up-loyalty/connect-and-map-loyalty-data.md
+    {description = Learn how to configure an HTTP API source connection and dataflows in Adobe Experience Platform, then map loyalty profile and event fields to your datasets.}
+* ./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md
+    {description = Learn how to test loyalty profile and event data ingestion, verify datasets and unified customer profiles, and configure Loyalty Performance settings.}
 * ./set-up-loyalty/set-up-a-loyalty-reward-provider.md
   {description = Learn how to set up a reward provider, create reward definitions, and configure reward payloads so Adobe Journey Optimizer can issue loyalty rewards through your external rewards system.}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Prepare loyalty data structures">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" title="충성도 데이터 구조 준비" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504120/?format=jpeg" alt="충성도 데이터 구조 준비"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" target="_blank" rel="referrer" title="충성도 데이터 구조 준비">충성도 데이터 구조 준비</a>
+                    </p>
+                    <p class="is-size-6">Adobe Experience Platform에서 XDM 스키마 및 프로필 활성화 데이터 세트를 만들어 충성도 멤버 프로필 데이터 및 충성도 이벤트 데이터를 수신하는 방법을 알아봅니다.</p>
+                </div>
+                <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Connect and map loyalty data">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" title="충성도 데이터 연결 및 매핑" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504118/?format=jpeg" alt="충성도 데이터 연결 및 매핑"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" target="_blank" rel="referrer" title="충성도 데이터 연결 및 매핑">충성도 데이터 연결 및 매핑</a>
+                    </p>
+                    <p class="is-size-6">Adobe Experience Platform에서 HTTP API 소스 연결 및 데이터 흐름을 구성한 다음 로열티 프로필 및 이벤트 필드를 데이터 세트에 매핑하는 방법을 알아봅니다.</p>
+                </div>
+                <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Verify loyalty data and configure performance reporting">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" title="충성도 데이터 확인 및 성능 보고 구성" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504119/?format=jpeg" alt="충성도 데이터 확인 및 성능 보고 구성"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" target="_blank" rel="referrer" title="충성도 데이터 확인 및 성능 보고 구성">충성도 데이터 확인 및 성능 보고 구성</a>
+                    </p>
+                    <p class="is-size-6">충성도 프로필 및 이벤트 데이터 수집 테스트, 데이터 세트 및 통합 고객 프로필 확인 및 충성도 성능 설정 구성 방법을 알아봅니다.</p>
+                </div>
+                <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up a loyalty reward provider">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">

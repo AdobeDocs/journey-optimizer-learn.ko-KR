@@ -13,24 +13,32 @@ autotag-review: '2026-05-18T17:41:23.040Z'
 TQID: 'https://experienceleague.adobe.com/CewU-ae-YpOST84NOvZCYO36s1KzOQxFwAIH1p-GeXk'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: b423a773-0a58-4a77-b65d-3dd4ae6ef841
+    internal-label: Campaign Orchestration
+  - id: a653cc2e-bc85-4353-a306-399e5b247978
+    internal-label: Journey Optimizer campaigns
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: ht
-source-wordcount: 91
+    internal-label: Data management
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
-
 ---
-
 # Adobe Journey Optimizer의 오케스트레이션된 캠페인 소개
 
 Adobe Journey Optimizer의 오케스트레이션된 캠페인을 통해 마케터가 고급 데이터 관리 기능을 사용하여 브랜드에서 시작한 대상자 기반 캠페인을 관리하는 방법을 알아봅니다. 다중 엔터티 세분화로 온디맨드 대상자를 구축하고, 관계형 데이터를 활용하여 메시지를 타기팅 및 개인화하고, 정확한 캠페인 선별을 위해 전송 전에 대상자 수를 확인하는 방법에 대해 알아봅니다.

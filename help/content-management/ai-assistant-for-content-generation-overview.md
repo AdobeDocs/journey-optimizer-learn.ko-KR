@@ -14,21 +14,26 @@ autotag-review: '2026-05-18T17:13:02.165Z'
 TQID: 'https://experienceleague.adobe.com/H70iDSMP6Dm7JxEFdK5Prhd8WXg4riz1bnFUTLdpfDU'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+    internal-label: Content management
 subfeature_v2:
   - id: d6e0d39b-5df3-4c72-8263-fd834397ee97
+    internal-label: AI content generation
+  - id: f659587f-8bf8-5d99-be43-652c46ebaa44
+    internal-label: Content Assistant
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: ht
-source-wordcount: 54
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '54'
 ht-degree: 100%
-
 ---
-
 # 콘텐츠 생성용 AI 어시스턴트 - 개요
 
 콘텐츠 생성용 AI 어시스턴트로 텍스트 및 이미지 모두에 대한 콘텐츠 베리에이션 제안을 먼저 적극적으로 제공하여 마케터의 업무를 지원하는 방법을 알아봅니다.

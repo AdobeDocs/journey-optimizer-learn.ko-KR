@@ -5,17 +5,30 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: e080149c-0ac0-4559-b99d-ebad9f03b98b
-source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 0%
-
 ---
-
 # 로그인 활동을 모방할 샘플 애플리케이션 구축
 
 Node.js 서버에 구축되고 배포된 이 샘플 애플리케이션은 사용자가 로그인할 때 CRM ID를 Adobe Experience Platform(AEP)로 보내는 방법을 보여 줍니다. 애플리케이션은 서버 측에서 사용자 자격 증명의 유효성을 검사하는 로그인 플로우를 시뮬레이션합니다. 로그인에 성공하면 사용자의 CRM ID가 검색되어 adobeDataLayer로 푸시되고 Adobe Experience Platform Tags(이전의 Adobe Launch)에서 해당 규칙이 트리거됩니다.
@@ -49,7 +62,7 @@ function attachLoginHandler() {
 }
 ```
 
-Adobe Experience Platform 태그 스크립트는 일반적으로 다음과 같은 `<head>` 태그를 사용하여 HTML 페이지의 `<script>` 섹션에 포함되어 있습니다.
+Adobe Experience Platform 태그 스크립트는 일반적으로 다음과 같은 `<script>` 태그를 사용하여 HTML 페이지의 `<head>` 섹션에 포함되어 있습니다.
 
 `<script src="https://assets.adobedtm.com/b5eu4857867/4e4d84957/launch-b69e276bb9b5-development.min.js" async crossorigin="anonymous"></script>`
 

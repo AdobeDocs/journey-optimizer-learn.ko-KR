@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 5cda28e4-ea2f-4277-8951-a23525ca655a
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '405'
 ht-degree: 0%
-
 ---
-
 # Adobe Journey Optimizer의 웹 푸시
 
 웹 푸시 알림은 실시간으로 사용자를 다시 참여시키는 강력한 방법이며 이 튜토리얼에서는 Adobe Journey Optimizer(AJO)를 사용하여 사용자를 구현하는 방법을 안내합니다. 먼저 웹 SDK을 사용하여 푸시 알림에 대한 사용자 옵트인 환경 설정을 캡처하여 원활하고 규정 준수 구독 환경을 보장합니다. 다음으로, 선택한 사용자에게 푸시 알림을 전송하는 캠페인을 만들어 대상자 기반 참여를 활성화합니다. 마지막으로, AEP 태그를 활용하여 AJO에서 여정을 시작하고 실시간 사용자 행동을 기반으로 개인화된 푸시 알림을 적시에 전달하는 사용자 지정 가격 하락 이벤트를 트리거하는 방법에 대해 알아봅니다.

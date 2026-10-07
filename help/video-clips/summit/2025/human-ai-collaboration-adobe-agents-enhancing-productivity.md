@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 6971211c-d025-44ad-ba34-1cc54805eb68
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
-
 ---
-
 # Human-AI Collaboration: 생산성 향상을 위한 Adobe 에이전트
 
 Adobe 에이전트가 실무자와 협력하여 실행 가능한 통찰력을 제공하고 워크플로우를 최적화하며 실시간으로 문제를 사전에 해결하는 방법을 살펴봅니다.

@@ -5,15 +5,28 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21T00:00:00.000Z
 jira: KT-18526
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
-
 ---
-
 # 여정에서 푸시 메시지 보내기
 
 가격 하락 이벤트를 기반으로 여정을 트리거하면 행동별로 실시간으로 사용자를 참여시킬 수 있습니다. 실제 시나리오에서 이 이벤트는 일반적으로 제품 가격이 업데이트될 때 백엔드 가격 책정 시스템에서 발생합니다. 이 자습서에서는 이름 및 SKU와 같은 제품 세부 사항을 포함하여 AEP 태그를 사용하여 Adobe 데이터 레이어를 통해 사용자 지정 price.drop 이벤트를 전송하여 해당 비헤이비어를 시뮬레이션합니다. 이 이벤트는 Adobe Experience Platform에 수집되어 Adobe Journey Optimizer의 여정에 대한 시작 트리거로 사용됩니다. 수신이 완료되면 여정은 적격 사용자에게 개인화된 푸시 알림을 즉시 전송하여 가격 하락에 대해 알리고 적시에 조치를 취할 수 있습니다.

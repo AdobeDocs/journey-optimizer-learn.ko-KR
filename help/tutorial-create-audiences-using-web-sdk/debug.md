@@ -5,17 +5,30 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
-
 ---
-
 # 솔루션 테스트
 
 구현의 유효성을 검사하려면 먼저 기본 설정 양식이 포함된 웹 페이지를 여십시오. 브라우저의 DevTools(콘솔 및 네트워크 탭)를 사용하여 양식 제출 프로세스를 모니터링합니다. 환경 설정을 제출한 후(예: &quot;Stocks&quot; 선택) AEP Web SDK(alloy.sendEvent)가 성공적으로 트리거되고 올바른 데이터가 Adobe Experience Platform으로 전송되었는지 확인합니다. AEP에서 Edge 세그멘테이션을 사용하여 대상 섹션으로 이동하고 몇 분 안에 프로필이 예상 대상(예: &quot;주식에 관심있음&quot;)에 적합한지 확인합니다. 연결된 데이터 세트에서 들어오는 이벤트 데이터를 검사하여 올바른 환경 설정 값이 포함되어 있는지 확인할 수도 있습니다. 전체 워크플로우가 제대로 작동하는지 확인하기 위해 각 자산 클래스(주식, 채권, CD)에 대해 이 프로세스를 반복합니다.

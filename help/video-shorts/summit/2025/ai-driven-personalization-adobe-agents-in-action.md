@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 28d2a04b-70b7-4809-876b-d7bf381c1b1f
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
-
 ---
-
 # AI 기반 Personalization: Adobe 에이전트 활용
 
 Adobe의 인텔리전트 에이전트가 규모에 맞게 초개인화된 고객 경험을 오케스트레이션하여 빠듯한 예산 및 콘텐츠 프로덕션 병목 현상과 같은 문제를 해결하는 방법에 대해 알아봅니다.

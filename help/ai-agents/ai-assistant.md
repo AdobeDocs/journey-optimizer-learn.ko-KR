@@ -13,22 +13,33 @@ autotag-review: '2026-05-18T17:14:46.340Z'
 TQID: 'https://experienceleague.adobe.com/8RiX51WRVl6eua18TfPLGgNgWB3Eh1rURNxGQ52KXp4'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: b519aa58085d08dd492c1b59a7267b31d6339f00
-workflow-type: ht
-source-wordcount: 101
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
-
 ---
-
 # AI 어시스턴트
 
 Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics와 같은 Adobe Experience Platform 기반 애플리케이션에서 AI 어시스턴트로 무엇을 할 수 있는지 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Journey Optimizer에서 지원되는 사용 사례에 대한 자세한 내용은 [AI 어시스턴트 사용 작업](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/get-started/work-efficiently/ai-features)을 참조하세요. 자세한 내용은 [Adobe Experience Platform의 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/experience-platform/ai-assistant/home) 설명서를 참조하세요.
+Journey Optimizer에서 지원되는 사용 사례에 대한 자세한 내용은 [AI 어시스턴트 작업](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/get-started/work-efficiently/ai-features)을 참조하세요. 자세한 내용은 [Adobe Experience Platform의 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/experience-platform/ai-assistant/home) 설명서를 참조하세요.
 

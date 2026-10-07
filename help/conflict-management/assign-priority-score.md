@@ -13,22 +13,28 @@ autotag-review: '2026-05-18T17:56:49.072Z'
 TQID: 'https://experienceleague.adobe.com/-Wyh9GmqyT2dybZ8trWpGK1AUVX1V9FzlKuBFvHNmbo'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+  - id: a653cc2e-bc85-4353-a306-399e5b247978
+    internal-label: Journey Optimizer campaigns
 subfeature_v2:
   - id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
+    internal-label: Business rules
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: ht
-source-wordcount: 97
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
-
 ---
-
 # 인바운드 작업에 우선순위 점수 할당
 
 동일한 채널 구성을 사용하여 여러 인바운드 액션에 적합할 때 고객에게 최우선 순위의 콘텐츠가 전달되도록 인바운드 액션의 우선순위를 정하는 방법을 알아봅니다.

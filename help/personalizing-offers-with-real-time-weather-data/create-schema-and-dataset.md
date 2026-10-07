@@ -5,17 +5,30 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 1c7fe9e7-ab72-4d7b-960a-512d0e25808b
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '336'
 ht-degree: 0%
-
 ---
-
 # AEP에서 XDM 스키마, 데이터 세트 및 데이터 스트림 설정
 
 ## XDM 스키마 만들기
@@ -41,7 +54,7 @@ XDM 스키마를 만들려면
 Adobe Experience Platform(AEP)의 **데이터 집합**&#x200B;은(는) 정의된 XDM 스키마를 기반으로 데이터를 수집, 저장 및 활성화하는 데 사용되는 구조화된 저장소 컨테이너입니다.
 
 - _&#x200B;**데이터 관리 -> 데이터 세트 -> 데이터 세트 만들기**&#x200B;_(으)로 이동
-- 이전 단계에서 만든 XDM 스키마(**_Weather-Schema_**)를 기반으로 _&#x200B;**Weather-schema-dataset**&#x200B;_&#x200B;이라는 데이터 집합을 만듭니다.
+- 이전 단계에서 만든 XDM 스키마(_&#x200B;**Weather-Schema**&#x200B;_)를 기반으로 **_Weather-schema-dataset_**&#x200B;이라는 데이터 집합을 만듭니다.
 
 
 ## 데이터 스트림 만들기

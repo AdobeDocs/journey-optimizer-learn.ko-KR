@@ -6,16 +6,29 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2025-07-08T00:00:00Z
+last-substantial-update: 2025-07-08T00:00:00.000Z
 jira: KT-18451
 exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
-source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '708'
 ht-degree: 3%
-
 ---
-
 # AI 모델 교육을 위한 Adobe Web SDK으로 오퍼 상호 작용 캡처
 
 >[!NOTE]
@@ -24,7 +37,7 @@ ht-degree: 3%
 
 
 
-이 문서에서는 JavaScript 코드에서 직접 alloy(&quot;sendEvent&quot;, ...)를 호출하여 Adobe Experience Platform Web SDK을 사용하여 오퍼 상호 작용 이벤트(노출 횟수 또는 클릭 수 등)를 캡처하는 방법을 보여 줍니다. 이 데이터는 AEP에 수집되어 실시간 행동을 기반으로 보다 스마트한 오퍼 순위를 위해 Adobe Journey Optimizer(AJO)의 AI 모델을 교육하는 데 사용됩니다.
+이 문서에서는 alloy(&quot;sendEvent&quot;, ...)를 호출하여 Adobe Experience Platform Web SDK을 사용하여 오퍼 상호 작용 이벤트(노출 횟수 또는 클릭 수 등)를 캡처하는 방법을 보여 줍니다. JavaScript 코드에서 바로 참조할 수 있습니다. 이 데이터는 AEP에 수집되어 실시간 행동을 기반으로 보다 스마트한 오퍼 순위를 위해 Adobe Journey Optimizer(AJO)의 AI 모델을 교육하는 데 사용됩니다.
 
 Adobe Journey Optimizer에서 오퍼 순위에 대한 AI 모델을 만들려면, 데이터 세트가 제안 상호 작용 필드 그룹을 포함하는 스키마를 기반으로 해야 합니다. 이 필드 그룹은 decisioning.propositionDisplay 및 decisioning.propositionInteract와 같은 주요 의사 결정 이벤트와 함께 containedPropositions, display 및 interact와 같은 필수 필드를 지원합니다.
 
@@ -161,4 +174,4 @@ child.querySelectorAll("a, button").forEach(el => {
 
 ## 솔루션 테스트
 
-[기존 웹 페이지](assets/ai-model.js)에 [업데이트된 JavaScript 파일](assets/weather-offers.html) 포함
+[기존 웹 페이지](assets/weather-offers.html)에 [업데이트된 JavaScript 파일](assets/ai-model.js) 포함

@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 108de002-f033-4b88-bee5-2b50463c345c
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
-
 ---
-
 # 태그 속성 만들기
 
 이 자습서의 두 번째 부분에서는 사용자 지정 price.drop 이벤트를 수동으로 전송하여 실시간으로 푸시 알림을 트리거하는 방법을 알아봅니다. 이 접근 방법에서는 AEP 데이터 수집(태그)을 사용하여 웹 페이지에서 이벤트를 캡처하여 Adobe Experience Platform으로 보냅니다. 이벤트가 수집되면 Adobe Journey Optimizer에서 여정을 트리거하여 사용자 작업 또는 비즈니스 이벤트에 따라 요청 시 푸시 알림을 전송할 수 있습니다.

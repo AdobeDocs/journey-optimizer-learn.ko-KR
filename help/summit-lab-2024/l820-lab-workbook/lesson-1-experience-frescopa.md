@@ -10,13 +10,28 @@ recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
 exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '601'
 ht-degree: 1%
-
 ---
-
 # 1과 - 경험 Fréscopa
 
 이 단원에서는 다음 단원에서 마케터로서 모바일 경험을 설정하기 전에 소비자로서의 브랜드와의 상호 작용을 경험하게 됩니다.
@@ -132,10 +147,10 @@ Android에서 여기에 표시된 경고 지침에 따라 APK를 다운로드하
 
 * 로그인합니다.
 * 모바일 인앱 경험을 트리거할 앱을 살펴보십시오.
-   * 커피 설문 조사를 완료합니다.
-   * 커피 구독에 등록하십시오.
-   * 장바구니에 항목을 추가합니다.
-   * 장바구니를 확인하십시오.
+  * 커피 설문 조사를 완료합니다.
+  * 커피 구독에 등록하십시오.
+  * 장바구니에 항목을 추가합니다.
+  * 장바구니를 확인하십시오.
 
 이러한 각 활동에 대한 배지를 받습니다.
 

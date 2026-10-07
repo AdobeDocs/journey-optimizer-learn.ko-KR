@@ -5,16 +5,26 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2026-01-15T00:00:00Z
+last-substantial-update: 2026-01-15T00:00:00.000Z
 jira: KT-20124
 exl-id: f30b7f74-644e-48e1-99ec-230f94dc56e6
-source-git-commit: 8be60011054e465b86685b626f7f924c5f6039c3
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
-
 ---
-
 # 조회 데이터 세트 만들기
 
 데이터 세트 조회를 사용하면 실시간 고객 프로필에 데이터를 저장할 필요 없이 Adobe Journey Optimizer가 여정 런타임 중에 Adobe Experience Platform 데이터 세트에서 참조 또는 트랜잭션 데이터를 검색할 수 있습니다.

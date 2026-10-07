@@ -8,13 +8,32 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: aeebb91a-f216-4d5f-8da1-3a7e6f696ed0
+    internal-label: Data management activity
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: d2e8a157-b3b0-4143-9ff3-809bf400be56
+    internal-label: Sandboxes
+  - id: efb19423-4da4-4fd1-88d8-5ee8c71ae766
+    internal-label: Application settings
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '1033'
 ht-degree: 100%
-
 ---
-
 # 수동으로 데이터 설정하기
 
 이 섹션에서는 필요한 ID 네임스페이스를 만들고 [[!UICONTROL 스키마]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ko-KR)를 만들어 [!DNL Luma] 샘플 데이터 구조를 정의합니다.
@@ -127,7 +146,7 @@ Adobe는 스키마 간에 일관성을 유지하기 위해 모든 시스템 식�
 
 #### 새 [!UICONTROL 필드 그룹]에 필드 추가
 
-비어 있는 새 필드 그룹이 스키마에 추가됩니다. + 버튼을 사용하여 계층의 모든 위치에 새 필드를 추가할 수 있습니다. 이 경우 루트 수준에서 필드를 추가해야 합니다.
+비어 있는 새 필드 그룹이 스키마에 추가됩니다. + 버튼을 사용하여 계층의 모든 위치에 새 필드를 추가할 수 있습니다. 이 경우 루트 수준에 필드를 추가해야 합니다.
 
 1. 스키마 이름 옆의 **[!UICONTROL +]** 버튼을 선택합니다.
 
@@ -158,7 +177,7 @@ Adobe는 스키마 간에 일관성을 유지하기 위해 모든 시스템 식�
 
 #### ID 설정
 
-이제 [!UICONTROL 네임스페이스]와 [!DNL Luma Loyalty schema] 구성을 완료했습니다. 데이터를 수집하기에 앞서 ID 필드를 레이블을 지정해야 합니다. [!UICONTROL 실시간 고객 프로필]에서 사용하는 스키마마다 기본 ID를 지정해야 하며, 수집하는 레코드마다 해당 필드의 값이 있어야 합니다.
+이제 [!UICONTROL 네임스페이스]와 [!DNL Luma Loyalty schema] 구성을 완료했습니다. 데이터를 수집하기에 앞서 ID 필드에 레이블을 지정해야 합니다. [!UICONTROL 실시간 고객 프로필]에서 사용하는 스키마마다 기본 ID를 지정해야 하며, 수집하는 레코드마다 해당 필드의 값이 있어야 합니다.
 
 1. 다음과 같이 **기본 ID**&#x200B;를 설정합니다.
 

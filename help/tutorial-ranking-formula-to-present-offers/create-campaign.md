@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
-source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 1%
-
+source-wordcount: '741'
+ht-degree: 0%
 ---
-
 # 캠페인 만들기
 
 웹 페이지의 사용자에게 개인화된 오퍼를 전달하기 위해 Adobe Journey Optimizer에 캠페인이 만들어지고 올바른 채널인 웹 채널로 구성되었습니다. 이 구성은 웹 사이트와 상호 작용하는 사용자에게 실시간 의사 결정을 통해 오퍼가 전달되도록 합니다.

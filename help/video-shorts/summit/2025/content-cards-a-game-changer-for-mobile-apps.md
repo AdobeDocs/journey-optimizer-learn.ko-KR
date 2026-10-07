@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 00e6c6b4-745e-480c-a8d0-5b303f896326
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # 콘텐츠 카드: 모바일 앱의 게임 체인저
 
 Adobe Journey Optimizer의 Content Card가 앱 내에 침입되지 않는 개인화된 콘텐츠를 직접 전달하여 참여 및 전환을 유도하는 방법을 알아봅니다.

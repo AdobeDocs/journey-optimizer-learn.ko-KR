@@ -6,16 +6,31 @@ role: User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 149
-last-substantial-update: 2025-05-01T00:00:00Z
+last-substantial-update: 2025-05-01T00:00:00.000Z
 jira: KT-17872
 exl-id: 19167d9b-14f5-4e0b-9c3d-70dc594c5b5d
-source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 38%
-
 ---
-
 # Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장 - 소개
 
 원래 Adobe Summit 2025에서 랩 L535로 제공된 이 튜토리얼은 랩의 콘텐츠를 안내합니다.

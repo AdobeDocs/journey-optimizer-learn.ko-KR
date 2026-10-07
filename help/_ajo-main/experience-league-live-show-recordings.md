@@ -4,13 +4,20 @@ description: Experience League LIVE는 Experience League 팀에서 제작한 라
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '2456'
 ht-degree: 100%
-
 ---
-
 # Experience League LIVE 쇼
 
 Experience League LIVE는 디지털 경험 제품 활성화 팀에서 제작하는 라이브 스트리밍 쇼입니다. Adobe 제품 전문가를 만나고 Adobe Experience Cloud 애플리케이션에 적용할 유용한 팁과 요령, 전략을 배울 수 있는 기회입니다.
@@ -51,7 +58,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -74,7 +81,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -140,7 +147,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -157,13 +164,13 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" title="Journey Optimizer에서 RCS 및 WhatsApp으로 모바일 범위 확장(2025년 9월 30일)">Journey Optimizer에서 RCS 및 WhatsApp으로 모바일 범위 확장(2025년 9월 30일)</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" title="Journey Optimizer에서 RCS 및 WhatsApp으로 모바일 범위 확장(2025년 9월 30일)">Journey Optimizer에서 RCS 및 WhatsApp으로 모바일 도달 범위 확장(2025년 9월 30일)</a>
                     </p>
                     <p class="is-size-6">이 쇼에서 Travis Jordan과 Nikhil Sharma는 Adobe Journey Optimizer가 최근 WhatsApp, RCS 및 사용자 정의 SMS 제공자를 비롯한 강력한 새로운 채널 추가 및 기능을 통해 모바일 참여를 확장한 방법을 보여줍니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -186,7 +193,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -194,8 +201,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="빈도 제한 및 충돌 우선 순위 지정 마스터하기(2025년 6월 18일)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1775836545598" alt="빈도 제한 및 충돌 우선 순위 지정 마스터하기(2025년 6월 18일)"
+                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="빈도 캡핑 및 충돌 우선 순위 지정 마스터하기(2025년 6월 18일)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1775836545598" alt="빈도 캡핑 및 충돌 우선 순위 지정 마스터하기(2025년 6월 18일)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,11 +212,11 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="빈도 제한 및 충돌 우선 순위 지정 마스터하기(2025년 6월 18일)">기본 빈도 제한 및 충돌 우선 순위 지정 마스터하기(2025년 6월 18일)</a>
                     </p>
-                    <p class="is-size-6">이 세션에서는 Adobe 전문가 Ariel Sultan과 Aaron Forrest가 고객 메시지를 정확하게 관리하고 우선 순위를 지정할 수 있도록 지원하는 Adobe Journey Optimizer의 새로운 기능에 대해 자세히 설명합니다. 또한 메시지 피로도를 줄이고 충돌을 해결하며 고객이 공감할만한 효과적인 경험을 전달하는 방법을 보여 줍니다.</p>
+                    <p class="is-size-6">이 세션에서는 Adobe 전문가 Ariel Sultan과 Aaron Forrest가 고객 메시지를 정확하게 관리하고 우선 순위를 지정할 수 있도록 지원하는 Adobe Journey Optimizer의 새로운 기능에 대해 자세히 설명합니다. 또한 메시지 피로도를 줄이고 충돌을 해결하며 공감을 불러일으키는 효과적인 경험을 제공하는 방법을 보여 줍니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -232,7 +239,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -255,7 +262,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -274,11 +281,11 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" target="_blank" rel="referrer" title="Adobe Journey Optimizer용 콘텐츠 카드 공개(2024년 11월 6일)">Adobe Journey Optimizer용 콘텐츠 카드 공개(2024년 11월 6일)</a>
                     </p>
-                    <p class="is-size-6">콘텐츠 카드가 앱이나 웹 사이트 내에서 주요 업데이트, 프로모션, 메시지를 원활하게 전달하여 사용자를 방해하지 않는 경험을 보장하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">콘텐츠 카드가 앱이나 웹 사이트 내에서 주요 업데이트, 프로모션, 메시지를 원활하게 전달하여 사용자를 방해하지 않는 사용자 경험을 보장하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -286,8 +293,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Experience 에코시스템의 대상자 조합 - Experience Platform의 페더레이션된 대상자 컴포지션(2024년 10월 24일)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1775836545560" alt="Experience 에코시스템의 대상자 조합 - Experience Platform의 페더레이션된 대상자 컴포지션(2024년 10월 24일)"
+                    <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Experience 에코시스템의 대상자 조화 - Experience Platform의 페더레이션된 대상자 컴포지션(2024년 10월 24일)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1775836545560" alt="Experience 에코시스템의 대상자 조화 - Experience Platform의 페더레이션된 대상자 컴포지션(2024년 10월 24일)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -295,13 +302,13 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Experience 에코시스템의 대상자 조합 - Experience Platform의 페더레이션된 대상자 컴포지션(2024년 10월 24일)">Experience 에코시스템의 대상자 조합 - Experience Platform의 페더레이션된 대상자 컴포지션(2024년 10월 24일)</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Experience 에코시스템의 대상자 조합 - Experience Platform의 페더레이션된 대상자 컴포지션(2024년 10월 24일)">Experience 에코시스템의 대상자 조화 - Experience Platform의 페더레이션된 대상자 컴포지션(2024년 10월 24일)</a>
                     </p>
-                    <p class="is-size-6">페더레이션된 대상자 컴포지션에 대해 알아봅니다. 페더레이션된 대상자 컴포지션은 Real-Time CDP와 Journey Optimizer를 통해 대상자 큐레이션 및 활성화에 대한 포괄적인 접근 방식을 제공합니다.</p>
+                    <p class="is-size-6">페더레이션된 대상자 컴포지션에 대해 알아봅니다. 페더레이션된 대상자 컴포지션은 Adobe Real-Time Customer Data Platform 및 Journey Optimizer를 통해 대상자 큐레이션 및 활성화에 대한 포괄적인 접근 방식을 제공합니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -324,7 +331,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -347,7 +354,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -355,8 +362,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko" title="Adobe Journey Optimizer의 API 트리거된 메시징" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1775836545890" alt="Adobe Journey Optimizer의 API 트리거된 메시징"
+                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko" title="Adobe Journey Optimizer의 API 트리거된 메시지" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1775836545890" alt="Adobe Journey Optimizer의 API 트리거된 메시지"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -364,13 +371,13 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko" target="_blank" rel="referrer" title="Adobe Journey Optimizer의 API 트리거된 메시징">Adobe Journey Optimizer의 API 트리거된 메시징</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko" target="_blank" rel="referrer" title="Adobe Journey Optimizer의 API 트리거된 메시지">Adobe Journey Optimizer의 API 트리거된 메시징</a>
                     </p>
-                    <p class="is-size-6">상황별로 개인화된 실시간 트랜잭션 및 마케팅 커뮤니케이션에 REST API를 사용하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">상황별, 개인화된 실시간 트랜잭션 및 마케팅 커뮤니케이션에 REST API를 사용하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=ko" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -393,7 +400,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=ko" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
-                
+                </a>
             </div>
         </div>
     </div>

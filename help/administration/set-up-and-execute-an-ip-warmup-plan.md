@@ -14,19 +14,24 @@ autotag-review: '2026-05-14T18:15:02.249Z'
 TQID: 'https://experienceleague.adobe.com/sEO0vr8fcgCa7rKaQIFSG30t-0yHlhOjzupI9ef8iVY'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+subfeature_v2:
+  - id: c343082f-e963-4f57-a96b-b64d27f8118e
+    internal-label: IP warmup plans
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
-workflow-type: ht
-source-wordcount: 167
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '167'
 ht-degree: 100%
-
 ---
-
 # IP 준비 계획 및 실행
 
 IP 준비가 무엇인지 이해하고 Adobe Journey Optimizer에서 IP 준비 계획을 설정 및 실행하는 방법을 알아봅니다.
