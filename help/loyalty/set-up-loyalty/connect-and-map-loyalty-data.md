@@ -34,4 +34,4 @@ ht-degree: 0%
 
 HTTP API 연결 및 데이터 흐름을 만든 다음 수신 충성도 프로필 및 이벤트 필드를 데이터 세트에 매핑하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504118/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504134/?captions=kor&learn=on)

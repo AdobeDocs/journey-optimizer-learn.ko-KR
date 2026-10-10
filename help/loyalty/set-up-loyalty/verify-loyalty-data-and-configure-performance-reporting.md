@@ -34,4 +34,4 @@ ht-degree: 0%
 
 샘플 충성도 프로필 및 이벤트 데이터를 Adobe Experience Platform으로 보내고, 데이터 세트 및 통합 고객 프로필에 표시되는지 확인한 다음, 데이터 세트를 선택하고 충성도 성능 설정에서 KPI의 우선 순위를 정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504119/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504125/?captions=kor&learn=on)
