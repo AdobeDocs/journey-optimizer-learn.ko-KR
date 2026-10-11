@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 
-자세한 내용은 [통합 문서 찾아보기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)를 참조하십시오.
+자세한 내용은 [통합 문서 찾아보기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)를 참조하십시오.

@@ -43,4 +43,4 @@ Adobe Journey Optimizer 채널 작성에서 외부 데이터 및 콘텐츠를 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-자세한 내용은 [표준 통합 문서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)를 참조하십시오.
+자세한 내용은 [표준 통합 문서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)를 참조하십시오.
