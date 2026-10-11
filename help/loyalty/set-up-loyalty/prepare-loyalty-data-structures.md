@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Adobe Experience Platform에서 충성도 멤버 및 이벤트 데이터를 받는 데 필요한 XDM 스키마 및 프로필 사용 데이터 세트를 설정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504120/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504143/?captions=kor&learn=on)

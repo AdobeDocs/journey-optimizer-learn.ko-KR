@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: ht
-source-wordcount: '1579'
-ht-degree: 100%
+source-git-commit: cec289fc6f0240c67a5fe6a297ba9a1512d9005f
+workflow-type: tm+mt
+source-wordcount: '1583'
+ht-degree: 99%
 ---
 
 # Journey Optimizer 튜토리얼 {#tutorials}
@@ -78,6 +78,7 @@ ht-degree: 100%
   + [구독 및 랜딩 페이지](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + 채널 {#channels}
   + [모바일 앱 최적화 - 개요](/help/channels/mobile-app-optimization-overview.md)
+  + [프로필 환경 설정 또는 성향 점수를 기반으로 채널 최적화](/help/channels/channel-optimization.md)
   + 코드 기반 경험 채널{#code-based-experience-channel}
     + [코드 기반 경험 캠페인 만들기](/help/channels/create-a-code-based-experience-campaign.md)
     + [코드 기반 경험 채널 템플릿에 양식 필드 추가](/help/channels/form-fields-in-code-based-experiences.md)
@@ -146,9 +147,10 @@ ht-degree: 100%
     + [콘텐츠 생성용 AI 어시스턴트 - 개요](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [콘텐츠 생성용 AI 어시스턴트로 콘텐츠 만들기](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [브랜드 가이드라인 만들기 및 관리](/help/content-management/brand-guideline-creation-and-management.md)
-  + [프로필 환경 설정 또는 성향 점수를 기반으로 채널 최적화](/help/channels/channel-optimization.md)
   + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
-  + [채널 작성에서 외부 데이터 통합 활성화](/help/content-management/external-data-integrations-in-channel-authoring.md)
+  + 외부 데이터 통합 {#external-data-integrations}
+    + [표준 통합 만들기](/help/content-management/external-data-integrations/create-a-standard-integration.md)
+    + [브라우징 통합 만들기](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [Journey Optimizer에서 브랜드에 맞는 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 콘텐츠 개인화 {#personalize-content}
   + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
