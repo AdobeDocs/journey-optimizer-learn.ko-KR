@@ -1,0 +1,46 @@
+---
+title: 표준 통합 만들기
+description: 표준 통합을 만들어 Adobe Journey Optimizer 채널 작성에서 외부 데이터 및 콘텐츠를 사용하고 아웃바운드 채널 전반에서 개인화를 향상시키는 방법을 알아봅니다.
+feature: Personalization, API, Channel Configuration
+role: Admin, User
+level: Intermediate
+doc-type: Feature Video
+duration: 212
+last-substantial-update: '2026-04-28T00:00:00.000Z'
+jira: KT-20916
+exl-id: a056114d-24d4-4168-a9c8-6219570a5261
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: e27fbada-1278-56f5-ac8f-e77b392cb15b
+    internal-label: Personalization
+  - id: 629f438c-ea49-5ade-aa39-c2a256ff3036
+    internal-label: API
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+    internal-label: Content management
+subfeature_v2:
+  - id: dd51b532-b93f-4bcf-8dbf-0d007f593aca
+    internal-label: Data source configuration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 19%
+---
+# 표준 통합 만들기
+
+Adobe Journey Optimizer 채널 작성에서 외부 데이터 및 콘텐츠를 사용하기 위해 표준 통합을 만드는 방법을 알아봅니다. 이를 통해 아웃바운드 채널에서 개인화를 강화하고 참여도를 높일 수 있습니다. 아래 비디오를 통해 자세한 내용을 살펴보세요.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+
+자세한 내용은 [표준 통합 문서](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)를 참조하십시오.
