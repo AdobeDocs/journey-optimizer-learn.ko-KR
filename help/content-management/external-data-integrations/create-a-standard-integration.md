@@ -41,6 +41,6 @@ ht-degree: 19%
 
 Adobe Journey Optimizer 채널 작성에서 외부 데이터 및 콘텐츠를 사용하기 위해 표준 통합을 만드는 방법을 알아봅니다. 이를 통해 아웃바운드 채널에서 개인화를 강화하고 참여도를 높일 수 있습니다. 아래 비디오를 통해 자세한 내용을 살펴보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484125/?captions=kor&learn=on&enablevpops)
 
 자세한 내용은 [표준 통합 문서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)를 참조하십시오.
