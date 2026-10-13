@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 충성도
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: a07c147cfaeb33372c1626a2c23b54c77c28f637
+source-git-commit: 07cd7b44db7e534b5b7b3cf7b96fe7ce584047c3
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '177'
 ht-degree: 0%
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 0%
   + [Journey Optimizer Loyalty 살펴보기](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
   + [충성도 과제 개념 이해](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + 충성도 설정 {#set-up-loyality}
+  + [충성도 문제를 위한 구성 옵션 살펴보기](./set-up-loyalty/explore-the-configuration-options-for-loyalty-challenges.md)
   + 충성도 데이터 수집 설정 {#set-up-loyalty-data-ingestion}
     + [충성도 데이터 구조 준비](./set-up-loyalty/prepare-loyalty-data-structures.md)
     + [충성도 데이터 연결 및 매핑](./set-up-loyalty/connect-and-map-loyalty-data.md)
