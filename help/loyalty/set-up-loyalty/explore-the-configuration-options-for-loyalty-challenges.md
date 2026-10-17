@@ -32,4 +32,4 @@ ht-degree: 0%
 
 전역 설정, 보고, 보상, 이벤트 매핑, 제품 인벤토리 및 제외를 포함하여 로열티 문제를 지원하는 구성 옵션을 살펴보십시오. 자세한 설정 지침은 보상 제공자 및 이벤트 매핑에 대한 전용 비디오를 시청하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504419/?captions=kor&learn=on&enablevpops)
