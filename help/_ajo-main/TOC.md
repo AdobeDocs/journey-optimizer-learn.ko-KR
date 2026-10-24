@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: cec289fc6f0240c67a5fe6a297ba9a1512d9005f
+source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
 workflow-type: tm+mt
-source-wordcount: '1583'
-ht-degree: 99%
+source-wordcount: '1589'
+ht-degree: 98%
 ---
 
 # Journey Optimizer 튜토리얼 {#tutorials}
@@ -41,6 +41,7 @@ ht-degree: 99%
   + [새 여정 캔버스 소개](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
   + [AI를 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
+  + [자연어를 사용하여 여정 조건 만들기](/help/journeys/create-journey-conditions-using-natural-language.md)
   + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
   + [외부 대상자를 대상으로 여정 시뮬레이션](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [빠른 시뮬레이션으로 여정 테스트 가속화](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
