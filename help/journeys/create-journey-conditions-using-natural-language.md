@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer의 AI 기능이 표현식 언어를 작성하지 않고 일반 영어 프롬프트를 여정 조건으로 변환하는 방법에 대해 알아봅니다. 이 비디오에서는 충성도 멤버십 및 휴면 사용자 확인을 사용하여 보다 관련성이 높은 고객 경로를 생성하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504899/?captions=kor&learn=on&enablevpops)
