@@ -26,7 +26,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
 ---
@@ -34,4 +34,4 @@ ht-degree: 100%
 
 개별 여정의 성과와 더불어 입장 및 종료 통계, 오류, 실행한 액션 등 사용자가 여정의 다양한 단계와 상호 작용하는 방식을 추적하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471470/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)

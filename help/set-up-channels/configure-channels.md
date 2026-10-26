@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 ---
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 채널 구성의 정의와 Adobe Journey Optimizer에서 이를 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480458/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433124/?learn=on)
 
 채널 구성을 설정하는 방법에 대한 자세한 내용은 [제품 설명서를 참조](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces)하십시오.

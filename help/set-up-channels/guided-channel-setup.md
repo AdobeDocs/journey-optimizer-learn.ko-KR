@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
 ht-degree: 100%
 ---
@@ -40,7 +40,7 @@ ht-degree: 100%
 
 샘플 iOS 모바일 마케팅 앱에서 푸시 채널 알림을 설정하고 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449629/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 자세한 내용은 다음 제품 설명서를 참조하십시오.
 

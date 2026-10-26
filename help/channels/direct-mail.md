@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 ---
@@ -35,4 +35,4 @@ ht-degree: 100%
 
 DM(다이렉트 메일) 채널을 설정하는 방법과 DM 캠페인을 만들고 미리 보는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449361/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}

@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
 ht-degree: 100%
 ---
@@ -37,4 +37,4 @@ ht-degree: 100%
 
 이 강력한 도구는 고객 참여를 향상하고 비즈니스에 큰 영향을 미칩니다. 자세한 내용은 포함된 비디오를 시청하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486208/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486201/?learn=on&enablevpops)

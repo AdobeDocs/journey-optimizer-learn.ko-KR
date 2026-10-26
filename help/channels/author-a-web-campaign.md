@@ -32,7 +32,7 @@ topic_v2:
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
     internal-label: Web experience
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 ---
@@ -43,4 +43,4 @@ Journey Optimizer 캠페인에서 웹 시각적 편집기를 사용하여 웹 �
 >[!NOTE]
 > [Adobe Experience Cloud Visual Editing Helper Chrome 확장 프로그램](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca)을 설치해야 웹 사이트를 Adobe Journey Optimizer에 로드할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452642/?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}

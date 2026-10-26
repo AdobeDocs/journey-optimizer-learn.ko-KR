@@ -29,7 +29,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
 ht-degree: 100%
 ---
@@ -39,6 +39,6 @@ ht-degree: 100%
 
 이 보고서는 문제를 식별하고 여정의 성능을 향상시키며 여정이 원활하게 작동하도록 하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479548/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
 이 기능에 관한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)를 참고하십시오.

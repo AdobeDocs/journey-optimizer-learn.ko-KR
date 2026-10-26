@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 ---
@@ -33,4 +33,4 @@ ht-degree: 100%
 
 CSV 파일을 업로드하여 대상자를 효율적으로 가져오고 활성화하는 방법에 대해 알아봅니다. CSV 파일의 보강 속성으로 콘텐츠를 개인화하여 대상자에게 보다 적합한 경험을 제공하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444350/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444298/?learn=on&enablevpops)

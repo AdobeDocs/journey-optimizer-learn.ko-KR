@@ -26,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ Adobe Journey Optimizer 다국어 메시지 기능을 사용하면 단일 캠페
 
 자동 번역을 위한 번역 프로젝트를 설정하는 방법과 다국어 메시지를 위한 수동 번역 및 자동 번역 프로젝트에 필요한 언어 설정을 알아봅니다.
  
->[!VIDEO](https://video.tv.adobe.com/v/3453550/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)

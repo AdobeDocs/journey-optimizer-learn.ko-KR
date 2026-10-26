@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 ---
@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Adobe Journey Optimizer의 모바일 앱 기능이 실시간으로 제공되는 개인화된 경험을 사용하여 고객 참여의 방식을 전환하는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477005/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)

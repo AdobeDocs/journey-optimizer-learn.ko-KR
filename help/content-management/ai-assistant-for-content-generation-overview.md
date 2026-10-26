@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 콘텐츠 생성용 AI 어시스턴트로 텍스트 및 이미지 모두에 대한 콘텐츠 베리에이션 제안을 먼저 적극적으로 제공하여 마케터의 업무를 지원하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463107/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)

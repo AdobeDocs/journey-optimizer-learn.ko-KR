@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
 ht-degree: 100%
 ---
@@ -36,6 +36,6 @@ ht-degree: 100%
 
 템플릿의 콘텐츠를 잠그는 방법에 대해 알아봅니다. 이 튜토리얼에서는 읽기 전용 및 콘텐츠 잠금 모드를 사용하여 템플릿의 전체 또는 일부를 잠그는 방법과 잠긴 템플릿 내에서 편집 가능한 영역을 관리하는 방법을 다룹니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451614/?captions=kor&learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/content-templates/content-locking)를 참조하십시오.

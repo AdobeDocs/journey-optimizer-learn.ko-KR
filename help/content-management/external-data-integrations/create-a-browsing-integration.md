@@ -1,6 +1,6 @@
 ---
-title: 브라우징 통합 만들기
-description: 외부 API에 대한 검색 통합을 구성하고, 표준 통합에 연결하고, 마케터가 값을 수동으로 입력하지 않고 AJO 편집기에서 항목을 검색, 탐색 및 선택할 수 있도록 하는 방법에 대해 알아봅니다.
+title: 탐색 통합 만들기
+description: 외부 API에 대한 탐색 통합을 구성하고, 표준 통합에 연결하고, 마케터가 값을 수동으로 입력하지 않고도 AJO 편집기에서 항목을 검색, 탐색, 선택할 수 있도록 하는 방법에 대해 알아봅니다.
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -32,15 +32,15 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# 브라우징 통합 만들기
+# 탐색 통합 만들기
 
-외부 API에 대한 검색 통합을 구성하고, 표준 통합에 연결하고, 마케터가 값을 수동으로 입력하지 않고 AJO 편집기에서 항목을 검색, 탐색 및 선택할 수 있도록 하는 방법에 대해 알아봅니다.
+외부 API에 대한 탐색 통합을 구성하고, 표준 통합에 연결하고, 마케터가 값을 수동으로 입력하지 않고도 AJO 편집기에서 항목을 검색, 탐색, 선택할 수 있도록 하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 
-자세한 내용은 [통합 문서 찾아보기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)를 참조하십시오.
+자세한 내용은 [탐색 통합 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)를 참조하세요.

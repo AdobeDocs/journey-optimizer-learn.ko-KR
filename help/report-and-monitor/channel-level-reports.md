@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
 ---
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 채널 수준에서 보고서에 액세스하고, 탐색하고, 내보내는 방법에 대해 알아봅니다. 자세한 내용은 [채널 보고서 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html?lang=ko)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448046/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424537/?learn=on)

@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 ---
@@ -41,4 +41,4 @@ ht-degree: 100%
 
 WhatsApp을 통해 개인화된 고객 참여를 자동화하려는 마케터에게 적합합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470289/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)

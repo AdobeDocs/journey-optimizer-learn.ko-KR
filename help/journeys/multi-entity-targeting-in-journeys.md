@@ -31,7 +31,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 ---
@@ -43,5 +43,5 @@ ht-degree: 100%
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491840/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
 

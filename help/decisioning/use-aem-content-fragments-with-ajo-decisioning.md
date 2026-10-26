@@ -35,7 +35,7 @@ topic_v2:
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
     internal-label: Content and assets
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 ---
@@ -44,4 +44,4 @@ ht-degree: 100%
 
 Adobe Journey에서 Adobe Experience Manager 콘텐츠 조각을 사용하여 민첩한 커뮤니케이션의 콘텐츠를 개인화하고 최적화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492220/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)

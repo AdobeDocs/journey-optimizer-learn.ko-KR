@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 ---
@@ -35,6 +35,6 @@ ht-degree: 100%
 
 커뮤니케이션 전반에서 시각적, 언어적 정체성을 명확하게 정의하기 위해 자체 브랜드를 만들고 맞춤화하는 방법을 알아봅니다. 브랜드 정렬 점수로 콘텐츠가 브랜드의 톤, 스타일, 지침을 얼마나 잘 반영하는지에 대한 실시간 피드백을 확인하는 방법을 파악해 보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470553/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands)를 참조하십시오.

@@ -35,7 +35,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 ---
@@ -50,6 +50,6 @@ ht-degree: 100%
 >
 >Journey Optimizer에서 경고에 액세스할 때는 기본적으로 라이브 여정에 관련된 경고만 표시됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423921?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}를 참조하세요.

@@ -34,7 +34,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '22'
 ht-degree: 100%
 ---
@@ -42,4 +42,4 @@ ht-degree: 100%
 
 표현식 조각을 만들고 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438924/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424587/?learn=on)
