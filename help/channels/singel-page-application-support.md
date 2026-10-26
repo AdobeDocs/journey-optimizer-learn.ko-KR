@@ -42,4 +42,4 @@ Journey Optimizer 웹 편집기에서 단일 페이지 애플리케이션(SPA)�
 
 자세한 내용은 [웹 채널 설명서 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=ko)을 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446892/?captions=kor&learn=on)

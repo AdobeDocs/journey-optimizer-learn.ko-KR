@@ -37,4 +37,4 @@ ht-degree: 100%
 
 이 비디오에서는 Adobe Journey Optimizer의 의사 결정 기능에 대한 간략한 개요를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3475870?captions=kor&quality=12&learn=on){transcript=true}
