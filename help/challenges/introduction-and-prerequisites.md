@@ -79,7 +79,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
       <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko"> 세그먼트 만들기</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=ko">세그먼트 읽기</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML 이메일 콘텐츠 가져오기</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ko">HTML 이메일 콘텐츠 가져오기</li>
   </td>
   </tr>
    <tr>
@@ -101,7 +101,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
     <b>필요한 기술:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=ko"> 세그먼트 만들기</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=ko">세그먼트 선별</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">HTML 이메일 콘텐츠 가져오기 및 작성</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=ko">HTML 이메일 콘텐츠 가져오기 및 작성</li>
   </td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@ Luma는 최신 의류 및 장비 컬렉션을 홍보하고 기존 고객에 대�
     </em>
     <p>
     <b>필요한 기술:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html"> 메시지 편집기로 이메일 콘텐츠 만들기</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=ko"> 메시지 편집기로 이메일 콘텐츠 만들기</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=ko">개인화에 컨텍스트 기반 이벤트 정보 사용</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=ko">개인화에 도우미 기능 사용</li>
   </td>
