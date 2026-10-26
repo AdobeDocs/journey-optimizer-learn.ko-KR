@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '688'
 ht-degree: 100%
 ---
@@ -90,7 +90,7 @@ Luma 고객이 온라인 주문을 완료하면 주문 확인 이메일을 보�
    <div>
     <p>
      <em>주문이 완료되었습니다.
-    <p>제품이 배송되면 주문을 추적할 수 있도록 추적 번호가 포함된 이메일을 보냅니다.</p></em>
+    <p>패키지가 배송되면 주문을 추적할 수 있도록 추적 번호가 포함된 이메일이 전송됩니다.</p></em>
     </strong>
     </tr>
   </td>

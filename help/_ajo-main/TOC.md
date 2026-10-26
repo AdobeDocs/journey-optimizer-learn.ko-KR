@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
 workflow-type: tm+mt
 source-wordcount: '1589'
-ht-degree: 98%
+ht-degree: 99%
 ---
 
 # Journey Optimizer 튜토리얼 {#tutorials}
@@ -79,7 +79,7 @@ ht-degree: 98%
   + [구독 및 랜딩 페이지](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + 채널 {#channels}
   + [모바일 앱 최적화 - 개요](/help/channels/mobile-app-optimization-overview.md)
-  + [프로필 환경 설정 또는 성향 점수를 기반으로 채널 최적화](/help/channels/channel-optimization.md)
+  + [프로필 선호도 또는 성향 점수를 기반으로 채널 최적화](/help/channels/channel-optimization.md)
   + 코드 기반 경험 채널{#code-based-experience-channel}
     + [코드 기반 경험 캠페인 만들기](/help/channels/create-a-code-based-experience-campaign.md)
     + [코드 기반 경험 채널 템플릿에 양식 필드 추가](/help/channels/form-fields-in-code-based-experiences.md)
@@ -151,7 +151,7 @@ ht-degree: 98%
   + [GenStudio를 사용하여 이메일 만들기](/help/content-management/create-an-email-using-genstudio.md)
   + 외부 데이터 통합 {#external-data-integrations}
     + [표준 통합 만들기](/help/content-management/external-data-integrations/create-a-standard-integration.md)
-    + [브라우징 통합 만들기](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
+    + [탐색 통합 만들기](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [Journey Optimizer에서 브랜드에 맞는 콘텐츠 제작 - 튜토리얼](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 콘텐츠 개인화 {#personalize-content}
   + [개인화 편집기 - 개요](/help/personalize-content/personalization-editor-overview.md)
