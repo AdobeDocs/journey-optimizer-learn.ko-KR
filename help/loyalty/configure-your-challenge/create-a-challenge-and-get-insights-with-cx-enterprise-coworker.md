@@ -39,4 +39,4 @@ ht-degree: 0%
 
 일반 언어 프롬프트를 사용하여 CX Enterprise Coworker에서 충성도 문제를 만들고, 구성하고, 시작합니다. 이 비디오에서는 대상, 보상 및 일정을 설정하고, 여정 설정을 자동화하고, 과제 인사이트를 검토하는 방법을 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496543/?captions=kor&learn=on&enablevpops)
