@@ -12,7 +12,7 @@ ht-degree: 98%
 # Journey Optimizer 튜토리얼 {#tutorials}
 
 + [Journey Optimizer 튜토리얼](/help/_ajo-main/overview.md)
-+ Journey Optimizer의 {hide-from-toc}[CX Enterprise Coworker](/help/_ajo-main/coworker.md)
++ {hide-from-toc}[Journey Optimizer의 CX Enterprise Coworker](/help/_ajo-main/coworker.md)
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
   + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
   + [Journey Optimizer 소개](/help/introduction/introduction.md)
