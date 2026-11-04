@@ -1,6 +1,6 @@
 ---
-title: CX Enterprise Coworker를 통해 충성도 관련 과제 및 현장 통찰력 확보
-description: CX Enterprise Coworker를 사용하여 대상, 보상, 일정, 자동화된 여정 설정 등 자연어를 사용하여 충성도 문제를 생성하고 구성하고 시작하는 방법에 대해 알아봅니다.
+title: CX Enterprise Coworker을 통해 충성도 도전과 표면 통찰력 만들기
+description: CX Enterprise Coworker을 사용하여 Adobe Journey Optimizer에서 충성도 문제를 만들고 시작하는 방법에 대해 알아봅니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -29,16 +29,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6b3d2ad0ea5d8f185d6c8482e2f4f92f4bb75ded
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '72'
 ht-degree: 0%
-
 ---
 
+# CX Enterprise Coworker을 통해 충성도 도전과 표면 통찰력 만들기
 
-# CX Enterprise Coworker를 통해 충성도 관련 과제 및 현장 통찰력 확보
-
-CX Enterprise Coworker를 사용하여 대상, 보상, 일정, 자동화된 여정 설정 등 자연어를 사용하여 충성도 문제를 생성하고 구성하고 시작하는 방법에 대해 알아봅니다.
+일반 언어 프롬프트를 사용하여 CX Enterprise Coworker에서 충성도 문제를 만들고, 구성하고, 시작합니다. 이 비디오에서는 대상, 보상 및 일정을 설정하고, 여정 설정을 자동화하고, 과제 인사이트를 검토하는 방법을 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496543/?captions=kor&learn=on&enablevpops)

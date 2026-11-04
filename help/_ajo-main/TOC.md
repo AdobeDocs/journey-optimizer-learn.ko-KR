@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
+source-git-commit: 75df71a17b6a7b1b60f88b45a9b82ecbe725233a
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 99%
+source-wordcount: '1604'
+ht-degree: 98%
 ---
 
 # Journey Optimizer 튜토리얼 {#tutorials}
@@ -20,6 +20,7 @@ ht-degree: 99%
   + [마케터를 위한 모바일 기능](/help/channels/mobile-capabilities.md)
   + [개발자를 위한 모바일 기능](/help/channels/mobile-capabilities-for-developers.md)
   + [AI 어시스턴트로 도움 받기](/help/ai-agents/ai-assistant.md)
++ [Journey Optimizer의 CX Enterprise Coworker](/help/_ajo-main/coworker.md)
 + [Journey Optimizer - 모바일 학습 허브](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + 캠페인 {#create-campaigns}
   + 액션 캠페인 {#action-campaigns}
@@ -275,7 +276,7 @@ ht-degree: 99%
     + [플레이북 인스턴스 만들기 및 게시](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 연습, 랩, 과제 {#exercises-and-challenges}
   + [교육 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + [과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[과제target="_blank"](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
   + Summit Labs {#summit-labs}
     + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
