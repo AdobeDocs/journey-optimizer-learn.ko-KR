@@ -33,4 +33,4 @@ ht-degree: 0%
 
 이 단원에서는 새 SecurFinancial 고객의 온보딩 여정을 경험합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457827/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505813/?captions=kor&learn=on&enablevpops)

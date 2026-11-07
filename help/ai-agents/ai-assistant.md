@@ -39,7 +39,7 @@ ht-degree: 100%
 
 Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics와 같은 Adobe Experience Platform 기반 애플리케이션에서 AI 어시스턴트로 무엇을 할 수 있는지 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506284/?captions=kor&learn=on)
 
 Journey Optimizer에서 지원되는 사용 사례에 대한 자세한 내용은 [AI 어시스턴트 작업](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/get-started/work-efficiently/ai-features)을 참조하세요. 자세한 내용은 [Adobe Experience Platform의 AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/experience-platform/ai-assistant/home) 설명서를 참조하세요.
 

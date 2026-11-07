@@ -39,7 +39,7 @@ ht-degree: 0%
 
 이 단원에서는 푸시 메시지에 콘텐츠 실험을 적용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505873/?captions=kor&learn=on&enablevpops)
 
 
 이 주제에 대한 자세한 지침은 [실험 - 개요](/help/experimentation/introduction-to-experimentation.md), [이메일 캠페인에 대한 콘텐츠 실험 구성](/help/experimentation/content-experiments-for-emails.md) 및 [푸시 알림- 개요](/help/channels/push-notifications-overview.md)를 참조하십시오.

@@ -31,4 +31,4 @@ ht-degree: 0%
 
 작업 그룹을 사용하여 이메일, 푸시 및 SMS를 결합한 다음 수동 우선 순위, 고객 환경 설정 또는 AI 참여 점수를 통해 채널 선택을 최적화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505315/?captions=kor&learn=on&enablevpops)
