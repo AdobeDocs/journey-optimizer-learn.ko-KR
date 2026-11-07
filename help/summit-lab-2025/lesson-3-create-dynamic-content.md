@@ -39,6 +39,6 @@ ht-degree: 0%
 
 이 연습에서는 동적 콘텐츠를 SMS에 적용하는 경우를 예로 들었지만, 모든 채널에 적용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505856/?captions=kor&learn=on&enablevpops)
 
 이 항목에 대한 자세한 지침은 [조건 규칙 빌더로 동적 콘텐츠 만들기](/help/personalize-content/create-dynamic-content.md)를 참조하십시오.

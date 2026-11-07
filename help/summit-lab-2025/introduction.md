@@ -37,6 +37,6 @@ ht-degree: 38%
 
 6가지 단원을 통해 비즈니스 커뮤니케이션을 간단한 아웃바운드 메시지에서 정교한 옴니채널 경험으로 향상시키는 방법을 배웁니다. 실용적인 예제를 통해 사전 예방적 지원 활동과 반응형 참여를 원활하게 통합하는 고객 여정을 만드는 통찰력을 얻을 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457828/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505716/?captions=kor&learn=on&enablevpops)
 
 [여기](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf)에서 통합 문서를 다운로드하세요.
