@@ -32,4 +32,4 @@ ht-degree: 8%
 
 고객 데이터 및 대상부터 여정, 채널, 컨텐츠, 의사 결정 및 충성도에 이르기까지 Adobe Journey Optimizer의 주요 기능과 AI가 귀하의 작업을 지원할 수 있는 위치에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430319?captions=kor&learn=on){transcript=true}
