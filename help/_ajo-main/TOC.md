@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 튜토리얼
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
-source-git-commit: 75df71a17b6a7b1b60f88b45a9b82ecbe725233a
+source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
 workflow-type: tm+mt
-source-wordcount: '1604'
+source-wordcount: '1600'
 ht-degree: 98%
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 98%
 + [Journey Optimizer 튜토리얼](/help/_ajo-main/overview.md)
 + Journey Optimizer 소개 {#introduction-to-journey-optimizer}
   + [Journey Optimizer - 개요](/help/introduction/journey-optimizer-overview.md)
-  + [Journey Optimizer 소개](/help/introduction/introduction.md)
-  + [주요 기능 및 사용자 인터페이스](/help/introduction/key-capabilities-and-user-interface.md)
+  + {hide-from-toc}[Journey Optimizer 소개](/help/introduction/introduction.md)
+  + [주요 기능](/help/introduction/key-capabilities.md)
   + {hide-from-toc}[아키텍쳐](/help/introduction/architecture.md)
   + [마케터를 위한 모바일 기능](/help/channels/mobile-capabilities.md)
   + [개발자를 위한 모바일 기능](/help/channels/mobile-capabilities-for-developers.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [플레이북 인스턴스 만들기 및 게시](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 연습, 랩, 과제 {#exercises-and-challenges}
   + [교육 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[과제target="_blank"](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
