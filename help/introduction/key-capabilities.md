@@ -1,6 +1,6 @@
 ---
 title: 주요 기능
-description: 대상, 여정, 채널, 컨텐츠, 의사 결정, 충성도 및 AI 지원 워크플로우를 포함한 Adobe Journey Optimizer 기능을 살펴봅니다.
+description: 대상자, 여정, 채널, 콘텐츠, 의사 결정, 충성도, AI 지원 워크플로 등 Adobe Journey Optimizer의 기능을 살펴보세요.
 jira: KT-7606
 thumbnail: 3424995.jpeg
 feature: Overview
@@ -23,13 +23,13 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 8%
+ht-degree: 100%
 ---
 
 # 주요 기능
 
-고객 데이터 및 대상부터 여정, 채널, 컨텐츠, 의사 결정 및 충성도에 이르기까지 Adobe Journey Optimizer의 주요 기능과 AI가 귀하의 작업을 지원할 수 있는 위치에 대해 알아보십시오.
+고객 데이터와 대상자부터 여정, 채널, 콘텐츠, 의사 결정, 충성도에 이르기까지 Adobe Journey Optimizer의 주요 기능과 AI가 업무를 지원할 수 있는 영역을 알아보세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430319?captions=kor&learn=on){transcript=true}

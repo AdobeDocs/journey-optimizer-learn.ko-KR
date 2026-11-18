@@ -1,7 +1,7 @@
 ---
 hide: true
 title: Journey Optimizer의 CX Enterprise Coworker
-description: Coworker의 대화형 AI를 통해 Adobe Journey Optimizer에서 여정을 만들고, 고객 경험을 시뮬레이션하고, 충성도 문제를 관리하는 방법을 알아봅니다.
+description: Coworker의 대화형 AI가 Adobe Journey Optimizer에서 여정을 생성하고, 고객 경험을 시뮬레이션하고, 로열티 챌린지를 관리하는 데 어떻게 도움이 되는지 알아보세요.
 role: Leader, User, Developer, Admin
 level: Beginner
 doc-type: Catalog
@@ -29,20 +29,20 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: 57f70215cfd0c70b64679061089a853c244be391
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1197'
-ht-degree: 28%
+ht-degree: 100%
 ---
 
 # Journey Optimizer의 CX Enterprise Coworker
 
-Coworker는 Adobe의 대화형 AI로 Adobe Journey Optimizer과 같은 CX Enterprise 애플리케이션과 통합됩니다. Adobe 우수 사례를 적용하여 효율적이고 정확하게 작업할 수 있도록 지원합니다. 작업을 일반 언어로 설명하십시오. 가입 후 이메일로 환영 여정을 요청하고 3일 후 후속 작업을 요청할 수 있습니다. 또는 &quot;이 업로드된 순서도 이미지에서 여정 구축&quot;을 요청하면 Coworker가 작업을 계획합니다. 연결된 Adobe 애플리케이션에서 작업을 실행하고 검토 결과를 제공합니다.
+Coworker는 Adobe Journey Optimizer와 같은 CX Enterprise 애플리케이션에 통합된 Adobe의 대화형 AI입니다. 효율적이고 정확하게 작업할 수 있도록 Adobe 모범 사례를 적용합니다. 작업을 일상적인 언어로 설명하세요. 가입 후 이메일을 발송하고 3일 후 후속 메시지를 보내는 환영 여정을 요청할 수 있습니다. 또는 “업로드한 이 순서도 이미지로 여정을 만들어 줘”라고 요청하면 Coworker가 작업을 계획합니다. 연결된 Adobe 애플리케이션 전반에서 작업을 실행하고 검토할 수 있도록 결과를 제시합니다.
 
-Journey Optimizer의 경우 여정 단계 구성, 시뮬레이션 준비 및 충성도 문제 설정에 소요되는 시간이 줄어들고, Coworker가 생성하는 항목을 검토하고 승인하는 데 소요되는 시간이 늘어납니다. 동료가 계획, 실행 및 후속 작업을 처리하는 동안 모든 단계에서 제어권을 유지합니다.
+Journey Optimizer에서는 여정 단계 구성, 시뮬레이션 준비, 로열티 챌린지 설정에 드는 시간이 줄어들고 Coworker가 생성한 결과물을 검토하고 승인하는 데 더 많은 시간을 쓸 수 있습니다. Coworker가 계획, 실행, 후속 작업을 처리하는 동안에도 모든 단계에서 사용자가 제어권을 유지합니다.
 
-## Coworker 시작
+## Coworker 시작하기
 
-Coworker를 처음 사용하십니까? 여기에서 Journey Optimizer 및 기타 CX Enterprise 애플리케이션 내에서 보다 효율적으로 작업하는 데 어떻게 도움이 될 수 있는지 포괄적으로 이해하십시오.
+Coworker를 처음 사용하시나요? Journey Optimizer 및 기타 CX Enterprise 애플리케이션에서 Coworker를 활용해 더 효율적으로 작업하는 방법을 종합적으로 알아보려면 여기에서 시작하세요.
 
 <!--
 CARDS
@@ -66,7 +66,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/home" title="CX Enterprise Coworker 안내서" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="CX Enterprise Coworker 안내서"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&amp;format=pjpg&amp;optimize=medium" alt="CX Enterprise Coworker 안내서"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,10 +76,10 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/home" target="_blank" rel="referrer" title="CX Enterprise Coworker 안내서">CX Enterprise Coworker 안내서</a>
                     </p>
-                    <p class="is-size-6">Coworker, 해당 기능 및 지원되는 애플리케이션에 대한 전체 소개입니다.</p>
+                    <p class="is-size-6">Coworker와 그 기능, 지원되는 애플리케이션을 전반적으로 소개합니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/home" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시작</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시작하기</span>
                 </a>
             </div>
         </div>
@@ -88,8 +88,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/playlists/coworker-get-started-with-chat" title="Coworker 채팅으로 무엇을 할 수 있나요?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="Coworker 채팅으로 무엇을 할 수 있나요?"
+                    <a href="https://experienceleague.adobe.com/ko/playlists/coworker-get-started-with-chat" title="Coworker Chat으로 무엇을 할 수 있나요?" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&amp;format=pjpg&amp;optimize=medium" alt="Coworker Chat으로 무엇을 할 수 있나요?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Coworker 채팅으로 무엇을 할 수 있나요?">동료 채팅이 수행할 수 있는 작업</a>
+                        <a href="https://experienceleague.adobe.com/ko/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Coworker Chat으로 무엇을 할 수 있나요?">Coworker Chat으로 무엇을 할 수 있나요?</a>
                     </p>
                     <p class="is-size-6">Coworker Chat이 대화형 인터페이스를 사용하여 Adobe 및 연결된 시스템 전반의 고객 경험 작업을 몇 분 만에 계획, 실행, 완료하는 방법을 알아보세요.</p>
                 </div>
@@ -110,9 +110,9 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Journey Optimizer in Coworker
+## Coworker의 Journey Optimizer
 
-Coworker가 프롬프트 또는 이미지에서 여정을 작성하고, 메시지 콘텐츠를 생성하고, 시뮬레이션 및 구성 검사를 안내하여 Journey Optimizer에서 사용하는 방식을 사용자가 사용하기 쉬운 채팅 환경을 통해 전환하는 방법에 대해 알아봅니다.
+Coworker가 사용하기 쉬운 채팅 환경에서 프롬프트나 이미지로 여정 초안을 만들고, 메시지 콘텐츠를 생성하고, 시뮬레이션 및 구성 검사를 안내하여 Journey Optimizer에서의 작업 방식을 어떻게 혁신하는지 알아보세요.
 
 <!--
 CARDS
@@ -159,8 +159,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" title="자연어에서 여정 생성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13099/3496867/2dacfe4d-cdd2-4a33-8449-1fad8a3a310d/e8788cf105924012acd2a90d56bb1845_1793746003-1920x1080.jpg" alt="자연어에서 여정 생성"
+                    <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" title="자연어로 여정 생성" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13099/3496867/2dacfe4d-cdd2-4a33-8449-1fad8a3a310d/e8788cf105924012acd2a90d56bb1845_1793746003-1920x1080.jpg" alt="자연어로 여정 생성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,9 +168,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" title="자연어에서 여정 생성">자연어에서 여정 생성</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" title="자연어로 여정 생성">자연어로 여정 생성</a>
                     </p>
-                    <p class="is-size-6">Coworker를 사용하여 일반 언어 프롬프트를 초안 Journey Optimizer 여정으로 변환합니다.</p>
+                    <p class="is-size-6">Coworker를 사용하여 일상적인 언어로 작성한 프롬프트를 Journey Optimizer 여정 초안으로 변환하세요.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -193,7 +193,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" target="_blank" rel="referrer" title="이미지에서 여정 만들기">이미지에서 여정 만들기</a>
                     </p>
-                    <p class="is-size-6">순서도 이미지를 검토 및 편집할 수 있는 Journey Optimizer 여정 초안으로 변환합니다.</p>
+                    <p class="is-size-6">순서도 이미지를 검토하고 편집할 수 있는 Journey Optimizer 여정 초안으로 변환하세요.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -216,7 +216,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" title="Coworker를 사용하여 여정 시뮬레이션">Coworker를 사용하여 여정 시뮬레이션</a>
                     </p>
-                    <p class="is-size-6">생성된 프로필 및 이벤트를 사용하여 여정 경로를 테스트합니다. 게시하기 전에 증명 메시지 및 경로 적용 범위를 검토하십시오.</p>
+                    <p class="is-size-6">생성된 프로필과 이벤트를 사용하여 여정 경로를 테스트하세요. 게시하기 전에 교정쇄 메시지와 경로 적용 범위를 검토하세요.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -228,8 +228,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker" title="크로스 채널 여정 만들기, 시뮬레이션 및 분석" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13953/3504706/d8195c30-94b5-4070-859b-b9dda5515d1d/84c8ffc936c64926b227bea57502d15f_1792184436-1920x1080.jpg" alt="크로스 채널 여정 만들기, 시뮬레이션 및 분석"
+                    <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker" title="크로스 채널 여정 생성, 시뮬레이션 및 분석" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13953/3504706/d8195c30-94b5-4070-859b-b9dda5515d1d/84c8ffc936c64926b227bea57502d15f_1792184436-1920x1080.jpg" alt="크로스 채널 여정 생성, 시뮬레이션 및 분석"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,9 +237,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker" target="_blank" rel="referrer" title="크로스 채널 여정 만들기, 시뮬레이션 및 분석">채널 간 여정 만들기, 시뮬레이션 및 분석</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker" target="_blank" rel="referrer" title="크로스 채널 여정 생성, 시뮬레이션 및 분석">크로스 채널 여정 생성, 시뮬레이션 및 분석</a>
                     </p>
-                    <p class="is-size-6">이메일 및 SMS 콘텐츠로 여정을 구축합니다. Coworker를 사용하여 경로를 시뮬레이션하고 구성 문제를 식별합니다.</p>
+                    <p class="is-size-6">이메일 및 SMS 콘텐츠가 포함된 여정을 만드세요. Coworker를 사용하여 여정 경로를 시뮬레이션하고 구성 문제를 파악하세요.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -251,7 +251,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" title="Coworker를 사용하여 여정 버전 비교" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ko/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" title="Coworker를 사용하여 여정 버전 비교" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/14061/3507163/d8195c30-94b5-4070-859b-b9dda5515d1d/7c8f011e10e54868b17e9fafbc38e28c_1793823976-1920x1080.jpg" alt="Coworker를 사용하여 여정 버전 비교"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -260,11 +260,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" target="_blank" rel="referrer" title="Coworker를 사용하여 여정 버전 비교">Coworker를 사용하여 여정 버전 비교</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" target="_blank" rel="referrer" title="Coworker를 사용하여 여정 버전 비교">Coworker를 사용하여 여정 버전 비교</a>
                     </p>
-                    <p class="is-size-6">여정 버전을 시각적 비교 및 자세한 요약과 비교합니다. 활동, 분기 및 속성에 대한 변경 사항을 식별하고 업데이트 시기를 추적합니다.</p>
+                    <p class="is-size-6">시각적 비교와 상세 요약을 통해 여정 버전을 비교하세요. 활동, 분기 및 속성의 변경 사항을 확인하고 업데이트가 이루어진 시점을 추적하세요.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -274,8 +274,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" title="충성도 과제 및 잠재 고객 인사이트 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13055/3496528/d8195c30-94b5-4070-859b-b9dda5515d1d/72c3012d74bf482fbd10758d4fc08a05_1785395630-1920x1080.jpg" alt="충성도 과제 및 잠재 고객 인사이트 만들기"
+                    <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" title="충성도 챌린지 생성 및 인사이트 제시" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13055/3496528/d8195c30-94b5-4070-859b-b9dda5515d1d/72c3012d74bf482fbd10758d4fc08a05_1785395630-1920x1080.jpg" alt="충성도 챌린지 생성 및 인사이트 제시"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -283,11 +283,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" target="_blank" rel="referrer" title="충성도 과제 및 잠재 고객 인사이트 만들기">충성도 도전 및 지표 인사이트 만들기</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" target="_blank" rel="referrer" title="충성도 챌린지 생성 및 인사이트 제시">충성도 챌린지 생성 및 인사이트 제시</a>
                     </p>
-                    <p class="is-size-6">Coworker를 통해 충성도 문제를 해결할 수 있습니다. 대상, 보상 및 일정을 구성한 다음 과제 통찰력을 검토하십시오.</p>
+                    <p class="is-size-6">Coworker로 충성도 챌린지를 만드세요. 대상자, 보상 및 일정을 구성한 다음 챌린지 인사이트를 검토하세요.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -298,4 +298,4 @@ CARDS
 
 >[!AVAILABILITY]
 >
->충성도 챌린지 관리를 위해서는 Adobe Journey Optimizer Loyalty 권한이 필요합니다. 액세스하려면 Adobe 계정 팀에 문의하십시오.
+>충성도 챌린지를 관리하려면 Adobe Journey Optimizer Loyalty 사용 권한이 필요합니다. 액세스 권한이 필요하면 Adobe 계정 팀에 문의하세요.

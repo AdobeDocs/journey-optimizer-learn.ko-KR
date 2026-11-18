@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 다음은 Journey Optimizer 튜토리얼입니다.
 auto-video-transcripts: true
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1600'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Journey Optimizer 튜토리얼 {#tutorials}
@@ -42,13 +42,13 @@ ht-degree: 98%
   + [새 여정 캔버스 소개](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [여정 작성 소개](/help/journeys/introduction-to-building-a-journey.md)
   + [AI를 사용하여 여정 분석 및 구축](/help/ai-agents/journey-agent-overview.md)
-  + [자연어를 사용하여 여정 조건 만들기](/help/journeys/create-journey-conditions-using-natural-language.md)
+  + [자연어로 여정 조건 만들기](/help/journeys/create-journey-conditions-using-natural-language.md)
   + [테스트 프로필 만들기](/help/journeys/test-a-journey.md)
   + [외부 대상자를 대상으로 여정 시뮬레이션](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [빠른 시뮬레이션으로 여정 테스트 가속화](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [여정 게시](/help/journeys/publish-a-journey.md)
   + [콘텐츠 결정 활동](/help/journeys/content-decision-activity.md)
-  + [채널 최적화를 사용하여 고객이 참여하는 곳에 도달](/help/journeys/use-channel-optimization.md)
+  + [채널 최적화를 활용하여 고객이 참여하는 채널에 도달하세요.](/help/journeys/use-channel-optimization.md)
   + [여정에서 데이터 세트 조회 사용](/help/journeys/lookup-dataset.md)
   + [다중 속성 필터링 마스터하기](/help/journeys/mastering-multi-attribute-filtering.md)
   + [여정에서 페더레이션된 대상자를 통해 다중 엔티티 타겟팅 활용](/help/journeys/multi-entity-targeting-in-journeys.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [플레이북 인스턴스 만들기 및 게시](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 연습, 랩, 과제 {#exercises-and-challenges}
   + [교육 샌드박스 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[과제target="_blank"](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[과제](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [Adobe Journey Optimizer를 사용하여 개인화된 모바일 모먼트 구축(2024)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Adobe Journey Optimizer에서 오케스트레이션을 옴니채널 참여로 확장(2025)](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
