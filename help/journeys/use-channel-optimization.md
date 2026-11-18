@@ -31,4 +31,4 @@ ht-degree: 100%
 
 액션 그룹을 사용하여 이메일, 푸시 및 SMS를 결합한 다음, 수동으로 지정한 우선순위, 고객 선호도 또는 AI 참여도 점수에 따라 채널 선택을 최적화하는 방법을 알아보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505315/?captions=kor&learn=on&enablevpops)
