@@ -1,13 +1,13 @@
 ---
-title: 연습 4 - 웹 사이트에 결정을 전달하는 캠페인 만들기
+title: 연습 4 - 웹 의사 결정을 전달하는 캠페인 만들기
 description: 실시간 웹 배너 개인화를 위해 선택 전략을 코드 기반 경험에 연결합니다.
 feature: Campaigns, Code-based Experiences
 role: User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration:
-last-substantial-update: '2026-05-12T00:00:00.000Z'
-jira: KT-
+last-substantial-update: 2026-11-18
+jira: KT-23180
 index: false
 autotag-review: '2026-05-14T18:11:56.742Z'
 TQID: 'https://experienceleague.adobe.com/OBVVI-6syh1t-svB9xPYz7xuVDsb1x6mPVzOFIZF5dE'
@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+source-git-commit: 61aed3afd36bd2d4c37d08e0b7a1590bac86400d
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '56'
 ht-degree: 0%
 ---
 
@@ -44,4 +44,4 @@ ht-degree: 0%
 
 이 연습에서는 실시간 웹 배너 개인화를 위해 선택 전략을 코드 기반 경험에 연결합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/XXXXXXX/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
