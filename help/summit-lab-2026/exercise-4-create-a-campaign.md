@@ -44,4 +44,4 @@ ht-degree: 0%
 
 이 연습에서는 실시간 웹 배너 개인화를 위해 선택 전략을 코드 기반 경험에 연결합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508545/?captions=kor&learn=on)

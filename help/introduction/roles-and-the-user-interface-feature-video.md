@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Adobe Journey Optimizer을 탐색하고, 4가지 주요 사용자 역할을 이해하고, 역할과 관련된 도구 및 설정을 찾는 방법에 대해 알아봅니다. 첫 번째 사용 사례를 빌드하기 전에 조직, 샌드박스 및 권한이 작업 영역을 형성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508506?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508512?captions=kor&learn=on){transcript=true}
